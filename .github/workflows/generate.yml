@@ -15,7 +15,10 @@ jobs:
       - uses: actions/setup-node@v4
         with: {node-version: 22, cache: npm}
       - run: npm ci
-      - run: npm run collect-feeds
+      - name: Recopilar y traducir titulares
+        run: npm run collect-feeds
+        env:
+          MYMEMORY_EMAIL: ${{ secrets.MYMEMORY_EMAIL }}
       - run: node -e "const fs=require('fs'); const x=JSON.parse(fs.readFileSync('generated/news-feed.json')); if(!x.schemaVersion||!Array.isArray(x.stories)) process.exit(1)"
       - id: gate
         shell: bash
