@@ -6,7 +6,7 @@ on:
     branches: [main]
     paths: [config/**, scripts/**, .github/workflows/generate.yml]
 permissions: {contents: write}
-concurrency: {group: editorial-generation, cancel-in-progress: false}
+concurrency: {group: editorial-generation, cancel-in-progress: true}
 jobs:
   editorial:
     runs-on: ubuntu-latest
