@@ -1,7 +1,348 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T16:59:22.416Z",
+  "generatedAt": "2026-11-15T17:06:16.916Z",
   "isEditoriallyValidated": false,
   "summaryStatus": "pending-editorial-review",
-  "stories": []
+  "stories": [
+    {
+      "id": "elpais-b18c6c7ce0c87ace",
+      "title": "El PSOE propone destinar el 1% del PIB a vivienda social y crear una prestación estatal por crianza",
+      "summary": "El programa electoral de los socialistas incorpora un nuevo impuesto “contra la especulación” de los fondos buitre y grandes propietarios y defiende el impulso de las renovables para alcanzar el 81% de generación eléctrica en 2030",
+      "publishedAt": "2026-11-15T13:44:55.000Z",
+      "updatedAt": "2026-11-15T17:06:14.960Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "España",
+      "category": "España",
+      "source": {
+        "name": "EL PAÍS",
+        "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-propone-destinar-el-1-del-pib-a-vivienda-social-y-crear-una-prestacion-estatal-por-crianza.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "elpais-8db2baf3a216c666",
+      "title": "Claves | De un nuevo impuesto a los grandes empresarios a la “unión de la amistad”: el programa del PSOE para el 29-N",
+      "summary": "El documento de 114 páginas de los socialistas contempla también un Pacto de Estado por la seguridad ferroviaria, un “escaño ciudadano” y la abolición de la prostitución",
+      "publishedAt": "2026-11-15T16:48:47.000Z",
+      "updatedAt": "2026-11-15T17:06:14.960Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "España",
+      "category": "España",
+      "source": {
+        "name": "EL PAÍS",
+        "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/claves-de-un-nuevo-impuesto-a-los-grandes-empresarios-a-la-union-de-la-amistad-el-programa-del-psoe-para-el-29-n.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "elpais-1bb363ebe4d4b6b2",
+      "title": "Feijóo hará campaña en Guipuzkoa tras la agresión a jóvenes de Nuevas Generaciones en Hernani",
+      "summary": "El líder del PP reitera además su propuesta de no pagar el IRPF durante el primer año del primer empleo",
+      "publishedAt": "2026-11-15T13:45:32.000Z",
+      "updatedAt": "2026-11-15T17:06:14.960Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "España",
+      "category": "España",
+      "source": {
+        "name": "EL PAÍS",
+        "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/feijoo-hara-campana-en-guipuzcoa-tras-la-agresion-a-jovenes-de-nuevas-generaciones-en-hernani.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "elpais-3994c5200a5834ef",
+      "title": "Abascal vincula inmigración y delincuencia con datos falsos sobre la población extranjera de Cornellà",
+      "summary": "El líder de Vox asegura en un mitin que “los españoles son minoría” en la ciudad, cuando según las estadísticas representan el 81% de los vecinos",
+      "publishedAt": "2026-11-15T14:10:56.000Z",
+      "updatedAt": "2026-11-15T17:06:14.960Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "España",
+      "category": "España",
+      "source": {
+        "name": "EL PAÍS",
+        "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/abascal-vincula-inmigracion-y-delincuencia-con-datos-falsos-sobre-la-poblacion-extranjera-de-cornella.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "elpais-c08632ac34d43f19",
+      "title": "El PSOE gana por la izquierda lo que pierde por la derecha, según el tercer ‘tracking’ de la campaña",
+      "summary": "Los socialistas mejoran sus posiciones entre el electorado de centro, pero están en riesgo de perder un millón de sufragios por el flanco conservador",
+      "publishedAt": "2026-11-15T04:30:01.000Z",
+      "updatedAt": "2026-11-15T17:06:14.960Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "España",
+      "category": "España",
+      "source": {
+        "name": "EL PAÍS",
+        "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-gana-por-la-izquierda-lo-que-pierde-por-la-derecha-segun-el-tercer-tracking-de-la-campana.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "elpais-c29d89e2cb589d2b",
+      "title": "Todos los caminos a La Moncloa pasan por el ‘podcast’: “¿Eres más pija o más quinqui?”",
+      "summary": "Por primera vez, una campaña a las generales en España se vive en estos formatos. Sánchez ya lleva tres y su equipo no descarta más: “Lo cerramos en el último momento”",
+      "publishedAt": "2026-11-15T04:30:01.000Z",
+      "updatedAt": "2026-11-15T17:06:14.960Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "España",
+      "category": "España",
+      "source": {
+        "name": "EL PAÍS",
+        "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/todos-los-caminos-a-la-moncloa-pasan-por-el-podcast.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "elpais-ac5348d2659715ad",
+      "title": "Retrato de la Generación 08: los hijos de las crisis y de TikTok estrenan mayoría de edad y voto el 29-N",
+      "summary": "Han crecido viendo resquebrajarse el viejo mundo e intuyendo que les tocará poner en pie otro nuevo. Hablamos con 24 jóvenes nacidos en 2008 sobre sus ideas y preocupaciones",
+      "publishedAt": "2026-11-15T04:30:00.000Z",
+      "updatedAt": "2026-11-15T17:06:14.960Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "España",
+      "category": "España",
+      "source": {
+        "name": "EL PAÍS",
+        "url": "https://elpais.com/eps/2026-11-15/retrato-de-la-generacion-08-los-hijos-de-las-crisis-y-de-tiktok-estrenan-mayoria-de-edad-y-voto-el-29-n.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "elpais-47d03e1770c0db6f",
+      "title": "La brújula infalible de Sigüés apunta a la derecha",
+      "summary": "Desde 1977, el partido que gana las elecciones generales en el pequeño pueblo aragonés es el que se impone en toda España. “No es descontento, es decepción”, coinciden exvotantes socialistas",
+      "publishedAt": "2026-11-15T04:30:01.000Z",
+      "updatedAt": "2026-11-15T17:06:14.960Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "España",
+      "category": "España",
+      "source": {
+        "name": "EL PAÍS",
+        "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/la-brujula-infalible-de-sigues-apunta-a-la-derecha.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "elpais-e49b1214db8b5c8f",
+      "title": "La ruta migratoria a Canarias bate su récord de llegadas en un solo día con más de 1.500 personas",
+      "summary": "El ministro Ángel Víctor Torres admite que el repunte es “muy importante” y que este año han llegado unas 17.000 personas a El Hierro, donde quedan ahora unas 1.600",
+      "publishedAt": "2026-11-15T15:56:26.000Z",
+      "updatedAt": "2026-11-15T17:06:14.960Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "España",
+      "category": "España",
+      "source": {
+        "name": "EL PAÍS",
+        "url": "https://elpais.com/espana/2026-11-15/la-ruta-migratoria-a-canarias-bate-su-record-de-llegadas-en-un-solo-dia-con-1500-personas.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "elpais-9543e568c76e1ea1",
+      "title": "“Os deseo sufrimiento”: gloria y caída de Jensen Huang, rey de Nvidia, verso salvaje de la IA",
+      "summary": "La caída del gurú, en un caso de supuesto espionaje y adulterio, expone los riesgos de la concentración de poder en Estados Unidos",
+      "publishedAt": "2026-11-15T04:45:01.000Z",
+      "updatedAt": "2026-11-15T17:06:14.960Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "España",
+      "category": "España",
+      "source": {
+        "name": "EL PAÍS",
+        "url": "https://elpais.com/economia/2026-11-15/os-deseo-sufrimiento-gloria-y-caida-de-jensen-huang-rey-de-nvidia-verso-salvaje-de-la-ia.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "bbc-mundo-59b5a5f3ae3b13f1",
+      "title": "\"Quizás veamos el 25 de octubre de este año como el comienzo del fin de la recesión democrática mundial\"",
+      "summary": "Larry Diamond, un reconocido experto internacional, dice en una entrevista que varios hechos recientes podrían indicar un cambio de patrón a favor de la democracia en el mundo.",
+      "publishedAt": "2026-11-15T04:57:14.000Z",
+      "updatedAt": "2026-11-15T17:06:15.361Z",
+      "country": "Reino Unido",
+      "countryCode": "GB",
+      "section": "Internacional",
+      "category": "Internacional",
+      "source": {
+        "name": "BBC Mundo",
+        "url": "https://www.bbc.com/mundo/articles/cmy493l9xx1zo?at_medium=RSS&at_campaign=rss"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "bbc-mundo-65231fa562bdfdfc",
+      "title": "Los Lorenzana, Los Huistas y Los Mendoza: qué se sabe de las bandas criminales de Guatemala a las que EE.UU. designó como grupos terroristas extranjeros",
+      "summary": "Washington acusa a estos grupos de ser aliados de los carteles mexicanos de la droga y de colaborar con ellos en el tráfico de narcóticos.",
+      "publishedAt": "2026-11-15T16:40:04.000Z",
+      "updatedAt": "2026-11-15T17:06:15.361Z",
+      "country": "Reino Unido",
+      "countryCode": "GB",
+      "section": "Internacional",
+      "category": "Internacional",
+      "source": {
+        "name": "BBC Mundo",
+        "url": "https://www.bbc.com/mundo/articles/c3rrg98rd8dqo?at_medium=RSS&at_campaign=rss"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "bbc-mundo-262c9fb2ee0c9212",
+      "title": "La mujer que lleva años atrapada en una isla paradisíaca sin poder volver a casa por un problema con su visa",
+      "summary": "Ruchira Ranasingha, de 50 años, lleva varada en las Islas Cook desde 2023 y quiere regresar a Sri Lanka.",
+      "publishedAt": "2026-11-15T13:13:11.000Z",
+      "updatedAt": "2026-11-15T17:06:15.361Z",
+      "country": "Reino Unido",
+      "countryCode": "GB",
+      "section": "Internacional",
+      "category": "Internacional",
+      "source": {
+        "name": "BBC Mundo",
+        "url": "https://www.bbc.com/mundo/articles/crn4ed2ljg8no?at_medium=RSS&at_campaign=rss"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "bbc-mundo-e5ef758c8aa5366f",
+      "title": "El legado de Miguel Ángel Asturias, el \"olvidado\" Nobel de Literatura guatemalteco al que los escritores del boom latinoamericano le dieron la espalda",
+      "summary": "Sus disputas con los autores del \"boom\" y su papel en el gobierno de Méndez Montenegro opacaron la obra Asturias poco después de recibir el Nobel.",
+      "publishedAt": "2026-11-15T15:13:10.000Z",
+      "updatedAt": "2026-11-15T17:06:15.361Z",
+      "country": "Reino Unido",
+      "countryCode": "GB",
+      "section": "Internacional",
+      "category": "Internacional",
+      "source": {
+        "name": "BBC Mundo",
+        "url": "https://www.bbc.com/mundo/articles/cw5y18j047r4o?at_medium=RSS&at_campaign=rss"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "bbc-mundo-0ad0b25a8b51ae94",
+      "title": "El efecto bouba/kiki, el extraordinario experimento psicológico que tiene los mismos resultados en casi todas las culturas",
+      "summary": "Es más que una curiosidad: podría ser una pista para develar el gran misterio de cómo empezamos a hablar.",
+      "publishedAt": "2026-11-15T12:04:15.000Z",
+      "updatedAt": "2026-11-15T17:06:15.361Z",
+      "country": "Reino Unido",
+      "countryCode": "GB",
+      "section": "Internacional",
+      "category": "Internacional",
+      "source": {
+        "name": "BBC Mundo",
+        "url": "https://www.bbc.com/mundo/articles/c35yn4xdxz5eo?at_medium=RSS&at_campaign=rss"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "bbc-mundo-0552000646f2c929",
+      "title": "La conmoción en Panamá tras el ataque con explosivos contra la casa de un periodista",
+      "summary": "Rolando Rodríguez, el periodista cuya casa fue atacada, estaba investigando un presunto caso de corrupción en el país.",
+      "publishedAt": "2026-11-15T10:40:24.000Z",
+      "updatedAt": "2026-11-15T17:06:15.361Z",
+      "country": "Reino Unido",
+      "countryCode": "GB",
+      "section": "Internacional",
+      "category": "Internacional",
+      "source": {
+        "name": "BBC Mundo",
+        "url": "https://www.bbc.com/mundo/articles/cj62pl46r351o?at_medium=RSS&at_campaign=rss"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "bbc-mundo-737a539d85223fbe",
+      "title": "\"Las cortinas se pegaron al techo\": cómo sobreviví al desastre de San Juanico, la explosión que dejó 650 muertos en México en 1984",
+      "summary": "Virginia Martínez Tellez es una de las sobrevivientes de uno de los desastres industriales más graves de la historia. Una fuga de gas en un depósito de la petrolera Pemex cambiaría para siempre su vida, la de su familia y la de toda una comunidad.",
+      "publishedAt": "2026-11-14T21:29:57.000Z",
+      "updatedAt": "2026-11-15T17:06:15.361Z",
+      "country": "Reino Unido",
+      "countryCode": "GB",
+      "section": "Internacional",
+      "category": "Internacional",
+      "source": {
+        "name": "BBC Mundo",
+        "url": "https://www.bbc.com/mundo/articles/c93xe77lg73o?at_medium=RSS&at_campaign=rss"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "bbc-mundo-cc34eb6b15b0f294",
+      "title": "Me dijeron que mi bebé había fallecido... 42 años después me envió un correo electrónico",
+      "summary": "Diane Sheehan tuvo a su primer hijo en 1976. Le dijeron que había muerto en el parto, pero no era cierto. Cuatro décadas después se enteró que estaba vivo.",
+      "publishedAt": "2026-11-14T15:24:42.000Z",
+      "updatedAt": "2026-11-15T17:06:15.361Z",
+      "country": "Reino Unido",
+      "countryCode": "GB",
+      "section": "Internacional",
+      "category": "Internacional",
+      "source": {
+        "name": "BBC Mundo",
+        "url": "https://www.bbc.com/mundo/articles/cmlylypz9xldo?at_medium=RSS&at_campaign=rss"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "bbc-mundo-dba8fbf00e3b6d03",
+      "title": "Por culpa de un viejo cable de cobre: qué se sabe de la suspensión de vuelos en EE.UU. más grande desde el 11S",
+      "summary": "Durante varias horas, permanecieron suspendidos en tierra todos los vuelos a lo largo del país. El secretario de Transportes llamó la atención sobre la necesidad de modernizar el sistema de control aéreo.",
+      "publishedAt": "2026-11-14T16:48:16.000Z",
+      "updatedAt": "2026-11-15T17:06:15.361Z",
+      "country": "Reino Unido",
+      "countryCode": "GB",
+      "section": "Internacional",
+      "category": "Internacional",
+      "source": {
+        "name": "BBC Mundo",
+        "url": "https://www.bbc.com/mundo/articles/c5n4e274kdlro?at_medium=RSS&at_campaign=rss"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "bbc-mundo-5bdf3af5c459b3aa",
+      "title": "Asere, corillo o chuchaqui: las palabras latinoamericanas que incorpora la nueva edición del Diccionario de la lengua española",
+      "summary": "Al diccionario se incorporaron 1.490 gentilicios y 1.570 voces de uso exclusivo en los distintos países hispanohablantes.",
+      "publishedAt": "2026-11-14T17:30:28.000Z",
+      "updatedAt": "2026-11-15T17:06:15.361Z",
+      "country": "Reino Unido",
+      "countryCode": "GB",
+      "section": "Internacional",
+      "category": "Internacional",
+      "source": {
+        "name": "BBC Mundo",
+        "url": "https://www.bbc.com/mundo/articles/crpdwq559d4qo?at_medium=RSS&at_campaign=rss"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    }
+  ]
 }
