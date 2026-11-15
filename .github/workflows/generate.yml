@@ -14,5 +14,11 @@ jobs:
       - run: npm ci
       - run: npm run collect-feeds
       - run: node -e "const fs=require('fs'); const x=JSON.parse(fs.readFileSync('generated/news-feed.json')); if(!x.schemaVersion||!Array.isArray(x.stories)) process.exit(1)"
-      - run: echo 'Feed recopilado y validado; no se publica como edición final hasta revisión editorial.'
+      - run: mkdir -p public/data && cp generated/news-feed.json public/data/news-feed.json
+      - run: |
+          git config user.name "mi-actualidad-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add public/data/news-feed.json
+          git diff --cached --quiet || git commit -m "content: update free-source headlines [skip ci]"
+          git push
 
