@@ -2,6 +2,9 @@ name: Generación de boletín
 on:
   schedule: [{cron: '0 7 * * *'}]
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [config/**, scripts/**, .github/workflows/generate.yml]
 permissions: {contents: write}
 concurrency: {group: editorial-generation, cancel-in-progress: false}
 jobs:
