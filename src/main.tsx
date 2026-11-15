@@ -11,8 +11,8 @@ const flags:Record<string,string>={España:'🇪🇸','Estados Unidos':'🇺🇸
 const readPrefs=()=>{try{return JSON.parse(localStorage.getItem('mi-actualidad-preferences')||'{}')}catch{return {}}};
 function App(){
  const [tab,setTab]=useState('PORTADA'); const [dark,setDark]=useState(readPrefs().dark||false); const [selected,setSelected]=useState<string[]>(readPrefs().countries||countries); const [notice,setNotice]=useState('Cargando titulares…'); const [updating,setUpdating]=useState(false); const [stories,setStories]=useState<Story[]>([]); const [lastChecked,setLastChecked]=useState<string|null>(null);
- const visible=useMemo(()=>stories.filter(s=>selected.includes(s.country)&& (tab==='PORTADA'?true:s.section===tab)).sort((a,b)=>b.importance-a.importance),[tab,selected]);
- const cover=stories.filter(s=>!['Tecnología','Medicina','Nutrición'].includes(s.section)).sort((a,b)=>(b.importance||0)-(a.importance||0)).slice(0,5);
+ const visible=useMemo(()=>stories.filter(s=>selected.includes(s.country)&& (tab==='PORTADA'?true:s.section.toUpperCase()===tab)).sort((a,b)=>b.importance-a.importance),[tab,selected]);
+ const cover=stories.filter(s=>!['Tecnología','Medicina','Nutrición'].includes(s.section)).sort((a,b)=>((b.importance||0)-(a.importance||0))||(new Date(b.publishedAt||0).getTime()-new Date(a.publishedAt||0).getTime())).slice(0,5);
  useEffect(()=>{try{localStorage.setItem('mi-actualidad-preferences',JSON.stringify({dark,countries:selected}))}catch{}},[dark,selected]);
  useEffect(()=>{fetch('./data/news-feed.json?version='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():null).then(x=>{if(x?.stories?.length){setStories(x.stories);setNotice('Titulares reales cargados desde fuentes abiertas. Pulsa cualquier titular para leer el original.')}else setNotice('No hay titulares disponibles en este momento.')}).catch(()=>setNotice('No se pudieron cargar titulares en este momento.'))},[]);
  useEffect(()=>{if('serviceWorker' in navigator) navigator.serviceWorker.register('./sw.js').catch(()=>{})},[]);
