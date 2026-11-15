@@ -20,4 +20,5 @@ jobs:
         uses: actions/deploy-pages@v4
 
 
-# Pages configured; deployment retried after enabling GitHub Pages.
+
+# Retry deployment after Pages activation.
