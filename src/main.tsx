@@ -1,6 +1,7 @@
 import React, {useEffect, useMemo, useState} from 'react';
 import {createRoot} from 'react-dom/client';
 import './styles.css';
+import './premium.css';
 import data from '../public/data/news.json';
 
 type Story={id:string;section:string;category:string;country:string;title:string;summary:string;publishedAt:string;updatedAt:string;importance:number;source:{name:string;url:string}};
