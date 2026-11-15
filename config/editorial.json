@@ -1,2 +1,2 @@
-{"schemaVersion":1,"maxItemsPerSource":10,"maxAgeDays":30,"enabledSources":["elpais","bbc-mundo","npr-us","france24","clarin-ar","guardian-uk","techcrunch","arxiv-ai","dw-es","eu-consilium","pubmed","who"],"publishOnlyWithSource":true,"allowAutomaticSummary":false,"retentionDays":30}
+{"schemaVersion":1,"maxItemsPerSource":10,"maxAgeDays":30,"enabledSources":["elpais","bbc-mundo","npr-us","france24","clarin-ar","guardian-uk","techcrunch","arxiv-ai","xataka","dw-es","eu-consilium","pubmed","who"],"publishOnlyWithSource":true,"allowAutomaticSummary":false,"retentionDays":30}
 
