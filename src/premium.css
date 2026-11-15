@@ -1,0 +1,5 @@
+/* Ajuste editorial: el estado de demostración es una banda compacta, no una imagen protagonista. */
+.placeholder{height:62px!important;display:flex!important;align-items:center!important;justify-content:space-between!important;gap:12px!important;padding:14px 16px!important;font-size:18px!important;text-align:left!important}
+.placeholder small{font:700 8px 'DM Sans',sans-serif!important;letter-spacing:.1em!important;text-align:right!important;opacity:.85}
+@media(max-width:600px){.placeholder{height:54px!important;font-size:16px!important}}
+
