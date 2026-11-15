@@ -17,8 +17,15 @@ jobs:
       - run: npm ci
       - run: npm run collect-feeds
       - run: node -e "const fs=require('fs'); const x=JSON.parse(fs.readFileSync('generated/news-feed.json')); if(!x.schemaVersion||!Array.isArray(x.stories)) process.exit(1)"
-      - run: mkdir -p public/data && cp generated/news-feed.json public/data/news-feed.json
-      - run: |
+      - id: gate
+        shell: bash
+        run: |
+          count=$(node -e "const fs=require('fs'); const x=JSON.parse(fs.readFileSync('generated/news-feed.json')); process.stdout.write(String(x.stories.length))")
+          if [ "$count" -gt 0 ]; then echo "has_stories=true" >> "$GITHUB_OUTPUT"; else echo "has_stories=false" >> "$GITHUB_OUTPUT"; echo "Sin titulares actuales; se conserva el último JSON válido."; fi
+      - if: steps.gate.outputs.has_stories == 'true'
+        run: mkdir -p public/data && cp generated/news-feed.json public/data/news-feed.json
+      - if: steps.gate.outputs.has_stories == 'true'
+        run: |
           git config user.name "mi-actualidad-bot"
           git config user.email "actions@users.noreply.github.com"
           git add public/data/news-feed.json
