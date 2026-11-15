@@ -9,5 +9,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - run: echo 'Adaptador editorial preparado. No se ejecuta IA ni se publican datos sin proveedor y secretos autorizados.'
+      - uses: actions/setup-node@v4
+        with: {node-version: 22, cache: npm}
+      - run: npm ci
+      - run: npm run collect-feeds
+      - run: node -e "const fs=require('fs'); const x=JSON.parse(fs.readFileSync('generated/news-feed.json')); if(!x.schemaVersion||!Array.isArray(x.stories)) process.exit(1)"
+      - run: echo 'Feed recopilado y validado; no se publica como edición final hasta revisión editorial.'
 
