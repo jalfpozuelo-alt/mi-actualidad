@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T20:19:40.361Z",
+  "generatedAt": "2026-11-15T20:28:20.762Z",
   "isEditoriallyValidated": false,
   "summaryStatus": "pending-editorial-review",
   "stories": [
@@ -9,12 +9,12 @@
       "title": "Sánchez y Chelo García Cortés para las campanadas de La Séptima o ‘La Peter’ en ‘Fuera de Control’",
       "summary": "El presidente del Gobierno habla de su papel como suegro y de cómo conoció a su esposa, Begoña Gómez",
       "publishedAt": "2026-11-15T19:56:07.000Z",
-      "updatedAt": "2026-11-15T20:19:37.602Z",
+      "updatedAt": "2026-11-15T20:28:19.088Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 114.21633222222222,
+      "importance": 113.92661777777778,
       "source": {
         "name": "EL PAÍS",
         "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/sanchez-y-chelo-garcia-cortes-para-las-campanadas-de-la-septima-o-la-peter-en-fuera-de-control.html"
@@ -27,12 +27,12 @@
       "title": "El PSOE propone destinar el 1% del PIB a vivienda social y crear una prestación estatal por crianza",
       "summary": "El programa electoral de los socialistas incorpora un nuevo impuesto “contra la especulación” de los fondos buitre y grandes propietarios, y defiende el impulso de las renovables para alcanzar el 81% de generación eléctrica en 2030",
       "publishedAt": "2026-11-15T19:30:47.000Z",
-      "updatedAt": "2026-11-15T20:19:37.602Z",
+      "updatedAt": "2026-11-15T20:28:19.088Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 113.37188777777777,
+      "importance": 113.08217388888889,
       "source": {
         "name": "EL PAÍS",
         "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-propone-destinar-el-1-del-pib-a-vivienda-social-y-crear-una-prestacion-estatal-por-crianza.html"
@@ -45,12 +45,12 @@
       "title": "Feijóo hará campaña en Guipuzkoa tras la agresión a jóvenes de Nuevas Generaciones en Hernani",
       "summary": "El líder del PP reitera su propuesta de no pagar el IRPF durante el primer año del primer empleo",
       "publishedAt": "2026-11-15T18:48:56.000Z",
-      "updatedAt": "2026-11-15T20:19:37.602Z",
+      "updatedAt": "2026-11-15T20:28:19.088Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 111.97688777777778,
+      "importance": 111.68717333333333,
       "source": {
         "name": "EL PAÍS",
         "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/feijoo-hara-campana-en-guipuzcoa-tras-la-agresion-a-jovenes-de-nuevas-generaciones-en-hernani.html"
@@ -63,12 +63,12 @@
       "title": "Claves | De un nuevo impuesto a los grandes empresarios a la “unión de la amistad”: el programa del PSOE para el 29-N",
       "summary": "El documento de 114 páginas de los socialistas contempla también un Pacto de Estado por la seguridad ferroviaria, un “escaño ciudadano” y la abolición de la prostitución",
       "publishedAt": "2026-11-15T16:48:47.000Z",
-      "updatedAt": "2026-11-15T20:19:37.602Z",
+      "updatedAt": "2026-11-15T20:28:19.088Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 107.97188777777778,
+      "importance": 107.68217333333334,
       "source": {
         "name": "EL PAÍS",
         "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/claves-de-un-nuevo-impuesto-a-los-grandes-empresarios-a-la-union-de-la-amistad-el-programa-del-psoe-para-el-29-n.html"
@@ -81,12 +81,12 @@
       "title": "El rol del Estado ¿regular o no regular la IA?",
       "summary": "Argentina no parte de cero en materia de regulación. La Agencia de Acceso a la Información Pública creó un programa específico para analizar, regular y fortalecer capacidades en IA.",
       "publishedAt": "2026-11-15T19:09:10.000Z",
-      "updatedAt": "2026-11-15T20:19:39.643Z",
+      "updatedAt": "2026-11-15T20:28:19.576Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.65019833333334,
+      "importance": 104.36134666666666,
       "source": {
         "name": "Clarín",
         "url": "https://www.clarin.com/opinion/rol-estado-regular-regular-ia_0_ctFv4XiZps.html"
@@ -99,12 +99,12 @@
       "title": "EEUU insta a Nvidia a aclarar si eludió restricciones de exportaciones de chips a China",
       "summary": "El Tesoro de EE.UU. indaga si Nvidia eludió restricciones para vender chips avanzados a China. Se cuestiona la cultura de cumplimiento de la firma. La investigación se centra en posibles ventas indirectas a través de empresas fantasma. Jensen Huang testificará ante el Congreso sobre el asunto.",
       "publishedAt": "2026-11-15T19:00:12.000Z",
-      "updatedAt": "2026-11-15T20:19:39.643Z",
+      "updatedAt": "2026-11-15T20:28:19.576Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.35130944444444,
+      "importance": 104.06245777777778,
       "source": {
         "name": "Clarín",
         "url": "https://www.clarin.com/estados-unidos/eeuu-insta-a-nvidia-a-aclarar-si-eludio-restricciones-de-exportaciones-de-chips-a-china_0_AE9CGxXJeX.html"
@@ -117,12 +117,12 @@
       "title": "La economía cerrará 2026 con inflación “estacionada” y poco crecimiento",
       "summary": "Las consultoras esperan que el IPC arroje una suba del 30%, similar al 31,5% del 2025. Esperan una expansión del PBI de solo 0,7% en 2026, muy inferior al año previo. Y prevén más desempleo.",
       "publishedAt": "2026-11-15T18:57:58.000Z",
-      "updatedAt": "2026-11-15T20:19:39.643Z",
+      "updatedAt": "2026-11-15T20:28:19.576Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.276865,
+      "importance": 103.98801333333333,
       "source": {
         "name": "Clarín",
         "url": "https://www.clarin.com/economia/economia-cerrara-2026-inflacion-estacionada-crecimiento_0_X9gwU7sEED.html"
@@ -135,12 +135,12 @@
       "title": "40 años de la Ronda Uruguay del GATT: el legado que América Latina debe recuperar",
       "summary": "Para países como Argentina y Uruguay, contar con reglas comerciales previsibles es fundamental para impulsar el crecimiento.",
       "publishedAt": "2026-11-15T18:56:48.000Z",
-      "updatedAt": "2026-11-15T20:19:39.643Z",
+      "updatedAt": "2026-11-15T20:28:19.576Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.23797611111111,
+      "importance": 103.94912444444445,
       "source": {
         "name": "Clarín",
         "url": "https://www.clarin.com/opinion/40-anos-ronda-uruguay-gatt-legado-america-latina-debe-recuperar_0_bj6FWQoxPt.html"
@@ -153,12 +153,12 @@
       "title": "EEUU busca “causa raíz” de la falla que dejó paralizados todos los vuelos",
       "summary": "El gobierno investiga las causas de la suspensión de vuelos en EE.UU., centrándose en fallas de enrutadores en Arkansas y Texas. Trump rompe su silencio y asegura que su administración trabaja en modernizar el sistema aéreo, criticando la falta de inversión histórica.",
       "publishedAt": "2026-11-15T18:50:09.000Z",
-      "updatedAt": "2026-11-15T20:19:39.644Z",
+      "updatedAt": "2026-11-15T20:28:19.576Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.01630944444445,
+      "importance": 103.72745777777777,
       "source": {
         "name": "Clarín",
         "url": "https://www.clarin.com/estados-unidos/eeuu-busca-causa-raiz-de-la-falla-que-dejo-paralizados-todos-los-vuelos_0_zCyBF4MQ1z.html"
@@ -171,12 +171,12 @@
       "title": "España registra cifras récord en las Islas Canarias con llegada masiva de migrantes",
       "summary": "Las Islas Canarias han vivido uno de los fines de semana de mayor intensidad migratoria de su historia reciente. Solo durante el sábado, los servicios de Salvamento Marítimo rescataron inicialmente a 1.488 personas que viajaban en 14 embarcaciones, según el balance provisional recopilado por la agencia de noticias EFE. La cifra ascendió posteriormente, este domingo 15 de noviembre, a al menos 1.580 migrantes tras nuevos desembarcos registrados durante la noche.",
       "publishedAt": "2026-11-15T19:28:27.000Z",
-      "updatedAt": "2026-11-15T20:19:39.556Z",
+      "updatedAt": "2026-11-15T20:28:19.549Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 103.29302444444444,
+      "importance": 103.00413944444445,
       "source": {
         "name": "France 24",
         "url": "https://www.france24.com/es/video/20261115-espa%C3%B1a-registra-cifras-r%C3%A9cord-en-las-islas-canarias-con-llegada-masiva-de-migrantes"
@@ -189,12 +189,12 @@
       "title": "Zelensky pide a EE.UU. y a Elon Musk reestablecer el acceso total de Ucrania a Starlink para frenar los ataques rusos",
       "summary": "El presidente ucraniano afirma que las restricciones siguen vigentes y dificultan las operaciones defensivas de su ejército.",
       "publishedAt": "2026-11-15T19:16:49.000Z",
-      "updatedAt": "2026-11-15T20:19:37.849Z",
+      "updatedAt": "2026-11-15T20:28:19.114Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 102.906195,
+      "importance": 102.61660333333333,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/cr930qe3pwx3o?at_medium=RSS&at_campaign=rss"
@@ -207,12 +207,12 @@
       "title": "Un terremoto, incógnitas sobre las ayudas y una ola terrorista: los 100 días de gobierno de De la Espriella",
       "summary": "Abelardo de la Espriella cumple este domingo 15 de noviembre 100 días al mando de Colombia en medio de un clima de violencia por otra ola de atentados, una lenta reconstrucción tras el terremoto de agosto y señalamientos sobre la gestión de ayudas millonarias para las víctimas del desastre. En tanto, la oposición que prometió liderar Gustavo Petro pierde fuelle ante los escándalos por presunta corrupción que salpican al exmandatario de izquierda.",
       "publishedAt": "2026-11-15T19:11:02.000Z",
-      "updatedAt": "2026-11-15T20:19:39.556Z",
+      "updatedAt": "2026-11-15T20:28:19.549Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 102.71246888888889,
+      "importance": 102.42358388888888,
       "source": {
         "name": "France 24",
         "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261115-un-terremoto-inc%C3%B3gnitas-sobre-las-ayudas-y-una-ola-terrorista-los-100-d%C3%ADas-de-gobierno-de-de-la-espriella"
@@ -225,12 +225,12 @@
       "title": "Abascal vincula inmigración y delincuencia con datos falsos sobre la población extranjera de Cornellà",
       "summary": "El líder de Vox asegura en un mitin que “los españoles son minoría” en la ciudad, cuando según las estadísticas representan el 81% de los vecinos",
       "publishedAt": "2026-11-15T14:10:56.000Z",
-      "updatedAt": "2026-11-15T20:19:37.602Z",
+      "updatedAt": "2026-11-15T20:28:19.088Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 102.71022111111111,
+      "importance": 102.42050666666667,
       "source": {
         "name": "EL PAÍS",
         "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/abascal-vincula-inmigracion-y-delincuencia-con-datos-falsos-sobre-la-poblacion-extranjera-de-cornella.html"
@@ -243,12 +243,12 @@
       "title": "Estonia cerrará los pasos fronterizos con Rusia tras un intento de “sabotaje” en una fábrica de drones",
       "summary": "Estonia cerrará todos sus pasos fronterizos con Rusia a partir del próximo 1 de diciembre, indicó este domingo 15 de noviembre su ministro de Asuntos Exteriores. El anuncio llega tras un presunto acto de sabotaje contra una empresa de defensa estonia, del cual Tallin responsabiliza a Moscú.",
       "publishedAt": "2026-11-15T18:47:22.000Z",
-      "updatedAt": "2026-11-15T20:19:39.556Z",
+      "updatedAt": "2026-11-15T20:28:19.549Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 101.92358,
+      "importance": 101.634695,
       "source": {
         "name": "France 24",
         "url": "https://www.france24.com/es/europa/20261115-estonia-cerrar%C3%A1-los-pasos-fronterizos-con-rusia-tras-un-intento-de-sabotaje-en-una-f%C3%A1brica-de-drones"
@@ -261,15 +261,33 @@
       "title": "Informe desde Lima: León XIV resalta la importancia de las tradiciones religiosas populares",
       "summary": "El papa León XIV entregó la Rosa de Oro a la Virgen Reina de Belén en su visita al Parque Arqueológico de Sacsayhuamán, donde resaltó la importancia de las tradiciones religiosas populares como símbolo de unidad. Informa nuestro corresponsal Francisco Zacarías.",
       "publishedAt": "2026-11-15T17:54:51.000Z",
-      "updatedAt": "2026-11-15T20:19:39.556Z",
+      "updatedAt": "2026-11-15T20:28:19.549Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 100.17302444444445,
+      "importance": 99.88413944444444,
       "source": {
         "name": "France 24",
         "url": "https://www.france24.com/es/video/20261115-informe-desde-lima-le%C3%B3n-xiv-resalta-la-importancia-de-las-tradiciones-religiosas-populares"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "techcrunch-d9bb72c7b4b43418",
+      "title": "El «Saturday Night Live» reúne a todos los magnates de la tecnología para darles una lección sobre citas y espionaje",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-15T20:20:57.000Z",
+      "updatedAt": "2026-11-15T20:28:20.612Z",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "section": "Tecnología",
+      "category": "Tecnología",
+      "importance": 99.75354888888889,
+      "source": {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -279,12 +297,12 @@
       "title": "Véronique Lecaros: \"La Iglesia católica se ha dado cuenta de la importancia de las tradiciones\"",
       "summary": "En su visita a Cusco, el papa León XIV fue recibido por cientos de fieles en el Parque Arqueológico de Sacsayhuamán, ubicada en la parte alta del Cusco, sobre los 3.700 metros de altura sobre el nivel del mar, donde resaltó la importancia de las tradiciones de los pueblos. Para nuestra invitada, la doctora Véronique Lecaros, jefa del Departamento de Teología de la PUCP, \"las tradiciones son una fuerza\" que va de la mano con la Iglesia católica.",
       "publishedAt": "2026-11-15T17:49:55.000Z",
-      "updatedAt": "2026-11-15T20:19:39.556Z",
+      "updatedAt": "2026-11-15T20:28:19.549Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 100.00858,
+      "importance": 99.719695,
       "source": {
         "name": "France 24",
         "url": "https://www.france24.com/es/video/20261115-v%C3%A9ronique-lecaros-la-iglesia-cat%C3%B3lica-se-ha-dado-cuenta-de-la-importancia-de-las-tradiciones"
@@ -297,12 +315,12 @@
       "title": "El puerto de Nueva Orleans demanda a los propietarios del buque cisterna implicado en el accidente del Mississippi",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-15T17:45:27.000Z",
-      "updatedAt": "2026-11-15T20:19:39.157Z",
+      "updatedAt": "2026-11-15T20:28:19.506Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 99.85991277777778,
+      "importance": 99.57083,
       "source": {
         "name": "NPR",
         "url": "https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship"
@@ -315,12 +333,12 @@
       "title": "Cómo el \"terror rojo\" borró de la historia a Paul Robeson, la \"persona negra más famosa de EE.UU.\"",
       "summary": "Superestrella del teatro y el cine, talentoso jugador de fútbol americano y creador de éxitos musicales. Pero el fervor anticomunista de la Guerra Fría, le asestó un fuerte golpe.",
       "publishedAt": "2026-11-15T17:42:06.000Z",
-      "updatedAt": "2026-11-15T20:19:37.849Z",
+      "updatedAt": "2026-11-15T20:28:19.114Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 99.74897277777778,
+      "importance": 99.45938111111111,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/cj7d00x7522o?at_medium=RSS&at_campaign=rss"
@@ -333,12 +351,12 @@
       "title": "Qué se sabe sobre las 3 bandas criminales de Guatemala que EE.UU. designó como organizaciones terroristas extranjeras",
       "summary": "Washington acusa a estos grupos de ser aliados de los carteles mexicanos de la droga y de colaborar con ellos en el tráfico de narcóticos.",
       "publishedAt": "2026-11-15T16:40:04.000Z",
-      "updatedAt": "2026-11-15T20:19:37.849Z",
+      "updatedAt": "2026-11-15T20:28:19.114Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 97.681195,
+      "importance": 97.39160333333334,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/c3rrg98rd8dqo?at_medium=RSS&at_campaign=rss"
@@ -351,12 +369,12 @@
       "title": "La nueva campaña de Kickstarter de Flaming Hydra replantea la propiedad de los libros electrónicos y el préstamo digital",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-15T18:29:14.000Z",
-      "updatedAt": "2026-11-15T20:19:39.726Z",
+      "updatedAt": "2026-11-15T20:28:20.612Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 96.3190411111111,
+      "importance": 96.02966,
       "source": {
         "name": "TechCrunch",
         "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/"
@@ -369,12 +387,12 @@
       "title": "El legado de Miguel Ángel Asturias, el \"olvidado\" Nobel de Literatura guatemalteco al que los escritores del boom latinoamericano le dieron la espalda",
       "summary": "Sus disputas con los autores del \"boom\" y su papel en el gobierno de Méndez Montenegro opacaron la obra Asturias poco después de recibir el Nobel.",
       "publishedAt": "2026-11-15T15:13:10.000Z",
-      "updatedAt": "2026-11-15T20:19:37.849Z",
+      "updatedAt": "2026-11-15T20:28:19.114Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 94.78452833333333,
+      "importance": 94.49493666666666,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/cw5y18j047r4o?at_medium=RSS&at_campaign=rss"
@@ -387,12 +405,12 @@
       "title": "TechCrunch Mobility: El plan B de Nvidia para el sector de los vehículos autónomos en China",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-15T17:05:00.000Z",
-      "updatedAt": "2026-11-15T20:19:39.726Z",
+      "updatedAt": "2026-11-15T20:28:20.612Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 93.51126333333333,
+      "importance": 93.22188222222222,
       "source": {
         "name": "TechCrunch",
         "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/"
@@ -405,12 +423,12 @@
       "title": "Los productos tecnológicos que recomendamos con entusiasmo estas Navidades",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-15T16:00:00.000Z",
-      "updatedAt": "2026-11-15T20:19:39.726Z",
+      "updatedAt": "2026-11-15T20:28:20.612Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 91.34459666666666,
+      "importance": 91.05521555555555,
       "source": {
         "name": "TechCrunch",
         "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/"
@@ -423,12 +441,12 @@
       "title": "La mujer que lleva años atrapada en una isla paradisíaca sin poder volver a casa por un problema con su visa",
       "summary": "Ruchira Ranasingha, de 50 años, lleva varada en las Islas Cook desde 2023 y quiere regresar a Sri Lanka.",
       "publishedAt": "2026-11-15T13:13:11.000Z",
-      "updatedAt": "2026-11-15T20:19:37.849Z",
+      "updatedAt": "2026-11-15T20:28:19.114Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 90.78508388888889,
+      "importance": 90.49549222222223,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/crn4ed2ljg8no?at_medium=RSS&at_campaign=rss"
@@ -441,15 +459,87 @@
       "title": "Las leyes que limitan la exposición de los mineros del carbón al polvo tóxico corren el riesgo de derogarse.",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-15T13:11:30.000Z",
-      "updatedAt": "2026-11-15T20:19:39.157Z",
+      "updatedAt": "2026-11-15T20:28:19.506Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 90.7282461111111,
+      "importance": 90.43916333333334,
       "source": {
         "name": "NPR",
         "url": "https://www.npr.org/2026/11/15/nx-s1-6039311/laws-limiting-coal-miners-exposure-to-toxic-dust-are-in-danger-of-being-rolled-back"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "npr-us-47eb1e12200e8b4b",
+      "title": "Los votantes de las elecciones de mitad de mandato pusieron fin al prolongado dominio del Partido Republicano en las legislaturas estatales.",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-15T10:00:00.000Z",
+      "updatedAt": "2026-11-15T20:28:19.506Z",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 84.05583,
+      "source": {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "npr-us-153ee7df6068d325",
+      "title": "Una nueva generación de activistas por los derechos de las personas con discapacidad continúa con el legado de Judy Heumann",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-15T10:00:00.000Z",
+      "updatedAt": "2026-11-15T20:28:19.506Z",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 84.05583,
+      "source": {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "npr-us-ee9e0bf7d4069353",
+      "title": "Nuevo México quería guarderías gratuitas para todos. Esto es lo que ha funcionado... y lo que no",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-15T10:00:00.000Z",
+      "updatedAt": "2026-11-15T20:28:19.506Z",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 84.05583,
+      "source": {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "techcrunch-acaf00569e865f08",
+      "title": "¿Dónde estaba el equipo de seguridad de Nvidia?",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-15T00:08:07.000Z",
+      "updatedAt": "2026-11-15T20:28:20.612Z",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "section": "Tecnología",
+      "category": "Tecnología",
+      "importance": 59.32577111111111,
+      "source": {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
