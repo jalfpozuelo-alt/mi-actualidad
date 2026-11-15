@@ -1,2 +1,2 @@
-{"schemaVersion":1,"maxItemsPerSource":10,"maxAgeDays":30,"enabledSources":["dw-es","eu-consilium","pubmed","who"],"publishOnlyWithSource":true,"allowAutomaticSummary":false,"retentionDays":30}
+{"schemaVersion":1,"maxItemsPerSource":10,"maxAgeDays":30,"enabledSources":["elpais","bbc-mundo","dw-es","eu-consilium","pubmed","who"],"publishOnlyWithSource":true,"allowAutomaticSummary":false,"retentionDays":30}
 
