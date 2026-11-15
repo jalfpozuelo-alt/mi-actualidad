@@ -2,6 +2,8 @@ import React, {useEffect, useMemo, useState} from 'react';
 import {createRoot} from 'react-dom/client';
 import './styles.css';
 import './premium.css';
+import EuropaPolitica from './EuropaPolitica';
+import './europa-politica.css';
 
 type Story={id:string;section:string;category:string;country:string;title:string;summary:string;publishedAt:string;updatedAt:string;importance:number;image?:string|null;source:{name:string;url:string}};
 const tabs=['PORTADA','ESPAÑA','INTERNACIONAL','TECNOLOGÍA','MEDICINA','NUTRICIÓN'];
@@ -22,7 +24,7 @@ function App(){
  return <div className={dark?'app dark':'app'}><header><div className="eyebrow">EDICIÓN · {edition.toUpperCase()}</div><div className="brand"><span>MI</span> ACTUALIDAD <button onClick={()=>setDark(!dark)} aria-label="Cambiar modo">{dark?'☼':'☾'}</button></div><p className="dek">Un periódico internacional, en español y con contexto.</p></header>
  <nav aria-label="Secciones">{tabs.map(t=><button className={tab===t?'active':''} onClick={()=>setTab(t)} key={t}>{t}</button>)}</nav>
  <div className="countryBar"><button className="filterToggle" onClick={()=>setFilterOpen(!filterOpen)} aria-expanded={filterOpen}>FILTRAR PAÍSES <span>{selected.length}/{countries.length}</span>⌄</button>{filterOpen&&<div className="countryMenu">{countries.map(c=><label key={c}><input type="checkbox" checked={selected.includes(c)} onChange={e=>setSelected(e.target.checked?[...selected,c]:selected.filter(x=>x!==c))}/>{flags[c]} {c}</label>)}<button className="closeFilter" onClick={()=>setFilterOpen(false)}>LISTO</button></div>}</div>
- <main><div className="toolbar"><span>Edición: {edition} · {stories.length} titulares · {selected.length} países activos{lastChecked&&<> · Comprobado recientemente</>}</span><button onClick={refresh} disabled={updating}>{updating?'ACTUALIZANDO…':'ACTUALIZAR NOTICIAS'}</button></div>{notice&&<div className="notice">{notice}</div>}
+ <main><div className="toolbar"><span>Edición: {edition} · {stories.length} titulares · {selected.length} países activos{lastChecked&&<> · Comprobado recientemente</>}</span><button onClick={refresh} disabled={updating}>{updating?'ACTUALIZANDO…':'ACTUALIZAR NOTICIAS'}</button></div><EuropaPolitica/>
  {tab==='PORTADA'?<><section className="hero"><p className="kicker">PORTADA</p><h1>Las noticias que importan, explicadas con claridad.</h1><p>Titulares actuales de fuentes abiertas. Pulsa cualquier titular para leer el artículo original.</p></section><h2>Las cinco principales</h2><div className="grid">{cover.map(s=><Card s={s} key={s.id}/>)}</div></>:<><section className="sectionHead"><p className="kicker">{tab}</p><h1>Actualidad de {tab.toLowerCase()}</h1></section><div className="grid">{visible.map(s=><Card s={s} key={s.id}/>)}</div></>}
  <section className="settings"><h2>Preferencias</h2><p>El filtro de países está disponible arriba para consultarlo sin volver al final de la página.</p><div className="actions"><button onClick={exportConfig}>EXPORTAR CONFIGURACIÓN</button><label className="button">IMPORTAR CONFIGURACIÓN<input type="file" accept="application/json" onChange={importConfig}/></label></div></section></main><footer>MI ACTUALIDAD · Producto editorial estático · Fuentes y resúmenes reales se incorporarán mediante GitHub Actions.</footer></div>;
 }
