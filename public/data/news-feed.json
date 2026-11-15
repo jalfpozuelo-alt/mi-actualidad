@@ -1,20 +1,74 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T18:08:08.897Z",
+  "generatedAt": "2026-11-15T20:13:35.737Z",
   "isEditoriallyValidated": false,
   "summaryStatus": "pending-editorial-review",
   "stories": [
     {
-      "id": "elpais-b18c6c7ce0c87ace",
-      "title": "El PSOE propone destinar el 1% del PIB a vivienda social y crear una prestación estatal por crianza",
-      "summary": "El programa electoral de los socialistas incorpora un nuevo impuesto “contra la especulación” de los fondos buitre y grandes propietarios y defiende el impulso de las renovables para alcanzar el 81% de generación eléctrica en 2030",
-      "publishedAt": "2026-11-15T13:44:55.000Z",
-      "updatedAt": "2026-11-15T18:08:04.926Z",
+      "id": "xataka-6a9b2b9d5b5c26b8",
+      "title": "\"Cualquier parecido con la realidad es pura coincidencia\": el disclaimer del cine que nos ganamos por culpa de Rasputín",
+      "summary": "“Esta es una obra de ficción. Cualquier similitud con personas reales, vivas o muertas, o hechos reales, es pura coincidencia”. Durante décadas, las películas han negado absolutamente cualquier relación con la realidad, incluso cuando ya de primeras eran evidentemente falsas. El biopic de Jake LaMotta, Toro Salvaje, lo acredita como consultor y cita sus memorias como texto original unos minutos antes de afirmar que él es completamente ficticio. Este “descargo de responsabilidad” también aparece antes de cualquier episodio de South Park y en cientos de películas más. En realidad, esta práctica ",
+      "publishedAt": "2026-11-15T20:01:20.000Z",
+      "updatedAt": "2026-11-15T20:13:35.735Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "Tecnología",
+      "category": "Tecnología",
+      "importance": 114.59125833333333,
+      "source": {
+        "name": "Xataka",
+        "url": "https://www.xataka.com/cine-y-tv/cualquier-parecido-realidad-pura-coincidencia-disclaimer-cine-que-nos-ganamos-culpa-rasputin"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "elpais-9efa44067a7464a4",
+      "title": "Sánchez y Chelo García Cortés para las campanadas de La Séptima o ‘La Peter’ en ‘Fuera de Control’",
+      "summary": "El presidente del Gobierno habla de su papel como suegro y de cómo conoció a su esposa, Begoña Gómez",
+      "publishedAt": "2026-11-15T19:56:07.000Z",
+      "updatedAt": "2026-11-15T20:13:30.428Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 106.22781888888889,
+      "importance": 114.42031777777778,
+      "source": {
+        "name": "EL PAÍS",
+        "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/sanchez-y-chelo-garcia-cortes-para-las-campanadas-de-la-septima-o-la-peter-en-fuera-de-control.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "xataka-f404f016a19238fe",
+      "title": "Aldi venderá desde el sábado 21 de noviembre esta solución para bajar la humedad de casa y secar la ropa en días de lluvia",
+      "summary": "Como cada semana, hace apenas unos días que Aldi lanzó su siguiente folleto de novedades que han ido llegando (y llegarán) a sus tiendas en estos días. Y entre las más interesantes, destaca este deshumidificador disponible desde el sábado 21 de noviembre. Un dispositivo que se pone a la venta rebajado por 99,99 euros. Pro Breeze Deshumidificador 20L 171,47 € El precio podría variar. Obtenemos comisión por estos enlaces En caso de no tener ninguna tienda Aldi a mano, en Amazon encontramos una estupenda y similar alternativa: este Pro Breeze, con idéntica capacidad y más de 2.000 reseñas positiv",
+      "publishedAt": "2026-11-15T19:31:22.000Z",
+      "updatedAt": "2026-11-15T20:13:35.735Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "Tecnología",
+      "category": "Tecnología",
+      "importance": 113.59236944444444,
+      "source": {
+        "name": "Xataka",
+        "url": "https://www.xataka.com/seleccion/aldi-vendera-sabado-21-noviembre-esta-solucion-para-bajar-humedad-casa-secar-ropa-dias-lluvia"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "elpais-b18c6c7ce0c87ace",
+      "title": "El PSOE propone destinar el 1% del PIB a vivienda social y crear una prestación estatal por crianza",
+      "summary": "El programa electoral de los socialistas incorpora un nuevo impuesto “contra la especulación” de los fondos buitre y grandes propietarios, y defiende el impulso de las renovables para alcanzar el 81% de generación eléctrica en 2030",
+      "publishedAt": "2026-11-15T19:30:47.000Z",
+      "updatedAt": "2026-11-15T20:13:30.428Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "España",
+      "category": "España",
+      "importance": 113.57587333333333,
       "source": {
         "name": "EL PAÍS",
         "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-propone-destinar-el-1-del-pib-a-vivienda-social-y-crear-una-prestacion-estatal-por-crianza.html"
@@ -23,34 +77,16 @@
       "isEditorialSummary": false
     },
     {
-      "id": "elpais-8db2baf3a216c666",
-      "title": "Claves | De un nuevo impuesto a los grandes empresarios a la “unión de la amistad”: el programa del PSOE para el 29-N",
-      "summary": "El documento de 114 páginas de los socialistas contempla también un Pacto de Estado por la seguridad ferroviaria, un “escaño ciudadano” y la abolición de la prostitución",
-      "publishedAt": "2026-11-15T16:48:47.000Z",
-      "updatedAt": "2026-11-15T18:08:04.926Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "España",
-      "category": "España",
-      "importance": 112.35670777777777,
-      "source": {
-        "name": "EL PAÍS",
-        "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/claves-de-un-nuevo-impuesto-a-los-grandes-empresarios-a-la-union-de-la-amistad-el-programa-del-psoe-para-el-29-n.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
       "id": "elpais-1bb363ebe4d4b6b2",
       "title": "Feijóo hará campaña en Guipuzkoa tras la agresión a jóvenes de Nuevas Generaciones en Hernani",
-      "summary": "El líder del PP reitera además su propuesta de no pagar el IRPF durante el primer año del primer empleo",
-      "publishedAt": "2026-11-15T13:45:32.000Z",
-      "updatedAt": "2026-11-15T18:08:04.926Z",
+      "summary": "El líder del PP reitera su propuesta de no pagar el IRPF durante el primer año del primer empleo",
+      "publishedAt": "2026-11-15T18:48:56.000Z",
+      "updatedAt": "2026-11-15T20:13:30.428Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 106.24837444444444,
+      "importance": 112.18087333333334,
       "source": {
         "name": "EL PAÍS",
         "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/feijoo-hara-campana-en-guipuzcoa-tras-la-agresion-a-jovenes-de-nuevas-generaciones-en-hernani.html"
@@ -59,379 +95,163 @@
       "isEditorialSummary": false
     },
     {
-      "id": "elpais-3994c5200a5834ef",
-      "title": "Abascal vincula inmigración y delincuencia con datos falsos sobre la población extranjera de Cornellà",
-      "summary": "El líder de Vox asegura en un mitin que “los españoles son minoría” en la ciudad, cuando según las estadísticas representan el 81% de los vecinos",
-      "publishedAt": "2026-11-15T14:10:56.000Z",
-      "updatedAt": "2026-11-15T18:08:04.926Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "España",
-      "category": "España",
-      "importance": 107.09504111111112,
+      "id": "clarin-ar-1a9aafab010d0402",
+      "title": "El rol del Estado ¿regular o no regular la IA?",
+      "summary": "Argentina no parte de cero en materia de regulación. La Agencia de Acceso a la Información Pública creó un programa específico para analizar, regular y fortalecer capacidades en IA.",
+      "publishedAt": "2026-11-15T19:09:10.000Z",
+      "updatedAt": "2026-11-15T20:13:34.465Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 104.853075,
       "source": {
-        "name": "EL PAÍS",
-        "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/abascal-vincula-inmigracion-y-delincuencia-con-datos-falsos-sobre-la-poblacion-extranjera-de-cornella.html"
+        "name": "Clarín",
+        "url": "https://www.clarin.com/opinion/rol-estado-regular-regular-ia_0_ctFv4XiZps.html"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "elpais-c08632ac34d43f19",
-      "title": "El PSOE gana por la izquierda lo que pierde por la derecha, según el tercer ‘tracking’ de la campaña",
-      "summary": "Los socialistas mejoran sus posiciones entre el electorado de centro, pero están en riesgo de perder un millón de sufragios por el flanco conservador",
-      "publishedAt": "2026-11-15T04:30:01.000Z",
-      "updatedAt": "2026-11-15T18:08:04.926Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "España",
-      "category": "España",
-      "importance": 87.73115222222222,
+      "id": "clarin-ar-a8a9264f692b6455",
+      "title": "EEUU insta a Nvidia a aclarar si eludió restricciones de exportaciones de chips a China",
+      "summary": "El Tesoro de EE.UU. indaga si Nvidia eludió restricciones para vender chips avanzados a China. Se cuestiona la cultura de cumplimiento de la firma. La investigación se centra en posibles ventas indirectas a través de empresas fantasma. Jensen Huang testificará ante el Congreso sobre el asunto.",
+      "publishedAt": "2026-11-15T19:00:12.000Z",
+      "updatedAt": "2026-11-15T20:13:34.465Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 104.55418611111111,
       "source": {
-        "name": "EL PAÍS",
-        "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-gana-por-la-izquierda-lo-que-pierde-por-la-derecha-segun-el-tercer-tracking-de-la-campana.html"
+        "name": "Clarín",
+        "url": "https://www.clarin.com/estados-unidos/eeuu-insta-a-nvidia-a-aclarar-si-eludio-restricciones-de-exportaciones-de-chips-a-china_0_AE9CGxXJeX.html"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "elpais-c29d89e2cb589d2b",
-      "title": "Todos los caminos a La Moncloa pasan por el ‘podcast’: “¿Eres más pija o más quinqui?”",
-      "summary": "Por primera vez, una campaña a las generales en España se vive en estos formatos. Sánchez ya lleva tres y su equipo no descarta más: “Lo cerramos en el último momento”",
-      "publishedAt": "2026-11-15T04:30:01.000Z",
-      "updatedAt": "2026-11-15T18:08:04.926Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "España",
-      "category": "España",
-      "importance": 87.73115222222222,
+      "id": "clarin-ar-7df2ee62018e1edd",
+      "title": "La economía cerrará 2026 con inflación “estacionada” y poco crecimiento",
+      "summary": "Las consultoras esperan que el IPC arroje una suba del 30%, similar al 31,5% del 2025. Esperan una expansión del PBI de solo 0,7% en 2026, muy inferior al año previo. Y prevén más desempleo.",
+      "publishedAt": "2026-11-15T18:57:58.000Z",
+      "updatedAt": "2026-11-15T20:13:34.465Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 104.47974166666667,
       "source": {
-        "name": "EL PAÍS",
-        "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/todos-los-caminos-a-la-moncloa-pasan-por-el-podcast.html"
+        "name": "Clarín",
+        "url": "https://www.clarin.com/economia/economia-cerrara-2026-inflacion-estacionada-crecimiento_0_X9gwU7sEED.html"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "elpais-ac5348d2659715ad",
-      "title": "Retrato de la Generación 08: los hijos de las crisis y de TikTok estrenan mayoría de edad y voto el 29-N",
-      "summary": "Han crecido viendo resquebrajarse el viejo mundo e intuyendo que les tocará poner en pie otro nuevo. Hablamos con 24 jóvenes nacidos en 2008 sobre sus ideas y preocupaciones",
-      "publishedAt": "2026-11-15T04:30:00.000Z",
-      "updatedAt": "2026-11-15T18:08:04.926Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "España",
-      "category": "España",
-      "importance": 87.73059666666667,
+      "id": "clarin-ar-fb84abef93c07f06",
+      "title": "40 años de la Ronda Uruguay del GATT: el legado que América Latina debe recuperar",
+      "summary": "Para países como Argentina y Uruguay, contar con reglas comerciales previsibles es fundamental para impulsar el crecimiento.",
+      "publishedAt": "2026-11-15T18:56:48.000Z",
+      "updatedAt": "2026-11-15T20:13:34.465Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 104.44085277777778,
       "source": {
-        "name": "EL PAÍS",
-        "url": "https://elpais.com/eps/2026-11-15/retrato-de-la-generacion-08-los-hijos-de-las-crisis-y-de-tiktok-estrenan-mayoria-de-edad-y-voto-el-29-n.html"
+        "name": "Clarín",
+        "url": "https://www.clarin.com/opinion/40-anos-ronda-uruguay-gatt-legado-america-latina-debe-recuperar_0_bj6FWQoxPt.html"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "elpais-47d03e1770c0db6f",
-      "title": "La brújula infalible de Sigüés apunta a la derecha",
-      "summary": "Desde 1977, el partido que gana las elecciones generales en el pequeño pueblo aragonés es el que se impone en toda España. “No es descontento, es decepción”, coinciden exvotantes socialistas",
-      "publishedAt": "2026-11-15T04:30:01.000Z",
-      "updatedAt": "2026-11-15T18:08:04.926Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "España",
-      "category": "España",
-      "importance": 87.73115222222222,
+      "id": "clarin-ar-498c3b669025832e",
+      "title": "EEUU busca “causa raíz” de la falla que dejó paralizados todos los vuelos",
+      "summary": "El gobierno investiga las causas de la suspensión de vuelos en EE.UU., centrándose en fallas de enrutadores en Arkansas y Texas. Trump rompe su silencio y asegura que su administración trabaja en modernizar el sistema aéreo, criticando la falta de inversión histórica.",
+      "publishedAt": "2026-11-15T18:50:09.000Z",
+      "updatedAt": "2026-11-15T20:13:34.465Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 104.21918611111111,
       "source": {
-        "name": "EL PAÍS",
-        "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/la-brujula-infalible-de-sigues-apunta-a-la-derecha.html"
+        "name": "Clarín",
+        "url": "https://www.clarin.com/estados-unidos/eeuu-busca-causa-raiz-de-la-falla-que-dejo-paralizados-todos-los-vuelos_0_zCyBF4MQ1z.html"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "bbc-mundo-59b5a5f3ae3b13f1",
-      "title": "\"Quizás veamos el 25 de octubre de este año como el comienzo del fin de la recesión democrática mundial\"",
-      "summary": "Larry Diamond, un reconocido experto internacional, dice en una entrevista que varios hechos recientes podrían indicar un cambio de patrón a favor de la democracia en el mundo.",
-      "publishedAt": "2026-11-15T04:57:14.000Z",
-      "updatedAt": "2026-11-15T18:08:05.206Z",
+      "id": "france24-b90803d685524d91",
+      "title": "España registra cifras récord en las Islas Canarias con llegada masiva de migrantes",
+      "summary": "Las Islas Canarias han vivido uno de los fines de semana de mayor intensidad migratoria de su historia reciente. Solo durante el sábado, los servicios de Salvamento Marítimo rescataron inicialmente a 1.488 personas que viajaban en 14 embarcaciones, según el balance provisional recopilado por la agencia de noticias EFE. La cifra ascendió posteriormente, este domingo 15 de noviembre, a al menos 1.580 migrantes tras nuevos desembarcos registrados durante la noche.",
+      "publishedAt": "2026-11-15T19:28:27.000Z",
+      "updatedAt": "2026-11-15T20:13:34.366Z",
+      "country": "Francia",
+      "countryCode": "FR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 103.49590777777777,
+      "source": {
+        "name": "France 24",
+        "url": "https://www.france24.com/es/video/20261115-espa%C3%B1a-registra-cifras-r%C3%A9cord-en-las-islas-canarias-con-llegada-masiva-de-migrantes"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "bbc-mundo-6346c7f62c3abdef",
+      "title": "Zelensky pide a EE.UU. y a Elon Musk reestablecer el acceso total de Ucrania a Starlink para frenar los ataques rusos",
+      "summary": "El presidente ucraniano afirma que las restricciones siguen vigentes y dificultan las operaciones defensivas de su ejército.",
+      "publishedAt": "2026-11-15T19:16:49.000Z",
+      "updatedAt": "2026-11-15T20:13:30.618Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 78.63821888888889,
+      "importance": 103.11021222222222,
       "source": {
         "name": "BBC Mundo",
-        "url": "https://www.bbc.com/mundo/articles/cmy493l9xx1zo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/mundo/articles/cr930qe3pwx3o?at_medium=RSS&at_campaign=rss"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "bbc-mundo-65231fa562bdfdfc",
-      "title": "Cuáles son las 3 bandas criminales de Guatemala que EE.UU. designó como organizaciones terroristas extranjeras",
-      "summary": "Washington acusa a estos grupos de ser aliados de los carteles mexicanos de la droga y de colaborar con ellos en el tráfico de narcóticos.",
-      "publishedAt": "2026-11-15T16:40:04.000Z",
-      "updatedAt": "2026-11-15T18:08:05.206Z",
-      "country": "Reino Unido",
-      "countryCode": "GB",
+      "id": "france24-c632d002db6d3571",
+      "title": "Un terremoto, incógnitas sobre las ayudas y una ola terrorista: los 100 días de gobierno de De la Espriella",
+      "summary": "Abelardo de la Espriella cumple este domingo 15 de noviembre 100 días al mando de Colombia en medio de un clima de violencia por otra ola de atentados, una lenta reconstrucción tras el terremoto de agosto y señalamientos sobre la gestión de ayudas millonarias para las víctimas del desastre. En tanto, la oposición que prometió liderar Gustavo Petro pierde fuelle ante los escándalos por presunta corrupción que salpican al exmandatario de izquierda.",
+      "publishedAt": "2026-11-15T19:11:02.000Z",
+      "updatedAt": "2026-11-15T20:13:34.366Z",
+      "country": "Francia",
+      "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 102.06599666666666,
+      "importance": 102.91535222222223,
       "source": {
-        "name": "BBC Mundo",
-        "url": "https://www.bbc.com/mundo/articles/c3rrg98rd8dqo?at_medium=RSS&at_campaign=rss"
+        "name": "France 24",
+        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261115-un-terremoto-inc%C3%B3gnitas-sobre-las-ayudas-y-una-ola-terrorista-los-100-d%C3%ADas-de-gobierno-de-de-la-espriella"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "bbc-mundo-262c9fb2ee0c9212",
-      "title": "La mujer que lleva años atrapada en una isla paradisíaca sin poder volver a casa por un problema con su visa",
-      "summary": "Ruchira Ranasingha, de 50 años, lleva varada en las Islas Cook desde 2023 y quiere regresar a Sri Lanka.",
-      "publishedAt": "2026-11-15T13:13:11.000Z",
-      "updatedAt": "2026-11-15T18:08:05.206Z",
-      "country": "Reino Unido",
-      "countryCode": "GB",
+      "id": "france24-99ae35ab282884ea",
+      "title": "Estonia cerrará los pasos fronterizos con Rusia tras un intento de “sabotaje” en una fábrica de drones",
+      "summary": "Estonia cerrará todos sus pasos fronterizos con Rusia a partir del próximo 1 de diciembre, indicó este domingo 15 de noviembre su ministro de Asuntos Exteriores. El anuncio llega tras un presunto acto de sabotaje contra una empresa de defensa estonia, del cual Tallin responsabiliza a Moscú.",
+      "publishedAt": "2026-11-15T18:47:22.000Z",
+      "updatedAt": "2026-11-15T20:13:34.366Z",
+      "country": "Francia",
+      "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 95.16988555555555,
+      "importance": 102.12646333333333,
       "source": {
-        "name": "BBC Mundo",
-        "url": "https://www.bbc.com/mundo/articles/crn4ed2ljg8no?at_medium=RSS&at_campaign=rss"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "bbc-mundo-e5ef758c8aa5366f",
-      "title": "El legado de Miguel Ángel Asturias, el \"olvidado\" Nobel de Literatura guatemalteco al que los escritores del boom latinoamericano le dieron la espalda",
-      "summary": "Sus disputas con los autores del \"boom\" y su papel en el gobierno de Méndez Montenegro opacaron la obra Asturias poco después de recibir el Nobel.",
-      "publishedAt": "2026-11-15T15:13:10.000Z",
-      "updatedAt": "2026-11-15T18:08:05.206Z",
-      "country": "Reino Unido",
-      "countryCode": "GB",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 99.16933,
-      "source": {
-        "name": "BBC Mundo",
-        "url": "https://www.bbc.com/mundo/articles/cw5y18j047r4o?at_medium=RSS&at_campaign=rss"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "bbc-mundo-0ad0b25a8b51ae94",
-      "title": "El efecto bouba/kiki, el extraordinario experimento psicológico que tiene los mismos resultados en casi todas las culturas",
-      "summary": "Es más que una curiosidad: podría ser una pista para develar el gran misterio de cómo empezamos a hablar.",
-      "publishedAt": "2026-11-15T12:04:15.000Z",
-      "updatedAt": "2026-11-15T18:08:05.207Z",
-      "country": "Reino Unido",
-      "countryCode": "GB",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 92.87210722222223,
-      "source": {
-        "name": "BBC Mundo",
-        "url": "https://www.bbc.com/mundo/articles/c35yn4xdxz5eo?at_medium=RSS&at_campaign=rss"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "bbc-mundo-85501f969866abdf",
-      "title": "Cómo el \"terror rojo\" borró de la historia a Paul Robeson, la \"persona negra más famosa de EE.UU.\"",
-      "summary": "Superestrella del teatro y el cine, talentoso jugador de fútbol americano y creador de éxitos musicales. Pero el fervor anticomunista de la Guerra Fría, le asestó un fuerte golpe.",
-      "publishedAt": "2026-11-15T17:42:06.000Z",
-      "updatedAt": "2026-11-15T18:08:05.207Z",
-      "country": "Reino Unido",
-      "countryCode": "GB",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 104.13377388888888,
-      "source": {
-        "name": "BBC Mundo",
-        "url": "https://www.bbc.com/mundo/articles/cj7d00x7522o?at_medium=RSS&at_campaign=rss"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "bbc-mundo-0552000646f2c929",
-      "title": "La conmoción en Panamá tras el ataque con explosivos contra la casa de un periodista",
-      "summary": "Rolando Rodríguez, el periodista cuya casa fue atacada, estaba investigando un presunto caso de corrupción en el país.",
-      "publishedAt": "2026-11-15T10:40:24.000Z",
-      "updatedAt": "2026-11-15T18:08:05.207Z",
-      "country": "Reino Unido",
-      "countryCode": "GB",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 90.07710722222222,
-      "source": {
-        "name": "BBC Mundo",
-        "url": "https://www.bbc.com/mundo/articles/cj62pl46r351o?at_medium=RSS&at_campaign=rss"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "bbc-mundo-737a539d85223fbe",
-      "title": "\"Las cortinas se pegaron al techo\": cómo sobreviví al desastre de San Juanico, la explosión que dejó 650 muertos en México en 1984",
-      "summary": "Virginia Martínez Tellez es una de las sobrevivientes de uno de los desastres industriales más graves de la historia. Una fuga de gas en un depósito de la petrolera Pemex cambiaría para siempre su vida, la de su familia y la de toda una comunidad.",
-      "publishedAt": "2026-11-14T21:29:57.000Z",
-      "updatedAt": "2026-11-15T18:08:05.207Z",
-      "country": "Reino Unido",
-      "countryCode": "GB",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 63.72877388888889,
-      "source": {
-        "name": "BBC Mundo",
-        "url": "https://www.bbc.com/mundo/articles/c93xe77lg73o?at_medium=RSS&at_campaign=rss"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "npr-us-4c14124ae21c5934",
-      "title": "El puerto de Nueva Orleans demanda a los propietarios del buque cisterna implicado en el accidente del Mississippi",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T17:45:27.000Z",
-      "updatedAt": "2026-11-15T18:08:07.640Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 104.24408888888888,
-      "source": {
-        "name": "NPR",
-        "url": "https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "npr-us-47eb1e12200e8b4b",
-      "title": "Los votantes de las elecciones de mitad de mandato pusieron fin al prolongado dominio del Partido Republicano en las legislaturas estatales.",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T10:00:00.000Z",
-      "updatedAt": "2026-11-15T18:08:07.640Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 88.7290888888889,
-      "source": {
-        "name": "NPR",
-        "url": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "npr-us-153ee7df6068d325",
-      "title": "Una nueva generación de activistas por los derechos de las personas con discapacidad continúa con el legado de Judy Heumann",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T10:00:00.000Z",
-      "updatedAt": "2026-11-15T18:08:07.640Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 88.7290888888889,
-      "source": {
-        "name": "NPR",
-        "url": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "npr-us-ee9e0bf7d4069353",
-      "title": "Nuevo México quería guarderías gratuitas para todos. Esto es lo que ha funcionado... y lo que no",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T10:00:00.000Z",
-      "updatedAt": "2026-11-15T18:08:07.640Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 88.7290888888889,
-      "source": {
-        "name": "NPR",
-        "url": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "npr-us-375d28637ad7a479",
-      "title": "Un juez prohíbe temporalmente a Trump seguir adelante con la remodelación del campo de golf público de Washington",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T04:28:45.000Z",
-      "updatedAt": "2026-11-15T18:08:07.640Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 77.68742222222222,
-      "source": {
-        "name": "NPR",
-        "url": "https://www.npr.org/2026/11/14/nx-s1-6041152/judge-trump-golf-course-blocks"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "npr-us-bdef44745e9a1511",
-      "title": "La prohibición de vuelo de la FAA interrumpe el fútbol americano universitario",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T01:13:59.000Z",
-      "updatedAt": "2026-11-15T18:08:07.640Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 71.1952,
-      "source": {
-        "name": "NPR",
-        "url": "https://www.npr.org/2026/11/14/nx-s1-6041115/faa-ground-stop-college-football-delays"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "npr-us-a5bcef2fd5a21f8b",
-      "title": "Una ciudad de Florida cancela el desfile del Día de San Patricio alegando la nueva ley contra la DEI",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T00:03:52.000Z",
-      "updatedAt": "2026-11-15T18:08:07.640Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 68.85797777777778,
-      "source": {
-        "name": "NPR",
-        "url": "https://www.npr.org/2026/11/14/nx-s1-6041093/st-patricks-day-parade-canceled-florida-dei"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "npr-us-435fe2bf8371680a",
-      "title": "Un fallo en el mantenimiento provocó una paralización de los vuelos en todo el país, según el secretario de Transportes",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-14T22:48:38.000Z",
-      "updatedAt": "2026-11-15T18:08:07.640Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 66.3502,
-      "source": {
-        "name": "NPR",
-        "url": "https://www.npr.org/2026/11/14/nx-s1-6040942/maintenance-gone-awry-caused-nation-wide-ground-stop-says-transportation-secretary"
+        "name": "France 24",
+        "url": "https://www.france24.com/es/europa/20261115-estonia-cerrar%C3%A1-los-pasos-fronterizos-con-rusia-tras-un-intento-de-sabotaje-en-una-f%C3%A1brica-de-drones"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -441,12 +261,12 @@
       "title": "Informe desde Lima: León XIV resalta la importancia de las tradiciones religiosas populares",
       "summary": "El papa León XIV entregó la Rosa de Oro a la Virgen Reina de Belén en su visita al Parque Arqueológico de Sacsayhuamán, donde resaltó la importancia de las tradiciones religiosas populares como símbolo de unidad. Informa nuestro corresponsal Francisco Zacarías.",
       "publishedAt": "2026-11-15T17:54:51.000Z",
-      "updatedAt": "2026-11-15T18:08:07.822Z",
+      "updatedAt": "2026-11-15T20:13:34.366Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.55732111111111,
+      "importance": 100.37590777777778,
       "source": {
         "name": "France 24",
         "url": "https://www.france24.com/es/video/20261115-informe-desde-lima-le%C3%B3n-xiv-resalta-la-importancia-de-las-tradiciones-religiosas-populares"
@@ -459,12 +279,12 @@
       "title": "Véronique Lecaros: \"La Iglesia católica se ha dado cuenta de la importancia de las tradiciones\"",
       "summary": "En su visita a Cusco, el papa León XIV fue recibido por cientos de fieles en el Parque Arqueológico de Sacsayhuamán, ubicada en la parte alta del Cusco, sobre los 3.700 metros de altura sobre el nivel del mar, donde resaltó la importancia de las tradiciones de los pueblos. Para nuestra invitada, la doctora Véronique Lecaros, jefa del Departamento de Teología de la PUCP, \"las tradiciones son una fuerza\" que va de la mano con la Iglesia católica.",
       "publishedAt": "2026-11-15T17:49:55.000Z",
-      "updatedAt": "2026-11-15T18:08:07.822Z",
+      "updatedAt": "2026-11-15T20:13:34.366Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.39287666666667,
+      "importance": 100.21146333333333,
       "source": {
         "name": "France 24",
         "url": "https://www.france24.com/es/video/20261115-v%C3%A9ronique-lecaros-la-iglesia-cat%C3%B3lica-se-ha-dado-cuenta-de-la-importancia-de-las-tradiciones"
@@ -473,343 +293,91 @@
       "isEditorialSummary": false
     },
     {
-      "id": "france24-fabcfd4cbd3cf81a",
-      "title": "Tensiones en la Cumbre de la Francofonía por posible reelección de la secretaria general",
-      "summary": "🇫🇷 Emmanuel Macron llegó a la cumbre de la Organización Internacional de la Francofonía (OIF), donde las tensiones vinculadas al conflicto en el este de la República Democrática del Congo han marcado el evento.",
-      "publishedAt": "2026-11-15T17:31:42.000Z",
-      "updatedAt": "2026-11-15T18:08:07.822Z",
-      "country": "Francia",
-      "countryCode": "FR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 103.78565444444445,
-      "source": {
-        "name": "France 24",
-        "url": "https://www.france24.com/es/video/20261115-tensiones-en-la-cumbre-de-la-francofon%C3%ADa-por-posible-reeleccio%CC%81n-de-la-secretaria-general"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "france24-bbd166557cb125b4",
-      "title": "\"No hay palabras para este descalabro\": miles de jubilados siguen afectados por la crisis de Ueno Bank en Paraguay",
-      "summary": "El Banco Central de Paraguay asegura que ha devuelto los depósitos garantizados a más de 1,8 millones de clientes de Ueno Bank. Sin embargo, todavía debe resolver el destino de los fondos de cinco cajas de jubilaciones y de miles de inversores. Mientras tanto, los bancos privados reciben a los antiguos usuarios de la entidad intervenida.",
-      "publishedAt": "2026-11-15T17:02:37.000Z",
-      "updatedAt": "2026-11-15T18:08:07.822Z",
-      "country": "Francia",
-      "countryCode": "FR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 102.81621,
-      "source": {
-        "name": "France 24",
-        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261115-no-hay-palabras-para-este-descalabro-miles-de-jubilados-siguen-afectados-por-la-crisis-de-ueno-bank-en-paraguay"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "france24-e46388e7e2aacf86",
-      "title": "Más de 1.500 migrantes llegan a Canarias este fin de semana en una nueva crisis de la ruta atlántica",
-      "summary": "Más de 1.500 migrantes han llegado a las Islas Canarias durante este fin de semana, en una intensa sucesión de operaciones de rescate que ha situado a El Hierro en el epicentro de la presión migratoria. Solo el sábado fueron rescatadas al menos 1.488 personas, una cifra que posteriormente se elevó a 1.580 según los balances actualizados, en la mayor jornada de llegadas registrada en la historia reciente de la ruta atlántica. El repunte vuelve a poner a prueba los recursos de acogida del archipiélago y aumenta la presión sobre el Gobierno español para reforzar su respuesta.",
-      "publishedAt": "2026-11-15T16:43:17.000Z",
-      "updatedAt": "2026-11-15T18:08:07.822Z",
-      "country": "Francia",
-      "countryCode": "FR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 102.17176555555555,
-      "source": {
-        "name": "France 24",
-        "url": "https://www.france24.com/es/europa/20261115-m%C3%A1s-de-1-500-migrantes-llegan-a-canarias-este-fin-de-semana-en-una-nueva-crisis-de-la-ruta-atl%C3%A1ntica"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "france24-277b1516b6d21e30",
-      "title": "En vivo: el papa es recibido en Cusco para encuentro con miles de fieles en su penúltimo día de gira por Perú",
-      "summary": "",
-      "publishedAt": "2026-11-15T15:53:12.000Z",
-      "updatedAt": "2026-11-15T18:08:07.822Z",
-      "country": "Francia",
-      "countryCode": "FR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 100.50232111111112,
-      "source": {
-        "name": "France 24",
-        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261115-en-directo-el-papa-visita-cusco-y-la-amazon%C3%ADa-este-domingo-en-su-pen%C3%BAltimo-d%C3%ADa-en-per%C3%BA"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "france24-1cff4720c0471ac1",
-      "title": "Macron busca reforzar influencia francófona entre tensiones por posible reelección de secretaria general de la OIF",
-      "summary": "El presidente francés llegó a Camboya para participar en la cumbre de la Organización Internacional de la Francofonía (OIF), que aborda la diversidad lingüística en la inteligencia artificial, la cooperación económica y la elección de su próximo secretario general. Pero las tensiones vinculadas al conflicto en el este de la República Democrática del Congo han marcado el evento: Kinshasa retiró su candidatura, en medio de su rivalidad con Ruanda.",
-      "publishedAt": "2026-11-15T15:04:04.000Z",
-      "updatedAt": "2026-11-15T18:08:07.822Z",
-      "country": "Francia",
-      "countryCode": "FR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 98.86454333333333,
-      "source": {
-        "name": "France 24",
-        "url": "https://www.france24.com/es/francia/20261115-macron-busca-reforzar-influencia-franc%C3%B3fona-entre-tensiones-por-posible-reelecci%C3%B3n-de-secretaria-general-de-la-oif"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "france24-e04420b93f3bea43",
-      "title": "En directo: Irán afirma que atacó base militar de EE. UU. en Bahrein; fuerzas yemeníes se retiran de área clave en guerra con hutíes",
-      "summary": "La Guardia Revolucionaria de Irán aseguró este domingo 15 de noviembre que atacó un sistema de radar en una base de helicópteros estadounidense en Bahréin. Washington no se ha pronunciado al respecto. Entretanto, las fuerzas gubernamentales de Yemen se retiraron de una zona cercana al estrecho de Bab el-Mandeb para, sostienen, centrarse en la defensa de su base principal en Adén. Se trata de un duro revés en su ofensiva—respaldada por Arabia Saudita— contra los hutíes, alineados con Irán.",
-      "publishedAt": "2026-11-15T14:11:38.000Z",
-      "updatedAt": "2026-11-15T18:08:07.822Z",
-      "country": "Francia",
-      "countryCode": "FR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 97.11676555555556,
-      "source": {
-        "name": "France 24",
-        "url": "https://www.france24.com/es/medio-oriente/20261115-en-directo-ir%C3%A1n-afirma-que-atac%C3%B3-base-militar-de-ee-uu-en-bahrein-fuerzas-yemen%C3%ADes-se-retiran-de-%C3%A1rea-clave-en-guerra-con-hut%C3%ADes"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "clarin-ar-bf5a4255ef54d7d2",
-      "title": "Trump apelará fallo que obstaculiza su plan de renovar un campo de golf en Washington",
-      "summary": "El mandatario estadounidense apelará un fallo que impide cerrar un parque en Washington para renovar un campo de golf público. El tribunal dictó mantenerlo abierto. Una jueza bloqueó el cierre del parque, destacando su uso recreativo diario. Trump busca transformarlo en una sede para torneos importantes.",
-      "publishedAt": "2026-11-15T16:30:10.000Z",
-      "updatedAt": "2026-11-15T18:08:07.939Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 103.73447833333333,
-      "source": {
-        "name": "Clarín",
-        "url": "https://www.clarin.com/estados-unidos/trump-apelara-fallo-que-obstaculiza-su-plan-de-renovar-un-campo-de-golf-en-washington_0_rJoZLNQEZV.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "clarin-ar-01aadada414a7686",
-      "title": "España vs Inglaterra, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido de la Nations League",
-      "summary": "Juegan en Madrid por la última fecha de la fase de grupos, con ambos clasificados a cuartos de final. Seguí el minuto a minuto en Clarín.",
-      "publishedAt": "2026-11-15T16:18:00.000Z",
-      "updatedAt": "2026-11-15T18:08:07.939Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 103.32892277777778,
-      "source": {
-        "name": "Clarín",
-        "url": "https://www.clarin.com/deportes/espana-vs-inglaterra-vivo-hora-juegan-formaciones-ver-partido-nations-league_0_9XuicMXPO0.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "clarin-ar-66150fde71a114eb",
-      "title": "El gobierno de Trump planea pagar a médicos que atiendan a pacientes con posibles efectos adversos de las vacunas: por qué preocupa a los expertos",
-      "summary": "La administración prepara cambios en los programas de seguimiento y compensación por lesiones asociadas a la vacunación. Especialistas advierten sobre posibles conflictos de intereses vinculados al secretario de Salud, Robert F. Kennedy Jr.",
-      "publishedAt": "2026-11-15T16:17:11.000Z",
-      "updatedAt": "2026-11-15T18:08:07.939Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 103.30170055555556,
-      "source": {
-        "name": "Clarín",
-        "url": "https://www.clarin.com/estados-unidos/gobierno-trump-planea-pagar-medicos-atiendan-pacientes-posibles-efectos-adversos-vacunas-preocupa-expertos_0_GJ5lWo5dAI.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "clarin-ar-e50e72c7fcebc8f3",
-      "title": "Confirmado: una jueza frenó el plan de Donald Trump para transformar un histórico campo de golf de Washington",
-      "summary": "La magistrada Ana Reyes ordenó suspender las obras en East Potomac Park y cuestionó los argumentos del gobierno para cerrar el predio. El presidente pretende convertirlo en un campo de golf de campeonato.",
-      "publishedAt": "2026-11-15T16:11:38.000Z",
-      "updatedAt": "2026-11-15T18:08:07.939Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 103.11670055555555,
-      "source": {
-        "name": "Clarín",
-        "url": "https://www.clarin.com/estados-unidos/confirmado-jueza-freno-plan-donald-trump-transformar-historico-campo-golf-washington_0_OgHBMTMJGW.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "clarin-ar-bcc9997caf00b877",
-      "title": "Rating del sábado: cómo les fue a \"La noche de Mirtha\" en su nuevo horario y al debut de Moldavsky y Toto Kirzner",
-      "summary": "El ciclo que ahora comanda Juana Viale pasó de las 21.30 a las 22.30, como para ver si mejora su mano a mano con Andy Kusnetzoff. Los números del estreno de \"Todo sigue igual\", por El Trece. Los más vistos de cada canal.",
-      "publishedAt": "2026-11-15T16:06:54.000Z",
-      "updatedAt": "2026-11-15T18:08:07.939Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 102.95892277777777,
-      "source": {
-        "name": "Clarín",
-        "url": "https://www.clarin.com/espectaculos/rating-sabado-noche-mirtha-nuevo-horario-debut-moldavsky-toto-kirzner_0_tC2SUyZt2H.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "guardian-uk-2d5446f7d51e047a",
-      "title": "El autor zimbabuense Simbarashe Kundizeza queda absuelto de haber utilizado la IA para escribir el relato ganador de un premio",
+      "id": "npr-us-4c14124ae21c5934",
+      "title": "El puerto de Nueva Orleans demanda a los propietarios del buque cisterna implicado en el accidente del Mississippi",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-12T13:14:38.000Z",
-      "updatedAt": "2026-11-15T18:08:08.250Z",
+      "publishedAt": "2026-11-15T17:45:27.000Z",
+      "updatedAt": "2026-11-15T20:13:32.209Z",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 100.06377333333333,
+      "source": {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "bbc-mundo-85501f969866abdf",
+      "title": "Cómo el \"terror rojo\" borró de la historia a Paul Robeson, la \"persona negra más famosa de EE.UU.\"",
+      "summary": "Superestrella del teatro y el cine, talentoso jugador de fútbol americano y creador de éxitos musicales. Pero el fervor anticomunista de la Guerra Fría, le asestó un fuerte golpe.",
+      "publishedAt": "2026-11-15T17:42:06.000Z",
+      "updatedAt": "2026-11-15T20:13:30.618Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 35,
+      "importance": 99.95299,
       "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story"
+        "name": "BBC Mundo",
+        "url": "https://www.bbc.com/mundo/articles/cj7d00x7522o?at_medium=RSS&at_campaign=rss"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "guardian-uk-87cfd790eced3664",
-      "title": "Lewis Hamilton visita el paso fronterizo de Rafah, en Egipto, y las instalaciones de ayuda de Gaza",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-10T15:39:26.000Z",
-      "updatedAt": "2026-11-15T18:08:08.250Z",
+      "id": "bbc-mundo-65231fa562bdfdfc",
+      "title": "Qué se sabe sobre las 3 bandas criminales de Guatemala que EE.UU. designó como organizaciones terroristas extranjeras",
+      "summary": "Washington acusa a estos grupos de ser aliados de los carteles mexicanos de la droga y de colaborar con ellos en el tráfico de narcóticos.",
+      "publishedAt": "2026-11-15T16:40:04.000Z",
+      "updatedAt": "2026-11-15T20:13:30.618Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 35,
+      "importance": 97.88521222222222,
       "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities"
+        "name": "BBC Mundo",
+        "url": "https://www.bbc.com/mundo/articles/c3rrg98rd8dqo?at_medium=RSS&at_campaign=rss"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "guardian-uk-ff406199a7cc3594",
-      "title": "La colisión de dos trenes en Egipto se cobra al menos siete vidas",
+      "id": "techcrunch-8327947f6831195e",
+      "title": "La nueva campaña de Kickstarter de Flaming Hydra replantea la propiedad de los libros electrónicos y el préstamo digital",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-08T17:51:17.000Z",
-      "updatedAt": "2026-11-15T18:08:08.250Z",
-      "country": "Reino Unido",
-      "countryCode": "GB",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 35,
+      "publishedAt": "2026-11-15T18:29:14.000Z",
+      "updatedAt": "2026-11-15T20:13:35.192Z",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "section": "Tecnología",
+      "category": "Tecnología",
+      "importance": 96.52156,
       "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/nov/08/egypt-two-trains-deadly-collision"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "guardian-uk-62e73d35acc1a138",
-      "title": "Cómo las filosofías africanas inspiraron un nuevo enfoque para organizar festivales de cine en Mánchester",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-08T12:00:39.000Z",
-      "updatedAt": "2026-11-15T18:08:08.250Z",
+      "id": "bbc-mundo-e5ef758c8aa5366f",
+      "title": "El legado de Miguel Ángel Asturias, el \"olvidado\" Nobel de Literatura guatemalteco al que los escritores del boom latinoamericano le dieron la espalda",
+      "summary": "Sus disputas con los autores del \"boom\" y su papel en el gobierno de Méndez Montenegro opacaron la obra Asturias poco después de recibir el Nobel.",
+      "publishedAt": "2026-11-15T15:13:10.000Z",
+      "updatedAt": "2026-11-15T20:13:30.618Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 35,
+      "importance": 94.98854555555556,
       "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "guardian-uk-36abb8aa2fbd145c",
-      "title": "El líder de una secta apocalíptica keniana es condenado a 200 años de cárcel por el asesinato de 190 niños",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-06T15:08:43.000Z",
-      "updatedAt": "2026-11-15T18:08:08.250Z",
-      "country": "Reino Unido",
-      "countryCode": "GB",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 35,
-      "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "guardian-uk-893f210d41dd3d9c",
-      "title": "Incendios asfixiantes, calor mortal e inundaciones devastadoras: 2026, un año de fenómenos meteorológicos extremos",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-14T13:00:44.000Z",
-      "updatedAt": "2026-11-15T18:08:08.250Z",
-      "country": "Reino Unido",
-      "countryCode": "GB",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 46.753194444444446,
-      "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/nov/14/fires-heat-floods-extreme-weather-2026"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "guardian-uk-f7724812b97d9d20",
-      "title": "La tormenta Charles provoca inundaciones y cancelaciones de vuelos en el sur de Europa",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-13T08:49:19.000Z",
-      "updatedAt": "2026-11-15T18:08:08.250Z",
-      "country": "Reino Unido",
-      "countryCode": "GB",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 35,
-      "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/environment/2026/nov/13/storm-charles-floods-flight-cancellations-southern-europe-weather"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "guardian-uk-2f369d508278da65",
-      "title": "Dos cráneos que probablemente pertenecían a personas esclavizadas regresaron a Brasil después de que Harvard los utilizara en estudios de eugenesia.",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-11T22:50:37.000Z",
-      "updatedAt": "2026-11-15T18:08:08.250Z",
-      "country": "Reino Unido",
-      "countryCode": "GB",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 35,
-      "source": {
-        "name": "The Guardian",
-        "url": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil"
+        "name": "BBC Mundo",
+        "url": "https://www.bbc.com/mundo/articles/cw5y18j047r4o?at_medium=RSS&at_campaign=rss"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -819,12 +387,12 @@
       "title": "TechCrunch Mobility: El plan B de Nvidia para el sector de los vehículos autónomos en China",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-15T17:05:00.000Z",
-      "updatedAt": "2026-11-15T18:08:08.366Z",
+      "updatedAt": "2026-11-15T20:13:35.192Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 97.89535222222223,
+      "importance": 93.71378222222222,
       "source": {
         "name": "TechCrunch",
         "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/"
@@ -837,12 +405,12 @@
       "title": "Los productos tecnológicos que recomendamos con entusiasmo estas Navidades",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-15T16:00:00.000Z",
-      "updatedAt": "2026-11-15T18:08:08.366Z",
+      "updatedAt": "2026-11-15T20:13:35.193Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 95.72868555555556,
+      "importance": 91.547115,
       "source": {
         "name": "TechCrunch",
         "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/"
@@ -851,253 +419,37 @@
       "isEditorialSummary": false
     },
     {
-      "id": "techcrunch-acaf00569e865f08",
-      "title": "¿Dónde estaba el equipo de seguridad de Nvidia?",
+      "id": "bbc-mundo-262c9fb2ee0c9212",
+      "title": "La mujer que lleva años atrapada en una isla paradisíaca sin poder volver a casa por un problema con su visa",
+      "summary": "Ruchira Ranasingha, de 50 años, lleva varada en las Islas Cook desde 2023 y quiere regresar a Sri Lanka.",
+      "publishedAt": "2026-11-15T13:13:11.000Z",
+      "updatedAt": "2026-11-15T20:13:30.618Z",
+      "country": "Reino Unido",
+      "countryCode": "GB",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 90.98910111111111,
+      "source": {
+        "name": "BBC Mundo",
+        "url": "https://www.bbc.com/mundo/articles/crn4ed2ljg8no?at_medium=RSS&at_campaign=rss"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "npr-us-7f792e0d74095d29",
+      "title": "Las leyes que limitan la exposición de los mineros del carbón al polvo tóxico corren el riesgo de derogarse.",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T00:08:07.000Z",
-      "updatedAt": "2026-11-15T18:08:08.366Z",
+      "publishedAt": "2026-11-15T13:11:30.000Z",
+      "updatedAt": "2026-11-15T20:13:33.344Z",
       "country": "Estados Unidos",
       "countryCode": "US",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 63.99924111111111,
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 90.93147555555555,
       "source": {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "techcrunch-a4a92fbcda03532a",
-      "title": "Elon Musk y otros ejecutivos del sector tecnológico firman una petición para pedir a Nvidia que readmita a Jensen Huang",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-14T21:41:22.000Z",
-      "updatedAt": "2026-11-15T18:08:08.366Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 59.107574444444445,
-      "source": {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "techcrunch-0f3c66386c82c288",
-      "title": "Tesla abre los pedidos anticipados del Cybercab «para uso personal», con restricciones geográficas y una cuota mensual de 299 $",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-14T20:04:44.000Z",
-      "updatedAt": "2026-11-15T18:08:08.366Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 55.88646333333333,
-      "source": {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "techcrunch-08ed142fce60c02f",
-      "title": "¿Tienes un iPhone Duo? Estos 9 ajustes facilitan su uso",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-14T18:00:00.000Z",
-      "updatedAt": "2026-11-15T18:08:08.366Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 51.72868555555556,
-      "source": {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "techcrunch-2aae0ad36a1c0089",
-      "title": "El secretario de Transportes culpa de la suspensión de vuelos en todo el país a la «rutinaria» actualización de equipos",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-14T17:45:04.000Z",
-      "updatedAt": "2026-11-15T18:08:08.366Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 51.23090777777778,
-      "source": {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "techcrunch-7134e7e1ad670b60",
-      "title": "El cementerio de la IA: una lista actualizada de proyectos y «startups» que no lo consiguieron",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-14T17:30:00.000Z",
-      "updatedAt": "2026-11-15T18:08:08.366Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 50.72868555555556,
-      "source": {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "xataka-c90035de6b226119",
-      "title": "Llevamos años llamando \"superalimento al arándano, pero ya hemos encontrado un problema en muchos de los estudios que lo alaban",
-      "summary": "El arándano lleva años coronando las listas de \"superalimentos\" con promesas que abarcan desde la prevención de infartos hasta mejoras milagrosas en la memoria, haciendo que mucha gente lo lleve en su carro de la compra. Pero la pregunta que debemos hacernos en estos casos es si de verdad hay evidencias sólidas que apunten a que tiene tantos beneficios para nuestra salud como se promete. Un problema de fondo. La realidad es que puede ser muy fácil encontrar literatura científica que defiende los muchos beneficios que tienen los arándonos como por ejemplo la mejora en la tensión, en la reducció",
-      "publishedAt": "2026-11-15T18:01:21.000Z",
-      "updatedAt": "2026-11-15T18:08:08.896Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 114.77339111111111,
-      "source": {
-        "name": "Xataka",
-        "url": "https://www.xataka.com/medicina-y-salud/arandano-lleva-anos-acumulando-promesas-nuestra-salud-ciencia-empieza-a-separar-que-funciona-que-puro-marketing"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "xataka-35fc8be6de3e5d31",
-      "title": "EEUU mira al fondo del agua para montar sus centros de datos y los Grandes Lagos tienen todas las papeletas",
-      "summary": "Los centros de datos para la IA generan rechazo a lo largo y ancho del planeta y Estados Unidos, uno de los lugares donde más datacenters hay, ya les ha dicho que no hasta en referéndums. Da igual, siguen siendo esenciales para el despegue de la inteligencia artificial y hay mucho dinero encima de la mesa como para dejarlos aparcados en un cajón. Así, ya han mirado al espacio y también al agua. En los Grandes Lagos aún no hay ninguno propuesto, pero un grupo ecologista ya se ha anticipado a esa posibilidad, como recoge The Guardian. La administración está a favor. Trump tiene claro que Estados",
-      "publishedAt": "2026-11-15T17:01:24.000Z",
-      "updatedAt": "2026-11-15T18:08:08.897Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 112.77505777777777,
-      "source": {
-        "name": "Xataka",
-        "url": "https://www.xataka.com/robotica-e-ia/eeuu-mira-al-fondo-agua-para-montar-sus-centros-datos-grandes-lagos-tienen-todas-papeletas"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "xataka-524fb052d4bc88b6",
-      "title": "Los primeros ricos de Europa no heredaron la riqueza: se la ganaron (y tardaron siglos en hacerla hereditaria)",
-      "summary": "Echando la vista atrás desde la actualidad, resulta muy complicado saber quién era rico antaño, cuando no existía la escritura para dejar testimonio. Así que un equipo de investigación de la Universidad de Copenhague ha desarrollado un método llamado QuantWealth que permite deducirlo a partir de las tumbas. Y han empezado probándolo en unas tumbas de Bohemia de hace 4.500 años. El hallazgo. Al aplicarlo a la cultura de la cerámica cordada han descubierto que la desigualdad en las comunidades de pastores de Centroeuropa fue creciendo lentamente a lo largo de los siglos y que quienes llegaban de",
-      "publishedAt": "2026-11-15T16:31:22.000Z",
-      "updatedAt": "2026-11-15T18:08:08.897Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 111.77394611111112,
-      "source": {
-        "name": "Xataka",
-        "url": "https://www.xataka.com/magnet/primeros-ricos-europa-no-heredaron-riqueza-se-ganaron-tardaron-siglos-hacerla-hereditaria"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "xataka-8e15b477e6eaab1f",
-      "title": "En 2010 vimos una avispa rara en este idílico pueblo de Navarra. Hoy las velutinas ya ocupan el 18% de la España peninsular",
-      "summary": "Es 5 de enero de 2019. De noche. Un equipo baja un nido de avispas asiáticas de un sauce blanco en Nigrán (Pontevedra). Está a 12 metros del suelo y en él vivían 1979 avispas velutinas, sin contar los huevos. Era una colonia en plena producción. El único problema es que esa colonia debería de haber llevado semanas muerta: la velutina es un reloj. Los nidos se apagan entre noviembre y diciembre y solo las reinas pasan el invierno. En enero, en Pontevedra, esas avispas asiáticas no se habían ni enterado. Y esto explica mejor que nada la forma en la que esta especie invasora se ha hecho con cada ",
-      "publishedAt": "2026-11-15T16:01:24.000Z",
-      "updatedAt": "2026-11-15T18:08:08.897Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 110.77505722222222,
-      "source": {
-        "name": "Xataka",
-        "url": "https://www.xataka.com/ecologia-y-naturaleza/2010-vimos-avispa-rara-pueblo-navarra-hoy-velutinas-ocupan-18-espana-peninsular"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "xataka-1bc010c146452463",
-      "title": "Menos chuletón, más lentejas: un estudio finlandés relaciona la proteína vegetal con niveles más altos de testosterona",
-      "summary": "El imaginario tradicional relaciona la testosterona con hombres muy viriles y a esos hombres viriles los asocia mucho más con un buen chuletón que con un plato de lentejas. Sin embargo, según un estudio publicado recientemente por científicos finlandeses, el consumo de proteína vegetal se asocia con niveles más altos de testosterona que el de proteína animal. Habrá personas a las que esto les sorprenda muchísimo, pero vamos a ver los datos. Más de 2.000 participantes. Los datos para llevar a cabo este estudio se tomaron en Finlandia, entre 1984 y 1989. En total, participaron 2.546 hombres, con",
-      "publishedAt": "2026-11-15T15:31:25.000Z",
-      "updatedAt": "2026-11-15T18:08:08.897Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 109.77561277777778,
-      "source": {
-        "name": "Xataka",
-        "url": "https://www.xataka.com/medicina-y-salud/chuleton-lentejas-estudio-finlandes-relaciona-proteina-vegetal-niveles-altos-testosterona"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "xataka-a8a5c0c6f20dd44b",
-      "title": "De 'GTA V' a 'GTA VI': 13 años, 4.700 empleados y una industria que sigue apartándose del camino de Rockstar",
-      "summary": "'Grand Theft Auto VI' sale este 19 de noviembre, 13 añazos después de que 'GTA V' llegara a las tiendas. En ese tiempo, Rockstar ha casi duplicado su plantilla, ha dejado de publicar juegos con la frecuencia de antaño y ha construido lo que probablemente será el videojuego más caro de la historia y algo, posiblemente, irrepetible durante mucho tiempo. Han cambiado muchas cosas en esos 13 años, pero lo que no ha cambiado es que el lanzamiento de un GTA es un agujero negro para el calendario. Por las nubes. Antes de iniciar el recorrido, vamos con lo que se espera. Take- Two, la empresa a la que",
-      "publishedAt": "2026-11-15T15:01:31.000Z",
-      "updatedAt": "2026-11-15T18:08:08.897Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 108.77894611111111,
-      "source": {
-        "name": "Xataka",
-        "url": "https://www.xataka.com/videojuegos/gta-v-a-gta-vi-13-anos-4-700-empleados-industria-que-sigue-apartandose-camino-rockstar"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "xataka-d511a5943c70757d",
-      "title": "Por qué nos entra sueño después de comer: la culpa no es solo de la comida, sino de nuestro reloj biológico",
-      "summary": "Hay mucha gente que, cuando termina de comer y vuelve a su puesto de trabajo o incluso se sienta en el sofá, automáticamente siente como si los párpados comenzaran a pesarles como si estuvieran hechos de plomo. Esto es algo que se define como 'modorra' y tradicionalmente la sabiduría popular lo ha tratado de explicar apuntando a que en ese momento la sangre se va al estómago para hacer la digestión y deja el cerebro bajo mínimos. Pero es algo más complejo. El bajón estaba ahí. La idea más importante sobre esta somnolencia que nos da por la tarde es que no la causa la comida como tal, sino que ",
-      "publishedAt": "2026-11-15T14:31:25.000Z",
-      "updatedAt": "2026-11-15T18:08:08.897Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 107.77561277777778,
-      "source": {
-        "name": "Xataka",
-        "url": "https://www.xataka.com/medicina-y-salud/que-nos-entra-sueno-despues-comer-culpa-no-solo-comida-sino-nuestro-reloj-biologico"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "xataka-06fe02e710689d7b",
-      "title": "Tantos años buscando la energía oscura y unos científicos creen que la respuesta ya la había formulado Einstein",
-      "summary": "En 1917, después de enunciar su Teoría de la Relatividad General, Einstein introdujo un término, llamado constante cosmológica, que servía para explicar el Universo como algo estático. Más tarde, en 1929, Edwin Hubble descubrió que el Universo se expande, por lo que la constante dejó de ser necesaria. Se dice que el propio Einstein la bautizó como su “mayor error”. Sin embargo, de un modo u otro la física siempre le acaba dando la razón al físico alemán. En 1998, se descubrió que esa expansión se está acelerando con el tiempo, así que la constante cosmológica volvió a tener sentido, en este ca",
-      "publishedAt": "2026-11-15T14:01:24.000Z",
-      "updatedAt": "2026-11-15T18:08:08.897Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 106.77505722222222,
-      "source": {
-        "name": "Xataka",
-        "url": "https://www.xataka.com/espacio/anos-buscando-energia-oscura-estos-cientificos-sugieren-que-respuesta-estaba-ecuaciones-einstein-siempre"
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/11/15/nx-s1-6039311/laws-limiting-coal-miners-exposure-to-toxic-dust-are-in-danger-of-being-rolled-back"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
