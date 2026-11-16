@@ -18,6 +18,8 @@ jobs:
       - run: npm ci
       - name: Recopilar y traducir titulares
         run: npm run collect-feeds
+      - name: Recopilar efemérides del día
+        run: node scripts/collect-on-this-day.mjs
         env:
           MYMEMORY_EMAIL: ${{ secrets.MYMEMORY_EMAIL }}
       - run: node -e "const fs=require('fs'); const x=JSON.parse(fs.readFileSync('generated/news-feed.json')); if(!x.schemaVersion||!Array.isArray(x.stories)) process.exit(1)"
@@ -28,12 +30,13 @@ jobs:
           if [ "$count" -gt 0 ]; then echo "has_stories=true" >> "$GITHUB_OUTPUT"; else echo "has_stories=false" >> "$GITHUB_OUTPUT"; echo "Sin titulares actuales; se conserva el último JSON válido."; fi
       - if: steps.gate.outputs.has_stories == 'true'
         run: mkdir -p public/data && cp generated/news-feed.json public/data/news-feed.json
+      - run: mkdir -p public/data && cp generated/on-this-day.json public/data/on-this-day.json
       - if: steps.gate.outputs.has_stories == 'true'
         run: |
           git config user.name "mi-actualidad-bot"
           git config user.email "actions@users.noreply.github.com"
           git add public/data/news-feed.json
-          git add generated/translation-cache.json
+          git add generated/translation-cache.json public/data/on-this-day.json
           git diff --cached --quiet || git commit -m "content: update free-source headlines [skip ci]"
           git push
 
