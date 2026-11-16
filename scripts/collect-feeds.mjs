@@ -9,12 +9,12 @@ const parser=new Parser({timeout:10000}); const stories=[]; const withTimeout=(p
 const spanishSources=new Set(catalog.sources.filter(s=>s.language==='es').map(s=>s.id));
 const translationEmail=process.env.MYMEMORY_EMAIL||'';
 const translationCache=new Map(Object.entries(JSON.parse(await fs.readFile('generated/translation-cache.json','utf8').catch(()=> '{}'))));
-let translationCalls=0; const deadline=Date.now()+120000;
+let translationCalls=0; const deadline=Date.now()+180000;
 async function translateTitle(title){
   if(spanishSources.has(this.id)||spanishWords.test(title)) return title;
   if(!translationEmail) return null;
   if(translationCache.has(title)) return translationCache.get(title);
-  if(translationCalls>=12||Date.now()>deadline)return null;
+  if(translationCalls>=40||Date.now()>deadline)return null;
   translationCalls++;
   try{const url=`https://api.mymemory.translated.net/get?q=${encodeURIComponent(title)}&langpair=${this.language||'en'}|es&de=${encodeURIComponent(translationEmail)}`;const response=await fetch(url,{signal:AbortSignal.timeout(6000)});const result=await response.json();const translated=result?.responseData?.translatedText?.trim();if(!translated||/^[\s\W]*[a-z]/i.test(translated)===false)return null;translationCache.set(title,translated);return translated}catch{return null}
 }
