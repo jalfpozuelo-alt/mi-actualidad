@@ -1,797 +1,833 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-15T21:58:37.260Z",
+  "generatedAt": "2026-11-16T11:34:53.621Z",
   "isEditoriallyValidated": false,
   "summaryStatus": "pending-editorial-review",
   "stories": [
     {
-      "id": "elmundo-es-6d06f590ba5ff4ed",
-      "title": "Con la voz al límite y su asesor fetiche, Lula compartirá con Sánchez la fórmula para revertir una elección perdida",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T20:50:47.000Z",
-      "updatedAt": "2026-11-15T21:58:14.390Z",
+      "id": "elpais-a2dbc86e73d81cd9",
+      "title": "Frente Amplio apuesta por una jornada laboral de 32 horas y jubilación a los 65 años",
+      "summary": "El programa da una vuelta de tuerca a las medidas tradicionales de izquierdas con un tope máximo a las herencias",
+      "publishedAt": "2026-11-16T11:31:52.000Z",
+      "updatedAt": "2026-11-16T11:34:17.657Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 112.75145,
-      "source": {
-        "name": "EL MUNDO",
-        "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/15/6afa1a6be9cf4afa148b457c.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "elmundo-es-0a1e40ce283739e3",
-      "title": "El Hierro tiembla: 3.163 inmigrantes en tres días y sólo 12.000 habitantes",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T20:31:00.000Z",
-      "updatedAt": "2026-11-15T21:58:14.390Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "España",
-      "category": "España",
-      "importance": 112.09200555555556,
-      "source": {
-        "name": "EL MUNDO",
-        "url": "https://www.elmundo.es/espana/2026/11/15/6af9fde221efa063298b457e.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "elpais-9efa44067a7464a4",
-      "title": "Sánchez y Chelo García Cortés para las campanadas de La Séptima o ‘La Peter’ en ‘Fuera de Control’",
-      "summary": "El presidente del Gobierno habla de su papel como suegro y de cómo conoció a su esposa, Begoña Gómez",
-      "publishedAt": "2026-11-15T19:56:07.000Z",
-      "updatedAt": "2026-11-15T21:58:10.095Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "España",
-      "category": "España",
-      "importance": 110.93161388888889,
+      "importance": 114.91907944444445,
       "source": {
         "name": "EL PAÍS",
-        "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/sanchez-y-chelo-garcia-cortes-para-las-campanadas-de-la-septima-o-la-peter-en-fuera-de-control.html"
+        "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/frente-amplio-apuesta-por-una-jornada-laboral-de-32-horas-y-jubilacion-a-los-65-anos.html"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "elpais-b18c6c7ce0c87ace",
-      "title": "El PSOE propone destinar el 1% del PIB a vivienda social y crear una prestación estatal por crianza",
-      "summary": "El programa electoral de los socialistas incorpora un nuevo impuesto “contra la especulación” de los fondos buitre y grandes propietarios, y defiende el impulso de las renovables para alcanzar el 81% de generación eléctrica en 2030",
-      "publishedAt": "2026-11-15T19:30:47.000Z",
-      "updatedAt": "2026-11-15T21:58:10.095Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "España",
-      "category": "España",
-      "importance": 110.08716944444444,
-      "source": {
-        "name": "EL PAÍS",
-        "url": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-propone-destinar-el-1-del-pib-a-vivienda-social-y-crear-una-prestacion-estatal-por-crianza.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "elmundo-es-1249f0a03d241c57",
-      "title": "El Sindicato de Inquilinas abre su nueva etapa ante el posible cambio de Gobierno en Vistalegre:  \"Lo que se ha encendido aquí ya no lo para nadie\"",
+      "id": "elmundo-es-c35e79aecf0cbc4f",
+      "title": "El Frente Amplio propone limitar las herencias a un máximo de 10 millones por persona",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T19:30:07.000Z",
-      "updatedAt": "2026-11-15T21:58:14.390Z",
+      "publishedAt": "2026-11-16T11:22:06.000Z",
+      "updatedAt": "2026-11-16T11:34:33.982Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 110.06256111111111,
+      "importance": 114.58445444444445,
       "source": {
         "name": "EL MUNDO",
-        "url": "https://www.elmundo.es/economia/2026/11/15/6af9d36ee85eceb7168b4577.html"
+        "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afac0a8fc6c8389748b4597.html"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "clarin-ar-ca16b1109c1157d9",
-      "title": "Cómo hizo \"La ley y el orden: UVE\" para llegar a los 600 capítulos y sobrevivir casi tres décadas en la TV",
-      "summary": "La serie protagonizada por Mariska Hargitay alcanzó una marca excepcional para una ficción estadounidense. Los cambios de elenco, los casos inspirados en la realidad y el personaje que se convirtió en el corazón de la historia. Esta semana se estrenó el episodio 600, perteneciente a la temporada 28.",
-      "publishedAt": "2026-11-15T21:24:09.000Z",
-      "updatedAt": "2026-11-15T21:58:12.643Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 105.86464277777777,
-      "source": {
-        "name": "Clarín",
-        "url": "https://www.clarin.com/espectaculos/hizo-ley-orden-uve-llegar-600-capitulos-sobrevivir-decadas-tv_0_zY5InDEjpY.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "clarin-ar-29ade809d3d56e3d",
-      "title": "Comienza una semana con agenda cargada para Milei: reunión con autoridades de Toyota, lanzamiento de Tesla y un encuentro de polo con Adolfo Cambiaso",
-      "summary": "Luego de la pausa generada por la visita papal, los funcionarios reactivarán las actividades. El martes volverá a reunirse la mesa política con Karina Milei a la cabeza.",
-      "publishedAt": "2026-11-15T21:13:44.000Z",
-      "updatedAt": "2026-11-15T21:58:12.643Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 105.51742055555556,
-      "source": {
-        "name": "Clarín",
-        "url": "https://www.clarin.com/politica/comienza-semana-agenda-cargada-milei-reunion-autoridades-toyota-lanzamiento-tesla-encuentro-polo-adolfo-cambiaso_0_TaIKEX7RhQ.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "clarin-ar-e81e5a72b78deaca",
-      "title": "A puro lujo, Ronaldinho volvió a las canchas a los 46 años: así fue el regreso del brasileño al fútbol profesional en Italia",
-      "summary": "La leyenda participó en los primeros 45 minutos para el Ravenna en el clásico contra el Forli por la Serie C italiana.",
-      "publishedAt": "2026-11-15T21:13:36.000Z",
-      "updatedAt": "2026-11-15T21:58:12.643Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 105.51297611111112,
-      "source": {
-        "name": "Clarín",
-        "url": "https://www.clarin.com/deportes/puro-lujo-ronaldinho-volvio-canchas-46-anos-regreso-brasileno-futbol-profesional-italia_0_FGLATeLNXF.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "clarin-ar-a1ccd2fb372eebb8",
-      "title": "Gobierno Trump culpa a previos Ejecutivos por caos aéreo que aún deja 1.900 cancelaciones",
-      "summary": "El caos aéreo en EE.UU. tras un fallo técnico deja casi 2.000 vuelos cancelados. El Gobierno culpa a gestiones previas por la falta de modernización. El secretario de Transporte señala al Congreso por insuficientes fondos, mientras el senador Van Hollen critica la gestión actual de los recursos.",
-      "publishedAt": "2026-11-15T21:10:09.000Z",
-      "updatedAt": "2026-11-15T21:58:12.643Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 105.3979761111111,
-      "source": {
-        "name": "Clarín",
-        "url": "https://www.clarin.com/estados-unidos/gobierno-trump-culpa-a-previos-ejecutivos-por-caos-aereo-que-aun-deja-1-900-cancelaciones_0_gWdpJ73qd5.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "clarin-ar-e0cb003b68ddda82",
-      "title": "LeBron se coloca tercero en lista histórica de asistencias en triunfo 131-124 de 76ers ante Pacers",
-      "summary": "El conjunto de Filadelfia venció a Indiana 131-124, destacando LeBron James con 11 asistencias, superando a Kidd en la lista histórica de la NBA. Jaylen Brown y Tyrese Maxey brillaron en el marcador para los Sixers, mientras Siakam lideró a los de Indiana con 31 puntos.",
-      "publishedAt": "2026-11-15T21:10:04.000Z",
-      "updatedAt": "2026-11-15T21:58:12.643Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 105.39519833333334,
-      "source": {
-        "name": "Clarín",
-        "url": "https://www.clarin.com/estados-unidos/lebron-se-coloca-tercero-en-lista-historica-de-asistencias-en-triunfo-131-124-de-76ers-ante-pacers_0_l1duQBdvdV.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "rfi-fr-57b4d1f9aa1fe805",
-      "title": "L'équipe de France domine la Turquie, non sans mal, et poursuit sa route en Ligue des nations",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T21:39:35.000Z",
-      "updatedAt": "2026-11-15T21:58:14.797Z",
-      "country": "Francia",
-      "countryCode": "FR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 104.37789055555555,
-      "source": {
-        "name": "RFI",
-        "url": "https://www.rfi.fr/fr/sports/20261115-l-%C3%A9quipe-de-france-domine-la-turquie-non-sans-mal-et-poursuit-sa-route-en-ligue-des-nations"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "rfi-fr-b97f22537f144956",
-      "title": "Aux États-Unis, le secrétaire au Commerce pris à son tour dans la tempête Nvidia",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T21:30:23.000Z",
-      "updatedAt": "2026-11-15T21:58:14.797Z",
-      "country": "Francia",
-      "countryCode": "FR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 104.0712238888889,
-      "source": {
-        "name": "RFI",
-        "url": "https://www.rfi.fr/fr/am%C3%A9riques/20261115-aux-%C3%A9tats-unis-le-secr%C3%A9taire-au-commerce-pris-%C3%A0-son-tour-dans-la-temp%C3%AAte-nvidia"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "france24-b1d18482ff9cb116",
-      "title": "León XIV llega a la Amazonía peruana tras desafiar la altura de Cusco",
-      "summary": "El papa León XIV, a quien le extirparon parte de un pulmón hace un mes, aterrizó en Pucallpa después de pasar por Cusco, la antigua capital inca, a más de 3.400 metros sobre el nivel del mar. En la ciudad selvática se reunió con líderes indígenas para escuchar sus preocupaciones sobre la deforestación, la tala ilegal y el narcotráfico que amenazan a sus comunidades.",
-      "publishedAt": "2026-11-15T21:18:59.000Z",
-      "updatedAt": "2026-11-15T21:58:12.577Z",
-      "country": "Francia",
-      "countryCode": "FR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 103.69245722222222,
-      "source": {
-        "name": "France 24",
-        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261115-le%C3%B3n-xiv-llega-a-la-amazon%C3%ADa-peruana-tras-desafiar-la-altura-de-cusco"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "france24-56c75210de9a8532",
-      "title": "León XIV en Perú: la Fuerza Aérea comparte video del papa viajando en helicóptero",
-      "summary": "🇵🇪✝️ En el marco de la visita del papa León XIV a Perú, la Fuerza Aérea Peruana compartió imágenes del pontífice en la cabina de un helicóptero, mientras era transportado hacia Santa Cruz el 14 de noviembre ➡️ https://f24.my/CHjx",
-      "publishedAt": "2026-11-15T21:11:24.000Z",
-      "updatedAt": "2026-11-15T21:58:12.577Z",
-      "country": "Francia",
-      "countryCode": "FR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 103.43967944444445,
-      "source": {
-        "name": "France 24",
-        "url": "https://www.france24.com/es/video/20261115-le%C3%B3n-xiv-en-per%C3%BA-la-fuerza-ae%CC%81rea-comparte-video-del-papa-viajando-en-helico%CC%81ptero"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "rfi-fr-7ad39f9eb075b0c3",
-      "title": "République tchèque: 400 000 manifestants à Prague contre la réforme de l'audiovisuel public",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T20:42:41.000Z",
-      "updatedAt": "2026-11-15T21:58:14.797Z",
-      "country": "Francia",
-      "countryCode": "FR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 102.48122388888889,
-      "source": {
-        "name": "RFI",
-        "url": "https://www.rfi.fr/fr/europe/20261115-r%C3%A9publique-tch%C3%A8que-400-000-manifestants-%C3%A0-prague-contre-la-r%C3%A9forme-de-l-audiovisuel-public"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "dw-ru-d7af44c15fdc2153",
-      "title": "FT: Jensen Huang empezó a hablar de su regreso a Nvidia pocos días después de dimitir",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T20:36:00.000Z",
-      "updatedAt": "2026-11-15T21:58:34.108Z",
-      "country": "Rusia",
-      "countryCode": "RU",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 102.24771777777778,
-      "source": {
-        "name": "DW Russian",
-        "url": "https://www.dw.com/ru/ft-дженсен-хуанг-начал-обсуждать-возвращение-в-nvidia-спустя-несколько-дней-после-ухода-в-оставку/a-79953459?maca=rus-rss-ru-top-1051-rdf"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "tagesschau-de-220d4d9cf3c2601a",
-      "title": "Israel: Netanyahu busca el apoyo de Eisenkot para un gobierno de unidad",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T20:23:26.000Z",
-      "updatedAt": "2026-11-15T21:58:16.005Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 101.83888611111111,
-      "source": {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-einheitsregierung-100.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "dw-ru-a45461b250e743b7",
-      "title": "IIHF: La selección rusa no participará en el Campeonato Mundial de Hockey sobre Hielo Juvenil en Canadá",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T19:31:00.000Z",
-      "updatedAt": "2026-11-15T21:58:34.707Z",
-      "country": "Rusia",
-      "countryCode": "RU",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 100.08071833333334,
-      "source": {
-        "name": "DW Russian",
-        "url": "https://www.dw.com/ru/iihf-сборная-россии-не-примет-участие-в-молодежном-чм-по-хоккею-в-канаде/a-79953438?maca=rus-rss-ru-top-1051-rdf"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "tagesschau-de-a3ffe0a59b211e15",
-      "title": "Debate sobre el futuro liderazgo del SPD",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T19:30:05.000Z",
-      "updatedAt": "2026-11-15T21:58:19.384Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 100.05867555555555,
-      "source": {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1684364.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "tagesschau-de-24cadb5035bd5cfd",
-      "title": "El Día Nacional de Conmemoración de las Víctimas de la Guerra y la Violencia en Alemania",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T19:26:47.000Z",
-      "updatedAt": "2026-11-15T21:58:18.841Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 99.94897722222223,
-      "source": {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1684362.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "techcrunch-9e3d554c6cb56d83",
-      "title": "¿Son las malas noticias para Jensen Huang también malas noticias para el sector de la IA?",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T21:56:35.000Z",
-      "updatedAt": "2026-11-15T21:58:13.874Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
+      "id": "xataka-458cd7d956fe52e5",
+      "title": "No necesitas un iPhone para llevar localizadores: este pack de cuatro Tile Mate sirve para cualquier móvil y arrasa en Amazon",
+      "summary": "Perder las llaves justo antes de salir de casa o quedarse mirando la cinta de equipajes del aeropuerto con el corazón en un puño son situaciones que hoy en día tienen fácil solución. Aunque los AirTag de Apple suelen llevarse gran parte del protagonismo, la realidad es que no hace falta tener un iPhone para disfrutar de esta tranquilidad. Ahora, en el Black Friday anticipado de Amazon, el pack de cuatro localizadores Tile Mate (de Life360) se ha convertido en una de las opciones más completas y vendidas precisamente porque funciona a la perfección tanto con Android como iOS. Ha pasado de costa",
+      "publishedAt": "2026-11-16T10:31:22.000Z",
+      "updatedAt": "2026-11-16T11:34:33.756Z",
+      "country": "España",
+      "countryCode": "ES",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 99.94507,
+      "importance": 112.89346944444445,
       "source": {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/"
+        "name": "Xataka",
+        "url": "https://www.xataka.com/seleccion/no-necesitas-iphone-para-llevar-localizadores-este-pack-cuatro-tile-mate-sirve-para-cualquier-movil-arrasa-amazon"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "tagesschau-de-eb92ad95204136bc",
-      "title": "Cientos de miles de personas se manifiestan en Praga contra la reforma de la radiodifusión",
+      "id": "elpais-0f7a68c81c11b411",
+      "title": "El PP propone una ‘ley de nietos’ para que los exiliados vascos por terrorismo de ETA puedan votar en las elecciones autonómicas",
+      "summary": "El líder de los populares, Alberto Núñez Feijóo, tiene previsto desgranar la medida en un acto de campaña esta tarde en Pamplona",
+      "publishedAt": "2026-11-16T10:30:04.000Z",
+      "updatedAt": "2026-11-16T11:34:17.657Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "España",
+      "category": "España",
+      "importance": 112.85907944444445,
+      "source": {
+        "name": "EL PAÍS",
+        "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/el-pp-propone-una-ley-de-nietos-para-que-los-exiliados-vascos-por-terrorismo-de-eta-puedan-votar-en-las-elecciones-autonomicas.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "elmundo-es-3ffdca5e88433138",
+      "title": "El PP promete una 'ley de nietos' para que los exiliados por el terrorismo de ETA puedan votar en el País Vasco y en Navarra",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T19:25:47.000Z",
-      "updatedAt": "2026-11-15T21:58:18.108Z",
-      "country": "Alemania",
-      "countryCode": "DE",
+      "publishedAt": "2026-11-16T09:33:31.000Z",
+      "updatedAt": "2026-11-16T11:34:33.982Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "España",
+      "category": "España",
+      "importance": 110.96501,
+      "source": {
+        "name": "EL MUNDO",
+        "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afac98afdddffc5528b457c.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "clarin-ar-1e8b2baa91afa80e",
+      "title": "Trump regresa a Asia para afianzar la frágil paz comercial y en IA con China",
+      "summary": "Trump busca reforzar su imagen negociadora en Asia, reuniéndose con Xi Jinping para afianzar la frágil tregua comercial y discutir sobre inteligencia artificial. La visita coincide con tensiones por la exportación de chips y la dimisión del fundador de Nvidia, aunque no se esperan avances significativos en el control de exportaciones.",
+      "publishedAt": "2026-11-16T11:10:04.000Z",
+      "updatedAt": "2026-11-16T11:34:25.113Z",
+      "country": "Argentina",
+      "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 99.91605111111112,
+      "importance": 106.18827055555556,
       "source": {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/video/video-1684360.html"
+        "name": "Clarín",
+        "url": "https://www.clarin.com/estados-unidos/trump-regresa-a-asia-para-afianzar-la-fragil-paz-comercial-y-en-ia-con-china_0_9uW8wf5kC7.html"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "tagesschau-de-72e9a56e7ac35d58",
-      "title": "Tagesschau 20:00 h",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T19:17:36.000Z",
-      "updatedAt": "2026-11-15T21:58:17.518Z",
-      "country": "Alemania",
-      "countryCode": "DE",
+      "id": "clarin-ar-5d2c436d10517c39",
+      "title": "Súper Niño 2026 en Argentina, EN VIVO: el río Paraná sigue creciendo y superó el nivel de evacuación en Santa Fe",
+      "summary": "El río llegó este lunes a 5,77 metros en el puerto de la capital provincial, por encima de la marca de referencia que es de 5,30.",
+      "publishedAt": "2026-11-16T11:08:28.000Z",
+      "updatedAt": "2026-11-16T11:34:25.113Z",
+      "country": "Argentina",
+      "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 99.64360111111111,
+      "importance": 106.13493722222222,
       "source": {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/tagesschau_20_uhr/video-1684374.html"
+        "name": "Clarín",
+        "url": "https://www.clarin.com/sociedad/super-nino-2026-argentina-vivo-rio-parana-sigue-creciendo-supero-nivel-evacuacion-santa-fe_0_COoAC6rbfX.html"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "bbc-mundo-6346c7f62c3abdef",
-      "title": "Zelensky pide a EE.UU. y Elon Musk reestablecer el acceso total de Ucrania a Starlink para frenar los ataques rusos",
-      "summary": "El presidente ucraniano afirma que las restricciones siguen vigentes y dificultan las operaciones defensivas de su ejército.",
-      "publishedAt": "2026-11-15T19:16:49.000Z",
-      "updatedAt": "2026-11-15T21:58:10.260Z",
+      "id": "clarin-ar-693cfbae0378f488",
+      "title": "Rescatan a un búho excavador de Fort Myers tras quedar atrapado en una trampa de pegamento",
+      "summary": "El ave presentaba adhesivo en plumas, patas y pecho. Luego de un breve tratamiento, fue liberado en su hábitat natural donde había sido encontrado.",
+      "publishedAt": "2026-11-16T11:01:26.000Z",
+      "updatedAt": "2026-11-16T11:34:25.113Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 105.90049277777777,
+      "source": {
+        "name": "Clarín",
+        "url": "https://www.clarin.com/estados-unidos/rescatan-buho-excavador-fort-myers-quedar-atrapado-trampa-pegamento_0_qwkn6qpbh1.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "clarin-ar-a81a24f794dc3dc7",
+      "title": "Llega a Oriente Medio un tercer portaviones estadounidense, según la prensa",
+      "summary": "El USS Theodore Roosevelt arribó a Oriente Medio, aumentando a tres los portaviones de EE.UU. en la zona, en medio de intensos combates. Irán lanzó drones contra Baréin, rompiendo la tregua en el Golfo. Trump discutirá el conflicto con líderes de China y Rusia esta semana.",
+      "publishedAt": "2026-11-16T11:00:09.000Z",
+      "updatedAt": "2026-11-16T11:34:25.113Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 105.857715,
+      "source": {
+        "name": "Clarín",
+        "url": "https://www.clarin.com/estados-unidos/llega-a-oriente-medio-un-tercer-portaviones-estadounidense-segun-la-prensa_0_Yp3XAoFKVe.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "elpais-227fcf3524977a37",
+      "title": "Yolanda Díaz retira su candidatura a la dirección general de la OIT",
+      "summary": "El actual director, Houngbo, supera en apoyos a Díaz ante la votación que estaba prevista este lunes en el organismo de la ONU, por lo que la vicepresidenta da un paso atrás",
+      "publishedAt": "2026-11-16T06:59:46.000Z",
+      "updatedAt": "2026-11-16T11:34:17.657Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "España",
+      "category": "España",
+      "importance": 105.84907944444444,
+      "source": {
+        "name": "EL PAÍS",
+        "url": "https://elpais.com/economia/2026-11-16/yolanda-diaz-retira-su-candidatura-a-la-direccion-general-de-la-oit.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "clarin-ar-350172ceae59bb00",
+      "title": "En 1999, Clint Eastwood, Arnold Palmer y Peter Ueberroth compraron Pebble Beach por 820 millones de dólares; en 2027, el complejo volverá a ser sede del Abierto de Golf de Estados Unidos",
+      "summary": "Ubicado sobre la costa de California, el lugar combina campos de golf, hoteles y paisajes naturales. Su historia también está ligada a una operación millonaria que reunió a figuras del cine, del deporte y de los negocios.",
+      "publishedAt": "2026-11-16T10:57:25.000Z",
+      "updatedAt": "2026-11-16T11:34:25.113Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 105.7666038888889,
+      "source": {
+        "name": "Clarín",
+        "url": "https://www.clarin.com/estados-unidos/1999-clint-eastwood-arnold-palmer-peter-ueberroth-compraron-pebble-beach-820-millones-dolares-2027-complejo-volvera-sede-abierto-golf-estados-unidos_0_WWsGhUyRKg.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "bbc-mundo-333b2dca46c5d4f4",
+      "title": "Muere a los 80 años Miguel Ángel Félix Gallardo, el \"Jefe de Jefes\" que revolucionó el narcotráfico en México al aliarse con carteles de Colombia",
+      "summary": "El domingo falleció quien fuera el líder del todopoderoso Cartel de Guadalajara en la década de 1980 y quien cambió el negocio del narcotráfico al aliarse con el Cartel de Medellín",
+      "publishedAt": "2026-11-16T11:09:57.000Z",
+      "updatedAt": "2026-11-16T11:34:18.031Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 99.62152222222223,
+      "importance": 104.1883161111111,
       "source": {
         "name": "BBC Mundo",
-        "url": "https://www.bbc.com/mundo/articles/cr930qe3pwx3o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/mundo/articles/c65y172egk2qo?at_medium=RSS&at_campaign=rss"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "bbc-ru-cbb50d541b267ee5",
-      "title": "En Praga, cientos de miles de personas salieron a protestar contra la reforma de la financiación de los medios de comunicación públicos.",
+      "id": "tagesschau-de-436bbd781c3886eb",
+      "title": "La UE da luz verde a UniCredit para la adquisición de Commerzbank",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T19:05:39.000Z",
-      "updatedAt": "2026-11-15T21:58:30.745Z",
+      "publishedAt": "2026-11-16T11:04:47.000Z",
+      "updatedAt": "2026-11-16T11:34:36.093Z",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 104.00605944444445,
+      "source": {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-unicredit-eu-genehmigung-100.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "dw-ru-c84a2d564d9e7557",
+      "title": "Guterres: No se vislumbran perspectivas de un pronto fin de la guerra en Ucrania",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T10:55:00.000Z",
+      "updatedAt": "2026-11-16T11:34:53.620Z",
       "country": "Rusia",
       "countryCode": "RU",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 99.23791944444444,
+      "importance": 103.67021111111112,
+      "source": {
+        "name": "DW Russian",
+        "url": "https://www.dw.com/ru/гутерриш-перспектив-скорого-окончания-войны-в-украине-не-видно/a-79958148?maca=rus-rss-ru-top-1051-rdf"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "bbc-mundo-b69174402549d148",
+      "title": "Por qué mucha de la fibra que necesita tu cuerpo termina en el bote de basura (y cómo aprovecharla mejor en tus comidas)",
+      "summary": "Según investigadores de la alimentación, masticar las cáscaras, las semillas y los tallos de las verduras podría proporcionarnos una gran cantidad de fibra que es vital para nuestro organismo.",
+      "publishedAt": "2026-11-16T10:48:16.000Z",
+      "updatedAt": "2026-11-16T11:34:18.031Z",
+      "country": "Reino Unido",
+      "countryCode": "GB",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 103.46553833333333,
+      "source": {
+        "name": "BBC Mundo",
+        "url": "https://www.bbc.com/mundo/articles/cm3wg64y183wo?at_medium=RSS&at_campaign=rss"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "tagesschau-de-dddcbf2f814380e3",
+      "title": "Jette Studier, MDR, sobre la candidatura a la reelección de la ministra presidenta Schwesig",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T10:22:23.000Z",
+      "updatedAt": "2026-11-16T11:34:39.177Z",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 102.59101277777778,
+      "source": {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/video/video-1684574.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "bbc-ru-6d418746ba4dc9ae",
+      "title": "Ha fallecido «el jefe de los jefes» Miguel Ángel Félix Gallardo, uno de los mayores narcos de la historia",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T10:21:14.000Z",
+      "updatedAt": "2026-11-16T11:34:51.963Z",
+      "country": "Rusia",
+      "countryCode": "RU",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 102.54557611111112,
       "source": {
         "name": "BBC Russian",
-        "url": "https://www.bbc.com/russian/articles/cqg7lgkmen4vo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/russian/articles/cq20xndrg41zo?at_medium=RSS&at_campaign=rss"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "dw-ru-87f6b817032dd75f",
-      "title": "En Bremen se ha suspendido una controvertida campaña informativa sobre la amenaza del islamismo tras las críticas de la comunidad musulmana local",
+      "id": "guardian-uk-866c571fc6c7d4d7",
+      "title": "El traslado de los babuinos de Ciudad del Cabo a un santuario provoca airadas protestas",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T19:03:00.000Z",
-      "updatedAt": "2026-11-15T21:58:35.385Z",
-      "country": "Rusia",
-      "countryCode": "RU",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 99.14700833333333,
-      "source": {
-        "name": "DW Russian",
-        "url": "https://www.dw.com/ru/в-бремене-остановили-спорную-инфокампанию-об-угрозе-исламизма-после-критики-местной-общины-мусульман/a-79953301?maca=rus-rss-ru-top-1051-rdf"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "techcrunch-d9bb72c7b4b43418",
-      "title": "El «Saturday Night Live» reúne a todos los magnates de la tecnología para darles una lección sobre citas y espionaje",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T20:20:57.000Z",
-      "updatedAt": "2026-11-15T21:58:13.874Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 96.75729222222222,
-      "source": {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "npr-us-4c14124ae21c5934",
-      "title": "El puerto de Nueva Orleans demanda a los propietarios del buque cisterna implicado en el accidente del Mississippi",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T17:45:27.000Z",
-      "updatedAt": "2026-11-15T21:58:12.418Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 96.57476777777778,
-      "source": {
-        "name": "NPR",
-        "url": "https://www.npr.org/2026/11/15/nx-s1-6041677/new-orleans-port-sues-miracle-mississippi-cruise-ship"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "bbc-mundo-85501f969866abdf",
-      "title": "Cómo el \"terror rojo\" borró de la historia a Paul Robeson, la \"persona negra más famosa de EE.UU.\"",
-      "summary": "Superestrella del teatro y el cine, talentoso jugador de fútbol americano y creador de éxitos musicales. Pero el fervor anticomunista de la Guerra Fría, le asestó un fuerte golpe.",
-      "publishedAt": "2026-11-15T17:42:06.000Z",
-      "updatedAt": "2026-11-15T21:58:10.261Z",
+      "publishedAt": "2026-11-16T10:19:08.000Z",
+      "updatedAt": "2026-11-16T11:34:25.892Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 96.46429944444445,
+      "importance": 102.49006,
       "source": {
-        "name": "BBC Mundo",
-        "url": "https://www.bbc.com/mundo/articles/cj7d00x7522o?at_medium=RSS&at_campaign=rss"
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "dw-ru-c82e2ff87a3427ac",
-      "title": "El presidente de Argentina, Javier Milei, tiene intención de presentarse a un segundo mandato",
+      "id": "tagesschau-de-20728ba68d14934b",
+      "title": "Ucrania: Preparativos para el invierno de la guerra",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T17:34:00.000Z",
-      "updatedAt": "2026-11-15T21:58:36.039Z",
-      "country": "Rusia",
-      "countryCode": "RU",
+      "publishedAt": "2026-11-16T10:15:12.000Z",
+      "updatedAt": "2026-11-16T11:34:37.940Z",
+      "country": "Alemania",
+      "countryCode": "DE",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 96.17997833333334,
+      "importance": 102.35225555555556,
       "source": {
-        "name": "DW Russian",
-        "url": "https://www.dw.com/ru/президент-аргентины-хавьер-милей-намерен-избираться-на-второй-срок/a-79953101?maca=rus-rss-ru-top-1051-rdf"
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/video/video-1684560.html"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "techcrunch-8327947f6831195e",
-      "title": "La nueva campaña de Kickstarter de Flaming Hydra replantea la propiedad de los libros electrónicos y el préstamo digital",
+      "id": "dw-zh-3af329e18a4f5865",
+      "title": "APEC期间高市与习近平或仅有一次「冰冷而无表情」的握手",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T18:29:14.000Z",
-      "updatedAt": "2026-11-15T21:58:13.874Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 93.03340333333334,
-      "source": {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "bbc-mundo-e5ef758c8aa5366f",
-      "title": "El legado de Miguel Ángel Asturias, el \"olvidado\" Nobel de Literatura guatemalteco al que los escritores del boom latinoamericano le dieron la espalda",
-      "summary": "Sus disputas con los autores del \"boom\" y su papel en el gobierno de Méndez Montenegro opacaron la obra Asturias poco después de recibir el Nobel.",
-      "publishedAt": "2026-11-15T15:13:10.000Z",
-      "updatedAt": "2026-11-15T21:58:10.261Z",
-      "country": "Reino Unido",
-      "countryCode": "GB",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 91.499855,
-      "source": {
-        "name": "BBC Mundo",
-        "url": "https://www.bbc.com/mundo/articles/cw5y18j047r4o?at_medium=RSS&at_campaign=rss"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "techcrunch-0e3d88607bd3362c",
-      "title": "TechCrunch Mobility: El plan B de Nvidia para el sector de los vehículos autónomos en China",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T17:05:00.000Z",
-      "updatedAt": "2026-11-15T21:58:13.874Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 90.22562555555555,
-      "source": {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "techcrunch-84e57f9fb52388b4",
-      "title": "Los productos tecnológicos que recomendamos con entusiasmo estas Navidades",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T16:00:00.000Z",
-      "updatedAt": "2026-11-15T21:58:13.874Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 88.0589588888889,
-      "source": {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "bbc-mundo-262c9fb2ee0c9212",
-      "title": "La mujer que lleva años atrapada en una isla paradisíaca sin poder volver a casa por un problema con su visa",
-      "summary": "Ruchira Ranasingha, de 50 años, lleva varada en las Islas Cook desde 2023 y quiere regresar a Sri Lanka.",
-      "publishedAt": "2026-11-15T13:13:11.000Z",
-      "updatedAt": "2026-11-15T21:58:10.261Z",
-      "country": "Reino Unido",
-      "countryCode": "GB",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 87.50041055555556,
-      "source": {
-        "name": "BBC Mundo",
-        "url": "https://www.bbc.com/mundo/articles/crn4ed2ljg8no?at_medium=RSS&at_campaign=rss"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "npr-us-7f792e0d74095d29",
-      "title": "Las leyes que limitan la exposición de los mineros del carbón al polvo tóxico corren el riesgo de derogarse.",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T13:11:30.000Z",
-      "updatedAt": "2026-11-15T21:58:12.418Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 87.4431011111111,
-      "source": {
-        "name": "NPR",
-        "url": "https://www.npr.org/2026/11/15/nx-s1-6039311/laws-limiting-coal-miners-exposure-to-toxic-dust-are-in-danger-of-being-rolled-back"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "bbc-mundo-0ad0b25a8b51ae94",
-      "title": "El efecto bouba/kiki, el extraordinario experimento psicológico que tiene los mismos resultados en casi todas las culturas",
-      "summary": "Es más que una curiosidad: podría ser una pista para develar el gran misterio de cómo empezamos a hablar.",
-      "publishedAt": "2026-11-15T12:04:15.000Z",
-      "updatedAt": "2026-11-15T21:58:10.261Z",
-      "country": "Reino Unido",
-      "countryCode": "GB",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 85.20263277777778,
-      "source": {
-        "name": "BBC Mundo",
-        "url": "https://www.bbc.com/mundo/articles/c35yn4xdxz5eo?at_medium=RSS&at_campaign=rss"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "npr-us-ee9e0bf7d4069353",
-      "title": "Nuevo México quería guarderías gratuitas para todos. Esto es lo que ha funcionado... y lo que no",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T10:00:00.000Z",
-      "updatedAt": "2026-11-15T21:58:12.418Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 81.05976777777778,
-      "source": {
-        "name": "NPR",
-        "url": "https://www.npr.org/2026/11/15/nx-s1-6040194/new-mexico-free-universal-childcare-families"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "npr-us-47eb1e12200e8b4b",
-      "title": "Los votantes de las elecciones de mitad de mandato pusieron fin al prolongado dominio del Partido Republicano en las legislaturas estatales.",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T10:00:00.000Z",
-      "updatedAt": "2026-11-15T21:58:12.418Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 81.05976777777778,
-      "source": {
-        "name": "NPR",
-        "url": "https://www.npr.org/2026/11/15/nx-s1-6039175/midterms-legislatures-states-democrats-gop"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "npr-us-153ee7df6068d325",
-      "title": "Una nueva generación de activistas por los derechos de las personas con discapacidad continúa con el legado de Judy Heumann",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T10:00:00.000Z",
-      "updatedAt": "2026-11-15T21:58:12.418Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 81.05976777777778,
-      "source": {
-        "name": "NPR",
-        "url": "https://www.npr.org/2026/11/15/nx-s1-6002935/being-heumann-new-generation-disability-rights"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "dw-zh-280fde23c03641d2",
-      "title": "El director de la Agencia Federal de Empleo de Alemania advierte: La IA eliminará 800 000 puestos de trabajo en 15 años",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T09:00:00.000Z",
-      "updatedAt": "2026-11-15T21:58:30.085Z",
+      "publishedAt": "2026-11-16T10:09:00.000Z",
+      "updatedAt": "2026-11-16T11:34:45.900Z",
       "country": "China",
       "countryCode": "CN",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 79.04995277777778,
+      "importance": 102.14116666666666,
       "source": {
         "name": "DW Chinese",
-        "url": "https://www.dw.com/zh/德国劳动局长警告：ai将在15年内吞噬80万个就业岗位/a-79928366?maca=chi-rss-chi-all-1127-rdf"
+        "url": "https://www.dw.com/zh/apec期间高市与习近平或仅有一次-冰冷而面无表情-的握手/a-79957068?maca=chi-rss-chi-all-1127-rdf"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "bbc-zh-37c7ea1685affcc5",
-      "title": "Cómo el escándalo de Nvidia 黃仁勳 ha causado un gran dolor de cabeza a Singapur, un país favorable a las empresas",
+      "id": "bbc-ru-a8428cd034e3f891",
+      "title": "Las fuerzas gubernamentales de Yemen se retiran del estrecho, de importancia estratégica, para proteger Adén de los hutíes",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T06:46:06.000Z",
-      "updatedAt": "2026-11-15T21:58:23.889Z",
-      "country": "China",
-      "countryCode": "CN",
+      "publishedAt": "2026-11-16T10:08:49.000Z",
+      "updatedAt": "2026-11-16T11:34:51.370Z",
+      "country": "Rusia",
+      "countryCode": "RU",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 74.59006166666667,
+      "importance": 102.13201666666667,
       "source": {
-        "name": "BBC Chinese",
-        "url": "https://www.bbc.com/zhongwen/articles/cq39gn7g7depo/trad?at_medium=RSS&at_campaign=rss"
+        "name": "BBC Russian",
+        "url": "https://www.bbc.com/russian/articles/c6wy4xj99nk2o?at_medium=RSS&at_campaign=rss"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "bbc-zh-5904094e2f73d663",
-      "title": "白宮確認特朗普、習近平和普京將在深圳APEC期間舉行歷史性三方會晤",
+      "id": "tagesschau-de-7b6f208206a1b486",
+      "title": "Ciberataques: el presidente de la Oficina Federal de Investigación Criminal habla sobre las amenazas híbridas",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-15T06:04:05.000Z",
-      "updatedAt": "2026-11-15T21:58:21.103Z",
-      "country": "China",
-      "countryCode": "CN",
+      "publishedAt": "2026-11-16T10:04:48.000Z",
+      "updatedAt": "2026-11-16T11:34:37.376Z",
+      "country": "Alemania",
+      "countryCode": "DE",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 73.19105388888889,
+      "importance": 102.00590222222222,
       "source": {
-        "name": "BBC Chinese",
-        "url": "https://www.bbc.com/zhongwen/articles/c6lym29v7nr0o/trad?at_medium=RSS&at_campaign=rss"
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/video/video-1684456.html"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "bbc-zh-23a895f35bb3e3b0",
-      "title": "Cómo los estadounidenses le dieron la espalda a Trump: análisis de los resultados de las elecciones legislativas de 2026",
+      "id": "npr-us-d01ce23ff84361d9",
+      "title": "Trump viaja a Asia para reunirse con Xi y Putin en medio de las repercusiones de Nvidia",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-13T00:00:00.000Z",
-      "updatedAt": "2026-11-15T21:58:24.605Z",
+      "publishedAt": "2026-11-16T10:00:00.000Z",
+      "updatedAt": "2026-11-16T11:34:21.054Z",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 101.85497,
+      "source": {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "npr-us-03f7eae4e7d41d57",
+      "title": "Estas aves vuelan 27 359 kilómetros cada año. El cambio climático podría dificultarlo",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T10:00:00.000Z",
+      "updatedAt": "2026-11-16T11:34:22.075Z",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 101.85440277777778,
+      "source": {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/11/16/nx-s1-6020923/arctic-bird-migration-alaska-climate-change"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "npr-us-1d1837ab10838efd",
+      "title": "Mientras millones de personas pierden la ayuda alimentaria en todo el país, esta oficina del SNAP también funciona como banco de alimentos.",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T10:00:00.000Z",
+      "updatedAt": "2026-11-16T11:34:22.784Z",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 101.85400888888888,
+      "source": {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/11/16/nx-s1-6034048/snap-san-diego-food-assistance"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "npr-us-347160132f425c0e",
+      "title": "El Concurso de Pódcasts para Estudiantes de NPR vuelve en 2027",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T10:00:00.000Z",
+      "updatedAt": "2026-11-16T11:34:23.513Z",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 101.85360388888888,
+      "source": {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/11/16/nx-s1-6028826/student-podcast-challenge-2027-information-deadline"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "npr-us-3c2ebd024abc1cd8",
+      "title": "Por qué el sueño es importante cuando se trata de aumentar o perder peso",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T10:00:00.000Z",
+      "updatedAt": "2026-11-16T11:34:24.195Z",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 101.853225,
+      "source": {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/11/16/nx-s1-6037761/sleep-weight-gain-loss"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "tagesschau-de-0963e9316ae7f4e0",
+      "title": "Debate sobre la presidencia del SPD",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T09:35:54.000Z",
+      "updatedAt": "2026-11-16T11:34:38.536Z",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 101.04192444444445,
+      "source": {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/video/video-1684476.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "guardian-uk-b171e60ed83d5bbf",
+      "title": "Delaware se ve afectado por un inusual tornado en noviembre",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T09:27:06.000Z",
+      "updatedAt": "2026-11-16T11:34:26.711Z",
+      "country": "Reino Unido",
+      "countryCode": "GB",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 100.75516055555556,
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/environment/2026/nov/16/delaware-hit-by-rare-november-tornado"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "dw-zh-c650242569fea0c1",
+      "title": "「可愛但有毒」：¿Cómo influyen los memes políticos generados por IA en las elecciones de Taiwán?",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T09:19:00.000Z",
+      "updatedAt": "2026-11-16T11:34:47.880Z",
       "country": "China",
       "countryCode": "CN",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 35,
+      "importance": 100.4734,
+      "source": {
+        "name": "DW Chinese",
+        "url": "https://www.dw.com/zh/「可愛但有毒」：ai政治迷因如何影響台灣選舉？/a-79954343?maca=chi-rss-chi-all-1127-rdf"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "rfi-fr-02bc1b13c12a0798",
+      "title": "Sommet de l'Asean: la venue de Donald Trump très attendue par les Philippines",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T09:14:57.000Z",
+      "updatedAt": "2026-11-16T11:34:34.598Z",
+      "country": "Francia",
+      "countryCode": "FR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 100.34577888888889,
+      "source": {
+        "name": "RFI",
+        "url": "https://www.rfi.fr/fr/asie-pacifique/20261116-sommet-de-l-asean-la-venue-de-donald-trump-tr%C3%A8s-attendue-par-les-philippines"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "rfi-fr-623505838cc4bdf2",
+      "title": "Francophonie: faute de consensus, l'OIF reporte d'un an l'élection du secrétaire général",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T08:39:48.000Z",
+      "updatedAt": "2026-11-16T11:34:34.598Z",
+      "country": "Francia",
+      "countryCode": "FR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 99.17411222222222,
+      "source": {
+        "name": "RFI",
+        "url": "https://www.rfi.fr/fr/asie-pacifique/20261116-francophonie-faute-de-consensus-l-oif-reporte-d-un-an-l-%C3%A9lection-du-secr%C3%A9taire-g%C3%A9n%C3%A9ral"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "rfi-fr-490b0afbf3f4b166",
+      "title": "L'Ukraine frappe le pont reliant la Russie à la Crimée annexée par Moscou",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T07:42:37.000Z",
+      "updatedAt": "2026-11-16T11:34:34.598Z",
+      "country": "Francia",
+      "countryCode": "FR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 97.26800111111112,
+      "source": {
+        "name": "RFI",
+        "url": "https://www.rfi.fr/fr/europe/20261116-l-ukraine-frappe-le-pont-reliant-la-russie-%C3%A0-la-crim%C3%A9e-annex%C3%A9e-par-moscou"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "rfi-fr-b7f9374d18269b03",
+      "title": "Yémen: les Houthis à 60 km d'Aden, siège du gouvernement, qui masse des renforts pour protéger la ville",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T07:30:55.000Z",
+      "updatedAt": "2026-11-16T11:34:34.598Z",
+      "country": "Francia",
+      "countryCode": "FR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 96.8780011111111,
+      "source": {
+        "name": "RFI",
+        "url": "https://www.rfi.fr/fr/moyen-orient/20261116-y%C3%A9men-les-houthis-%C3%A0-60-km-d-aden-si%C3%A8ge-du-gouvernement-qui-masse-des-renforts-pour-prot%C3%A9ger-la-ville"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "rfi-fr-4b280f94988300f3",
+      "title": "Jeu vidéo GTA: de la radio aux plateformes de streaming, son incroyable pouvoir musical",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T06:00:18.000Z",
+      "updatedAt": "2026-11-16T11:34:34.598Z",
+      "country": "Francia",
+      "countryCode": "FR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 93.85744555555556,
+      "source": {
+        "name": "RFI",
+        "url": "https://www.rfi.fr/fr/musique/20261116-jeu-vid%C3%A9o-gta-de-la-radio-aux-plateformes-de-streaming-son-incroyable-pouvoir-musical"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "techcrunch-a005607dd1fc0362",
+      "title": "Plural, inversor de Helsing, recauda 1100 millones de dólares para financiar los próximos proyectos ambiciosos de Europa",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T07:00:00.000Z",
+      "updatedAt": "2026-11-16T11:34:27.448Z",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "section": "Tecnología",
+      "category": "Tecnología",
+      "importance": 90.85141777777778,
+      "source": {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "bbc-mundo-36d9cb3c421a31eb",
+      "title": "\"Les molesta compartir el aire que respiran conmigo\": cómo el auge de la ultraderecha en Alemania está afectando a los migrantes latinoamericanos",
+      "summary": "Varios migrantes latinoamericanos en Alemania le contaron a BBC Mundo cómo la discriminación y el temor al avance de la ultraderecha en el país están afectando sus vidas.",
+      "publishedAt": "2026-11-16T04:04:27.000Z",
+      "updatedAt": "2026-11-16T11:34:18.031Z",
+      "country": "Reino Unido",
+      "countryCode": "GB",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 90.00498277777778,
+      "source": {
+        "name": "BBC Mundo",
+        "url": "https://www.bbc.com/mundo/articles/c95yn80g6l72o?at_medium=RSS&at_campaign=rss"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "bbc-ru-5c9a3cb735f7b6e2",
+      "title": "En el «papamóvil» y en helicóptero. El papa León XIV concluyó su gira por América Latina en Perú, donde ejerció su ministerio durante muchos años.",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T04:00:15.000Z",
+      "updatedAt": "2026-11-16T11:34:52.665Z",
+      "country": "Rusia",
+      "countryCode": "RU",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 89.84574166666667,
+      "source": {
+        "name": "BBC Russian",
+        "url": "https://www.bbc.com/russian/articles/c94gnxnpdnx6o?at_medium=RSS&at_campaign=rss"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "bbc-zh-e36343d9d9c9cc1b",
+      "title": "據報黃仁勳商討重返Nvidia，Megaspeed稱黃樂去年已離職",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T03:49:26.000Z",
+      "updatedAt": "2026-11-16T11:34:41.863Z",
+      "country": "China",
+      "countryCode": "CN",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 89.49118722222222,
       "source": {
         "name": "BBC Chinese",
-        "url": "https://www.bbc.com/zhongwen/resources/idt-eb5702ee-a7ac-4445-8942-456df0e95f0f?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/zhongwen/articles/cw8dvqp5z412o/trad?at_medium=RSS&at_campaign=rss"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "dw-zh-b8b598e29feedb95",
+      "title": "China, Estados Unidos y Rusia anuncian que la cumbre «Xi-Trump-Putin» se celebrará en Shenzhen. La situación de Pekín es delicada.",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T03:15:00.000Z",
+      "updatedAt": "2026-11-16T11:34:48.637Z",
+      "country": "China",
+      "countryCode": "CN",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 88.33964611111111,
+      "source": {
+        "name": "DW Chinese",
+        "url": "https://www.dw.com/zh/中美俄宣布-习特普-峰会将在深圳举行-北京处境微妙/a-79952049?maca=chi-rss-chi-all-1127-rdf"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "arxiv-ai-1b6087c38c0a5424",
+      "title": "¿Cuándo deben olvidar los agentes LLM? Filtrado de la memoria en caso de errores críticos del resolutor relacionados con las consultas",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "updatedAt": "2026-11-16T11:34:29.765Z",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "section": "Tecnología",
+      "category": "Tecnología",
+      "importance": 86.85013055555555,
+      "source": {
+        "name": "arXiv AI",
+        "url": "https://arxiv.org/abs/2611.17338"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "arxiv-ai-4d56c5fc6100898b",
+      "title": "¿Se mantiene la clasificación? Una auditoría orientada a los profesionales de los detectores de alucinaciones en LLM pequeños, cuantizados y en el dispositivo",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "updatedAt": "2026-11-16T11:34:30.421Z",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "section": "Tecnología",
+      "category": "Tecnología",
+      "importance": 86.84976611111111,
+      "source": {
+        "name": "arXiv AI",
+        "url": "https://arxiv.org/abs/2611.17339"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "arxiv-ai-51ce44c5d0b5a174",
+      "title": "LoRAWeaver: enrutamiento de adaptadores direccionales en el espacio de representación de LoRA",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "updatedAt": "2026-11-16T11:34:31.089Z",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "section": "Tecnología",
+      "category": "Tecnología",
+      "importance": 86.849395,
+      "source": {
+        "name": "arXiv AI",
+        "url": "https://arxiv.org/abs/2611.17340"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "arxiv-ai-3eab619cb62bfb3b",
+      "title": "Distribuciones a priori de poblaciones tabulares como recuperación estructurada para la predicción de conjuntos de medicamentos en las HCE",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T05:00:00.000Z",
+      "updatedAt": "2026-11-16T11:34:31.875Z",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "section": "Tecnología",
+      "category": "Tecnología",
+      "importance": 86.84895833333333,
+      "source": {
+        "name": "arXiv AI",
+        "url": "https://arxiv.org/abs/2611.17341"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "bbc-ru-0d5eccb6d0fa9429",
+      "title": "Estonia cerrará la frontera con Rusia debido a un intento de sabotaje en una fábrica de drones",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T02:19:59.000Z",
+      "updatedAt": "2026-11-16T11:34:50.687Z",
+      "country": "Rusia",
+      "countryCode": "RU",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 86.50461833333333,
+      "source": {
+        "name": "BBC Russian",
+        "url": "https://www.bbc.com/russian/articles/cmkgdxw7412vo?at_medium=RSS&at_campaign=rss"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "bbc-zh-4ea71c44fc75b993",
+      "title": "Perspectivas de la cumbre de la APEC en Shenzhen: China confirma la reunión entre Estados Unidos, China y Rusia, y Japón espera que Xi Jinping estreche la mano de Koizumi como es habitual",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T01:43:29.000Z",
+      "updatedAt": "2026-11-16T11:34:41.169Z",
+      "country": "China",
+      "countryCode": "CN",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 85.29323944444445,
+      "source": {
+        "name": "BBC Chinese",
+        "url": "https://www.bbc.com/zhongwen/articles/c6wy4373q50go/trad?at_medium=RSS&at_campaign=rss"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
