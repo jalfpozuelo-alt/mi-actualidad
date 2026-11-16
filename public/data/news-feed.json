@@ -1,59 +1,23 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T17:48:05.259Z",
+  "generatedAt": "2026-11-16T20:02:15.685Z",
   "isEditoriallyValidated": false,
   "summaryStatus": "pending-editorial-review",
   "stories": [
     {
-      "id": "xataka-731be9d3b1c9cfbc",
-      "title": "Una piscina de Alemania dependía de Microsoft para gestionar su nivel de cloro. Cuando cayó, varias personas terminaron en el hospital",
-      "summary": "El viernes pasado, medio mundo volvió a ser testigo de lo que ocurre cuando tantísimos sistemas dependen de una sola compañía y los servidores, simplemente, dejan de funcionar. La caída de Microsoft comenzó el pasado jueves por la noche y se prolongó durante todo el viernes. Outlook, Teams, Copilot, Defender y otros servicios tanto propios como externos dejaron de funcionar. No poder entrar a una reunión de Teams es una anécdota, pero que no te llegue un correo crítico puede ser muy serio. Que se lo digan a una piscina de un hotel alemán en el que el nivel de cloro se desmadró y varias persona",
-      "publishedAt": "2026-11-16T17:01:27.000Z",
-      "updatedAt": "2026-11-16T17:47:58.882Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 113.44895444444444,
-      "source": {
-        "name": "Xataka",
-        "url": "https://www.xataka.com/domotica-1/piscina-alemania-dependia-microsoft-para-gestionar-su-nivel-cloro-cuando-cayo-varias-personas-terminaron-hospital"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "elmundo-es-c35e79aecf0cbc4f",
-      "title": "El Frente Amplio propone limitar las herencias a un máximo de 10 millones por persona",
-      "summary": "Plantea un tipo impositivo marginal del 100% sobre el tramo que supere esa cifra y del 75% para herencias de entre 5 y 10 millones Leer",
-      "publishedAt": "2026-11-16T15:52:20.000Z",
-      "updatedAt": "2026-11-16T17:47:59.007Z",
+      "id": "elmundo-es-e5e2e85d7d42af15",
+      "title": "El PSOE exprime \"la remontada épica\" de Lula tras su encuentro con Sánchez: \"Es muy importante, Pedro, que tú ganes las elecciones en España\"",
+      "summary": "El presidente del Gobierno expone ante su homólogo brasileño que \"cuando la izquierda cree en la victoria\" la acaba logrando \"pese a las encuestas adversas\" Leer",
+      "publishedAt": "2026-11-16T19:26:00.000Z",
+      "updatedAt": "2026-11-16T20:02:07.711Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 111.14499611111111,
+      "importance": 113.7957161111111,
       "source": {
         "name": "EL MUNDO",
-        "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afac0a8fc6c8389748b4597.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "elpais-118ce8504a62e54d",
-      "title": "Cinco países europeos crearán en Ruanda el primer centro de deportación fuera de la UE",
-      "summary": "Bruselas da el visto bueno al pacto negociado por Dinamarca, Alemania, Países Bajos, Grecia y Austria para acelerar la expulsión de migrantes",
-      "publishedAt": "2026-11-16T15:23:03.000Z",
-      "updatedAt": "2026-11-16T17:47:54.416Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "España",
-      "category": "España",
-      "importance": 110.17143555555556,
-      "source": {
-        "name": "EL PAÍS",
-        "url": "https://elpais.com/internacional/2026-11-16/cinco-paises-europeos-crearan-en-ruanda-el-primer-centro-de-deportacion-fuera-de-la-ue.html"
+        "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afb4f2be9cf4af6578b45ac.html"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -62,13 +26,13 @@
       "id": "elpais-d4d3ee3d95c8420a",
       "title": "Frente Amplio busca desmarcarse del PSOE con un programa que blinda la vivienda y estimula la redistribución de la riqueza",
       "summary": "Bustinduy reta a Sánchez a que apruebe antes de las elecciones la prestación universal por crianza que propuso el domingo en un mitin",
-      "publishedAt": "2026-11-16T14:33:57.000Z",
-      "updatedAt": "2026-11-16T17:47:54.416Z",
+      "publishedAt": "2026-11-16T19:02:13.000Z",
+      "updatedAt": "2026-11-16T20:02:03.623Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 108.53476888888889,
+      "importance": 113.00520944444445,
       "source": {
         "name": "EL PAÍS",
         "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/frente-amplio-busca-desmarcarse-del-psoe-con-un-programa-que-blinda-la-vivienda-y-estimula-la-redistribucion-de-la-riqueza.html"
@@ -77,106 +41,142 @@
       "isEditorialSummary": false
     },
     {
-      "id": "elmundo-es-2ae961c0899b7075",
-      "title": "El PP reclama a Marlaska por carta que ponga escolta a su candidato en Guipúzcoa tras la agresión que sufrió antes de un acto en Hernani",
-      "summary": "El partido de Feijóo exige una \"respuesta inmediata\" porque \"está en juego la seguridad personal\" de Jon Echeverría Leer",
-      "publishedAt": "2026-11-16T14:30:09.000Z",
-      "updatedAt": "2026-11-16T17:47:59.007Z",
+      "id": "elpais-1c45ff8a6572ca8b",
+      "title": "Lula da en Madrid un respaldo político a Sánchez: “Es muy importante que tú ganes las elecciones en España”",
+      "summary": "Los dos presidentes defienden las instituciones democráticas frente a la amenaza ultraderechista y graban un vídeo de apoyo",
+      "publishedAt": "2026-11-16T19:01:28.000Z",
+      "updatedAt": "2026-11-16T20:02:03.623Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 108.40555166666667,
+      "importance": 112.98020944444444,
+      "source": {
+        "name": "EL PAÍS",
+        "url": "https://elpais.com/espana/2026-11-16/lula-visita-a-sanchez-durante-la-campana-electoral.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "elmundo-es-b49f42ed8444a2ed",
+      "title": "El PSOE hunde todavía más al Frente Amplio y se coloca a menos de cinco puntos del PP",
+      "summary": "El PSOE crece medio punto y podría superar ya los 110 escaños a costa de Ada Colau. Entre los votantes de Sumar en 2023, habrá más que voten a Pedro Sánchez que al Frente Amplio Leer",
+      "publishedAt": "2026-11-16T19:00:20.000Z",
+      "updatedAt": "2026-11-16T20:02:07.711Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "España",
+      "category": "España",
+      "importance": 112.94016055555555,
       "source": {
         "name": "EL MUNDO",
-        "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afaf4fa21efa083778b4589.html"
+        "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afb2ef1fc6c834a4a8b4589.html"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "20min-es-5df7a15426ca162a",
-      "title": "Sánchez se reinventa en el 'Sánchez candidato' de 2015: así fue el acto de hace once años con Begoña y una bandera gigante de España",
-      "summary": "La aparición de la enseña nacional y de Begoña Gómez fueron las sorpresas del acto en que Sánchez fue proclamado candidato a la Presidencia del Gobierno para las generales de diciembre de 2015.",
-      "publishedAt": "2026-11-16T14:29:06.000Z",
-      "updatedAt": "2026-11-16T17:48:05.258Z",
+      "id": "xataka-2c9ec55ccd3bee38",
+      "title": "Guerra interna por el control de Nvidia: la vuelta de Jensen Huang como CEO está encima de la mesa",
+      "summary": "En poco menos de una semana, Jensen Huang pasó de ser uno de los CEO más alabados de Silicon Valley, a verse obligado a presentar su dimisión y dejar de dirigir Nvidia. Tras 33 años, Huang tiraba la toalla como CEO y anunciaba su dimisión como presidente, CEO y consejero, con efecto inmediato. Habían salido a la luz varias relaciones extramatrimoniales, una con una mujer sospechosa de lazos con la inteligencia china. Cuatro días después, la pregunta es otra: ¿puede volver? Nvidia llegó a la crisis sin sucesor claro. Ahora hay una directora interina, un consejo que busca a un candidato para que",
+      "publishedAt": "2026-11-16T18:31:22.000Z",
+      "updatedAt": "2026-11-16T20:02:07.513Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "Tecnología",
+      "category": "Tecnología",
+      "importance": 111.974715,
+      "source": {
+        "name": "Xataka",
+        "url": "https://www.xataka.com/empresas-y-economia/guerra-interna-control-nvidia-vuelta-jensen-huang-como-ceo-esta-encima-mesa"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "elpais-067f92d00560415c",
+      "title": "Dentro del ‘Ejército de Lula’: la estrategia en redes del presidente brasileño que quiere copiar el PSOE",
+      "summary": "Tres personas que participaron en la campaña de Lula da Silva, que se ha reunido con Pedro Sánchez este lunes, explican cómo dio la vuelta a las encuestas en las dos últimas semanas",
+      "publishedAt": "2026-11-16T18:09:59.000Z",
+      "updatedAt": "2026-11-16T20:02:03.623Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 108.36707888888888,
+      "importance": 111.26409833333334,
       "source": {
-        "name": "20minutos",
-        "url": "https://www.20minutos.es/nacional/sanchez-se-reinventa-sanchez-candidato-2015-asi-fue-otro-acto-hace-once-anos-con-begona-una-bandera-gigante-espana_7061663_0.html"
+        "name": "EL PAÍS",
+        "url": "https://elpais.com/espana/2026-11-16/dentro-del-ejercito-de-lula-la-estrategia-en-redes-del-presidente-brasileno-que-quiere-copiar-el-psoe.html"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "clarin-ar-4bf3ea26932493c9",
-      "title": "Crecida del Paraná: por el Niño, el río alcanzó su nivel más alto en casi 30 años para esta época en Rosario",
-      "summary": "El cuerpo de agua se ubicó en 4,47 metros, el valor más elevado para el undécimo mes del año desde noviembre de 1997. Se prevé que siga creciendo, pero a un ritmo menor.",
-      "publishedAt": "2026-11-16T16:48:05.000Z",
-      "updatedAt": "2026-11-16T17:47:57.159Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 105.00435611111111,
+      "id": "xataka-f5b36be62126e58c",
+      "title": "80 dueños de Tesla se enfrentan a dos años de cárcel por activar ilegalmente el FSD",
+      "summary": "80 personas han sido detenidas en Corea del Sur. El motivo: llegar donde Tesla no ha llegado. Ilegalmente, claro. Porque 80 dueños de coches de la marca estadounidense habrían activado ilegalmente el sistema Full Self Driving (FSD, por sus siglas en inglés) en sus coches. Un sistema que, al menos de momento, no está permitido utilizar en el país. ¿Qué ha pasado? Cuentan nuestros compañeros de Motorpasión que 80 conductores de Tesla han sido detenidos por utilizar el FSD, el sistema más avanzado de ayuda a la conducción de la marca, en sus coches. El problema es que este sistema es ilegal en el",
+      "publishedAt": "2026-11-16T17:53:41.000Z",
+      "updatedAt": "2026-11-16T20:02:07.513Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "Tecnología",
+      "category": "Tecnología",
+      "importance": 110.7186038888889,
       "source": {
-        "name": "Clarín",
-        "url": "https://www.clarin.com/rural/crecida-parana-nino-rio-alcanzo-nivel-alto-30-anos-epoca-rosario_0_iKKYHBKVhE.html"
+        "name": "Xataka",
+        "url": "https://www.xataka.com/movilidad/80-duenos-tesla-se-enfrentan-a-dos-anos-carcel-activar-ilegalmente-fsd"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "clarin-ar-4b1408ffc20c8eb6",
-      "title": "Gladys La Bomba Tucumana habló de la muerte de su sobrino de 12 años y contó cómo fue el accidente",
-      "summary": "La cantante compartió un video desde Tucumán para agradecer los mensajes de apoyo y relató cómo se produjo el episodio que terminó con la vida del pequeño. Además, expresó el dolor que atraviesa su familia y pidió respeto en este difícil momento.",
-      "publishedAt": "2026-11-16T16:47:16.000Z",
-      "updatedAt": "2026-11-16T17:47:57.159Z",
+      "id": "lanacion-ar-a62f5b2ad81fe1fa",
+      "title": "UEFA Nations League, en vivo: el minuto a minuto de los partidos del grupo 2",
+      "summary": "Se cierra una de las zonas de la liga A de la competencia europea y los germanos pueden quedar eliminados de la lucha por el título",
+      "publishedAt": "2026-11-16T19:55:10.000Z",
+      "updatedAt": "2026-11-16T20:02:10.123Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.97713388888889,
+      "importance": 104.76659833333333,
       "source": {
-        "name": "Clarín",
-        "url": "https://www.clarin.com/fama/gladys-bomba-tucumana-hablo-muerte-sobrino-12-anos-conto-accidente_0_w4hmPYZA0B.html"
+        "name": "La Nación",
+        "url": "https://www.lanacion.com.ar/deportes/futbol/uefa-nations-league-en-vivo-nid16112026/"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "clarin-ar-1371b2c17409f772",
-      "title": "Norberto Marcos sigue internado en terapia intensiva por una neumonía: cómo evoluciona su salud",
-      "summary": "El productor teatral habló con Clarín, a la espera los resultados de los últimos estudios médicos. Se encuentra hospitalizado desde la semana pasada en Palermo.",
-      "publishedAt": "2026-11-16T16:45:31.000Z",
-      "updatedAt": "2026-11-16T17:47:57.159Z",
+      "id": "lanacion-ar-04438d68b95406ab",
+      "title": "Lionel Scaloni, DT de la selección: “Cuando las papas quemen, la gente va a estar”",
+      "summary": "El entrenador de la Argentina habló en la previa del partido ante Costa Rica de este martes, en Córdoba, sobre varios temas",
+      "publishedAt": "2026-11-16T19:54:42.000Z",
+      "updatedAt": "2026-11-16T20:02:10.123Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.91880055555555,
+      "importance": 104.75104277777778,
       "source": {
-        "name": "Clarín",
-        "url": "https://www.clarin.com/fama/norberto-marcos-sigue-internado-terapia-intensiva-neumonia-evoluciona-salud_0_Bv02DnPlDI.html"
+        "name": "La Nación",
+        "url": "https://www.lanacion.com.ar/deportes/futbol/lionel-scaloni-dt-de-la-seleccion-cuando-las-papas-quemen-la-gente-va-a-estar-nid16112026/"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
       "id": "lanacion-ar-cf71dbc3a0b60278",
-      "title": "Papa León XIV en Perú, EN VIVO: las últimas actividades antes del fin del viaje, minuto a minuto",
-      "summary": "El Pontífice continúa con su agenda en el último día de su gira por Sudamérica; realizará una visita y una misa, y luego será despedido en la Base Aérea del Callao",
-      "publishedAt": "2026-11-16T17:44:50.000Z",
-      "updatedAt": "2026-11-16T17:48:01.308Z",
+      "title": "Papa León XIV en Perú, EN VIVO: el Santo Padre cerró su histórica gira por Latinoamérica",
+      "summary": "El Pontífice concluyó su viaje de 12 días por Sudamérica; tras presidir una multitudinaria misa en la Base Aérea Las Palmas, en Perú, León XIV emprendió el regreso a Roma",
+      "publishedAt": "2026-11-16T19:54:16.000Z",
+      "updatedAt": "2026-11-16T20:02:10.123Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.89371777777778,
+      "importance": 104.73659833333333,
       "source": {
         "name": "La Nación",
         "url": "https://www.lanacion.com.ar/el-mundo/papa-leon-xiv-en-peru-en-vivo-las-ultimas-actividades-antes-del-fin-del-viaje-minuto-a-minuto-nid16112026/"
@@ -185,109 +185,55 @@
       "isEditorialSummary": false
     },
     {
-      "id": "franceinfo-9013b9a3f7c55117",
-      "title": "\"On a massacré son innocence\" : vingt ans et quatorze an de réclusion ont été requis contre la mère et le père d'Inass Touloub, les parents de \"la petite martyre de l'A10\"",
+      "id": "franceinfo-d32b3c7cbef99868",
+      "title": "\"J'ai fait de mon mieux\" : à six mois de la fin de son mandat, Emmanuel Macron reconnaît \"des erreurs\" au cours de ses dix ans au pouvoir",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-16T17:44:48.000Z",
-      "updatedAt": "2026-11-16T17:48:02.687Z",
+      "publishedAt": "2026-11-16T19:53:52.000Z",
+      "updatedAt": "2026-11-16T20:02:12.995Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.89184055555556,
+      "importance": 104.72166944444444,
       "source": {
         "name": "Franceinfo",
-        "url": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/petite-martyre-de-l-a10-vingt-ans-de-reclusion-ont-ete-requis-contre-la-mere-d-inass-touloub-et-quatorze-ans-contre-son-pere_8285060.html#xtor=RSS-3-[lestitres]"
+        "url": "https://www.franceinfo.fr/elections/j-ai-fait-de-mon-mieux-a-six-mois-de-la-fin-de-son-mandat-emmanuel-macron-reconnait-des-erreurs-au-cours-de-ses-dix-ans-au-pouvoir_8285318.html#xtor=RSS-3-[lestitres]"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "france24-8906634806e19de2",
-      "title": "Rusia afirma haber interceptado más de 1.300 drones ucranianos",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-16T17:44:26.000Z",
-      "updatedAt": "2026-11-16T17:47:56.993Z",
-      "country": "Francia",
-      "countryCode": "FR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 104.88278166666667,
-      "source": {
-        "name": "France 24",
-        "url": "https://www.france24.com/es/video/20261116-rusia-afirma-haber-interceptado-m%C3%A1s-de-1-300-drones-ucranianos"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "lanacion-ar-c8ace30ec6508f18",
-      "title": "¿Accidente, suicidio o asesinato? La misteriosa muerte del magnate británico dueño del Daily Mirror que apareció flotando en el Atlántico",
-      "summary": "Ocurrió el 5 de noviembre de 1991 cuando el empresario navegaba cerca de las Islas Canarias; las sospechas sobre su muerte, su rivalidad con Rupert Murdoch y los secretos que salieron a la luz",
-      "publishedAt": "2026-11-16T17:44:17.000Z",
-      "updatedAt": "2026-11-16T17:48:01.308Z",
+      "id": "lanacion-ar-97ebfd57bad2389a",
+      "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotizan el oficial y el paralelo este lunes 16 de noviembre, minuto a minuto",
+      "summary": "La divisa oficial operó a $1575 para la venta en el Banco Nación; el dólar blue cotizó a $1580 para esa operación; qué pasó con el MEP y el CCL",
+      "publishedAt": "2026-11-16T19:50:21.000Z",
+      "updatedAt": "2026-11-16T20:02:10.123Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.87538444444445,
+      "importance": 104.60604277777777,
       "source": {
         "name": "La Nación",
-        "url": "https://www.lanacion.com.ar/lifestyle/accidente-suicidio-o-asesinato-a-35-anos-de-la-misteriosa-muerte-de-robert-maxwell-el-magnate-que-nid16112026/"
+        "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotizan-el-oficial-y-el-paralelo-este-lunes-16-de-noviembre-nid16112026/"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "franceinfo-cf492ebf4888453d",
-      "title": "Le chanteur Gims doit être jugé en décembre à Paris dans une affaire de corruption et de travail dissimulé, avec notamment quatre policiers",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-16T17:43:36.000Z",
-      "updatedAt": "2026-11-16T17:48:02.687Z",
-      "country": "Francia",
-      "countryCode": "FR",
+      "id": "lanacion-ar-1f7bd44b7bfd0e6a",
+      "title": "Javier Milei y sus medidas, en vivo: Luis Caputo: “Entramos a 2027 más fortalecidos que nunca, más calmo de lo que muchos predicen”",
+      "summary": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionario",
+      "publishedAt": "2026-11-16T19:48:44.000Z",
+      "updatedAt": "2026-11-16T20:02:10.123Z",
+      "country": "Argentina",
+      "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.85184055555555,
+      "importance": 104.5521538888889,
       "source": {
-        "name": "Franceinfo",
-        "url": "https://www.franceinfo.fr/societe/justice/le-chanteur-gims-doit-etre-juge-en-decembre-a-paris-dans-une-affaire-de-corruption-et-de-travail-dissimule-avec-notamment-quatre-policiers_8285165.html#xtor=RSS-3-[lestitres]"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "france24-125c3bed0523fd61",
-      "title": "León XIV cierra su primera gira por América Latina con una misa multitudinaria en Perú",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-16T17:40:55.000Z",
-      "updatedAt": "2026-11-16T17:47:56.993Z",
-      "country": "Francia",
-      "countryCode": "FR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 104.76555944444445,
-      "source": {
-        "name": "France 24",
-        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261116-le%C3%B3n-xiv-cierra-su-primera-gira-por-am%C3%A9rica-latina-con-una-misa-multitudinaria-en-per%C3%BA"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "franceinfo-b5c232d41019b525",
-      "title": "À peine rouvert, le lycée Mandela à Nantes referme car \"la sécurité est compromise\", selon la direction",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-16T17:38:22.000Z",
-      "updatedAt": "2026-11-16T17:48:02.687Z",
-      "country": "Francia",
-      "countryCode": "FR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 104.67739611111111,
-      "source": {
-        "name": "Franceinfo",
-        "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/a-peine-rouvert-le-lycee-mandela-a-nantes-referme-car-la-securite-est-compromise-selon-la-direction_8285255.html#xtor=RSS-3-[lestitres]"
+        "name": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-kicillof-acuso-al-presidente-de-adulterar-la-historia-nid16112026/"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -296,13 +242,13 @@
       "id": "deutschlandfunk-de-b3d82f6bc3eaa8da",
       "title": "Fragen und Antworten - \"Return Hubs\": Worum es bei dem geplanten Abschiebezentrum in Ruanda geht",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-16T17:32:48.000Z",
-      "updatedAt": "2026-11-16T17:48:04.028Z",
+      "publishedAt": "2026-11-16T19:20:44.000Z",
+      "updatedAt": "2026-11-16T20:02:14.842Z",
       "country": "Alemania",
       "countryCode": "DE",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.49109555555556,
+      "importance": 103.61619888888889,
       "source": {
         "name": "Deutschlandfunk",
         "url": "https://www.deutschlandfunk.de/return-hubs-worum-es-bei-dem-geplanten-abschiebezentrum-in-ruanda-geht-102.html"
@@ -311,19 +257,91 @@
       "isEditorialSummary": false
     },
     {
-      "id": "bbc-mundo-1cae375938b3d9aa",
-      "title": "Ordenan repetir el juicio a Lindsay Clancy, la mujer acusada de matar a sus 3 hijos en EE.UU.",
-      "summary": "El juez fijó el inicio del juicio para el 29 de marzo de 2027, mientras la fiscalía no precisó qué cargos enfrentará Clancy.",
-      "publishedAt": "2026-11-16T15:46:18.000Z",
-      "updatedAt": "2026-11-16T17:47:54.929Z",
+      "id": "bbc-mundo-5ea3427850f4fa23",
+      "title": "Qué tan poderosas son las pandillas a las que se enfrenta Bukele en Haití",
+      "summary": "El presidente de El Salvador ha enviado al menos 2.000 militares de fuerzas especiales al país caribeño.",
+      "publishedAt": "2026-11-16T19:14:07.000Z",
+      "updatedAt": "2026-11-16T20:02:04.031Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 100.94615055555556,
+      "importance": 103.40164944444444,
       "source": {
         "name": "BBC Mundo",
-        "url": "https://www.bbc.com/mundo/articles/cwr7gv9xpzyyo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/mundo/watch/cxj05r723gpjo?at_medium=RSS&at_campaign=rss"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "franceinfo-16eb68db3a91a363",
+      "title": "Adolescent mortellement fauché dans le Puy-de-Dôme : deux hommes mis en examen",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T19:03:14.000Z",
+      "updatedAt": "2026-11-16T20:02:12.995Z",
+      "country": "Francia",
+      "countryCode": "FR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 103.03389166666666,
+      "source": {
+        "name": "Franceinfo",
+        "url": "https://www.franceinfo.fr/faits-divers/adolescent-mortellement-fauche-dans-le-puy-de-dome-deux-hommes-mis-en-examen_8285369.html#xtor=RSS-3-[lestitres]"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "france24-326107132817eed2",
+      "title": "Gaza, sin tregua de Israel: nuevos ataques, restricciones a la ayuda y proliferación de enfermedades",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T18:54:43.000Z",
+      "updatedAt": "2026-11-16T20:02:06.693Z",
+      "country": "Francia",
+      "countryCode": "FR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 102.75350388888889,
+      "source": {
+        "name": "France 24",
+        "url": "https://www.france24.com/es/medio-oriente/20261116-gaza-sin-tregua-de-israel-nuevos-ataques-restricciones-a-la-ayuda-y-proliferaci%C3%B3n-de-enfermedades"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "france24-c4e06bd16900375c",
+      "title": "Directo París y la falta de acuerdo sobre un nuevo presidente en la Cumbre de la Francofonía",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T18:27:15.000Z",
+      "updatedAt": "2026-11-16T20:02:06.693Z",
+      "country": "Francia",
+      "countryCode": "FR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 101.83794833333333,
+      "source": {
+        "name": "France 24",
+        "url": "https://www.france24.com/es/video/20261116-directo-par%C3%ADs-y-la-falta-de-acuerdo-sobre-un-nuevo-presidente-en-la-cumbre-de-la-francofon%C3%ADa"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "france24-719e460005193546",
+      "title": "Jensen Huang analiza un posible regreso a Nvidia, según Financial Times",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T18:12:13.000Z",
+      "updatedAt": "2026-11-16T20:02:06.693Z",
+      "country": "Francia",
+      "countryCode": "FR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 101.33683722222221,
+      "source": {
+        "name": "France 24",
+        "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261116-economia-huang-nvidia-regreso-mercados"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -333,12 +351,12 @@
       "title": "\"Es Pattinson, Robert Pattinson\": el actor británico será el nuevo James Bond",
       "summary": "El protagonista de \"Crepúsculo\" y \"The Batman\" releva a Daniel Craig y se convierte en el séptimo actor que da vida al agente 007.",
       "publishedAt": "2026-11-16T15:44:22.000Z",
-      "updatedAt": "2026-11-16T17:47:54.929Z",
+      "updatedAt": "2026-11-16T20:02:04.031Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 100.88170611111111,
+      "importance": 96.40998277777777,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/c64gn38yj4ygo?at_medium=RSS&at_campaign=rss"
@@ -351,12 +369,12 @@
       "title": "Tengo una deformidad física congénita que escondí de mis padres y compañeros de escuela",
       "summary": "Charlie Clarke, de 23 años, afirma que los efectos físicos y emocionales del pectus excavatum han sido \"inimaginables\".",
       "publishedAt": "2026-11-16T12:49:59.000Z",
-      "updatedAt": "2026-11-16T17:47:54.929Z",
+      "updatedAt": "2026-11-16T20:02:04.031Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 95.06892833333333,
+      "importance": 90.597205,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/cr15e9qjnxdgo?at_medium=RSS&at_campaign=rss"
@@ -369,12 +387,12 @@
       "title": "3 poco conocidas disputas limítrofes dentro de países de América Latina (y por qué algunas se han recrudecido)",
       "summary": "En Argentina, México y Bolivia se dan algunas de las disputas entre regiones donde todavía no están resueltos los límites internos.",
       "publishedAt": "2026-11-16T12:04:57.000Z",
-      "updatedAt": "2026-11-16T17:47:54.929Z",
+      "updatedAt": "2026-11-16T20:02:04.031Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 93.56781722222222,
+      "importance": 89.09609388888889,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/cx7vpv49en34o?at_medium=RSS&at_campaign=rss"
@@ -387,12 +405,12 @@
       "title": "Muere a los 80 años Miguel Ángel Félix Gallardo, el \"Jefe de Jefes\" que revolucionó el narcotráfico en México al aliarse con carteles de Colombia",
       "summary": "El domingo falleció quien fuera el líder del todopoderoso Cartel de Guadalajara en la década de 1980 y quien cambió el negocio del narcotráfico al aliarse con el Cartel de Medellín",
       "publishedAt": "2026-11-16T11:09:57.000Z",
-      "updatedAt": "2026-11-16T17:47:54.929Z",
+      "updatedAt": "2026-11-16T20:02:04.031Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 91.73448388888889,
+      "importance": 87.26276055555556,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/c65y172egk2qo?at_medium=RSS&at_campaign=rss"
