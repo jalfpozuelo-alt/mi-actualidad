@@ -26,4 +26,4 @@ const deduped=[...new Map(stories.map(s=>[s.title.toLowerCase().replace(/[^a-z0-
 const unique=deduped.sort((a,b)=>b.importance-a.importance).filter((story,index,all)=>all.slice(0,index).filter(s=>s.country===story.country&&s.section===story.section).length<5);
 await fs.mkdir('generated',{recursive:true});await fs.writeFile('generated/news-feed.json',JSON.stringify({schemaVersion:1,generatedAt:new Date().toISOString(),isEditoriallyValidated:false,summaryStatus:'pending-editorial-review',stories:unique},null,2));console.log(`Recopiladas ${unique.length} entradas con fuentes identificadas. No se publican como edición final.`);
 await fs.writeFile('generated/translation-cache.json',JSON.stringify(Object.fromEntries(translationCache),null,2));
-
+process.exit(0);
