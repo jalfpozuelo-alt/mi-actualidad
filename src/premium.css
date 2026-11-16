@@ -1,4 +1,5 @@
 /* Ajuste editorial: el estado de demostración es una banda compacta, no una imagen protagonista. */
+/* La contraseña del endpoint se actualizó en Vercel; este commit fuerza el nuevo despliegue. */
 .placeholder{height:22px!important;display:flex!important;align-items:center!important;justify-content:space-between!important;gap:12px!important;padding:14px 16px!important;font-size:12px!important;text-align:left!important}
 .placeholder small{font:700 8px 'DM Sans',sans-serif!important;letter-spacing:.1em!important;text-align:right!important;opacity:.85}
 .meta{font-size:1.1rem!important;font-weight:700!important;display:flex!important;align-items:center!important;gap:8px!important;margin-top:14px!important}.meta:first-letter{font-size:1.55rem!important}.pipelineStatus{font-size:.8rem;opacity:.72;margin:-8px 0 14px}
