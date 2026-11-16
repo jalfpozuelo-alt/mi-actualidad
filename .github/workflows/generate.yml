@@ -19,6 +19,9 @@ jobs:
       - run: npm ci
       - name: Recopilar y traducir titulares
         run: npm run collect-feeds
+        env:
+          GOOGLE_TRANSLATE_API_KEY: ${{ secrets.GOOGLE_TRANSLATE_API_KEY }}
+          MYMEMORY_EMAIL: ${{ secrets.MYMEMORY_EMAIL }}
       - name: Recopilar efemérides del día
         run: node scripts/collect-on-this-day.mjs
         env:
