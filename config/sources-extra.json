@@ -1,1 +1,332 @@
-{"schemaVersion":1,"sources":[{"id":"npr-us","name":"NPR","country":"Estados Unidos","countryCode":"US","sections":["Internacional","Tecnología","Sociedad"],"format":"RSS","url":"https://feeds.npr.org/1001/rss.xml","usage":"Titular y enlace original; no copiar artículos.","language":"en"},{"id":"france24","name":"France 24","country":"Francia","countryCode":"FR","sections":["Internacional","Sociedad","Tecnología"],"format":"RSS","url":"https://www.france24.com/es/rss","usage":"Titular y enlace original; revisar condiciones de sindicación.","language":"en"},{"id":"clarin-ar","name":"Clarín","country":"Argentina","countryCode":"AR","sections":["Internacional","Economía","Sociedad"],"format":"RSS","url":"https://www.clarin.com/rss/lo-ultimo/","usage":"Titular y enlace original conforme a la página RSS del medio.","language":"es"},{"id":"guardian-uk","name":"The Guardian","country":"Reino Unido","countryCode":"GB","sections":["Internacional","Tecnología","Sociedad"],"format":"RSS","url":"https://www.theguardian.com/world/rss","usage":"Titular y enlace original; no copiar artículos ni imágenes sin permiso.","language":"en"},{"id":"techcrunch","name":"TechCrunch","country":"Estados Unidos","countryCode":"US","sections":["Tecnología"],"format":"RSS","url":"https://techcrunch.com/feed/","usage":"Titular y enlace original; no copiar artículos ni imágenes sin permiso.","language":"en"},{"id":"arxiv-ai","name":"arXiv AI","country":"Estados Unidos","countryCode":"US","sections":["Tecnología"],"format":"RSS","url":"https://export.arxiv.org/rss/cs.AI","usage":"Preprints científicos; indicar que no son necesariamente revisados por pares.","language":"en"},{"id":"xataka","name":"Xataka","country":"España","countryCode":"ES","sections":["Tecnología"],"format":"RSS","url":"https://www.xataka.com/index.xml","usage":"Titular y enlace original; fuente tecnológica en español.","language":"es"},{"id":"elmundo-es","name":"EL MUNDO","country":"España","countryCode":"ES","sections":["España","Internacional","Economía","Sociedad"],"format":"RSS","url":"https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml","usage":"Titular y enlace original; revisar condiciones del feed.","language":"es"},{"id":"abc-es","name":"ABC","country":"España","countryCode":"ES","sections":["España","Internacional","Economía","Sociedad"],"format":"RSS","url":"https://www.abc.es/rss/feeds/abc_espana.xml","usage":"Titular y enlace original; revisar condiciones del feed.","language":"es"},{"id":"ap-us","name":"AP News","country":"Estados Unidos","countryCode":"US","sections":["Internacional","Economía","Sociedad"],"format":"RSS","url":"https://feeds.apnews.com/rss/apf-topnews","usage":"Titular y enlace original; medio de referencia internacional.","language":"en"},{"id":"tagesschau-de","name":"Tagesschau","country":"Alemania","countryCode":"DE","sections":["Internacional","Economía","Sociedad"],"format":"RSS","url":"https://www.tagesschau.de/xml/rss2","usage":"Titular traducido y enlace original.","language":"de"},{"id":"lanacion-ar","name":"La Nación","country":"Argentina","countryCode":"AR","sections":["Internacional","Economía","Sociedad"],"format":"RSS","url":"https://www.lanacion.com.ar/arc/outboundfeeds/rss/","usage":"Titular y enlace original; revisar condiciones del feed.","language":"es"},{"id":"bbc-zh","name":"BBC Chinese","country":"China","countryCode":"CN","sections":["Internacional","Economía","Sociedad"],"format":"RSS","url":"https://feeds.bbci.co.uk/zhongwen/simp/rss.xml","usage":"Titular traducido y enlace original; fuente internacional.","language":"zh"},{"id":"dw-zh","name":"DW Chinese","country":"China","countryCode":"CN","sections":["Internacional","Economía","Sociedad"],"format":"RSS","url":"https://rss.dw.com/rdf/rss-chi-all","usage":"Titular traducido y enlace original; fuente internacional.","language":"zh"},{"id":"bbc-ru","name":"BBC Russian","country":"Rusia","countryCode":"RU","sections":["Internacional","Economía","Sociedad"],"format":"RSS","url":"https://feeds.bbci.co.uk/russian/rss.xml","usage":"Titular traducido y enlace original; fuente internacional.","language":"en"},{"id":"dw-ru","name":"DW Russian","country":"Rusia","countryCode":"RU","sections":["Internacional","Economía","Sociedad"],"format":"RSS","url":"https://rss.dw.com/rdf/rss-ru-top","usage":"Titular traducido y enlace original; fuente internacional.","language":"en"},{"id":"pbs-us","name":"PBS NewsHour","country":"Estados Unidos","countryCode":"US","language":"en","sections":["Internacional","Sociedad","Política"],"format":"RSS","url":"https://www.pbs.org/newshour/feeds/rss/headlines","usage":"Titular, resumen disponible y enlace original."},{"id":"nyt-us","name":"The New York Times","country":"Estados Unidos","countryCode":"US","language":"en","sections":["Internacional","Sociedad","Política"],"format":"RSS","url":"https://rss.nytimes.com/services/xml/rss/nyt/US.xml","usage":"Usar titular, resumen y enlace; respetar las condiciones del RSS y las restricciones de suscripción."},{"id":"franceinfo","name":"Franceinfo","country":"Francia","countryCode":"FR","language":"fr","sections":["Internacional","Sociedad","Política"],"format":"RSS","url":"https://www.franceinfo.fr/titres.rss","usage":"Titular, resumen disponible y enlace original."},{"id":"lemonde-fr","name":"Le Monde","country":"Francia","countryCode":"FR","language":"fr","sections":["Internacional","Sociedad","Política"],"format":"RSS","url":"https://www.lemonde.fr/rss/tag/france.xml","usage":"Usar titular, resumen y enlace; muchos artículos pueden requerir suscripción."},{"id":"deutschlandfunk-de","name":"Deutschlandfunk","country":"Alemania","countryCode":"DE","language":"de","sections":["Internacional","Sociedad","Política"],"format":"RSS","url":"https://www.deutschlandfunk.de/nachrichten-100.rss","usage":"Titular, resumen disponible y enlace original."}]}
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "id": "npr-us",
+      "name": "NPR",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "sections": [
+        "Internacional",
+        "Tecnología",
+        "Sociedad"
+      ],
+      "format": "RSS",
+      "url": "https://feeds.npr.org/1001/rss.xml",
+      "usage": "Titular y enlace original; no copiar artículos.",
+      "language": "en"
+    },
+    {
+      "id": "france24",
+      "name": "France 24",
+      "country": "Francia",
+      "countryCode": "FR",
+      "sections": [
+        "Internacional",
+        "Sociedad",
+        "Tecnología"
+      ],
+      "format": "RSS",
+      "url": "https://www.france24.com/es/rss",
+      "usage": "Titular y enlace original; revisar condiciones de sindicación.",
+      "language": "en"
+    },
+    {
+      "id": "clarin-ar",
+      "name": "Clarín",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "sections": [
+        "Internacional",
+        "Economía",
+        "Sociedad"
+      ],
+      "format": "RSS",
+      "url": "https://www.clarin.com/rss/lo-ultimo/",
+      "usage": "Titular y enlace original conforme a la página RSS del medio.",
+      "language": "es"
+    },
+    {
+      "id": "guardian-uk",
+      "name": "The Guardian",
+      "country": "Reino Unido",
+      "countryCode": "GB",
+      "sections": [
+        "Internacional",
+        "Tecnología",
+        "Sociedad"
+      ],
+      "format": "RSS",
+      "url": "https://www.theguardian.com/world/rss",
+      "usage": "Titular y enlace original; no copiar artículos ni imágenes sin permiso.",
+      "language": "en"
+    },
+    {
+      "id": "techcrunch",
+      "name": "TechCrunch",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "sections": [
+        "Tecnología"
+      ],
+      "format": "RSS",
+      "url": "https://techcrunch.com/feed/",
+      "usage": "Titular y enlace original; no copiar artículos ni imágenes sin permiso.",
+      "language": "en"
+    },
+    {
+      "id": "arxiv-ai",
+      "name": "arXiv AI",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "sections": [
+        "Tecnología"
+      ],
+      "format": "RSS",
+      "url": "https://export.arxiv.org/rss/cs.AI",
+      "usage": "Preprints científicos; indicar que no son necesariamente revisados por pares.",
+      "language": "en"
+    },
+    {
+      "id": "xataka",
+      "name": "Xataka",
+      "country": "España",
+      "countryCode": "ES",
+      "sections": [
+        "Tecnología"
+      ],
+      "format": "RSS",
+      "url": "https://www.xataka.com/index.xml",
+      "usage": "Titular y enlace original; fuente tecnológica en español.",
+      "language": "es"
+    },
+    {
+      "id": "elmundo-es",
+      "name": "EL MUNDO",
+      "country": "España",
+      "countryCode": "ES",
+      "sections": [
+        "España",
+        "Internacional",
+        "Economía",
+        "Sociedad"
+      ],
+      "format": "RSS",
+      "url": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
+      "usage": "Titular y enlace original; revisar condiciones del feed.",
+      "language": "es"
+    },
+    {
+      "id": "abc-es",
+      "name": "ABC",
+      "country": "España",
+      "countryCode": "ES",
+      "sections": [
+        "España",
+        "Internacional",
+        "Economía",
+        "Sociedad"
+      ],
+      "format": "RSS",
+      "url": "https://www.abc.es/rss/feeds/abc_espana.xml",
+      "usage": "Titular y enlace original; revisar condiciones del feed.",
+      "language": "es"
+    },
+    {
+      "id": "ap-us",
+      "name": "AP News",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "sections": [
+        "Internacional",
+        "Economía",
+        "Sociedad"
+      ],
+      "format": "RSS",
+      "url": "https://feeds.apnews.com/rss/apf-topnews",
+      "usage": "Titular y enlace original; medio de referencia internacional.",
+      "language": "en"
+    },
+    {
+      "id": "tagesschau-de",
+      "name": "Tagesschau",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "sections": [
+        "Internacional",
+        "Economía",
+        "Sociedad"
+      ],
+      "format": "RSS",
+      "url": "https://www.tagesschau.de/xml/rss2",
+      "usage": "Titular traducido y enlace original.",
+      "language": "de"
+    },
+    {
+      "id": "lanacion-ar",
+      "name": "La Nación",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "sections": [
+        "Internacional",
+        "Economía",
+        "Sociedad"
+      ],
+      "format": "RSS",
+      "url": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/",
+      "usage": "Titular y enlace original; revisar condiciones del feed.",
+      "language": "es"
+    },
+    {
+      "id": "bbc-zh",
+      "name": "BBC Chinese",
+      "country": "China",
+      "countryCode": "CN",
+      "sections": [
+        "Internacional",
+        "Economía",
+        "Sociedad"
+      ],
+      "format": "RSS",
+      "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
+      "usage": "Titular traducido y enlace original; fuente internacional.",
+      "language": "zh"
+    },
+    {
+      "id": "dw-zh",
+      "name": "DW Chinese",
+      "country": "China",
+      "countryCode": "CN",
+      "sections": [
+        "Internacional",
+        "Economía",
+        "Sociedad"
+      ],
+      "format": "RSS",
+      "url": "https://rss.dw.com/rdf/rss-chi-all",
+      "usage": "Titular traducido y enlace original; fuente internacional.",
+      "language": "zh"
+    },
+    {
+      "id": "bbc-ru",
+      "name": "BBC Russian",
+      "country": "Rusia",
+      "countryCode": "RU",
+      "sections": [
+        "Internacional",
+        "Economía",
+        "Sociedad"
+      ],
+      "format": "RSS",
+      "url": "https://feeds.bbci.co.uk/russian/rss.xml",
+      "usage": "Titular traducido y enlace original; fuente internacional.",
+      "language": "en"
+    },
+    {
+      "id": "dw-ru",
+      "name": "DW Russian",
+      "country": "Rusia",
+      "countryCode": "RU",
+      "sections": [
+        "Internacional",
+        "Economía",
+        "Sociedad"
+      ],
+      "format": "RSS",
+      "url": "https://rss.dw.com/rdf/rss-ru-top",
+      "usage": "Titular traducido y enlace original; fuente internacional.",
+      "language": "en"
+    },
+    {
+      "id": "pbs-us",
+      "name": "PBS NewsHour",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "language": "en",
+      "sections": [
+        "Internacional",
+        "Sociedad",
+        "Política"
+      ],
+      "format": "RSS",
+      "url": "https://www.pbs.org/newshour/feeds/rss/headlines",
+      "usage": "Titular, resumen disponible y enlace original."
+    },
+    {
+      "id": "nyt-us",
+      "name": "The New York Times",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "language": "en",
+      "sections": [
+        "Internacional",
+        "Sociedad",
+        "Política"
+      ],
+      "format": "RSS",
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/US.xml",
+      "usage": "Usar titular, resumen y enlace; respetar las condiciones del RSS y las restricciones de suscripción."
+    },
+    {
+      "id": "franceinfo",
+      "name": "Franceinfo",
+      "country": "Francia",
+      "countryCode": "FR",
+      "language": "fr",
+      "sections": [
+        "Internacional",
+        "Sociedad",
+        "Política"
+      ],
+      "format": "RSS",
+      "url": "https://www.franceinfo.fr/titres.rss",
+      "usage": "Titular, resumen disponible y enlace original."
+    },
+    {
+      "id": "lemonde-fr",
+      "name": "Le Monde",
+      "country": "Francia",
+      "countryCode": "FR",
+      "language": "fr",
+      "sections": [
+        "Internacional",
+        "Sociedad",
+        "Política"
+      ],
+      "format": "RSS",
+      "url": "https://www.lemonde.fr/rss/tag/france.xml",
+      "usage": "Usar titular, resumen y enlace; muchos artículos pueden requerir suscripción."
+    },
+    {
+      "id": "deutschlandfunk-de",
+      "name": "Deutschlandfunk",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "language": "de",
+      "sections": [
+        "Internacional",
+        "Sociedad",
+        "Política"
+      ],
+      "format": "RSS",
+      "url": "https://www.deutschlandfunk.de/nachrichten-100.rss",
+      "usage": "Titular, resumen disponible y enlace original."
+    },
+    {
+      "id": "20min-es",
+      "name": "20minutos",
+      "country": "España",
+      "countryCode": "ES",
+      "language": "es",
+      "sections": [
+        "España",
+        "Internacional",
+        "Sociedad",
+        "Economía"
+      ],
+      "format": "RSS",
+      "url": "https://www.20minutos.es/rss/",
+      "usage": "Titular, resumen disponible y enlace original."
+    }
+  ]
+}
