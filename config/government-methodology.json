@@ -1,0 +1,20 @@
+{
+  "scope": "27 Estados miembros de la Unión Europea",
+  "leaderRule": "Se toma el jefe efectivo del Gobierno, no el jefe de Estado ceremonial.",
+  "governmentSources": {
+    "primary": "Fuente oficial del Gobierno, Parlamento o Consejo Europeo para confirmar líder, partido y fecha.",
+    "comparative": "https://www.parlgov.org/data-info/"
+  },
+  "ideologySource": {
+    "primary": "https://www.chesdata.eu/ches-europe/",
+    "fallback": "https://www.parlgov.org/about/",
+    "note": "Las etiquetas son orientativas y no constituyen una clasificación oficial."
+  },
+  "categories": {
+    "red": "progresista o izquierda",
+    "purple": "centro o liberal",
+    "blue": "conservador o derecha convencional",
+    "green": "derecha radical"
+  },
+  "publicationRule": "Si falta una fuente propia, el registro queda pendiente y se conserva la edición anterior."
+}
