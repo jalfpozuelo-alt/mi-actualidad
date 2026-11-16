@@ -1,0 +1,23 @@
+name: Actualización de gobiernos
+on:
+  workflow_dispatch:
+permissions: {contents: write}
+concurrency: {group: governments-update, cancel-in-progress: true}
+jobs:
+  governments:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: {node-version: 22}
+      - name: Recopilando información política
+        run: node scripts/update-governments.mjs
+      - name: Validar datos
+        run: node -e "const x=require('./public/data/eu-governments.json'); if(!Array.isArray(x.governments)||x.governments.length!==27) process.exit(1)"
+      - name: Publicar cambios
+        run: |
+          git config user.name "mi-actualidad-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add public/data/eu-governments.json
+          git diff --cached --quiet || git commit -m "content: update EU government dataset [skip ci]"
+          git push
