@@ -31,12 +31,11 @@ jobs:
       - if: steps.gate.outputs.has_stories == 'true'
         run: mkdir -p public/data && cp generated/news-feed.json public/data/news-feed.json
       - run: mkdir -p public/data && cp generated/on-this-day.json public/data/on-this-day.json
-      - if: steps.gate.outputs.has_stories == 'true'
-        run: |
+      - run: |
           git config user.name "mi-actualidad-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add public/data/news-feed.json
-          git add generated/translation-cache.json public/data/on-this-day.json
+          git add public/data/on-this-day.json generated/translation-cache.json
+          if [ "${{ steps.gate.outputs.has_stories }}" = "true" ]; then git add public/data/news-feed.json; fi
           git diff --cached --quiet || git commit -m "content: update free-source headlines [skip ci]"
           git push
 
