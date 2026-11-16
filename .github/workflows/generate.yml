@@ -40,6 +40,6 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add public/data/on-this-day.json generated/translation-cache.json
           if [ "${{ steps.gate.outputs.has_stories }}" = "true" ]; then git add public/data/news-feed.json; fi
-          git diff --cached --quiet || git commit -m "content: update free-source headlines [skip ci]"
+          git diff --cached --quiet || git commit -m "content: update free-source headlines"
           git push
 
