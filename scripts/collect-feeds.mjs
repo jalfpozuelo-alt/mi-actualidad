@@ -21,12 +21,13 @@ async function translateTitle(title){
     try{
       const response=await fetch('https://translation.googleapis.com/language/translate/v2?key='+encodeURIComponent(googleTranslateKey),{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({q:title,source:sourceLanguage,target:'es',format:'text'}),signal:AbortSignal.timeout(6000)});
       const result=await response.json();const translated=result?.data?.translations?.[0]?.translatedText?.trim();
-      if(translated&&!containsCjk(translated)&&translated.toLowerCase()!==title.toLowerCase()){translationCache.set(title,translated);return translated;}
+      if(translated&&!containsCjk(translated)&&translated.toLowerCase()!==title.toLowerCase()&&!looksUntranslated(translated,sourceLanguage)){translationCache.set(title,translated);return translated;}
     }catch{}
   }
   if(!translationEmail)return null;
-  try{const url='https://api.mymemory.translated.net/get?q='+encodeURIComponent(title)+'&langpair='+sourceLanguage+'|es&de='+encodeURIComponent(translationEmail);const response=await fetch(url,{signal:AbortSignal.timeout(6000)});const result=await response.json();const translated=result?.responseData?.translatedText?.trim();if(!translated||/^[\\s\\W]*[a-z]/i.test(translated)===false)return null;translationCache.set(title,translated);return translated}catch{return null}
+  try{const url='https://api.mymemory.translated.net/get?q='+encodeURIComponent(title)+'&langpair='+sourceLanguage+'|es&de='+encodeURIComponent(translationEmail);const response=await fetch(url,{signal:AbortSignal.timeout(6000)});const result=await response.json();const translated=result?.responseData?.translatedText?.trim();if(!translated||translated.toLowerCase()===title.toLowerCase()||looksUntranslated(translated,sourceLanguage))return null;translationCache.set(title,translated);return translated}catch{return null}
 }
+const looksUntranslated=(value,language)=>{const words=value.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').match(/[a-záéíóúüñ]+/g)||[];const sets={fr:new Set(['le','la','les','des','une','est','pour','dans','avec','que','sur','au','aux','du']),de:new Set(['der','die','das','und','ist','für','mit','von','den','dem','nicht','ein','eine']),en:new Set(['the','and','is','for','with','from','this','that','in'])};const set=sets[language];return Boolean(set&&words.filter(w=>set.has(w)).length>=2)};
 const containsCjk=value=>Array.from(value).some(char=>{const code=char.codePointAt(0)||0;return (code>=0x3400&&code<=0x9fff)||(code>=0x3040&&code<=0x30ff)});
 const spanishWords=/\b(el|la|los|las|una|un|de|del|para|con|por|que|en|es|sus|sobre|tras|más|cómo|hoy|mundo|gobierno|economía|política|salud|tecnología)\b/i;
 const technologyWords=/\b(ia|inteligencia artificial|software|hardware|internet|app|aplicación|móvil|iphone|android|google|apple|microsoft|nvidia|tesla|chip|chips|ordenador|tecnolog|ciberseguridad|robot|videojuego|pantalla|wifi|semiconductor|satélite|dron|datos digitales)\b/i;
