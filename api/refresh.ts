@@ -9,5 +9,7 @@ export function OPTIONS(req){return new Response(null,{headers:headers(req)})}
 export async function POST(req){
  if(!authorized(req))return json(req,{ok:false,message:"Contraseña incorrecta"},401);
  const r=await github(`/repos/${REPO}/actions/workflows/generate.yml/dispatches`,{method:"POST",body:JSON.stringify({ref:"main"})});
- return r.ok?json(req,{ok:true,stage:"queued",label:"Actualización iniciada"}):json(req,{ok:false,message:"No se pudo iniciar la actualización"},502);
+ if(r.ok)return json(req,{ok:true,stage:"queued",label:"Actualización iniciada"});
+ const detail=await r.text().catch(()=> "");
+ return json(req,{ok:false,message:"GitHub rechazó el lanzamiento de la actualización",status:r.status,detail:detail.slice(0,180)},502);
 }
