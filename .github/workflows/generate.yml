@@ -10,6 +10,7 @@ permissions: {contents: write}
 concurrency: {group: editorial-generation, cancel-in-progress: true}
 jobs:
   editorial:
+    timeout-minutes: 8
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
