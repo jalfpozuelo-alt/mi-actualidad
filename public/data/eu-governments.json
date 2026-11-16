@@ -1,6 +1,6 @@
 {
   "verifiedAt": "2026-11-15T00:00:00Z",
-  "methodology": "Clasificación editorial por la familia política del partido o coalición que dirige el Ejecutivo: progresistas, liberales/centristas, conservadores y derecha radical. Cada Estado cuenta una vez. La clasificación es orientativa y se revisa cuando cambia el Gobierno.",
+  "methodology": "Clasificación editorial por la familia política del partido o coalición que dirige el Ejecutivo: progresistas, liberales/centristas, conservadores y derecha radical. Cada Estado cuenta una vez. La clasificación es orientativa y se revisa cuando cambia el Gobierno. Alemania ya enlaza a la ficha oficial del canciller.",
   "sources": [
     "https://www.consilium.europa.eu/en/european-council/members/",
     "https://www.cidob.org/sites/default/files/2026-04/Gobiernos_13_04_26.pdf"
@@ -14,7 +14,9 @@
       "coalition": "CDU/CSU y SPD",
       "majority": "Por verificar",
       "since": "2025",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
+      "sourceUrl": "https://www.bundesregierung.de/breg-de/bundesregierung/bundeskabinett/friedrich-merz-2342660",
+      "sourceType": "Fuente oficial del Gobierno alemán",
+      "sourceCheckedAt": "2026-11-16"
     },
     {
       "country": "Austria",
