@@ -1,12 +1,16 @@
 name: Despliegue GitHub Pages
-# force latest content artifact
+# Deploy after normal pushes, manual runs, and successful editorial generations
 on:
   push: {branches: [main]}
   workflow_dispatch:
+  workflow_run:
+    workflows: ["Generación de boletín"]
+    types: [completed]
 permissions: {contents: read, pages: write, id-token: write}
 concurrency: {group: pages, cancel-in-progress: false}
 jobs:
   deploy:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     environment:
       name: github-pages
       url: "${{ steps.deployment.outputs.page_url }}"
