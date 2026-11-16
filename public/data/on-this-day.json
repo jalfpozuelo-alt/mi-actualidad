@@ -1,0 +1,784 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-16",
+  "source": "Wikimedia",
+  "items": [
+    {
+      "text": "Se lanza el vuelo Artemis 1 en el cohete SLS del Programa Artemis de la NASA el programa que pretende llevar de nuevo a los humanos hacia la Luna.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Artemis_I",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Artemis I</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q3389152",
+          "titles": {
+            "canonical": "Artemis_I",
+            "normalized": "Artemis I",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Artemis I</span></span>"
+          },
+          "pageid": 7142133,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/NASA_Artemis_1_Launch.jpg/330px-NASA_Artemis_1_Launch.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 545
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/d/d1/NASA_Artemis_1_Launch.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 2681,
+            "height": 4426
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "175200905",
+          "tid": "7382b1ac-a8ca-11f1-b8c5-783bcd348e64",
+          "timestamp": "2026-09-05T01:38:10Z",
+          "description": "primer vuelo no tripulado del programa Artemis, de la NASA",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Artemis_I",
+              "revisions": "https://es.wikipedia.org/wiki/Artemis_I?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Artemis_I?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Artemis_I"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Artemis_I",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Artemis_I",
+              "edit": "https://es.wikipedia.org/wiki/Artemis_I?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Artemis_I"
+            }
+          },
+          "extract": "Artemis I fue una misión en órbita lunar sin tripulación. Al ser la primera misión principal del programa Artemis de la NASA, Artemis I marcó el regreso de la agencia a la exploración lunar, que comenzó originalmente como el programa Apolo décadas antes. Fue la primera prueba de vuelo integrada de la nave espacial Orión y el cohete del Sistema de Lanzamiento Espacial (SLS). Su objetivo principal era probar la nave espacial Orión, especialmente su escudo térmico, en preparación para las posteriores misiones Artemis, que buscan restablecer una presencia humana en la Luna y demostrar tecnologías y enfoques comerciales necesarios para futuros estudios científicos, incluida la exploración de Marte.",
+          "extract_html": "<p><b>Artemis I</b> fue una misión en órbita lunar sin tripulación. Al ser la primera misión principal del programa Artemis de la NASA, Artemis I marcó el regreso de la agencia a la exploración lunar, que comenzó originalmente como el programa Apolo décadas antes. Fue la primera prueba de vuelo integrada de la nave espacial Orión y el cohete del Sistema de Lanzamiento Espacial (SLS). Su objetivo principal era probar la nave espacial Orión, especialmente su escudo térmico, en preparación para las posteriores misiones Artemis, que buscan restablecer una presencia humana en la Luna y demostrar tecnologías y enfoques comerciales necesarios para futuros estudios científicos, incluida la exploración de Marte.</p>",
+          "normalizedtitle": "Artemis I"
+        },
+        {
+          "type": "standard",
+          "title": "Programa_Artemis",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Programa Artemis</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q63819987",
+          "titles": {
+            "canonical": "Programa_Artemis",
+            "normalized": "Programa Artemis",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Programa Artemis</span></span>"
+          },
+          "pageid": 8926322,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Artemis_program_%28solid_contrast_with_wordmark%29.svg/langes-330px-Artemis_program_%28solid_contrast_with_wordmark%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 306
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Artemis_program_%28solid_contrast_with_wordmark%29.svg/langes-500px-Artemis_program_%28solid_contrast_with_wordmark%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 378,
+            "height": 350
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "175843957",
+          "tid": "3ea7469e-c8d3-11f1-92dd-addfa5af2d5d",
+          "timestamp": "2026-10-15T20:01:44Z",
+          "description": "programa de exploración lunar tripulado por la NASA",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Programa_Artemis",
+              "revisions": "https://es.wikipedia.org/wiki/Programa_Artemis?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Programa_Artemis?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Programa_Artemis"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Programa_Artemis",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Programa_Artemis",
+              "edit": "https://es.wikipedia.org/wiki/Programa_Artemis?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Programa_Artemis"
+            }
+          },
+          "extract": "El programa Artemis o Artemisa es un programa de exploración lunar dirigido por la Administración Nacional de Aeronáutica y el Espacio (NASA), junto con empresas privadas de vuelos espaciales de EE. UU. y seis importantes agencias asociadas: la Agencia Espacial Europea (ESA), la Agencia Japonesa de Exploración Aeroespacial (JAXA), la Agencia Espacial Canadiense (CSA), la Agencia Espacial de Israel (ISA), Agencia Espacial Australiana (ASA) y la Agencia Espacial del Reino Unido (UKSA), con el objetivo de volver a explorar la Luna y llevar a «la primera mujer y el próximo hombre», específicamente a la región lunar del polo sur para 2028. También pretende establecer una base permanente en la Luna en la década de 2030, como un paso previo para futuras misiones humanas a Marte.",
+          "extract_html": "<p>El <b>programa Artemis</b> o <b>Artemisa</b> es un programa de exploración lunar dirigido por la Administración Nacional de Aeronáutica y el Espacio (NASA), junto con empresas privadas de vuelos espaciales de EE. UU. y seis importantes agencias asociadas: la Agencia Espacial Europea (ESA), la Agencia Japonesa de Exploración Aeroespacial (JAXA), la Agencia Espacial Canadiense (CSA), la Agencia Espacial de Israel (ISA), Agencia Espacial Australiana (ASA) y la Agencia Espacial del Reino Unido (UKSA), con el objetivo de volver a explorar la Luna y llevar a «la primera mujer y el próximo hombre», específicamente a la región lunar del polo sur para 2028. También pretende establecer una base permanente en la Luna en la década de 2030, como un paso previo para futuras misiones humanas a Marte.</p>",
+          "normalizedtitle": "Programa Artemis"
+        },
+        {
+          "type": "standard",
+          "title": "NASA",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">NASA</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q23548",
+          "titles": {
+            "canonical": "NASA",
+            "normalized": "NASA",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">NASA</span></span>"
+          },
+          "pageid": 10697,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/langes-330px-NASA_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 276
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/langes-120px-NASA_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 110,
+            "height": 92
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176026535",
+          "tid": "66c36dce-d222-11f1-8db8-c151cc7bb9d2",
+          "timestamp": "2026-10-27T16:21:02Z",
+          "description": "agencia espacial independiente del Gobierno Federal de los Estados Unidos",
+          "description_source": "central",
+          "coordinates": {
+            "lat": 38.88306,
+            "lon": -77.01639
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/NASA",
+              "revisions": "https://es.wikipedia.org/wiki/NASA?action=history",
+              "edit": "https://es.wikipedia.org/wiki/NASA?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:NASA"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/NASA",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/NASA",
+              "edit": "https://es.wikipedia.org/wiki/NASA?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:NASA"
+            }
+          },
+          "extract": "La Administración Nacional de Aeronáutica y el Espacio, más conocida como NASA, es la agencia del gobierno estadounidense responsable del programa espacial civil, así como de la investigación aeronáutica y aeroespacial.",
+          "extract_html": "<p>La <b>Administración Nacional de Aeronáutica y el Espacio</b>, más conocida como <b>NASA</b>, es la agencia del gobierno estadounidense responsable del programa espacial civil, así como de la investigación aeronáutica y aeroespacial.</p>",
+          "normalizedtitle": "NASA"
+        },
+        {
+          "type": "standard",
+          "title": "Luna",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Luna</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q405",
+          "titles": {
+            "canonical": "Luna",
+            "normalized": "Luna",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Luna</span></span>"
+          },
+          "pageid": 5189863,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Full_Moon_Luc_Viatour.jpg/330px-Full_Moon_Luc_Viatour.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 333
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Full_Moon_Luc_Viatour.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1411,
+            "height": 1424
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "175705929",
+          "tid": "9220eeaa-c250-11f1-a5d4-917ef6f6cb7a",
+          "timestamp": "2026-10-07T13:11:13Z",
+          "description": "satélite natural de la Tierra",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Luna",
+              "revisions": "https://es.wikipedia.org/wiki/Luna?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Luna?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Luna"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Luna",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Luna",
+              "edit": "https://es.wikipedia.org/wiki/Luna?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Luna"
+            }
+          },
+          "extract": "La Luna es el único satélite natural de la Tierra. Con un diámetro ecuatorial de 3474,8 km, es el quinto satélite más grande del sistema solar, mientras que en cuanto al tamaño proporcional respecto a su planeta es el satélite más grande: un cuarto del diámetro de la Tierra y 1/81 de su masa. Es, además, después de Ío, el segundo satélite más denso. Se encuentra en rotación síncrona con la Tierra, por lo que siempre muestra la misma cara hacia el planeta. El hemisferio visible está marcado con oscuros mares lunares de origen volcánico entre las brillantes montañas antiguas y los destacados astroblemas.",
+          "extract_html": "<p>La <b>Luna</b> es el único satélite natural de la Tierra. Con un diámetro ecuatorial de 3474,8 km, es el quinto satélite más grande del sistema solar, mientras que en cuanto al tamaño proporcional respecto a su planeta es el satélite más grande: un cuarto del diámetro de la Tierra y 1/81 de su masa. Es, además, después de Ío, el segundo satélite más denso. Se encuentra en rotación síncrona con la Tierra, por lo que siempre muestra la misma cara hacia el planeta. El hemisferio visible está marcado con oscuros mares lunares de origen volcánico entre las brillantes montañas antiguas y los destacados astroblemas.</p>",
+          "normalizedtitle": "Luna"
+        }
+      ],
+      "year": 2022
+    },
+    {
+      "text": "Se declara el Flamenco como Patrimonio Inmaterial de la Humanidad.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Flamenco",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Flamenco</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q9764",
+          "titles": {
+            "canonical": "Flamenco",
+            "normalized": "Flamenco",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Flamenco</span></span>"
+          },
+          "pageid": 5717,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Belen_maya.jpg/330px-Belen_maya.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 351
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Belen_maya.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 376,
+            "height": 400
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "173185954",
+          "tid": "a69a9e59-4255-11f1-9573-880f7f23d713",
+          "timestamp": "2026-04-27T16:25:06Z",
+          "description": "género musical de origen español",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Flamenco",
+              "revisions": "https://es.wikipedia.org/wiki/Flamenco?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Flamenco?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Flamenco"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Flamenco",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Flamenco",
+              "edit": "https://es.wikipedia.org/wiki/Flamenco?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Flamenco"
+            }
+          },
+          "extract": "El flamenco es un género de la música folclórica española que se desarrolló en Andalucía, especialmente en las zonas de Cádiz y sus puertos, San Fernando, Jerez de la Frontera, Sevilla y los pueblos de su provincia —como Lebrija y Utrera—, Huelva, Granada y Córdoba; así como en algunas áreas de la Región de Murcia, Castilla-La Mancha y Extremadura. Sus principales facetas son el cante, el toque y el baile, contando también con sus propias tradiciones y normas. Tal y como lo conocemos hoy en día, el flamenco data del siglo XVIII, y existe controversia sobre su origen, ya que aunque existen distintas opiniones y vertientes, ninguna de ellas ha podido ser comprobada de forma histórica. Aunque el Diccionario de la lengua española lo asocia a la cultura popular andaluza y a la presencia del pueblo gitano en aquella.",
+          "extract_html": "<p>El <b>flamenco</b> es un género de la música folclórica española que se desarrolló en Andalucía, especialmente en las zonas de Cádiz y sus puertos, San Fernando, Jerez de la Frontera, Sevilla y los pueblos de su provincia —como Lebrija y Utrera—, Huelva, Granada y Córdoba; así como en algunas áreas de la Región de Murcia, Castilla-La Mancha y Extremadura. Sus principales facetas son el cante, el toque y el baile, contando también con sus propias tradiciones y normas. Tal y como lo conocemos hoy en día, el flamenco data del siglo <small>XVIII</small>, y existe controversia sobre su origen, ya que aunque existen distintas opiniones y vertientes, ninguna de ellas ha podido ser comprobada de forma histórica. Aunque el <i>Diccionario de la lengua española</i> lo asocia a la cultura popular andaluza y a la presencia del pueblo gitano en aquella.</p>",
+          "normalizedtitle": "Flamenco"
+        },
+        {
+          "type": "standard",
+          "title": "Patrimonio_cultural_inmaterial_de_la_Humanidad",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Patrimonio cultural inmaterial de la Humanidad</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q84036549",
+          "titles": {
+            "canonical": "Patrimonio_cultural_inmaterial_de_la_Humanidad",
+            "normalized": "Patrimonio cultural inmaterial de la Humanidad",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Patrimonio cultural inmaterial de la Humanidad</span></span>"
+          },
+          "pageid": 2156789,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/UNESCO-ICH-blue.svg/langes-330px-UNESCO-ICH-blue.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 330
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/UNESCO-ICH-blue.svg/langes-60px-UNESCO-ICH-blue.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 50,
+            "height": 50
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "175265264",
+          "tid": "8ff9505f-ac14-11f1-a7b3-45a8358f1f29",
+          "timestamp": "2026-09-09T06:06:14Z",
+          "description": "clase de patrimonio cultural designado por la Unesco",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Patrimonio_cultural_inmaterial_de_la_Humanidad",
+              "revisions": "https://es.wikipedia.org/wiki/Patrimonio_cultural_inmaterial_de_la_Humanidad?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Patrimonio_cultural_inmaterial_de_la_Humanidad?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Patrimonio_cultural_inmaterial_de_la_Humanidad"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Patrimonio_cultural_inmaterial_de_la_Humanidad",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Patrimonio_cultural_inmaterial_de_la_Humanidad",
+              "edit": "https://es.wikipedia.org/wiki/Patrimonio_cultural_inmaterial_de_la_Humanidad?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Patrimonio_cultural_inmaterial_de_la_Humanidad"
+            }
+          },
+          "extract": "El patrimonio cultural inmaterial o patrimonio cultural intangible (PCI) forma parte de las declaraciones de la Unesco para la salvaguardia del patrimonio cultural no tangible, conocido como «oral» o «inmaterial».",
+          "extract_html": "<p>El <b>patrimonio cultural inmaterial</b> o <b>patrimonio cultural intangible</b> (<b>PCI</b>) forma parte de las declaraciones de la Unesco para la salvaguardia del patrimonio cultural no tangible, conocido como «oral» o «inmaterial».</p>",
+          "normalizedtitle": "Patrimonio cultural inmaterial de la Humanidad"
+        }
+      ],
+      "year": 2010
+    },
+    {
+      "text": "Se declara a la gastronomía mexicana como Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO, en una ceremonia realizada en Kenia, África el día 16 de noviembre de 2010.",
+      "pages": [],
+      "year": 2010
+    },
+    {
+      "text": "Sentencia histórica del Caso González y otras (Campo Algodonero) de la Corte Interamericana de Derechos Humanos responsabilizando al Estado de México de feminicidio por primera vez.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Caso_González_y_otras_(Campo_Algodonero)_vs._México",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Caso González y otras (Campo Algodonero) vs. México</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q30104596",
+          "titles": {
+            "canonical": "Caso_González_y_otras_(Campo_Algodonero)_vs._México",
+            "normalized": "Caso González y otras (Campo Algodonero) vs. México",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Caso González y otras (Campo Algodonero) vs. México</span></span>"
+          },
+          "pageid": 7946105,
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "171590828",
+          "tid": "0bbc572f-f4e7-11f0-b33e-98cfa1c8978c",
+          "timestamp": "2026-01-19T03:29:22Z",
+          "description": "Sentencia de la Corte Interamericana de Derechos Humanos",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Caso_Gonz%C3%A1lez_y_otras_(Campo_Algodonero)_vs._M%C3%A9xico",
+              "revisions": "https://es.wikipedia.org/wiki/Caso_Gonz%C3%A1lez_y_otras_(Campo_Algodonero)_vs._M%C3%A9xico?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Caso_Gonz%C3%A1lez_y_otras_(Campo_Algodonero)_vs._M%C3%A9xico?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Caso_Gonz%C3%A1lez_y_otras_(Campo_Algodonero)_vs._M%C3%A9xico"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Caso_Gonz%C3%A1lez_y_otras_(Campo_Algodonero)_vs._M%C3%A9xico",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Caso_Gonz%C3%A1lez_y_otras_(Campo_Algodonero)_vs._M%C3%A9xico",
+              "edit": "https://es.wikipedia.org/wiki/Caso_Gonz%C3%A1lez_y_otras_(Campo_Algodonero)_vs._M%C3%A9xico?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Caso_Gonz%C3%A1lez_y_otras_(Campo_Algodonero)_vs._M%C3%A9xico"
+            }
+          },
+          "extract": "El caso González y otras vs. México es una sentencia de la Corte Interamericana de Derechos Humanos del 16 de noviembre de 2009 sobre la responsabilidad internacional del Estado mexicano por la falta de diligencia en las investigaciones relacionadas con la desaparición y asesinato de Claudia Ivette González, Esmeralda Herrera Monreal y Laura Berenice Ramos Monárrez. Se trata de la primera sentencia en la que la Corte adopta la perspectiva de género y el fallo representa un hito en el acceso de las mujeres a la justicia en el ámbito latinoamericano además de un referente simbólico en la defensa de los derechos de las mujeres de México. La sentencia constituye también un precedente en Derecho Internacional en el camino hacia la igualdad formal y material de las mujeres.",
+          "extract_html": "<p>El <b>caso González y otras vs. México</b> es una sentencia de la Corte Interamericana de Derechos Humanos del 16 de noviembre de 2009 sobre la responsabilidad internacional del Estado mexicano por la falta de diligencia en las investigaciones relacionadas con la desaparición y asesinato de Claudia Ivette González, Esmeralda Herrera Monreal y Laura Berenice Ramos Monárrez. Se trata de la primera sentencia en la que la Corte adopta la perspectiva de género y el fallo representa un hito en el acceso de las mujeres a la justicia en el ámbito latinoamericano además de un referente simbólico en la defensa de los derechos de las mujeres de México. La sentencia constituye también un precedente en Derecho Internacional en el camino hacia la igualdad formal y material de las mujeres.</p>",
+          "normalizedtitle": "Caso González y otras (Campo Algodonero) vs. México"
+        },
+        {
+          "type": "standard",
+          "title": "Corte_Interamericana_de_Derechos_Humanos",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Corte Interamericana de Derechos Humanos</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q1547804",
+          "titles": {
+            "canonical": "Corte_Interamericana_de_Derechos_Humanos",
+            "normalized": "Corte Interamericana de Derechos Humanos",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Corte Interamericana de Derechos Humanos</span></span>"
+          },
+          "pageid": 224221,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_Corte_IDH.png/330px-Logo_Corte_IDH.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 330
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/6/67/Logo_Corte_IDH.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 512,
+            "height": 512
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176017372",
+          "tid": "130c40a0-d198-11f1-a8aa-e97c4be71870",
+          "timestamp": "2026-10-26T23:50:51Z",
+          "description": "órgano judicial de la Organización de los Estados Americanos",
+          "description_source": "central",
+          "coordinates": {
+            "lat": 9.93043889,
+            "lon": -84.05693889
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Corte_Interamericana_de_Derechos_Humanos",
+              "revisions": "https://es.wikipedia.org/wiki/Corte_Interamericana_de_Derechos_Humanos?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Corte_Interamericana_de_Derechos_Humanos?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Corte_Interamericana_de_Derechos_Humanos"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Corte_Interamericana_de_Derechos_Humanos",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Corte_Interamericana_de_Derechos_Humanos",
+              "edit": "https://es.wikipedia.org/wiki/Corte_Interamericana_de_Derechos_Humanos?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Corte_Interamericana_de_Derechos_Humanos"
+            }
+          },
+          "extract": "La Corte Interamericana de Derechos Humanos es un tribunal internacional con sede en San José, Costa Rica. Fue creada por la Convención Americana sobre Derechos Humanos, un tratado de derechos humanos ratificado por los miembros de la Organización de los Estados Americanos (OEA), que entró en vigor en 1978. Junto con la Comisión Interamericana de Derechos Humanos, fundada en 1959, constituyen las dos principales instituciones de derechos humanos del sistema interamericano de protección internacional de los derechos humanos.",
+          "extract_html": "<p>La <b>Corte Interamericana de Derechos Humanos</b> es un tribunal internacional con sede en San José, Costa Rica. Fue creada por la Convención Americana sobre Derechos Humanos, un tratado de derechos humanos ratificado por los miembros de la Organización de los Estados Americanos (OEA), que entró en vigor en 1978. Junto con la Comisión Interamericana de Derechos Humanos, fundada en 1959, constituyen las dos principales instituciones de derechos humanos del sistema interamericano de protección internacional de los derechos humanos.</p>",
+          "normalizedtitle": "Corte Interamericana de Derechos Humanos"
+        }
+      ],
+      "year": 2009
+    },
+    {
+      "text": "el cometa 17P/Holmes, supera al Sol con su coma.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "17P/Holmes",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">17P/Holmes</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q477136",
+          "titles": {
+            "canonical": "17P/Holmes",
+            "normalized": "17P/Holmes",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">17P/Holmes</span></span>"
+          },
+          "pageid": 1272137,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/17pHolmes_071104_eder_vga.jpg/330px-17pHolmes_071104_eder_vga.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 215
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/c6/17pHolmes_071104_eder_vga.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 640,
+            "height": 416
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "175021011",
+          "tid": "e807565c-a069-11f1-b4ae-d9ee4ad0e7b2",
+          "timestamp": "2026-08-25T09:46:55Z",
+          "description": "cometa del Sistema Solar",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/17P%2FHolmes",
+              "revisions": "https://es.wikipedia.org/wiki/17P%2FHolmes?action=history",
+              "edit": "https://es.wikipedia.org/wiki/17P%2FHolmes?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:17P%2FHolmes"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/17P%2FHolmes",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/17P%2FHolmes",
+              "edit": "https://es.wikipedia.org/wiki/17P%2FHolmes?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:17P%2FHolmes"
+            }
+          },
+          "extract": "17P/Holmes es un cometa periódico del sistema solar descubierto por el astrónomo amateur británico Edwin Holmes el 6 de noviembre de 1892. A finales de octubre de 2007, en la noche del 23 al 24, el cometa aumentó su brillo de una manera significativa, alrededor de un millón de veces más, desde una magnitud +17 hasta una magnitud +2,5 en unas pocas horas. El 16 de noviembre de ese mismo año, la coma del cometa, una nube de gas y polvo que envuelve al núcleo, creció hasta superar el diámetro del Sol, convirtiéndose en el objeto más grande del sistema solar. No obstante, el núcleo solo mide 3.6 kilómetros.",
+          "extract_html": "<p><b>17P/Holmes</b> es un cometa periódico del sistema solar descubierto por el astrónomo amateur británico Edwin Holmes el 6 de noviembre de 1892. A finales de octubre de 2007, en la noche del 23 al 24, el cometa aumentó su brillo de una manera significativa, alrededor de un millón de veces más, desde una magnitud +17 hasta una magnitud +2,5 en unas pocas horas. El 16 de noviembre de ese mismo año, la coma del cometa, una nube de gas y polvo que envuelve al núcleo, creció hasta superar el diámetro del Sol, convirtiéndose en el objeto más grande del sistema solar. No obstante, el núcleo solo mide 3.6 kilómetros.</p>",
+          "normalizedtitle": "17P/Holmes"
+        },
+        {
+          "type": "standard",
+          "title": "Sol",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sol</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q525",
+          "titles": {
+            "canonical": "Sol",
+            "normalized": "Sol",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sol</span></span>"
+          },
+          "pageid": 2570,
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176318425",
+          "tid": "3d339a98-e163-11f1-841c-2730b8d9c2cd",
+          "timestamp": "2026-11-16T02:12:57Z",
+          "description": "única estrella del Sistema Solar, de tipo G y situada en su centro, alrededor de la cual orbitan los demás cuerpos del sistema",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Sol",
+              "revisions": "https://es.wikipedia.org/wiki/Sol?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Sol?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Sol"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Sol",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Sol",
+              "edit": "https://es.wikipedia.org/wiki/Sol?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Sol"
+            }
+          },
+          "extract": "El Sol es una estrella de tipo-G de la secuencia principal y clase de luminosidad V. Se encuentra en el centro del sistema solar y representa la principal y más abundante fuente de radiación electromagnética de todo este sistema planetario.",
+          "extract_html": "<p>El <b>Sol</b> es una estrella de tipo-G de la secuencia principal y clase de luminosidad V. Se encuentra en el centro del sistema solar y representa la principal y más abundante fuente de radiación electromagnética de todo este sistema planetario.</p>",
+          "normalizedtitle": "Sol"
+        },
+        {
+          "type": "standard",
+          "title": "Coma_(astronomía)",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Coma (astronomía)</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q259854",
+          "titles": {
+            "canonical": "Coma_(astronomía)",
+            "normalized": "Coma (astronomía)",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Coma (astronomía)</span></span>"
+          },
+          "pageid": 123205,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Infrared_Structure_of_Comet_Holmes.jpg/330px-Infrared_Structure_of_Comet_Holmes.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 264
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Infrared_Structure_of_Comet_Holmes.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 3000,
+            "height": 2400
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "165154419",
+          "tid": "204bf6ec-e195-11ef-9edf-ca765bebae39",
+          "timestamp": "2025-02-02T18:40:08Z",
+          "description": "nube de polvo y gas que envuelve al núcleo de un cometa",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Coma_(astronom%C3%ADa)",
+              "revisions": "https://es.wikipedia.org/wiki/Coma_(astronom%C3%ADa)?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Coma_(astronom%C3%ADa)?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Coma_(astronom%C3%ADa)"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Coma_(astronom%C3%ADa)",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Coma_(astronom%C3%ADa)",
+              "edit": "https://es.wikipedia.org/wiki/Coma_(astronom%C3%ADa)?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Coma_(astronom%C3%ADa)"
+            }
+          },
+          "extract": "En astronomía, se le llama la coma o la cabellera a la nube de polvo y gas que envuelve el núcleo de un cometa. Se forma cuando un cometa se acerca al Sol, de modo que parte de la superficie helada del núcleo se evapora y junto con otros materiales lo rodean, volviéndose esta nube visible por la refracción de la luz, y ocultando el núcleo. Para que pueda formarse, la velocidad de fuga del núcleo debe ser inferior a la velocidad media de las moléculas del gas.",
+          "extract_html": "<p>En astronomía, se le llama la <b>coma</b> o la <b>cabellera</b> a la nube de polvo y gas que envuelve el núcleo de un cometa. Se forma cuando un cometa se acerca al Sol, de modo que parte de la superficie helada del núcleo se evapora y junto con otros materiales lo rodean, volviéndose esta nube visible por la refracción de la luz, y ocultando el núcleo. Para que pueda formarse, la velocidad de fuga del núcleo debe ser inferior a la velocidad media de las moléculas del gas.</p>",
+          "normalizedtitle": "Coma (astronomía)"
+        }
+      ],
+      "year": 2007
+    },
+    {
+      "text": "en Antofagasta (Chile), un terremoto de 7,7 grados en la escala Richter deja 2 muertos y 15 000 damnificados.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Región_de_Antofagasta",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Región de Antofagasta</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q2118",
+          "titles": {
+            "canonical": "Región_de_Antofagasta",
+            "normalized": "Región de Antofagasta",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Región de Antofagasta</span></span>"
+          },
+          "pageid": 42779,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Costanera_de_Antofagasta.jpg/330px-Costanera_de_Antofagasta.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 248
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Costanera_de_Antofagasta.jpg/3840px-Costanera_de_Antofagasta.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 4032,
+            "height": 3024
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "175589888",
+          "tid": "4d52f460-bc6b-11f1-990b-e0ca4613a28d",
+          "timestamp": "2026-09-30T01:07:27Z",
+          "description": "región de Chile",
+          "description_source": "central",
+          "coordinates": {
+            "lat": -23.64694444,
+            "lon": -70.39833333
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Regi%C3%B3n_de_Antofagasta",
+              "revisions": "https://es.wikipedia.org/wiki/Regi%C3%B3n_de_Antofagasta?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Regi%C3%B3n_de_Antofagasta?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Regi%C3%B3n_de_Antofagasta"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Regi%C3%B3n_de_Antofagasta",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Regi%C3%B3n_de_Antofagasta",
+              "edit": "https://es.wikipedia.org/wiki/Regi%C3%B3n_de_Antofagasta?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Regi%C3%B3n_de_Antofagasta"
+            }
+          },
+          "extract": "La región de Antofagasta es una de las dieciséis regiones en que se divide Chile que limita con Argentina y con Bolivia al este. Su capital es la homónima Antofagasta. Ubicada en el extremo norte del país —norte grande—, limita al norte con la región de Tarapacá, al este con el departamento de Potosí en Bolivia y con las provincias de Jujuy, Salta y Catamarca pertenecientes a Argentina, al sur con la Región de Atacama y al oeste con el océano Pacífico.",
+          "extract_html": "<p>La <b>región de Antofagasta</b> es una de las dieciséis regiones en que se divide Chile que limita con Argentina y con Bolivia al este. Su capital es la homónima Antofagasta. Ubicada en el extremo norte del país —norte grande—, limita al norte con la región de Tarapacá, al este con el departamento de Potosí en Bolivia y con las provincias de Jujuy, Salta y Catamarca pertenecientes a Argentina, al sur con la Región de Atacama y al oeste con el océano Pacífico.</p>",
+          "normalizedtitle": "Región de Antofagasta"
+        },
+        {
+          "type": "standard",
+          "title": "Chile",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Chile</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q298",
+          "titles": {
+            "canonical": "Chile",
+            "normalized": "Chile",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Chile</span></span>"
+          },
+          "pageid": 276780,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/langes-330px-Flag_of_Chile.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 220
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/langes-960px-Flag_of_Chile.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 900,
+            "height": 600
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176313496",
+          "tid": "9da9e6c5-e131-11f1-823e-fefcb85d0537",
+          "timestamp": "2026-11-15T20:17:44Z",
+          "description": "país de América del Sur",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Chile",
+              "revisions": "https://es.wikipedia.org/wiki/Chile?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Chile?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Chile"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Chile",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Chile",
+              "edit": "https://es.wikipedia.org/wiki/Chile?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Chile"
+            }
+          },
+          "extract": "Chile, oficialmente República de Chile, es un país soberano ubicado en el extremo sudoeste de América del Sur. Adopta la forma de gobierno republicana, democrática, presidencialista y unitaria. Su capital y ciudad más poblada es Santiago.",
+          "extract_html": "<p><b>Chile</b>, oficialmente <b>República de Chile</b>, es un país soberano ubicado en el extremo sudoeste de América del Sur. Adopta la forma de gobierno republicana, democrática, presidencialista y unitaria. Su capital y ciudad más poblada es Santiago.</p>",
+          "normalizedtitle": "Chile"
+        },
+        {
+          "type": "standard",
+          "title": "Terremoto",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Terremoto</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q7944",
+          "titles": {
+            "canonical": "Terremoto",
+            "normalized": "Terremoto",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Terremoto</span></span>"
+          },
+          "pageid": 231718,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Haiti_earthquake_damage.jpg/330px-Haiti_earthquake_damage.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 220
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Haiti_earthquake_damage.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 3000,
+            "height": 2000
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176308563",
+          "tid": "f8264f51-e0f7-11f1-8e2f-65ad70b7a1d2",
+          "timestamp": "2026-11-15T13:25:05Z",
+          "description": "resultado de una liberación repentina de energía en la corteza terrestre que crea ondas sísmicas",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Terremoto",
+              "revisions": "https://es.wikipedia.org/wiki/Terremoto?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Terremoto?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Terremoto"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Terremoto",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Terremoto",
+              "edit": "https://es.wikipedia.org/wiki/Terremoto?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Terremoto"
+            }
+          },
+          "extract": "Un terremoto, también llamado sismo o seísmo en España, temblor de tierra o movimiento telúrico, es la sacudida brusca y pasajera de la corteza terrestre. Los más comunes se producen por actividad de fallas geológicas. También pueden ocurrir por otras causas, como por ejemplo: fricción en el borde de placas tectónicas, procesos volcánicos, impactos de asteroides o de cualquier objeto celeste de gran tamaño, o incluso pueden ser producidos por el ser humano al realizar detonaciones nucleares subterráneas.",
+          "extract_html": "<p>Un <b>terremoto</b>, también llamado <b>sismo o</b> <b>seísmo</b> en España, <b>temblor de tierra</b> o <b>movimiento telúrico</b>, es la sacudida brusca y pasajera de la corteza terrestre. Los más comunes se producen por actividad de fallas geológicas. También pueden ocurrir por otras causas, como por ejemplo: fricción en el borde de placas tectónicas, procesos volcánicos, impactos de asteroides o de cualquier objeto celeste de gran tamaño, o incluso pueden ser producidos por el ser humano al realizar detonaciones nucleares subterráneas.</p>",
+          "normalizedtitle": "Terremoto"
+        },
+        {
+          "type": "standard",
+          "title": "Escala_sismológica_de_Richter",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Escala sismológica de Richter</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q38768",
+          "titles": {
+            "canonical": "Escala_sismológica_de_Richter",
+            "normalized": "Escala sismológica de Richter",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Escala sismológica de Richter</span></span>"
+          },
+          "pageid": 21127,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Ondas_s%C3%ADsmicas_s_p.svg/langes-330px-Ondas_s%C3%ADsmicas_s_p.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 264
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Ondas_s%C3%ADsmicas_s_p.svg/langes-250px-Ondas_s%C3%ADsmicas_s_p.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 250,
+            "height": 200
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176166133",
+          "tid": "93316503-d959-11f1-b7d5-6bacefe52ad6",
+          "timestamp": "2026-11-05T20:43:37Z",
+          "description": "escala logarítmica arbitraria que asigna un número para cuantificar la energía que libera un terremoto",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter",
+              "revisions": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Escala_sismol%C3%B3gica_de_Richter"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Escala_sismol%C3%B3gica_de_Richter",
+              "edit": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Escala_sismol%C3%B3gica_de_Richter"
+            }
+          },
+          "extract": "La escala sismológica de Richter, también conocida como escala de magnitud local (ML), es una escala logarítmica que asigna un número para cuantificar la energía que libera un terremoto, denominada así en honor del sismólogo estadounidense Charles Francis Richter.",
+          "extract_html": "<p>La <b>escala sismológica de Richter</b>, también conocida como <b>escala de magnitud local</b> (<b><i>M</i><sub>L</sub></b>), es una escala logarítmica que asigna un número para cuantificar la energía que libera un terremoto, denominada así en honor del sismólogo estadounidense Charles Francis Richter.</p>",
+          "normalizedtitle": "Escala sismológica de Richter"
+        }
+      ],
+      "year": 2007
+    }
+  ]
+}
