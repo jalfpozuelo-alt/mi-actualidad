@@ -5,3 +5,5 @@
 
 
 .toolbar>div{display:flex;flex-direction:column;gap:5px}.scheduleInfo{font-size:11px;color:#8b5d3b}.toolbar button,.actions button,.button{border-radius:8px}.notice{min-height:58px;margin:14px 0 22px;display:flex;flex-direction:column;justify-content:center;gap:4px}.pipelineStatus,.lastChecked{font-size:11px;color:#66726b}@media(max-width:600px){.toolbar button{width:100%}}
+
+.secondaryRefresh{background:#b15f3f!important;color:#fff!important;font-size:10px!important;padding:9px 11px!important;border:1px solid #b15f3f!important}.secondaryRefresh:hover{background:#8f472d!important}@media(max-width:600px){.toolbar{display:grid;grid-template-columns:1fr auto;gap:8px;align-items:center}.toolbar>div{grid-column:1/-1}.toolbar>button:first-of-type{width:auto}.toolbar .secondaryRefresh{width:auto!important;padding:9px 10px!important;font-size:9px!important}}
