@@ -1,20 +1,56 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T20:51:24.890Z",
+  "generatedAt": "2026-11-16T21:01:29.078Z",
   "isEditoriallyValidated": false,
   "summaryStatus": "pending-editorial-review",
   "stories": [
+    {
+      "id": "elpais-ced9377da7d53063",
+      "title": "Abascal califica en Canarias de “invasión planificada” la llega de cayucos",
+      "summary": "El líder de Vox insinúa que Sanchez se dopa y propone hacer “controles ‘antidoping’ por sorpresa en campaña”",
+      "publishedAt": "2026-11-16T20:50:53.000Z",
+      "updatedAt": "2026-11-16T21:01:14.722Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "España",
+      "category": "España",
+      "importance": 114.65459888888888,
+      "source": {
+        "name": "EL PAÍS",
+        "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/abascal-califica-en-canarias-de-invasion-planificada-la-llega-de-cayucos.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "elpais-c22cfb8983df6e4f",
+      "title": "El Gobierno aprobará este martes la subida del 4,5% de los salarios de los funcionarios para 2027",
+      "summary": "Pedro Sánchez ha anunciado el incremento retributivo de los trabajadores públicos, parte de un pacto plurianual alcanzado el año pasado",
+      "publishedAt": "2026-11-16T20:42:46.000Z",
+      "updatedAt": "2026-11-16T21:01:14.722Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "España",
+      "category": "España",
+      "importance": 114.38404333333334,
+      "source": {
+        "name": "EL PAÍS",
+        "url": "https://elpais.com/economia/2026-11-16/el-gobierno-aprobara-este-martes-la-subida-del-45-de-los-salarios-de-los-funcionarios-para-2027.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
     {
       "id": "elmundo-es-007b6e4e66c0e078",
       "title": "El Consejo de Ministros aprobará este martes la subida del 5,3% del SMI y del 4,5% del salario de los funcionarios",
       "summary": "La aprobación irá acompañada de medidas fiscales para que no tribute la nueva cuantía Leer",
       "publishedAt": "2026-11-16T20:39:14.000Z",
-      "updatedAt": "2026-11-16T20:51:14.697Z",
+      "updatedAt": "2026-11-16T21:01:20.087Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 114.59961277777778,
+      "importance": 114.263285,
       "source": {
         "name": "EL MUNDO",
         "url": "https://www.elmundo.es/economia/empresas/2026/11/16/6afafd7d21efa00b548b45bd.html"
@@ -27,12 +63,12 @@
       "title": "Abascal aterriza en Canarias en plena oleada migratoria y entona su discurso contra la \"invasión\": \"Aquí no caben, es nuestra tierra\"",
       "summary": "Defiende que sus tesis no son \"insolidarias\", abogando por cerrar las puertas a quienes llegan a las costas del archipiélago: \"Si no los quieren en Mauritania ni en Marruecos, aquí tampoco\" Leer",
       "publishedAt": "2026-11-16T20:30:51.000Z",
-      "updatedAt": "2026-11-16T20:51:14.697Z",
+      "updatedAt": "2026-11-16T21:01:20.087Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 114.32016833333333,
+      "importance": 113.98384055555556,
       "source": {
         "name": "EL MUNDO",
         "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afb5a78e9cf4a3c4b8b4595.html"
@@ -45,51 +81,15 @@
       "title": "Frente Amplio busca desmarcarse del PSOE con un programa que blinda la vivienda y estimula la redistribución de la riqueza",
       "summary": "Bustinduy reta a Sánchez a que apruebe antes de las elecciones la prestación universal por crianza que propuso el domingo en un mitin",
       "publishedAt": "2026-11-16T19:02:13.000Z",
-      "updatedAt": "2026-11-16T20:51:08.774Z",
+      "updatedAt": "2026-11-16T21:01:14.722Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 111.36901444444445,
+      "importance": 111.03237666666666,
       "source": {
         "name": "EL PAÍS",
         "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/frente-amplio-busca-desmarcarse-del-psoe-con-un-programa-que-blinda-la-vivienda-y-estimula-la-redistribucion-de-la-riqueza.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "elpais-1c45ff8a6572ca8b",
-      "title": "Lula da en Madrid un respaldo político a Sánchez: “Es muy importante que tú ganes las elecciones en España”",
-      "summary": "Los dos presidentes defienden las instituciones democráticas frente a la amenaza ultraderechista y graban un vídeo de apoyo",
-      "publishedAt": "2026-11-16T19:01:28.000Z",
-      "updatedAt": "2026-11-16T20:51:08.774Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "España",
-      "category": "España",
-      "importance": 111.34401444444444,
-      "source": {
-        "name": "EL PAÍS",
-        "url": "https://elpais.com/espana/2026-11-16/lula-visita-a-sanchez-durante-la-campana-electoral.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "elmundo-es-b49f42ed8444a2ed",
-      "title": "El PSOE hunde todavía más al Frente Amplio y se coloca a menos de cinco puntos del PP",
-      "summary": "El PSOE crece medio punto y podría superar ya los 110 escaños a costa de Ada Colau. Entre los votantes de Sumar en 2023, habrá más que voten a Pedro Sánchez que al Frente Amplio Leer",
-      "publishedAt": "2026-11-16T19:00:20.000Z",
-      "updatedAt": "2026-11-16T20:51:14.697Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "España",
-      "category": "España",
-      "importance": 111.30294611111111,
-      "source": {
-        "name": "EL MUNDO",
-        "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afb2ef1fc6c834a4a8b4589.html"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -99,12 +99,12 @@
       "title": "Guerra interna por el control de Nvidia: la vuelta de Jensen Huang como CEO está encima de la mesa",
       "summary": "En poco menos de una semana, Jensen Huang pasó de ser uno de los CEO más alabados de Silicon Valley, a verse obligado a presentar su dimisión y dejar de dirigir Nvidia. Tras 33 años, Huang tiraba la toalla como CEO y anunciaba su dimisión como presidente, CEO y consejero, con efecto inmediato. Habían salido a la luz varias relaciones extramatrimoniales, una con una mujer sospechosa de lazos con la inteligencia china. Cuatro días después, la pregunta es otra: ¿puede volver? Nvidia llegó a la crisis sin sucesor claro. Ahora hay una directora interina, un consejo que busca a un candidato para que",
       "publishedAt": "2026-11-16T18:31:22.000Z",
-      "updatedAt": "2026-11-16T20:51:14.250Z",
+      "updatedAt": "2026-11-16T21:01:19.924Z",
       "country": "España",
       "countryCode": "ES",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 110.33763888888889,
+      "importance": 110.00115333333333,
       "source": {
         "name": "Xataka",
         "url": "https://www.xataka.com/empresas-y-economia/guerra-interna-control-nvidia-vuelta-jensen-huang-como-ceo-esta-encima-mesa"
@@ -113,16 +113,196 @@
       "isEditorialSummary": false
     },
     {
-      "id": "lanacion-ar-c4bf798e31b93815",
-      "title": "Reportan fallas en los principales bancos de Estados Unidos: miles de usuarios denuncian problemas para operar",
-      "summary": "Clientes de Chase, Bank of America, Wells Fargo y U.S. Bank denunciaron dificultades para ingresar a sus cuentas",
-      "publishedAt": "2026-11-16T20:43:20.000Z",
-      "updatedAt": "2026-11-16T20:51:17.186Z",
+      "id": "deutschlandfunk-de-fd3995aa82e50835",
+      "title": "Reunión de ministros de Asuntos Exteriores - Ciberataques a sistemas de refrigeración: la UE planea nuevas sanciones contra Irán",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T20:57:04.000Z",
+      "updatedAt": "2026-11-16T21:01:28.965Z",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 104.85279722222222,
+      "source": {
+        "name": "Deutschlandfunk",
+        "url": "https://www.deutschlandfunk.de/hackerangriffe-auf-kuehlsysteme-eu-plant-neue-sanktionen-gegen-den-iran-100.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "deutschlandfunk-de-4c145233b65364c3",
+      "title": "Conferencia en línea - Guerra en Ucrania: los europeos deliberan junto con Kiev y Estados Unidos",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T20:57:04.000Z",
+      "updatedAt": "2026-11-16T21:01:28.965Z",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 104.85279722222222,
+      "source": {
+        "name": "Deutschlandfunk",
+        "url": "https://www.deutschlandfunk.de/ukraine-krieg-europaeer-beraten-gemeinsam-mit-kiew-und-den-usa-100.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "deutschlandfunk-de-2a33d4911d3a77d5",
+      "title": "Política migratoria: Alemania y otros cuatro países de la UE planean crear un centro de deportación en Ruanda a partir de 2027",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T20:57:04.000Z",
+      "updatedAt": "2026-11-16T21:01:28.965Z",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 104.85279722222222,
+      "source": {
+        "name": "Deutschlandfunk",
+        "url": "https://www.deutschlandfunk.de/deutschland-und-vier-weitere-eu-staaten-planen-ab-2027-abschiebezentrum-in-ruanda-100.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "deutschlandfunk-de-b3d82f6bc3eaa8da",
+      "title": "Fragen und Antworten - \"Return Hubs\": Worum es bei dem geplanten Abschiebezentrum in Ruanda geht",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T20:57:04.000Z",
+      "updatedAt": "2026-11-16T21:01:28.965Z",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 104.85279722222222,
+      "source": {
+        "name": "Deutschlandfunk",
+        "url": "https://www.deutschlandfunk.de/return-hubs-worum-es-bei-dem-geplanten-abschiebezentrum-in-ruanda-geht-102.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "deutschlandfunk-de-d02b187b3d434cd6",
+      "title": "Promesas electorales - Nueva York: El alcalde Mamdani disuelve una controvertida unidad policial",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T20:57:04.000Z",
+      "updatedAt": "2026-11-16T21:01:28.965Z",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 104.85279722222222,
+      "source": {
+        "name": "Deutschlandfunk",
+        "url": "https://www.deutschlandfunk.de/new-york-buergermeister-mamdani-loest-umstrittene-polizei-einheit-auf-100.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "lanacion-ar-a62f5b2ad81fe1fa",
+      "title": "UEFA Nations League, en vivo: el minuto a minuto de los partidos del grupo 2",
+      "summary": "Se cierra una de las zonas de la liga A de la competencia europea y los germanos pueden quedar eliminados de la lucha por el título",
+      "publishedAt": "2026-11-16T20:52:42.000Z",
+      "updatedAt": "2026-11-16T21:01:21.453Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.73489666666667,
+      "importance": 104.711415,
+      "source": {
+        "name": "La Nación",
+        "url": "https://www.lanacion.com.ar/deportes/futbol/uefa-nations-league-en-vivo-nid16112026/"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "lanacion-ar-fef7e1e8111b94eb",
+      "title": "El violinista que murió por los golpes que le dio una mujer que le hacía compañía sufrió una masiva hemorragia interna en una pierna",
+      "summary": "Manuel Alberto “Chala” Sánchez, de 73 años, sufrió un shock hipovolémico producto de fue encontrado sin vida en su casa de Termas de Río Hondo, Santiago del Estero; por el hecho fue detenida Dalma Judith Orellana, una trabajadora sexual",
+      "publishedAt": "2026-11-16T20:51:55.000Z",
+      "updatedAt": "2026-11-16T21:01:21.453Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 104.68530388888888,
+      "source": {
+        "name": "La Nación",
+        "url": "https://www.lanacion.com.ar/seguridad/el-violinista-que-murio-por-los-golpes-que-le-dio-una-mujer-que-le-hacia-compania-sufrio-una-masiva-nid16112026/"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "france24-afc361b29df105ab",
+      "title": "Tropas de Bukele llegan a Haití: ya son cinco fuerzas contra las pandillas",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T20:51:37.000Z",
+      "updatedAt": "2026-11-16T21:01:16.985Z",
+      "country": "Francia",
+      "countryCode": "FR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 104.67778611111112,
+      "source": {
+        "name": "France 24",
+        "url": "https://www.france24.com/es/programas/en-contexto/20261116-tropas-de-bukele-llegan-a-hait%C3%AD-ya-son-cinco-fuerzas-contra-las-pandillas"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "lanacion-ar-ed881c6eb663ebe6",
+      "title": "Súper Niño 2026 en Argentina: el río Paraná sigue creciendo y superó el nivel de evacuación en Santa Fe",
+      "summary": "El regreso de las tormentas está previsto para mediados de noviembre; la secuencia arranca con temperaturas por encima de lo normal en gran parte del territorio",
+      "publishedAt": "2026-11-16T20:51:40.000Z",
+      "updatedAt": "2026-11-16T21:01:21.453Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 104.67697055555556,
+      "source": {
+        "name": "La Nación",
+        "url": "https://www.lanacion.com.ar/sociedad/super-nino-2026-en-argentina-en-vivo-el-rio-parana-sigue-creciendo-y-supero-el-nivel-de-evacuacion-nid16112026/"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "dw-ru-9d2524265b071248",
+      "title": "Alemania y otros cuatro países de la UE quieren enviar migrantes a Ruanda",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T20:51:00.000Z",
+      "updatedAt": "2026-11-16T21:01:24.966Z",
+      "country": "Rusia",
+      "countryCode": "RU",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 104.65279666666666,
+      "source": {
+        "name": "DW Russian",
+        "url": "https://www.dw.com/ru/германия-и-еще-четыре-страны-ес-хотят-отправлять-мигрантов-в-руанду/a-79963729?maca=rus-rss-ru-top-1051-rdf"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "lanacion-ar-c4bf798e31b93815",
+      "title": "Reportan fallas en los principales bancos de Estados Unidos: miles de usuarios denuncian problemas para operar",
+      "summary": "Clientes de Chase, Bank of America, Wells Fargo y U.S. Bank denunciaron dificultades para ingresar a sus cuentas",
+      "publishedAt": "2026-11-16T20:45:42.000Z",
+      "updatedAt": "2026-11-16T21:01:21.453Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 104.47808166666667,
       "source": {
         "name": "La Nación",
         "url": "https://www.lanacion.com.ar/estados-unidos/reportan-fallas-en-los-principales-bancos-de-estados-unidos-miles-de-usuarios-denuncian-problemas-nid16112026/"
@@ -135,159 +315,15 @@
       "title": "Encontraron muerto a un trabajador en el Observatorio de La Plata",
       "summary": "La víctima fue identificada como Nicolás Emilio Salerno; era responsable del antiguo telescopio de la UNLP y funcionario de Educación bonaerense",
       "publishedAt": "2026-11-16T20:42:15.000Z",
-      "updatedAt": "2026-11-16T20:51:17.186Z",
+      "updatedAt": "2026-11-16T21:01:21.453Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.69878555555556,
+      "importance": 104.36308166666667,
       "source": {
         "name": "La Nación",
         "url": "https://www.lanacion.com.ar/sociedad/encontraron-muerto-a-un-astronomo-en-el-observatorio-de-la-plata-nid16112026/"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "deutschlandfunk-de-fd3995aa82e50835",
-      "title": "Reunión de ministros de Asuntos Exteriores - Ciberataques a sistemas de refrigeración: la UE planea nuevas sanciones contra Irán",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-16T20:41:13.000Z",
-      "updatedAt": "2026-11-16T20:51:24.385Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 104.66034166666667,
-      "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/hackerangriffe-auf-kuehlsysteme-eu-plant-neue-sanktionen-gegen-den-iran-100.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "deutschlandfunk-de-4c145233b65364c3",
-      "title": "Conferencia en línea - Guerra en Ucrania: los europeos deliberan junto con Kiev y Estados Unidos",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-16T20:41:13.000Z",
-      "updatedAt": "2026-11-16T20:51:24.385Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 104.66034166666667,
-      "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/ukraine-krieg-europaeer-beraten-gemeinsam-mit-kiew-und-den-usa-100.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "deutschlandfunk-de-2a33d4911d3a77d5",
-      "title": "Política migratoria: Alemania y otros cuatro países de la UE planean crear un centro de deportación en Ruanda a partir de 2027",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-16T20:41:13.000Z",
-      "updatedAt": "2026-11-16T20:51:24.385Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 104.66034166666667,
-      "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/deutschland-und-vier-weitere-eu-staaten-planen-ab-2027-abschiebezentrum-in-ruanda-100.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "deutschlandfunk-de-b3d82f6bc3eaa8da",
-      "title": "Fragen und Antworten - \"Return Hubs\": Worum es bei dem geplanten Abschiebezentrum in Ruanda geht",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-16T20:41:13.000Z",
-      "updatedAt": "2026-11-16T20:51:24.385Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 104.66034166666667,
-      "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/return-hubs-worum-es-bei-dem-geplanten-abschiebezentrum-in-ruanda-geht-102.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "deutschlandfunk-de-d02b187b3d434cd6",
-      "title": "Promesas electorales - Nueva York: El alcalde Mamdani disuelve una controvertida unidad policial",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-16T20:41:13.000Z",
-      "updatedAt": "2026-11-16T20:51:24.385Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 104.66034166666667,
-      "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/new-york-buergermeister-mamdani-loest-umstrittene-polizei-einheit-auf-100.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "lanacion-ar-3328cf46c8306546",
-      "title": "Robert Pattinson es el nuevo James Bond: las redes reaccionaron con ingeniosos memes",
-      "summary": "Después de confirmarse quién ocupará el protagónico de la histórica saga, en X los usuarios no tardaron en manifestarse al respecto",
-      "publishedAt": "2026-11-16T20:39:53.000Z",
-      "updatedAt": "2026-11-16T20:51:17.186Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 104.61989666666666,
-      "source": {
-        "name": "La Nación",
-        "url": "https://www.lanacion.com.ar/espectaculos/robert-pattinson-es-el-nuevo-james-bond-las-redes-reaccionaron-con-ingeniosos-memes-nid16112026/"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "clarin-ar-aaeebbb4e0a48847",
-      "title": "Murió José Santiso, reconocido director de cine y teatro argentino, a los 91 años",
-      "summary": "El cineasta, guionista y docente fue responsable de películas como \"Malayunta\" y \"De mi barrio con amor\". La Asociación Argentina de Actores confirmó la triste noticia y lo despidió con un emotivo mensaje.",
-      "publishedAt": "2026-11-16T19:39:10.000Z",
-      "updatedAt": "2026-11-16T20:51:13.093Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 104.59828166666667,
-      "source": {
-        "name": "Clarín",
-        "url": "https://www.clarin.com/espectaculos/murio-jose-santiso-reconocido-director-cine-teatro-argentino-91-anos_0_NKKPnhUWfY.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "lanacion-ar-a62f5b2ad81fe1fa",
-      "title": "UEFA Nations League, en vivo: el minuto a minuto de los partidos del grupo 2",
-      "summary": "Se cierra una de las zonas de la liga A de la competencia europea y los germanos pueden quedar eliminados de la lucha por el título",
-      "publishedAt": "2026-11-16T20:37:56.000Z",
-      "updatedAt": "2026-11-16T20:51:17.186Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 104.55489666666666,
-      "source": {
-        "name": "La Nación",
-        "url": "https://www.lanacion.com.ar/deportes/futbol/uefa-nations-league-en-vivo-nid16112026/"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -297,12 +333,12 @@
       "title": "Kallas: El alto el fuego demostrará la disposición de Rusia a negociar",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T20:33:00.000Z",
-      "updatedAt": "2026-11-16T20:51:21.292Z",
+      "updatedAt": "2026-11-16T21:01:24.966Z",
       "country": "Rusia",
       "countryCode": "RU",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.3881711111111,
+      "importance": 104.05279666666667,
       "source": {
         "name": "DW Russian",
         "url": "https://www.dw.com/ru/каллас-прекращение-огня-покажет-готовность-рф-к-переговорам/a-79963678?maca=rus-rss-ru-top-1051-rdf"
@@ -315,12 +351,12 @@
       "title": "Las transacciones de Chase Bank se ven interrumpidas por un «problema técnico» en medio de informes de averías",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T20:29:09.000Z",
-      "updatedAt": "2026-11-16T20:51:21.702Z",
+      "updatedAt": "2026-11-16T21:01:25.382Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.25961,
+      "importance": 103.92423277777777,
       "source": {
         "name": "The New York Times",
         "url": "https://www.nytimes.com/2026/11/16/us/bank-outages-down.html"
@@ -333,15 +369,33 @@
       "title": "\"La conversation n'a pas été facile\" : de premiers pourparlers se sont tenus entre l'Ukraine, l'Europe et les Etats-Unis, annonce Volodymyr Zelensky",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T20:23:42.000Z",
-      "updatedAt": "2026-11-16T20:51:21.962Z",
+      "updatedAt": "2026-11-16T21:01:25.488Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.07779888888889,
+      "importance": 103.74250666666667,
       "source": {
         "name": "Franceinfo",
         "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/la-conversation-n-a-pas-ete-facile-de-premiers-pourparlers-se-sont-tenus-entre-l-ukraine-l-europe-et-les-etats-unis-annonce-volodymyr-zelensky_8285417.html#xtor=RSS-3-[lestitres]"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "bbc-ru-e0f57f322d294963",
+      "title": "«С нами это не согласовалось». Rusia afirmó que no había dado su consentimiento a la participación de Europa en las negociaciones de paz en Ucrania.",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T20:15:24.000Z",
+      "updatedAt": "2026-11-16T21:01:23.566Z",
+      "country": "Rusia",
+      "countryCode": "RU",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 103.46690833333334,
+      "source": {
+        "name": "BBC Russian",
+        "url": "https://www.bbc.com/russian/articles/cme3d2yzlv3no?at_medium=RSS&at_campaign=rss"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -351,12 +405,12 @@
       "title": "Lula y su espaldarazo a Pedro Sánchez: \"Es la persona indicada para defender la democracia en Europa\"",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T20:10:48.000Z",
-      "updatedAt": "2026-11-16T20:51:12.941Z",
+      "updatedAt": "2026-11-16T21:01:16.986Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 103.65281055555556,
+      "importance": 103.31723055555555,
       "source": {
         "name": "France 24",
         "url": "https://www.france24.com/es/europa/20261116-elecciones-en-espa%C3%B1a-lula-defiende-que-s%C3%A1nchez-es-la-persona-indicada-para-defender-la-democracia-en-europa"
@@ -369,12 +423,12 @@
       "title": "Cuestionando el consenso, un científico afirma que las fotos de la autopsia de Epstein muestran un homicidio",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T20:08:09.000Z",
-      "updatedAt": "2026-11-16T20:51:21.702Z",
+      "updatedAt": "2026-11-16T21:01:25.382Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 103.55961,
+      "importance": 103.22423222222223,
       "source": {
         "name": "The New York Times",
         "url": "https://www.nytimes.com/2026/11/16/us/jeffrey-epstein-autopsy-michael-freeman.html"
@@ -387,12 +441,12 @@
       "title": "Según las autoridades, hay una persona detenida en relación con el caso de la bomba de Illinois",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T19:58:19.000Z",
-      "updatedAt": "2026-11-16T20:51:21.702Z",
+      "updatedAt": "2026-11-16T21:01:25.382Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 103.23183222222222,
+      "importance": 102.89645444444444,
       "source": {
         "name": "The New York Times",
         "url": "https://www.nytimes.com/2026/11/16/us/peoria-bomb-threat-arrest.html"
@@ -405,12 +459,12 @@
       "title": "\"J'ai fait de mon mieux\" : à six mois de la fin de son mandat, Emmanuel Macron reconnaît \"des erreurs\" au cours de ses dix ans au pouvoir",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T19:53:52.000Z",
-      "updatedAt": "2026-11-16T20:51:21.962Z",
+      "updatedAt": "2026-11-16T21:01:25.488Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 103.08335444444444,
+      "importance": 102.74806222222222,
       "source": {
         "name": "Franceinfo",
         "url": "https://www.franceinfo.fr/elections/j-ai-fait-de-mon-mieux-a-six-mois-de-la-fin-de-son-mandat-emmanuel-macron-reconnait-des-erreurs-au-cours-de-ses-dix-ans-au-pouvoir_8285318.html#xtor=RSS-3-[lestitres]"
@@ -423,12 +477,12 @@
       "title": "Los clientes de los principales bancos están teniendo problemas para acceder a sus cuentas",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T19:32:41.000Z",
-      "updatedAt": "2026-11-16T20:51:21.524Z",
+      "updatedAt": "2026-11-16T21:01:25.351Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 102.37748666666667,
+      "importance": 102.04202722222222,
       "source": {
         "name": "PBS NewsHour",
         "url": "https://www.pbs.org/newshour/nation/customers-at-major-banks-are-experiencing-issues-accessing-their-accounts"
@@ -441,12 +495,12 @@
       "title": "El Tribunal Supremo rechaza la petición de Trump de restablecer los recortes en la investigación universitaria",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T19:19:16.000Z",
-      "updatedAt": "2026-11-16T20:51:21.702Z",
+      "updatedAt": "2026-11-16T21:01:25.382Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 101.93016555555556,
+      "importance": 101.59478777777778,
       "source": {
         "name": "The New York Times",
         "url": "https://www.nytimes.com/2026/11/16/us/politics/supreme-court-trump-university-of-california.html"
@@ -459,12 +513,12 @@
       "title": "Qué tan poderosas son las pandillas a las que se enfrenta Bukele en Haití",
       "summary": "El presidente de El Salvador ha enviado al menos 2.000 militares de fuerzas especiales al país caribeño.",
       "publishedAt": "2026-11-16T19:14:07.000Z",
-      "updatedAt": "2026-11-16T20:51:09.361Z",
+      "updatedAt": "2026-11-16T21:01:14.847Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 101.76535555555556,
+      "importance": 101.42897388888889,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/watch/cxj05r723gpjo?at_medium=RSS&at_campaign=rss"
@@ -477,12 +531,12 @@
       "title": "Ataques híbridos de Rusia: ¿ayudará a Estonia el cierre de la frontera con la Federación Rusa?",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T19:05:00.000Z",
-      "updatedAt": "2026-11-16T20:51:21.292Z",
+      "updatedAt": "2026-11-16T21:01:24.966Z",
       "country": "Rusia",
       "countryCode": "RU",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 101.45483777777778,
+      "importance": 101.11946333333333,
       "source": {
         "name": "DW Russian",
         "url": "https://www.dw.com/ru/гибридные-атаки-россии-поможет-ли-эстонии-закрытие-границы-с-рф/a-79962782?maca=rus-rss-ru-top-1051-rdf"
@@ -495,12 +549,12 @@
       "title": "Adolescent mortellement fauché dans le Puy-de-Dôme : deux hommes mis en examen",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T19:03:14.000Z",
-      "updatedAt": "2026-11-16T20:51:21.962Z",
+      "updatedAt": "2026-11-16T21:01:25.488Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 101.39557666666667,
+      "importance": 101.06028444444445,
       "source": {
         "name": "Franceinfo",
         "url": "https://www.franceinfo.fr/faits-divers/adolescent-mortellement-fauche-dans-le-puy-de-dome-deux-hommes-mis-en-examen_8285369.html#xtor=RSS-3-[lestitres]"
@@ -513,12 +567,12 @@
       "title": "Un buque mercante ha zozobrado frente a las costas de Bulgaria tras un ataque con drones",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T19:03:00.000Z",
-      "updatedAt": "2026-11-16T20:51:21.292Z",
+      "updatedAt": "2026-11-16T21:01:24.966Z",
       "country": "Rusia",
       "countryCode": "RU",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 101.3881711111111,
+      "importance": 101.05279666666667,
       "source": {
         "name": "DW Russian",
         "url": "https://www.dw.com/ru/у-берегов-болгарии-после-атаки-дронов-перевернулось-торговое-судно/a-79963477?maca=rus-rss-ru-top-1051-rdf"
@@ -527,55 +581,19 @@
       "isEditorialSummary": false
     },
     {
-      "id": "france24-326107132817eed2",
-      "title": "Gaza, sin tregua de Israel: nuevos ataques, restricciones a la ayuda y proliferación de enfermedades",
+      "id": "techcrunch-a59dd1871e2ff467",
+      "title": "Apple presenta nuevos controles de seguridad para Mac a medida que los agentes de IA aumentan los riesgos para la privacidad",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-16T18:54:43.000Z",
-      "updatedAt": "2026-11-16T20:51:12.941Z",
-      "country": "Francia",
-      "countryCode": "FR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 101.11669944444445,
+      "publishedAt": "2026-11-16T21:01:02.000Z",
+      "updatedAt": "2026-11-16T21:01:19.309Z",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "section": "Tecnología",
+      "category": "Tecnología",
+      "importance": 99.99038388888889,
       "source": {
-        "name": "France 24",
-        "url": "https://www.france24.com/es/medio-oriente/20261116-gaza-sin-tregua-de-israel-nuevos-ataques-restricciones-a-la-ayuda-y-proliferaci%C3%B3n-de-enfermedades"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "bbc-ru-5b1b909566482565",
-      "title": "Cinco países de la UE tienen intención de deportar a migrantes a Ruanda",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-16T18:40:11.000Z",
-      "updatedAt": "2026-11-16T20:51:20.289Z",
-      "country": "Rusia",
-      "countryCode": "RU",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 100.62817277777778,
-      "source": {
-        "name": "BBC Russian",
-        "url": "https://www.bbc.com/russian/articles/cv62p30nzpxxo?at_medium=RSS&at_campaign=rss"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "dw-ru-fad9765e5f359c2e",
-      "title": "Estonia cierra los puestos fronterizos con Rusia: qué cambiará",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-16T18:37:00.000Z",
-      "updatedAt": "2026-11-16T20:51:21.292Z",
-      "country": "Rusia",
-      "countryCode": "RU",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 100.52150444444445,
-      "source": {
-        "name": "DW Russian",
-        "url": "https://www.dw.com/ru/эстония-закрывает-погранпункты-на-границе-с-россией-что-изменится/a-79963032?maca=rus-rss-ru-top-1051-rdf"
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -585,12 +603,12 @@
       "title": "El fiscal general del estado de California demanda a OpenAI por incidentes con agentes deshonestos",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T20:07:13.000Z",
-      "updatedAt": "2026-11-16T20:51:13.475Z",
+      "updatedAt": "2026-11-16T21:01:19.309Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 98.53306944444445,
+      "importance": 98.196495,
       "source": {
         "name": "TechCrunch",
         "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
@@ -603,12 +621,12 @@
       "title": "Uber afirma que los piratas informáticos robaron información de cerca de 150 000 permisos de conducir durante la filtración de datos",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T19:53:00.000Z",
-      "updatedAt": "2026-11-16T20:51:13.475Z",
+      "updatedAt": "2026-11-16T21:01:19.309Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 98.05918055555556,
+      "importance": 97.7226061111111,
       "source": {
         "name": "TechCrunch",
         "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/"
@@ -621,12 +639,12 @@
       "title": "Apple añade el «desbloqueo facial» al iPhone Duo, pero no es Face ID",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T19:26:55.000Z",
-      "updatedAt": "2026-11-16T20:51:13.475Z",
+      "updatedAt": "2026-11-16T21:01:19.309Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 97.18973611111112,
+      "importance": 96.85316166666667,
       "source": {
         "name": "TechCrunch",
         "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/"
@@ -639,33 +657,15 @@
       "title": "Trump afirma que la relación del exdirector ejecutivo de Nvidia, Jensen Huang, con una supuesta espía china no supuso una amenaza para la seguridad nacional",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T19:12:02.000Z",
-      "updatedAt": "2026-11-16T20:51:13.475Z",
+      "updatedAt": "2026-11-16T21:01:19.309Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 96.693625,
+      "importance": 96.35705055555556,
       "source": {
         "name": "TechCrunch",
         "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "techcrunch-cf6bbdd59e4ebfb1",
-      "title": "Island es una nueva aplicación de tiempo de pantalla que convierte el hecho de no usar el móvil en un juego",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-16T18:54:18.000Z",
-      "updatedAt": "2026-11-16T20:51:13.475Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 96.1025138888889,
-      "source": {
-        "name": "TechCrunch",
-        "url": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -675,12 +675,12 @@
       "title": "Cinco Estados de la UE anuncian planes para crear «centros de retorno» para inmigrantes en Ruanda",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T16:21:40.000Z",
-      "updatedAt": "2026-11-16T20:51:13.345Z",
+      "updatedAt": "2026-11-16T21:01:17.132Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 96.01480833333333,
+      "importance": 95.67937111111111,
       "source": {
         "name": "The Guardian",
         "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda"
@@ -693,12 +693,12 @@
       "title": "\"Es Pattinson, Robert Pattinson\": el actor británico será el nuevo James Bond",
       "summary": "El protagonista de \"Crepúsculo\" y \"The Batman\" releva a Daniel Craig y se convierte en el séptimo actor que da vida al agente 007.",
       "publishedAt": "2026-11-16T15:44:22.000Z",
-      "updatedAt": "2026-11-16T20:51:09.361Z",
+      "updatedAt": "2026-11-16T21:01:14.847Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 94.77368833333334,
+      "importance": 94.43730722222222,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/c64gn38yj4ygo?at_medium=RSS&at_campaign=rss"
@@ -711,12 +711,12 @@
       "title": "Tras el incidente de Jensen Huang, la gente se preocupa por la situación actual de la industria de los chips en China",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T15:36:00.000Z",
-      "updatedAt": "2026-11-16T20:51:19.357Z",
+      "updatedAt": "2026-11-16T21:01:22.904Z",
       "country": "China",
       "countryCode": "CN",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 94.48924611111111,
+      "importance": 94.15394222222223,
       "source": {
         "name": "DW Chinese",
         "url": "https://www.dw.com/zh/黄仁勋事件后-人们关注中国的芯片产业现状/a-79961605?maca=chi-rss-chi-all-1127-rdf"
@@ -729,12 +729,12 @@
       "title": "Disminuye el número de estudiantes que van a Estados Unidos a estudiar. Algunos estudiantes se van a China en su lugar. ¿A qué se debe?",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T15:34:00.000Z",
-      "updatedAt": "2026-11-16T20:51:19.357Z",
+      "updatedAt": "2026-11-16T21:01:22.904Z",
       "country": "China",
       "countryCode": "CN",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 94.42257944444444,
+      "importance": 94.08727555555555,
       "source": {
         "name": "DW Chinese",
         "url": "https://www.dw.com/zh/赴美留学的人数减少-一些学生改赴中国-原因何在？/a-79961436?maca=chi-rss-chi-all-1127-rdf"
@@ -747,15 +747,33 @@
       "title": "Medios alemanes: Jensen Huang, la caída de una estrella de la tecnología",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T15:11:00.000Z",
-      "updatedAt": "2026-11-16T20:51:19.357Z",
+      "updatedAt": "2026-11-16T21:01:22.904Z",
       "country": "China",
       "countryCode": "CN",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 93.65591277777777,
+      "importance": 93.32060888888888,
       "source": {
         "name": "DW Chinese",
         "url": "https://www.dw.com/zh/德语媒体：黄仁勋，一位科技巨星的陨落/a-79961419?maca=chi-rss-chi-all-1127-rdf"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "bbc-zh-de07d7492e0ec4d5",
+      "title": "¿Qué significará para el mundo la reunión histórica entre Xi Jinping, Donald Trump y Vladímir Putin?",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T14:38:25.000Z",
+      "updatedAt": "2026-11-16T21:01:22.867Z",
+      "country": "China",
+      "countryCode": "CN",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 92.23451833333334,
+      "source": {
+        "name": "BBC Chinese",
+        "url": "https://www.bbc.com/zhongwen/articles/cwe85djzkkv5o/trad?at_medium=RSS&at_campaign=rss"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -765,12 +783,12 @@
       "title": "China y la ASEAN afirman que mantendrán la moderación. ¿Cuánto falta para «establecer las reglas» en el mar de la China Meridional?",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T14:04:00.000Z",
-      "updatedAt": "2026-11-16T20:51:19.357Z",
+      "updatedAt": "2026-11-16T21:01:22.904Z",
       "country": "China",
       "countryCode": "CN",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 91.42257944444444,
+      "importance": 91.08727555555555,
       "source": {
         "name": "DW Chinese",
         "url": "https://www.dw.com/zh/中国与东盟称将保持克制-南海距离-定规矩-还有多远？/a-79960794?maca=chi-rss-chi-all-1127-rdf"
@@ -783,12 +801,12 @@
       "title": "Según las autoridades, un jugador de baloncesto estadounidense ha sido detenido con 34 kg de marihuana en un aeropuerto nigeriano.",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T13:16:36.000Z",
-      "updatedAt": "2026-11-16T20:51:13.345Z",
+      "updatedAt": "2026-11-16T21:01:17.132Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 89.84591944444445,
+      "importance": 89.51048222222222,
       "source": {
         "name": "The Guardian",
         "url": "https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities"
@@ -801,33 +819,15 @@
       "title": "Tengo una deformidad física congénita que escondí de mis padres y compañeros de escuela",
       "summary": "Charlie Clarke, de 23 años, afirma que los efectos físicos y emocionales del pectus excavatum han sido \"inimaginables\".",
       "publishedAt": "2026-11-16T12:49:59.000Z",
-      "updatedAt": "2026-11-16T20:51:09.361Z",
+      "updatedAt": "2026-11-16T21:01:14.847Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 88.96091055555556,
+      "importance": 88.62452944444445,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/cr15e9qjnxdgo?at_medium=RSS&at_campaign=rss"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "dw-zh-bd513d8cc9f58dc2",
-      "title": "Las grandes personalidades se reunirán en Shenzhen. Dos años de preparación solo para este momento.",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-16T12:36:00.000Z",
-      "updatedAt": "2026-11-16T20:51:19.357Z",
-      "country": "China",
-      "countryCode": "CN",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 88.48924611111111,
-      "source": {
-        "name": "DW Chinese",
-        "url": "https://www.dw.com/zh/大人物将聚首深圳-两年准备只为这一刻/a-79959714?maca=chi-rss-chi-all-1127-rdf"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
