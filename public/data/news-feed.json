@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-16T17:29:28.030Z",
+  "generatedAt": "2026-11-16T17:48:05.259Z",
   "isEditoriallyValidated": false,
   "summaryStatus": "pending-editorial-review",
   "stories": [
@@ -9,51 +9,15 @@
       "title": "Una piscina de Alemania dependía de Microsoft para gestionar su nivel de cloro. Cuando cayó, varias personas terminaron en el hospital",
       "summary": "El viernes pasado, medio mundo volvió a ser testigo de lo que ocurre cuando tantísimos sistemas dependen de una sola compañía y los servidores, simplemente, dejan de funcionar. La caída de Microsoft comenzó el pasado jueves por la noche y se prolongó durante todo el viernes. Outlook, Teams, Copilot, Defender y otros servicios tanto propios como externos dejaron de funcionar. No poder entrar a una reunión de Teams es una anécdota, pero que no te llegue un correo crítico puede ser muy serio. Que se lo digan a una piscina de un hotel alemán en el que el nivel de cloro se desmadró y varias persona",
       "publishedAt": "2026-11-16T17:01:27.000Z",
-      "updatedAt": "2026-11-16T17:29:21.966Z",
+      "updatedAt": "2026-11-16T17:47:58.882Z",
       "country": "España",
       "countryCode": "ES",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 114.06946333333333,
+      "importance": 113.44895444444444,
       "source": {
         "name": "Xataka",
         "url": "https://www.xataka.com/domotica-1/piscina-alemania-dependia-microsoft-para-gestionar-su-nivel-cloro-cuando-cayo-varias-personas-terminaron-hospital"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "xataka-3e1f24ae94e22a48",
-      "title": "Comprar un PC Gaming o un móvil puede salirte hasta un 60% más barato en el Black Friday de PcComponentes",
-      "summary": "Históricamente, el Black Friday siempre ha tenido lugar el último viernes de noviembre (el día de su celebración propiamente dicho) o la última semana completa del mes. Sin embargo, hace tiempo que podemos ver cómo las tiendas aprovechan todo el mes para mostrar sus ofertas. PcComponentes es un claro ejemplo, pues ya tiene varios de sus productos en oferta a precios bastante interesantes. En esta ocasión, junto a nuestros compañeros de TikTok, hemos hecho una selección de dispositivos bastante interesante, como el PcCom Ready, que se queda a 1.399,00 euros. PcCom Ready AMD Ryzen 7 5700X / 32GB",
-      "publishedAt": "2026-11-16T16:15:25.000Z",
-      "updatedAt": "2026-11-16T17:29:21.966Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 112.53501888888889,
-      "source": {
-        "name": "Xataka",
-        "url": "https://www.xataka.com/seleccion/comprar-pc-gaming-movil-puede-salirte-60-barato-black-friday-pccomponentes"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "xataka-12a63c62f10d684e",
-      "title": "Llega la primera oferta en la tablet Alexa 12 Pro con Alexa+ y pantalla nanomatte 2.8K",
-      "summary": "Amazon no suele bajar el precio de sus dispositivos más recientes en campañas como el Black Friday, pero hay algunas excepciones. Tras presentar sus nuevas tablets hace muy pocas semanas, ahora podemos encontrar de oferta la Alexa Tablet 12 Pro por un precio de 379,99 euros. Alexa Tablet 12 Pro (8 GB, 128 GB) 379,99 € El precio podría variar. Obtenemos comisión por estos enlaces Tiene pantalla antirreflejos y altavoces compatibles con Dolby Atmos Esta es la primera oferta que ha recibido la Alexa Tablet 12 Pro, y lo cierto es que se trata de un buen precio porque ha bajado desde los 559,99 eur",
-      "publishedAt": "2026-11-16T16:01:22.000Z",
-      "updatedAt": "2026-11-16T17:29:21.966Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 112.06668555555555,
-      "source": {
-        "name": "Xataka",
-        "url": "https://www.xataka.com/seleccion/llega-primera-oferta-tablet-alexa-12-pro-alexa-pantalla-nanomatte-2-8k"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -63,12 +27,12 @@
       "title": "El Frente Amplio propone limitar las herencias a un máximo de 10 millones por persona",
       "summary": "Plantea un tipo impositivo marginal del 100% sobre el tramo que supere esa cifra y del 75% para herencias de entre 5 y 10 millones Leer",
       "publishedAt": "2026-11-16T15:52:20.000Z",
-      "updatedAt": "2026-11-16T17:29:22.465Z",
+      "updatedAt": "2026-11-16T17:47:59.007Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 111.76529722222222,
+      "importance": 111.14499611111111,
       "source": {
         "name": "EL MUNDO",
         "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afac0a8fc6c8389748b4597.html"
@@ -81,12 +45,12 @@
       "title": "Cinco países europeos crearán en Ruanda el primer centro de deportación fuera de la UE",
       "summary": "Bruselas da el visto bueno al pacto negociado por Dinamarca, Alemania, Países Bajos, Grecia y Austria para acelerar la expulsión de migrantes",
       "publishedAt": "2026-11-16T15:23:03.000Z",
-      "updatedAt": "2026-11-16T17:29:18.878Z",
+      "updatedAt": "2026-11-16T17:47:54.416Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 110.7911788888889,
+      "importance": 110.17143555555556,
       "source": {
         "name": "EL PAÍS",
         "url": "https://elpais.com/internacional/2026-11-16/cinco-paises-europeos-crearan-en-ruanda-el-primer-centro-de-deportacion-fuera-de-la-ue.html"
@@ -99,12 +63,12 @@
       "title": "Frente Amplio busca desmarcarse del PSOE con un programa que blinda la vivienda y estimula la redistribución de la riqueza",
       "summary": "Bustinduy reta a Sánchez a que apruebe antes de las elecciones la prestación universal por crianza que propuso el domingo en un mitin",
       "publishedAt": "2026-11-16T14:33:57.000Z",
-      "updatedAt": "2026-11-16T17:29:18.879Z",
+      "updatedAt": "2026-11-16T17:47:54.416Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 109.15451222222222,
+      "importance": 108.53476888888889,
       "source": {
         "name": "EL PAÍS",
         "url": "https://elpais.com/espana/elecciones-generales/2026-11-16/frente-amplio-busca-desmarcarse-del-psoe-con-un-programa-que-blinda-la-vivienda-y-estimula-la-redistribucion-de-la-riqueza.html"
@@ -117,12 +81,12 @@
       "title": "El PP reclama a Marlaska por carta que ponga escolta a su candidato en Guipúzcoa tras la agresión que sufrió antes de un acto en Hernani",
       "summary": "El partido de Feijóo exige una \"respuesta inmediata\" porque \"está en juego la seguridad personal\" de Jon Echeverría Leer",
       "publishedAt": "2026-11-16T14:30:09.000Z",
-      "updatedAt": "2026-11-16T17:29:22.465Z",
+      "updatedAt": "2026-11-16T17:47:59.007Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 109.02585277777777,
+      "importance": 108.40555166666667,
       "source": {
         "name": "EL MUNDO",
         "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/16/6afaf4fa21efa083778b4589.html"
@@ -135,12 +99,12 @@
       "title": "Sánchez se reinventa en el 'Sánchez candidato' de 2015: así fue el acto de hace once años con Begoña y una bandera gigante de España",
       "summary": "La aparición de la enseña nacional y de Begoña Gómez fueron las sorpresas del acto en que Sánchez fue proclamado candidato a la Presidencia del Gobierno para las generales de diciembre de 2015.",
       "publishedAt": "2026-11-16T14:29:06.000Z",
-      "updatedAt": "2026-11-16T17:29:28.024Z",
+      "updatedAt": "2026-11-16T17:48:05.258Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 108.98776444444445,
+      "importance": 108.36707888888888,
       "source": {
         "name": "20minutos",
         "url": "https://www.20minutos.es/nacional/sanchez-se-reinventa-sanchez-candidato-2015-asi-fue-otro-acto-hace-once-anos-con-begona-una-bandera-gigante-espana_7061663_0.html"
@@ -149,19 +113,55 @@
       "isEditorialSummary": false
     },
     {
-      "id": "deutschlandfunk-de-ae3796e8c2ebe391",
-      "title": "\"Return Hub\" - Worum es bei dem geplanten Abschiebezentrum in Ruanda geht",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-16T17:26:36.000Z",
-      "updatedAt": "2026-11-16T17:29:27.744Z",
-      "country": "Alemania",
-      "countryCode": "DE",
+      "id": "clarin-ar-4bf3ea26932493c9",
+      "title": "Crecida del Paraná: por el Niño, el río alcanzó su nivel más alto en casi 30 años para esta época en Rosario",
+      "summary": "El cuerpo de agua se ubicó en 4,47 metros, el valor más elevado para el undécimo mes del año desde noviembre de 1997. Se prevé que siga creciendo, pero a un ritmo menor.",
+      "publishedAt": "2026-11-16T16:48:05.000Z",
+      "updatedAt": "2026-11-16T17:47:57.159Z",
+      "country": "Argentina",
+      "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.90458666666666,
+      "importance": 105.00435611111111,
       "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/worum-es-bei-dem-geplanten-abschiebezentrum-in-ruanda-geht-100.html"
+        "name": "Clarín",
+        "url": "https://www.clarin.com/rural/crecida-parana-nino-rio-alcanzo-nivel-alto-30-anos-epoca-rosario_0_iKKYHBKVhE.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "clarin-ar-4b1408ffc20c8eb6",
+      "title": "Gladys La Bomba Tucumana habló de la muerte de su sobrino de 12 años y contó cómo fue el accidente",
+      "summary": "La cantante compartió un video desde Tucumán para agradecer los mensajes de apoyo y relató cómo se produjo el episodio que terminó con la vida del pequeño. Además, expresó el dolor que atraviesa su familia y pidió respeto en este difícil momento.",
+      "publishedAt": "2026-11-16T16:47:16.000Z",
+      "updatedAt": "2026-11-16T17:47:57.159Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 104.97713388888889,
+      "source": {
+        "name": "Clarín",
+        "url": "https://www.clarin.com/fama/gladys-bomba-tucumana-hablo-muerte-sobrino-12-anos-conto-accidente_0_w4hmPYZA0B.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "clarin-ar-1371b2c17409f772",
+      "title": "Norberto Marcos sigue internado en terapia intensiva por una neumonía: cómo evoluciona su salud",
+      "summary": "El productor teatral habló con Clarín, a la espera los resultados de los últimos estudios médicos. Se encuentra hospitalizado desde la semana pasada en Palermo.",
+      "publishedAt": "2026-11-16T16:45:31.000Z",
+      "updatedAt": "2026-11-16T17:47:57.159Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 104.91880055555555,
+      "source": {
+        "name": "Clarín",
+        "url": "https://www.clarin.com/fama/norberto-marcos-sigue-internado-terapia-intensiva-neumonia-evoluciona-salud_0_Bv02DnPlDI.html"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -170,13 +170,13 @@
       "id": "lanacion-ar-cf71dbc3a0b60278",
       "title": "Papa León XIV en Perú, EN VIVO: las últimas actividades antes del fin del viaje, minuto a minuto",
       "summary": "El Pontífice continúa con su agenda en el último día de su gira por Sudamérica; realizará una visita y una misa, y luego será despedido en la Base Aérea del Callao",
-      "publishedAt": "2026-11-16T17:26:30.000Z",
-      "updatedAt": "2026-11-16T17:29:24.626Z",
+      "publishedAt": "2026-11-16T17:44:50.000Z",
+      "updatedAt": "2026-11-16T17:48:01.308Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.90298555555556,
+      "importance": 104.89371777777778,
       "source": {
         "name": "La Nación",
         "url": "https://www.lanacion.com.ar/el-mundo/papa-leon-xiv-en-peru-en-vivo-las-ultimas-actividades-antes-del-fin-del-viaje-minuto-a-minuto-nid16112026/"
@@ -185,52 +185,16 @@
       "isEditorialSummary": false
     },
     {
-      "id": "lanacion-ar-5244e680098d619a",
-      "title": "Toyota fabricará la Tacoma híbrida en la Argentina y reveló cómo será su nueva planta",
-      "summary": "En exclusiva con LA NACION, el presidente de Toyota Argentina, Gustavo Salinas, explicó el alcance del proyecto de US$1341 millones; el calendario de obras en Zárate y cómo convivirá la nueva pickup con Hilux",
-      "publishedAt": "2026-11-16T17:25:53.000Z",
-      "updatedAt": "2026-11-16T17:29:24.626Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 104.88243,
-      "source": {
-        "name": "La Nación",
-        "url": "https://www.lanacion.com.ar/autos/toyota-fabricara-la-tacoma-hibrida-en-la-argentina-y-revelo-como-sera-su-nueva-planta-nid16112026/"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "lanacion-ar-364bb984ce1b261a",
-      "title": "El papa León XIV cerró su histórica gira latinoamericana con un baño de multitudes y un mensaje contundente",
-      "summary": "Ante más de un millón de fieles en Perú, el Pontífice puso fin a su viaje más largo y exigente, marcado por una verdadera “papamanía”, y lanzó un fuerte llamado a cuidar a los más pobres",
-      "publishedAt": "2026-11-16T17:25:09.000Z",
-      "updatedAt": "2026-11-16T17:29:24.626Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 104.85798555555556,
-      "source": {
-        "name": "La Nación",
-        "url": "https://www.lanacion.com.ar/el-mundo/el-papa-leon-xiv-cerro-su-historica-gira-latinoamericana-con-un-bano-de-multitudes-y-un-mensaje-nid16112026/"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
       "id": "franceinfo-9013b9a3f7c55117",
-      "title": "\"Petite martyre de l'A10\" : vingt ans de réclusion ont été requis contre la mère d'Inass Touloub et quatorze ans contre son père",
+      "title": "\"On a massacré son innocence\" : vingt ans et quatorze an de réclusion ont été requis contre la mère et le père d'Inass Touloub, les parents de \"la petite martyre de l'A10\"",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-16T17:23:17.000Z",
-      "updatedAt": "2026-11-16T17:29:26.480Z",
+      "publishedAt": "2026-11-16T17:44:48.000Z",
+      "updatedAt": "2026-11-16T17:48:02.687Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.79473333333334,
+      "importance": 104.89184055555556,
       "source": {
         "name": "Franceinfo",
         "url": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/petite-martyre-de-l-a10-vingt-ans-de-reclusion-ont-ete-requis-contre-la-mere-d-inass-touloub-et-quatorze-ans-contre-son-pere_8285060.html#xtor=RSS-3-[lestitres]"
@@ -239,55 +203,37 @@
       "isEditorialSummary": false
     },
     {
-      "id": "lanacion-ar-48fe0d3f36c31973",
-      "title": "Luciano Aguilera, entrenador físico, sobre los abdominales: “Cuando trabajamos los músculos oblicuos hay que evitar que las rotaciones partan del tronco”",
-      "summary": "Fortalecer los músculos abdominales no depende solo de repeticiones; qué dicen los profesionales sobre esta zona clave del cuerpo y qué prácticas pueden ser perjudiciales",
-      "publishedAt": "2026-11-16T17:20:27.000Z",
-      "updatedAt": "2026-11-16T17:29:24.626Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 104.70131888888889,
-      "source": {
-        "name": "La Nación",
-        "url": "https://www.lanacion.com.ar/salud/fitness/luciano-aguilera-entrenador-fisico-sobre-los-abdominales-cuando-trabajamos-los-musculos-oblicuos-hay-nid16112026/"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "lanacion-ar-4431c3e2c24ab4c7",
-      "title": "Ramón Díaz: la insólita conferencia simulada donde el principal anuncio no fue sobre su destino como entrenador",
-      "summary": "Los Ramones, una cabaña ganadera de la cual es propietario, realizará una subasta este viernes a las 14.30 cerca de Urdinarrain, Entre Ríos, y el mismo exRiver dio detalles",
-      "publishedAt": "2026-11-16T17:18:55.000Z",
-      "updatedAt": "2026-11-16T17:29:24.626Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 104.65020777777778,
-      "source": {
-        "name": "La Nación",
-        "url": "https://www.lanacion.com.ar/economia/campo/ramon-diaz-la-insolita-conferencia-simulada-donde-el-principal-anuncio-no-fue-sobre-su-destino-como-nid16112026/"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "franceinfo-bf9587f03124fcb8",
-      "title": "Procès de l'assassinat du frère d'Amine Kessaci : deux figures du narcobanditisme marseillais condamnées à la perpétuité",
+      "id": "france24-8906634806e19de2",
+      "title": "Rusia afirma haber interceptado más de 1.300 drones ucranianos",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-16T17:13:20.000Z",
-      "updatedAt": "2026-11-16T17:29:26.480Z",
+      "publishedAt": "2026-11-16T17:44:26.000Z",
+      "updatedAt": "2026-11-16T17:47:56.993Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.46306666666666,
+      "importance": 104.88278166666667,
       "source": {
-        "name": "Franceinfo",
-        "url": "https://www.franceinfo.fr/faits-divers/justice-proces/proces-de-l-assassinat-du-frere-d-amine-kessaci-deux-figures-du-narcobanditisme-marseillais-condamnees-a-la-perpetuite_8285081.html#xtor=RSS-3-[lestitres]"
+        "name": "France 24",
+        "url": "https://www.france24.com/es/video/20261116-rusia-afirma-haber-interceptado-m%C3%A1s-de-1-300-drones-ucranianos"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "lanacion-ar-c8ace30ec6508f18",
+      "title": "¿Accidente, suicidio o asesinato? La misteriosa muerte del magnate británico dueño del Daily Mirror que apareció flotando en el Atlántico",
+      "summary": "Ocurrió el 5 de noviembre de 1991 cuando el empresario navegaba cerca de las Islas Canarias; las sospechas sobre su muerte, su rivalidad con Rupert Murdoch y los secretos que salieron a la luz",
+      "publishedAt": "2026-11-16T17:44:17.000Z",
+      "updatedAt": "2026-11-16T17:48:01.308Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 104.87538444444445,
+      "source": {
+        "name": "La Nación",
+        "url": "https://www.lanacion.com.ar/lifestyle/accidente-suicidio-o-asesinato-a-35-anos-de-la-misteriosa-muerte-de-robert-maxwell-el-magnate-que-nid16112026/"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -296,13 +242,13 @@
       "id": "franceinfo-cf492ebf4888453d",
       "title": "Le chanteur Gims doit être jugé en décembre à Paris dans une affaire de corruption et de travail dissimulé, avec notamment quatre policiers",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-16T16:58:55.000Z",
-      "updatedAt": "2026-11-16T17:29:26.480Z",
+      "publishedAt": "2026-11-16T17:43:36.000Z",
+      "updatedAt": "2026-11-16T17:48:02.687Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 103.98251111111111,
+      "importance": 104.85184055555555,
       "source": {
         "name": "Franceinfo",
         "url": "https://www.franceinfo.fr/societe/justice/le-chanteur-gims-doit-etre-juge-en-decembre-a-paris-dans-une-affaire-de-corruption-et-de-travail-dissimule-avec-notamment-quatre-policiers_8285165.html#xtor=RSS-3-[lestitres]"
@@ -311,37 +257,55 @@
       "isEditorialSummary": false
     },
     {
-      "id": "france24-bcb77fdbd3d995a7",
-      "title": "De Weinsanto a Yohji Yamamoto: lo que dictó París para 2027",
+      "id": "france24-125c3bed0523fd61",
+      "title": "León XIV cierra su primera gira por América Latina con una misa multitudinaria en Perú",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-16T16:29:53.000Z",
-      "updatedAt": "2026-11-16T17:29:21.125Z",
+      "publishedAt": "2026-11-16T17:40:55.000Z",
+      "updatedAt": "2026-11-16T17:47:56.993Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 103.01770833333333,
+      "importance": 104.76555944444445,
       "source": {
         "name": "France 24",
-        "url": "https://www.france24.com/es/programas/moda/20261116-de-weinsanto-a-yohji-yamamoto-lo-que-dict%C3%B3-par%C3%ADs-para-2027"
+        "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261116-le%C3%B3n-xiv-cierra-su-primera-gira-por-am%C3%A9rica-latina-con-una-misa-multitudinaria-en-per%C3%BA"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "france24-31138990b2066e53",
-      "title": "Azerbaiyán prohíbe el velo en las aulas sin nombrarlo",
+      "id": "franceinfo-b5c232d41019b525",
+      "title": "À peine rouvert, le lycée Mandela à Nantes referme car \"la sécurité est compromise\", selon la direction",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-16T16:23:50.000Z",
-      "updatedAt": "2026-11-16T17:29:21.125Z",
+      "publishedAt": "2026-11-16T17:38:22.000Z",
+      "updatedAt": "2026-11-16T17:48:02.687Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 102.81604166666666,
+      "importance": 104.67739611111111,
       "source": {
-        "name": "France 24",
-        "url": "https://www.france24.com/es/programas/los-observadores/20261116-azerbaiy%C3%A1n-proh%C3%ADbe-el-velo-en-las-aulas-sin-nombrarlo"
+        "name": "Franceinfo",
+        "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/a-peine-rouvert-le-lycee-mandela-a-nantes-referme-car-la-securite-est-compromise-selon-la-direction_8285255.html#xtor=RSS-3-[lestitres]"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "deutschlandfunk-de-b3d82f6bc3eaa8da",
+      "title": "Fragen und Antworten - \"Return Hubs\": Worum es bei dem geplanten Abschiebezentrum in Ruanda geht",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-16T17:32:48.000Z",
+      "updatedAt": "2026-11-16T17:48:04.028Z",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 104.49109555555556,
+      "source": {
+        "name": "Deutschlandfunk",
+        "url": "https://www.deutschlandfunk.de/return-hubs-worum-es-bei-dem-geplanten-abschiebezentrum-in-ruanda-geht-102.html"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -351,12 +315,12 @@
       "title": "Ordenan repetir el juicio a Lindsay Clancy, la mujer acusada de matar a sus 3 hijos en EE.UU.",
       "summary": "El juez fijó el inicio del juicio para el 29 de marzo de 2027, mientras la fiscalía no precisó qué cargos enfrentará Clancy.",
       "publishedAt": "2026-11-16T15:46:18.000Z",
-      "updatedAt": "2026-11-16T17:29:19.320Z",
+      "updatedAt": "2026-11-16T17:47:54.929Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 101.56593333333333,
+      "importance": 100.94615055555556,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/cwr7gv9xpzyyo?at_medium=RSS&at_campaign=rss"
@@ -369,12 +333,12 @@
       "title": "\"Es Pattinson, Robert Pattinson\": el actor británico será el nuevo James Bond",
       "summary": "El protagonista de \"Crepúsculo\" y \"The Batman\" releva a Daniel Craig y se convierte en el séptimo actor que da vida al agente 007.",
       "publishedAt": "2026-11-16T15:44:22.000Z",
-      "updatedAt": "2026-11-16T17:29:19.320Z",
+      "updatedAt": "2026-11-16T17:47:54.929Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 101.50148888888889,
+      "importance": 100.88170611111111,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/c64gn38yj4ygo?at_medium=RSS&at_campaign=rss"
@@ -384,15 +348,15 @@
     },
     {
       "id": "bbc-mundo-cbe4d599da6bee46",
-      "title": "Tengo una deformidad física congénita que escondí de mis padres y compañeros de escuela por el dolor emocional que me causaba",
+      "title": "Tengo una deformidad física congénita que escondí de mis padres y compañeros de escuela",
       "summary": "Charlie Clarke, de 23 años, afirma que los efectos físicos y emocionales del pectus excavatum han sido \"inimaginables\".",
       "publishedAt": "2026-11-16T12:49:59.000Z",
-      "updatedAt": "2026-11-16T17:29:19.320Z",
+      "updatedAt": "2026-11-16T17:47:54.929Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 95.6887111111111,
+      "importance": 95.06892833333333,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/cr15e9qjnxdgo?at_medium=RSS&at_campaign=rss"
@@ -405,12 +369,12 @@
       "title": "3 poco conocidas disputas limítrofes dentro de países de América Latina (y por qué algunas se han recrudecido)",
       "summary": "En Argentina, México y Bolivia se dan algunas de las disputas entre regiones donde todavía no están resueltos los límites internos.",
       "publishedAt": "2026-11-16T12:04:57.000Z",
-      "updatedAt": "2026-11-16T17:29:19.319Z",
+      "updatedAt": "2026-11-16T17:47:54.929Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 94.18760055555555,
+      "importance": 93.56781722222222,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/cx7vpv49en34o?at_medium=RSS&at_campaign=rss"
@@ -423,12 +387,12 @@
       "title": "Muere a los 80 años Miguel Ángel Félix Gallardo, el \"Jefe de Jefes\" que revolucionó el narcotráfico en México al aliarse con carteles de Colombia",
       "summary": "El domingo falleció quien fuera el líder del todopoderoso Cartel de Guadalajara en la década de 1980 y quien cambió el negocio del narcotráfico al aliarse con el Cartel de Medellín",
       "publishedAt": "2026-11-16T11:09:57.000Z",
-      "updatedAt": "2026-11-16T17:29:19.320Z",
+      "updatedAt": "2026-11-16T17:47:54.929Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 92.35426722222222,
+      "importance": 91.73448388888889,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/c65y172egk2qo?at_medium=RSS&at_campaign=rss"
