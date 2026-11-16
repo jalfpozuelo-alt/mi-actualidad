@@ -1,13 +1,13 @@
-const ORIGIN = "https://jalfpozuelo-alt.github.io";
+const ALLOWED_ORIGINS = ["https://jalfpozuelo-alt.github.io","https://mi-actualidad.vercel.app"];
 const REPO = "jalfpozuelo-alt/mi-actualidad";
 const API = "https://api.github.com";
-const cors = {"Access-Control-Allow-Origin": ORIGIN,"Access-Control-Allow-Headers":"content-type,x-refresh-password","Access-Control-Allow-Methods":"GET,POST,OPTIONS"};
-const json=(body,status=200)=>new Response(JSON.stringify(body),{status,headers:{"content-type":"application/json",...cors}});
+const headers=(req)=>{const origin=req.headers.get("origin")||"";return {"Access-Control-Allow-Origin":ALLOWED_ORIGINS.includes(origin)?origin:ALLOWED_ORIGINS[0],"Access-Control-Allow-Headers":"content-type,x-refresh-password","Access-Control-Allow-Methods":"GET,POST,OPTIONS","Vary":"Origin"}};
+const json=(req,body,status=200)=>new Response(JSON.stringify(body),{status,headers:{"content-type":"application/json",...headers(req)}});
 function authorized(req){return req.headers.get("x-refresh-password")===process.env.REFRESH_PASSWORD}
 async function github(path,options={}){return fetch(API+path,{...options,headers:{"Accept":"application/vnd.github+json","Authorization":`Bearer ${process.env.GITHUB_TOKEN}`,"X-GitHub-Api-Version":"2022-11-28",...(options.headers||{})}})}
-export function OPTIONS(){return new Response(null,{headers:cors})}
+export function OPTIONS(req){return new Response(null,{headers:headers(req)})}
 export async function POST(req){
- if(!authorized(req))return json({ok:false,message:"Contraseña incorrecta"},401);
+ if(!authorized(req))return json(req,{ok:false,message:"Contraseña incorrecta"},401);
  const r=await github(`/repos/${REPO}/actions/workflows/generate.yml/dispatches`,{method:"POST",body:JSON.stringify({ref:"main"})});
- return r.ok?json({ok:true,stage:"queued",label:"Actualización iniciada"}):json({ok:false,message:"No se pudo iniciar la actualización"},502);
+ return r.ok?json(req,{ok:true,stage:"queued",label:"Actualización iniciada"}):json(req,{ok:false,message:"No se pudo iniciar la actualización"},502);
 }
