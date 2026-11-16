@@ -8,15 +8,24 @@ const editorial=JSON.parse(await fs.readFile('config/editorial.json','utf8'));
 const parser=new Parser({timeout:10000}); const stories=[]; const withTimeout=(promise,ms,label)=>Promise.race([promise,new Promise((_,reject)=>setTimeout(()=>reject(new Error(label+' timeout')),ms))]);
 const spanishSources=new Set(catalog.sources.filter(s=>s.language==='es').map(s=>s.id));
 const translationEmail=process.env.MYMEMORY_EMAIL||'';
+const googleTranslateKey=process.env.GOOGLE_TRANSLATE_API_KEY||'';
 const translationCache=new Map(Object.entries(JSON.parse(await fs.readFile('generated/translation-cache.json','utf8').catch(()=> '{}'))));
 let translationCalls=0; const deadline=Date.now()+180000;
 async function translateTitle(title){
   if(spanishSources.has(this.id)||spanishWords.test(title)) return title;
-  if(!translationEmail) return null;
   if(translationCache.has(title)) return translationCache.get(title);
   if(translationCalls>=40||Date.now()>deadline)return null;
   translationCalls++;
-  try{const url=`https://api.mymemory.translated.net/get?q=${encodeURIComponent(title)}&langpair=${this.language||'en'}|es&de=${encodeURIComponent(translationEmail)}`;const response=await fetch(url,{signal:AbortSignal.timeout(6000)});const result=await response.json();const translated=result?.responseData?.translatedText?.trim();if(!translated||/^[\s\W]*[a-z]/i.test(translated)===false)return null;translationCache.set(title,translated);return translated}catch{return null}
+  const sourceLanguage=this.language||'en';
+  if(googleTranslateKey){
+    try{
+      const response=await fetch('https://translation.googleapis.com/language/translate/v2?key='+encodeURIComponent(googleTranslateKey),{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({q:title,source:sourceLanguage,target:'es',format:'text'}),signal:AbortSignal.timeout(6000)});
+      const result=await response.json();const translated=result?.data?.translations?.[0]?.translatedText?.trim();
+      if(translated&&!containsCjk(translated)&&translated.toLowerCase()!==title.toLowerCase()){translationCache.set(title,translated);return translated;}
+    }catch{}
+  }
+  if(!translationEmail)return null;
+  try{const url='https://api.mymemory.translated.net/get?q='+encodeURIComponent(title)+'&langpair='+sourceLanguage+'|es&de='+encodeURIComponent(translationEmail);const response=await fetch(url,{signal:AbortSignal.timeout(6000)});const result=await response.json();const translated=result?.responseData?.translatedText?.trim();if(!translated||/^[\\s\\W]*[a-z]/i.test(translated)===false)return null;translationCache.set(title,translated);return translated}catch{return null}
 }
 const containsCjk=value=>Array.from(value).some(char=>{const code=char.codePointAt(0)||0;return (code>=0x3400&&code<=0x9fff)||(code>=0x3040&&code<=0x30ff)});
 const spanishWords=/\b(el|la|los|las|una|un|de|del|para|con|por|que|en|es|sus|sobre|tras|más|cómo|hoy|mundo|gobierno|economía|política|salud|tecnología)\b/i;
