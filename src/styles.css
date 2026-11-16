@@ -7,3 +7,9 @@
 .toolbar>div{display:flex;flex-direction:column;gap:5px}.scheduleInfo{font-size:11px;color:#8b5d3b}.toolbar button,.actions button,.button{border-radius:8px}.notice{min-height:58px;margin:14px 0 22px;display:flex;flex-direction:column;justify-content:center;gap:4px}.pipelineStatus,.lastChecked{font-size:11px;color:#66726b}@media(max-width:600px){.toolbar button{width:100%}}
 
 .toolbar>button{font-size:10px!important;padding:9px 10px!important}.secondaryRefresh{background:#b15f3f!important;color:#fff!important;font-size:10px!important;padding:9px 10px!important;border:1px solid #b15f3f!important}.secondaryRefresh:hover{background:#8f472d!important}@media(max-width:600px){.toolbar{display:grid;grid-template-columns:1fr 1fr;gap:8px;align-items:center}.toolbar>div{grid-column:1/-1}.toolbar>button:first-of-type{width:100%!important}.toolbar .secondaryRefresh{width:100%!important;padding:9px 10px!important;font-size:9px!important}}
+
+/* Controles de edición: misma caja, colores distintos */
+.toolbar>button{height:38px!important;min-width:168px!important;width:168px!important;padding:0 10px!important;font-size:10px!important;line-height:1!important;display:inline-flex!important;align-items:center!important;justify-content:center!important;border-radius:8px!important}
+.toolbar>button:first-of-type{background:#b15f3f!important;color:#fff!important}
+.toolbar>.secondaryRefresh{background:#3d6b8c!important;color:#fff!important}
+@media(max-width:600px){.toolbar{grid-template-columns:1fr 1fr!important}.toolbar>button{min-width:0!important;width:100%!important;height:36px!important;font-size:9px!important;padding:0 6px!important}}
