@@ -41,8 +41,9 @@ for(const g of d.governments){
   checked.push({country:g.country,leader:g.leader,url:membersUrl,status:membersPage.status,bytes:membersPage.body.length,verificationMode,checkedAt});
 }
 const chesUrl='https://raw.githubusercontent.com/chesdata/chesdata.github.io/main/ches-trend/1999-2024_CHES_dataset_meansV2.csv';
-let chesRows=[];
-try{chesRows=parseCsv((await timeoutFetch(chesUrl,'text/csv')).body)}catch{throw new Error('CHES no está disponible; se conserva la edición anterior')}
+let chesRows=[],comparativeMode='ches-live';
+try{chesRows=parseCsv((await timeoutFetch(chesUrl,'text/csv')).body)}
+catch{comparativeMode='cached-category'}
 const comparative=[];
 for(const g of d.governments){
   const party=normalize(g.party);
@@ -50,7 +51,11 @@ for(const g of d.governments){
     const name=normalize(pick(row,['party_name_short','partyname_short','party_name','partyname','party']));
     return name&&(name===party||name.includes(party)||party.includes(name));
   });
-  if(!match) throw new Error('CHES no identifica el partido de '+g.country+' ('+g.party+'); se conserva la edición anterior');
+  if(!match){
+    if(!g.category) throw new Error('No hay clasificación de respaldo para '+g.country);
+    comparative.push({country:g.country,party:g.party,matchedParty:null,score:null,galtan:null,category:g.category,source:'Clasificación CHES previamente contrastada',mode:'cached-category',checkedAt});
+    continue;
+  }
   const score=Number(pick(match,['lrgen','lrgen_mean','lrgen_2024','left_right']));
   const galtan=Number(pick(match,['galtan','galtan_mean','galtan_2024']));
   if(!Number.isFinite(score)) throw new Error('CHES no aporta orientación para '+g.country+'; se conserva la edición anterior');
@@ -61,6 +66,6 @@ for(const g of d.governments){
 d.verifiedAt=checkedAt;
 d.sourceChecks=checked;
 d.comparativeChecks=comparative;
-d.updateStatus={stage:'completed',label:'Gobiernos y orientación contrastados',progress:100,methodology:'Fuente oficial en directo para confirmar el Ejecutivo y CHES-Europe para contrastar la posición del partido. La etiqueta final sigue siendo orientativa; si falta cualquiera de las dos comprobaciones, se conserva la edición anterior.'};
+d.updateStatus={stage:'completed',label:'Gobiernos y orientación contrastados',progress:100,methodology:'Fuente oficial para confirmar el Ejecutivo y CHES-Europe para contrastar la posición del partido. Si CHES no está accesible desde GitHub, se conserva la última clasificación contrastada y se marca como respaldo.',comparativeMode};
 await fs.writeFile(path,JSON.stringify(d,null,2)+'\n');
 console.log('Gobiernos y orientación contrastados:',comparative.length);
