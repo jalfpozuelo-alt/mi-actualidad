@@ -20,16 +20,16 @@ const parseCsv=csv=>{const lines=csv.split(/\r?\n/).filter(Boolean);const header
 const pick=(row,names)=>{for(const name of names){if(row[name]!=null&&row[name]!=='')return row[name]}return ''};
 
 const checkedAt=new Date().toISOString();
-const memberUrls=[
-  'https://www.consilium.europa.eu/en/european-council/members/',
-  'https://www.consilium.europa.eu/es/european-council/members/',
-  'https://www.consilium.europa.eu/fr/european-council/members/'
-];
+const consiliumProxy='https://mi-actualidad.vercel.app/api/consilium-members';
 let membersPage=null,membersUrl='';
-for(const candidate of memberUrls){
-  try{membersPage=await timeoutFetch(candidate);membersUrl=candidate;break}catch{}
+try{
+  const proxy=JSON.parse((await timeoutFetch(consiliumProxy,'application/json')).body);
+  if(!proxy.ok||!proxy.body) throw new Error('proxy no disponible');
+  membersPage={status:200,body:proxy.body};
+  membersUrl=proxy.sourceUrl||'https://www.consilium.europa.eu/en/european-council/members/';
+}catch{
+  throw new Error('Consilium no está disponible a través del backend; se conserva la edición anterior');
 }
-if(!membersPage)throw new Error('La página común del Consejo Europeo no responde desde GitHub; se conserva la edición anterior');
 const membersText=normalize(membersPage.body);
 const checked=[];
 for(const g of d.governments){
