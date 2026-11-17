@@ -53,15 +53,35 @@ catch{
 }
 chesRows.sort((a,b)=>Number(b.year||0)-Number(a.year||0));
 const comparative=[];
+const partyAliases={
+  'cducsu':['cdu','csu'],
+  'fratelliditalia':['fdi'],
+  'nva':['nva'],
+  'progressivebulgaria':['bsp'],
+  'socialdemokratiet':['socialdemokratiet'],
+  'reformierakond':['reform'],
+  'kokoomus':['kok'],
+  'coalicioncentrista':['renaissance','horizons','modem'],
+  'nuevademocracia':['nd'],
+  'fiannafail':['fianna fail'],
+  'apvienotaisaraksts':['apvienotais saraksts'],
+  'partitlaburista':['labour'],
+  'coalicioncivica':['po'],
+  'moderaterna':['m']
+};
+const candidateNames=(g)=>{
+  const key=normalize(g.party);
+  return new Set([key,...(partyAliases[key]||[]).map(normalize)]);
+};
 for(const g of d.governments){
-  const party=normalize(g.party);
+  const candidates=candidateNames(g);
   const match=chesRows.find(row=>{
-    const name=normalize(pick(row,['party_name_short','partyname_short','party_name','partyname','party']));
-    return name&&(name===party||name.includes(party)||party.includes(name));
+    const name=normalize(pick(row,['party_name_short','partyname_short','party_name','party']));
+    return name&&candidates.has(name);
   });
   if(!match){
     if(!g.category) throw new Error('No hay clasificación de respaldo para '+g.country);
-    comparative.push({country:g.country,party:g.party,matchedParty:null,score:null,galtan:null,category:g.category,source:'Clasificación CHES previamente contrastada',mode:'cached-category',checkedAt});
+    comparative.push({country:g.country,party:g.party,matchedParty:null,score:null,galtan:null,category:g.category,source:'Clasificación previa; correspondencia académica pendiente',mode:'cached-category',checkedAt});
     continue;
   }
   const score=Number(pick(match,['lrgen','lrgen_mean','lrgen_2024','left_right']));
