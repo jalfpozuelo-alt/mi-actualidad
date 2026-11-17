@@ -327,6 +327,66 @@
       "format": "RSS",
       "url": "https://www.20minutos.es/rss/",
       "usage": "Titular, resumen disponible y enlace original."
+    },
+    {
+      "id": "ria-ru",
+      "name": "RIA Novosti",
+      "country": "Rusia",
+      "countryCode": "RU",
+      "language": "ru",
+      "sections": [
+        "Internacional",
+        "Economía",
+        "Sociedad"
+      ],
+      "format": "RSS",
+      "url": "https://ria.ru/export/rss2/index.xml",
+      "usage": "Titular traducido y enlace original; agencia rusa de carácter estatal."
+    },
+    {
+      "id": "tass-ru",
+      "name": "TASS",
+      "country": "Rusia",
+      "countryCode": "RU",
+      "language": "ru",
+      "sections": [
+        "Internacional",
+        "Economía",
+        "Sociedad"
+      ],
+      "format": "RSS",
+      "url": "https://tass.ru/rss/all.xml",
+      "usage": "Titular traducido y enlace original; agencia rusa de carácter estatal."
+    },
+    {
+      "id": "chinanews-cn",
+      "name": "China News Service",
+      "country": "China",
+      "countryCode": "CN",
+      "language": "zh",
+      "sections": [
+        "Internacional",
+        "Economía",
+        "Sociedad"
+      ],
+      "format": "RSS",
+      "url": "https://www.chinanews.com.cn/rss/china.xml",
+      "usage": "Titular traducido y enlace original; agencia china de carácter estatal."
+    },
+    {
+      "id": "xinhua-cn",
+      "name": "Xinhua",
+      "country": "China",
+      "countryCode": "CN",
+      "language": "zh",
+      "sections": [
+        "Internacional",
+        "Economía",
+        "Sociedad"
+      ],
+      "format": "RSS",
+      "url": "https://www.xinhuanet.com/english/rss/",
+      "usage": "Titular traducido y enlace original; agencia china de carácter estatal."
     }
   ]
 }
