@@ -705,9 +705,9 @@
   ],
   "updateStatus": {
     "stage": "completed",
-    "label": "Ejecutivo y representante separados; datos listos para publicación",
+    "label": "Datos estructurados y pendientes explícitos",
     "progress": 100,
-    "comparativeMode": "executive-party-manifesto-primary",
+    "comparativeMode": "manifesto-primary",
     "pending": 0
   }
 }
