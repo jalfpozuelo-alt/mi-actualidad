@@ -1,784 +1,1013 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "source": "Wikimedia",
   "items": [
     {
-      "text": "Se lanza el vuelo Artemis 1 en el cohete SLS del Programa Artemis de la NASA el programa que pretende llevar de nuevo a los humanos hacia la Luna.",
+      "text": "en Lima, Francisco Sagasti asume la presidencia del Perú tras la renuncia del entonces jefe de Estado, Manuel Merino.",
       "pages": [
         {
           "type": "standard",
-          "title": "Artemis_I",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Artemis I</span></span>",
+          "title": "Lima",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lima</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q3389152",
+          "wikibase_item": "Q2868",
           "titles": {
-            "canonical": "Artemis_I",
-            "normalized": "Artemis I",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Artemis I</span></span>"
+            "canonical": "Lima",
+            "normalized": "Lima",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lima</span></span>"
           },
-          "pageid": 7142133,
+          "pageid": 1640,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/NASA_Artemis_1_Launch.jpg/330px-NASA_Artemis_1_Launch.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg/330px-Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 545
+            "height": 223
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/d/d1/NASA_Artemis_1_Launch.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 2681,
-            "height": 4426
+            "source": "https://upload.wikimedia.org/wikipedia/commons/6/69/Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 3439,
+            "height": 2323
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "175200905",
-          "tid": "7382b1ac-a8ca-11f1-b8c5-783bcd348e64",
-          "timestamp": "2026-09-05T01:38:10Z",
-          "description": "primer vuelo no tripulado del programa Artemis, de la NASA",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Artemis_I",
-              "revisions": "https://es.wikipedia.org/wiki/Artemis_I?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Artemis_I?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Artemis_I"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Artemis_I",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Artemis_I",
-              "edit": "https://es.wikipedia.org/wiki/Artemis_I?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Artemis_I"
-            }
-          },
-          "extract": "Artemis I fue una misión en órbita lunar sin tripulación. Al ser la primera misión principal del programa Artemis de la NASA, Artemis I marcó el regreso de la agencia a la exploración lunar, que comenzó originalmente como el programa Apolo décadas antes. Fue la primera prueba de vuelo integrada de la nave espacial Orión y el cohete del Sistema de Lanzamiento Espacial (SLS). Su objetivo principal era probar la nave espacial Orión, especialmente su escudo térmico, en preparación para las posteriores misiones Artemis, que buscan restablecer una presencia humana en la Luna y demostrar tecnologías y enfoques comerciales necesarios para futuros estudios científicos, incluida la exploración de Marte.",
-          "extract_html": "<p><b>Artemis I</b> fue una misión en órbita lunar sin tripulación. Al ser la primera misión principal del programa Artemis de la NASA, Artemis I marcó el regreso de la agencia a la exploración lunar, que comenzó originalmente como el programa Apolo décadas antes. Fue la primera prueba de vuelo integrada de la nave espacial Orión y el cohete del Sistema de Lanzamiento Espacial (SLS). Su objetivo principal era probar la nave espacial Orión, especialmente su escudo térmico, en preparación para las posteriores misiones Artemis, que buscan restablecer una presencia humana en la Luna y demostrar tecnologías y enfoques comerciales necesarios para futuros estudios científicos, incluida la exploración de Marte.</p>",
-          "normalizedtitle": "Artemis I"
-        },
-        {
-          "type": "standard",
-          "title": "Programa_Artemis",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Programa Artemis</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q63819987",
-          "titles": {
-            "canonical": "Programa_Artemis",
-            "normalized": "Programa Artemis",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Programa Artemis</span></span>"
-          },
-          "pageid": 8926322,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Artemis_program_%28solid_contrast_with_wordmark%29.svg/langes-330px-Artemis_program_%28solid_contrast_with_wordmark%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 306
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Artemis_program_%28solid_contrast_with_wordmark%29.svg/langes-500px-Artemis_program_%28solid_contrast_with_wordmark%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 378,
-            "height": 350
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "175843957",
-          "tid": "3ea7469e-c8d3-11f1-92dd-addfa5af2d5d",
-          "timestamp": "2026-10-15T20:01:44Z",
-          "description": "programa de exploración lunar tripulado por la NASA",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Programa_Artemis",
-              "revisions": "https://es.wikipedia.org/wiki/Programa_Artemis?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Programa_Artemis?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Programa_Artemis"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Programa_Artemis",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Programa_Artemis",
-              "edit": "https://es.wikipedia.org/wiki/Programa_Artemis?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Programa_Artemis"
-            }
-          },
-          "extract": "El programa Artemis o Artemisa es un programa de exploración lunar dirigido por la Administración Nacional de Aeronáutica y el Espacio (NASA), junto con empresas privadas de vuelos espaciales de EE. UU. y seis importantes agencias asociadas: la Agencia Espacial Europea (ESA), la Agencia Japonesa de Exploración Aeroespacial (JAXA), la Agencia Espacial Canadiense (CSA), la Agencia Espacial de Israel (ISA), Agencia Espacial Australiana (ASA) y la Agencia Espacial del Reino Unido (UKSA), con el objetivo de volver a explorar la Luna y llevar a «la primera mujer y el próximo hombre», específicamente a la región lunar del polo sur para 2028. También pretende establecer una base permanente en la Luna en la década de 2030, como un paso previo para futuras misiones humanas a Marte.",
-          "extract_html": "<p>El <b>programa Artemis</b> o <b>Artemisa</b> es un programa de exploración lunar dirigido por la Administración Nacional de Aeronáutica y el Espacio (NASA), junto con empresas privadas de vuelos espaciales de EE. UU. y seis importantes agencias asociadas: la Agencia Espacial Europea (ESA), la Agencia Japonesa de Exploración Aeroespacial (JAXA), la Agencia Espacial Canadiense (CSA), la Agencia Espacial de Israel (ISA), Agencia Espacial Australiana (ASA) y la Agencia Espacial del Reino Unido (UKSA), con el objetivo de volver a explorar la Luna y llevar a «la primera mujer y el próximo hombre», específicamente a la región lunar del polo sur para 2028. También pretende establecer una base permanente en la Luna en la década de 2030, como un paso previo para futuras misiones humanas a Marte.</p>",
-          "normalizedtitle": "Programa Artemis"
-        },
-        {
-          "type": "standard",
-          "title": "NASA",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">NASA</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q23548",
-          "titles": {
-            "canonical": "NASA",
-            "normalized": "NASA",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">NASA</span></span>"
-          },
-          "pageid": 10697,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/langes-330px-NASA_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 276
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/NASA_logo.svg/langes-120px-NASA_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 110,
-            "height": 92
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176026535",
-          "tid": "66c36dce-d222-11f1-8db8-c151cc7bb9d2",
-          "timestamp": "2026-10-27T16:21:02Z",
-          "description": "agencia espacial independiente del Gobierno Federal de los Estados Unidos",
+          "revision": "176255832",
+          "tid": "b3a169da-de08-11f1-857d-a3c5aad2acef",
+          "timestamp": "2026-11-11T19:47:18Z",
+          "description": "capital de Perú",
           "description_source": "central",
           "coordinates": {
-            "lat": 38.88306,
-            "lon": -77.01639
+            "lat": -12.06,
+            "lon": -77.0375
           },
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/NASA",
-              "revisions": "https://es.wikipedia.org/wiki/NASA?action=history",
-              "edit": "https://es.wikipedia.org/wiki/NASA?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:NASA"
+              "page": "https://es.wikipedia.org/wiki/Lima",
+              "revisions": "https://es.wikipedia.org/wiki/Lima?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Lima?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Lima"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/NASA",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/NASA",
-              "edit": "https://es.wikipedia.org/wiki/NASA?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:NASA"
+              "page": "https://es.wikipedia.org/wiki/Lima",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Lima",
+              "edit": "https://es.wikipedia.org/wiki/Lima?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Lima"
             }
           },
-          "extract": "La Administración Nacional de Aeronáutica y el Espacio, más conocida como NASA, es la agencia del gobierno estadounidense responsable del programa espacial civil, así como de la investigación aeronáutica y aeroespacial.",
-          "extract_html": "<p>La <b>Administración Nacional de Aeronáutica y el Espacio</b>, más conocida como <b>NASA</b>, es la agencia del gobierno estadounidense responsable del programa espacial civil, así como de la investigación aeronáutica y aeroespacial.</p>",
-          "normalizedtitle": "NASA"
+          "extract": "Lima es la capital y ciudad más poblada del Perú. Está situada en los valles de los ríos Chillón, Rímac y Lurín, en la zona desértica de la costa central del país, frente al océano Pacífico. La ciudad es considerada el centro político, cultural, económico, financiero, comercial y gastronómico del Perú. Por su importancia geoestratégica, ha sido definida como una ciudad global de «clase beta+».Jurisdiccionalmente, se extiende principalmente dentro de la provincia de Lima y en una porción menor, al oeste, dentro de la provincia constitucional del Callao, donde se ubican el puerto marítimo y el Aeropuerto Internacional Jorge Chávez. Ambas provincias cuentan con autonomía regional desde el año 2002.",
+          "extract_html": "<p><b>Lima</b> es la capital y ciudad más poblada del Perú. Está situada en los valles de los ríos Chillón, Rímac y Lurín, en la zona desértica de la costa central del país, frente al océano Pacífico. La ciudad es considerada el centro político, cultural, económico, financiero, comercial y gastronómico del Perú. Por su importancia geoestratégica, ha sido definida como una ciudad global de «clase beta+».Jurisdiccionalmente, se extiende principalmente dentro de la provincia de Lima y en una porción menor, al oeste, dentro de la provincia constitucional del Callao, donde se ubican el puerto marítimo y el Aeropuerto Internacional Jorge Chávez. Ambas provincias cuentan con autonomía regional desde el año 2002.</p>",
+          "normalizedtitle": "Lima"
         },
         {
           "type": "standard",
-          "title": "Luna",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Luna</span></span>",
+          "title": "Francisco_Sagasti",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Francisco Sagasti</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q405",
+          "wikibase_item": "Q20015136",
           "titles": {
-            "canonical": "Luna",
-            "normalized": "Luna",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Luna</span></span>"
+            "canonical": "Francisco_Sagasti",
+            "normalized": "Francisco Sagasti",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Francisco Sagasti</span></span>"
           },
-          "pageid": 5189863,
+          "pageid": 6627345,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Full_Moon_Luc_Viatour.jpg/330px-Full_Moon_Luc_Viatour.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Francisco_Sagasti_y_FFAA_%28cropped%29.jpg/330px-Francisco_Sagasti_y_FFAA_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 333
+            "height": 469
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Full_Moon_Luc_Viatour.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1411,
-            "height": 1424
+            "source": "https://upload.wikimedia.org/wikipedia/commons/8/82/Francisco_Sagasti_y_FFAA_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 610,
+            "height": 867
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "175705929",
-          "tid": "9220eeaa-c250-11f1-a5d4-917ef6f6cb7a",
-          "timestamp": "2026-10-07T13:11:13Z",
-          "description": "satélite natural de la Tierra",
+          "revision": "175965489",
+          "tid": "97e429fe-cf0e-11f1-9899-1ae446b4566e",
+          "timestamp": "2026-10-23T18:21:41Z",
+          "description": "presidente del Perú de 2020 a 2021",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Luna",
-              "revisions": "https://es.wikipedia.org/wiki/Luna?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Luna?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Luna"
+              "page": "https://es.wikipedia.org/wiki/Francisco_Sagasti",
+              "revisions": "https://es.wikipedia.org/wiki/Francisco_Sagasti?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Francisco_Sagasti?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Francisco_Sagasti"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Luna",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Luna",
-              "edit": "https://es.wikipedia.org/wiki/Luna?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Luna"
+              "page": "https://es.wikipedia.org/wiki/Francisco_Sagasti",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Francisco_Sagasti",
+              "edit": "https://es.wikipedia.org/wiki/Francisco_Sagasti?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Francisco_Sagasti"
             }
           },
-          "extract": "La Luna es el único satélite natural de la Tierra. Con un diámetro ecuatorial de 3474,8 km, es el quinto satélite más grande del sistema solar, mientras que en cuanto al tamaño proporcional respecto a su planeta es el satélite más grande: un cuarto del diámetro de la Tierra y 1/81 de su masa. Es, además, después de Ío, el segundo satélite más denso. Se encuentra en rotación síncrona con la Tierra, por lo que siempre muestra la misma cara hacia el planeta. El hemisferio visible está marcado con oscuros mares lunares de origen volcánico entre las brillantes montañas antiguas y los destacados astroblemas.",
-          "extract_html": "<p>La <b>Luna</b> es el único satélite natural de la Tierra. Con un diámetro ecuatorial de 3474,8 km, es el quinto satélite más grande del sistema solar, mientras que en cuanto al tamaño proporcional respecto a su planeta es el satélite más grande: un cuarto del diámetro de la Tierra y 1/81 de su masa. Es, además, después de Ío, el segundo satélite más denso. Se encuentra en rotación síncrona con la Tierra, por lo que siempre muestra la misma cara hacia el planeta. El hemisferio visible está marcado con oscuros mares lunares de origen volcánico entre las brillantes montañas antiguas y los destacados astroblemas.</p>",
-          "normalizedtitle": "Luna"
+          "extract": "Francisco Rafael Sagasti Hochhausler es un ingeniero industrial, investigador, escritor y político peruano que ejerció como presidente del Perú, por sucesión constitucional en su calidad de presidente del Congreso, desde noviembre de 2020 hasta julio de 2021.",
+          "extract_html": "<p><b>Francisco Rafael Sagasti Hochhausler</b> es un ingeniero industrial, investigador, escritor y político peruano que ejerció como presidente del Perú, por sucesión constitucional en su calidad de presidente del Congreso, desde noviembre de 2020 hasta julio de 2021.</p>",
+          "normalizedtitle": "Francisco Sagasti"
+        },
+        {
+          "type": "standard",
+          "title": "Manuel_Merino",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Manuel Merino</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q5993760",
+          "titles": {
+            "canonical": "Manuel_Merino",
+            "normalized": "Manuel Merino",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Manuel Merino</span></span>"
+          },
+          "pageid": 2143407,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Manuel_Merino_de_Lama_%28cropped%29.jpg/330px-Manuel_Merino_de_Lama_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 471
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Manuel_Merino_de_Lama_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 540,
+            "height": 771
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176050306",
+          "tid": "d5064fdb-d350-11f1-b9db-c5dd65ab96bc",
+          "timestamp": "2026-10-29T04:25:55Z",
+          "description": "presidente del Perú en 2020",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Manuel_Merino",
+              "revisions": "https://es.wikipedia.org/wiki/Manuel_Merino?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Manuel_Merino?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Manuel_Merino"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Manuel_Merino",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Manuel_Merino",
+              "edit": "https://es.wikipedia.org/wiki/Manuel_Merino?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Manuel_Merino"
+            }
+          },
+          "extract": "Manuel Arturo Merino de Lama es un empresario, agricultor y político peruano que ejerció como presidente del Perú por sucesión constitucional, al ser presidente del Congreso, del 10 al 15 de noviembre de 2020, tras la vacancia de Martín Vizcarra. Su periodo presidencial culminó con su renuncia en medio de violentas protestas en su contra.",
+          "extract_html": "<p><b>Manuel Arturo Merino de Lama</b> es un empresario, agricultor y político peruano que ejerció como presidente del Perú por sucesión constitucional, al ser presidente del Congreso, del 10 al 15 de noviembre de 2020, tras la vacancia de Martín Vizcarra. Su periodo presidencial culminó con su renuncia en medio de violentas protestas en su contra.</p>",
+          "normalizedtitle": "Manuel Merino"
         }
       ],
-      "year": 2022
+      "year": 2020
     },
     {
-      "text": "Se declara el Flamenco como Patrimonio Inmaterial de la Humanidad.",
+      "text": "en Wuhan, China aparece el primer caso conocido de la enfermedad por COVID-19.",
       "pages": [
         {
           "type": "standard",
-          "title": "Flamenco",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Flamenco</span></span>",
+          "title": "Wuhan",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Wuhan</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q9764",
+          "wikibase_item": "Q11746",
           "titles": {
-            "canonical": "Flamenco",
-            "normalized": "Flamenco",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Flamenco</span></span>"
+            "canonical": "Wuhan",
+            "normalized": "Wuhan",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Wuhan</span></span>"
           },
-          "pageid": 5717,
+          "pageid": 125930,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Belen_maya.jpg/330px-Belen_maya.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 351
+            "source": "https://upload.wikimedia.org/wikipedia/commons/5/56/Wuhan_montage.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 280,
+            "height": 382
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Belen_maya.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 376,
-            "height": 400
+            "source": "https://upload.wikimedia.org/wikipedia/commons/5/56/Wuhan_montage.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 280,
+            "height": 382
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "173185954",
-          "tid": "a69a9e59-4255-11f1-9573-880f7f23d713",
-          "timestamp": "2026-04-27T16:25:06Z",
-          "description": "género musical de origen español",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Flamenco",
-              "revisions": "https://es.wikipedia.org/wiki/Flamenco?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Flamenco?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Flamenco"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Flamenco",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Flamenco",
-              "edit": "https://es.wikipedia.org/wiki/Flamenco?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Flamenco"
-            }
-          },
-          "extract": "El flamenco es un género de la música folclórica española que se desarrolló en Andalucía, especialmente en las zonas de Cádiz y sus puertos, San Fernando, Jerez de la Frontera, Sevilla y los pueblos de su provincia —como Lebrija y Utrera—, Huelva, Granada y Córdoba; así como en algunas áreas de la Región de Murcia, Castilla-La Mancha y Extremadura. Sus principales facetas son el cante, el toque y el baile, contando también con sus propias tradiciones y normas. Tal y como lo conocemos hoy en día, el flamenco data del siglo XVIII, y existe controversia sobre su origen, ya que aunque existen distintas opiniones y vertientes, ninguna de ellas ha podido ser comprobada de forma histórica. Aunque el Diccionario de la lengua española lo asocia a la cultura popular andaluza y a la presencia del pueblo gitano en aquella.",
-          "extract_html": "<p>El <b>flamenco</b> es un género de la música folclórica española que se desarrolló en Andalucía, especialmente en las zonas de Cádiz y sus puertos, San Fernando, Jerez de la Frontera, Sevilla y los pueblos de su provincia —como Lebrija y Utrera—, Huelva, Granada y Córdoba; así como en algunas áreas de la Región de Murcia, Castilla-La Mancha y Extremadura. Sus principales facetas son el cante, el toque y el baile, contando también con sus propias tradiciones y normas. Tal y como lo conocemos hoy en día, el flamenco data del siglo <small>XVIII</small>, y existe controversia sobre su origen, ya que aunque existen distintas opiniones y vertientes, ninguna de ellas ha podido ser comprobada de forma histórica. Aunque el <i>Diccionario de la lengua española</i> lo asocia a la cultura popular andaluza y a la presencia del pueblo gitano en aquella.</p>",
-          "normalizedtitle": "Flamenco"
-        },
-        {
-          "type": "standard",
-          "title": "Patrimonio_cultural_inmaterial_de_la_Humanidad",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Patrimonio cultural inmaterial de la Humanidad</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q84036549",
-          "titles": {
-            "canonical": "Patrimonio_cultural_inmaterial_de_la_Humanidad",
-            "normalized": "Patrimonio cultural inmaterial de la Humanidad",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Patrimonio cultural inmaterial de la Humanidad</span></span>"
-          },
-          "pageid": 2156789,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/UNESCO-ICH-blue.svg/langes-330px-UNESCO-ICH-blue.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 330
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/UNESCO-ICH-blue.svg/langes-60px-UNESCO-ICH-blue.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 50,
-            "height": 50
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "175265264",
-          "tid": "8ff9505f-ac14-11f1-a7b3-45a8358f1f29",
-          "timestamp": "2026-09-09T06:06:14Z",
-          "description": "clase de patrimonio cultural designado por la Unesco",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Patrimonio_cultural_inmaterial_de_la_Humanidad",
-              "revisions": "https://es.wikipedia.org/wiki/Patrimonio_cultural_inmaterial_de_la_Humanidad?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Patrimonio_cultural_inmaterial_de_la_Humanidad?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Patrimonio_cultural_inmaterial_de_la_Humanidad"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Patrimonio_cultural_inmaterial_de_la_Humanidad",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Patrimonio_cultural_inmaterial_de_la_Humanidad",
-              "edit": "https://es.wikipedia.org/wiki/Patrimonio_cultural_inmaterial_de_la_Humanidad?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Patrimonio_cultural_inmaterial_de_la_Humanidad"
-            }
-          },
-          "extract": "El patrimonio cultural inmaterial o patrimonio cultural intangible (PCI) forma parte de las declaraciones de la Unesco para la salvaguardia del patrimonio cultural no tangible, conocido como «oral» o «inmaterial».",
-          "extract_html": "<p>El <b>patrimonio cultural inmaterial</b> o <b>patrimonio cultural intangible</b> (<b>PCI</b>) forma parte de las declaraciones de la Unesco para la salvaguardia del patrimonio cultural no tangible, conocido como «oral» o «inmaterial».</p>",
-          "normalizedtitle": "Patrimonio cultural inmaterial de la Humanidad"
-        }
-      ],
-      "year": 2010
-    },
-    {
-      "text": "Se declara a la gastronomía mexicana como Patrimonio Cultural Inmaterial de la Humanidad por la UNESCO, en una ceremonia realizada en Kenia, África el día 16 de noviembre de 2010.",
-      "pages": [],
-      "year": 2010
-    },
-    {
-      "text": "Sentencia histórica del Caso González y otras (Campo Algodonero) de la Corte Interamericana de Derechos Humanos responsabilizando al Estado de México de feminicidio por primera vez.",
-      "pages": [
-        {
-          "type": "standard",
-          "title": "Caso_González_y_otras_(Campo_Algodonero)_vs._México",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Caso González y otras (Campo Algodonero) vs. México</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q30104596",
-          "titles": {
-            "canonical": "Caso_González_y_otras_(Campo_Algodonero)_vs._México",
-            "normalized": "Caso González y otras (Campo Algodonero) vs. México",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Caso González y otras (Campo Algodonero) vs. México</span></span>"
-          },
-          "pageid": 7946105,
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "171590828",
-          "tid": "0bbc572f-f4e7-11f0-b33e-98cfa1c8978c",
-          "timestamp": "2026-01-19T03:29:22Z",
-          "description": "Sentencia de la Corte Interamericana de Derechos Humanos",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Caso_Gonz%C3%A1lez_y_otras_(Campo_Algodonero)_vs._M%C3%A9xico",
-              "revisions": "https://es.wikipedia.org/wiki/Caso_Gonz%C3%A1lez_y_otras_(Campo_Algodonero)_vs._M%C3%A9xico?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Caso_Gonz%C3%A1lez_y_otras_(Campo_Algodonero)_vs._M%C3%A9xico?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Caso_Gonz%C3%A1lez_y_otras_(Campo_Algodonero)_vs._M%C3%A9xico"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Caso_Gonz%C3%A1lez_y_otras_(Campo_Algodonero)_vs._M%C3%A9xico",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Caso_Gonz%C3%A1lez_y_otras_(Campo_Algodonero)_vs._M%C3%A9xico",
-              "edit": "https://es.wikipedia.org/wiki/Caso_Gonz%C3%A1lez_y_otras_(Campo_Algodonero)_vs._M%C3%A9xico?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Caso_Gonz%C3%A1lez_y_otras_(Campo_Algodonero)_vs._M%C3%A9xico"
-            }
-          },
-          "extract": "El caso González y otras vs. México es una sentencia de la Corte Interamericana de Derechos Humanos del 16 de noviembre de 2009 sobre la responsabilidad internacional del Estado mexicano por la falta de diligencia en las investigaciones relacionadas con la desaparición y asesinato de Claudia Ivette González, Esmeralda Herrera Monreal y Laura Berenice Ramos Monárrez. Se trata de la primera sentencia en la que la Corte adopta la perspectiva de género y el fallo representa un hito en el acceso de las mujeres a la justicia en el ámbito latinoamericano además de un referente simbólico en la defensa de los derechos de las mujeres de México. La sentencia constituye también un precedente en Derecho Internacional en el camino hacia la igualdad formal y material de las mujeres.",
-          "extract_html": "<p>El <b>caso González y otras vs. México</b> es una sentencia de la Corte Interamericana de Derechos Humanos del 16 de noviembre de 2009 sobre la responsabilidad internacional del Estado mexicano por la falta de diligencia en las investigaciones relacionadas con la desaparición y asesinato de Claudia Ivette González, Esmeralda Herrera Monreal y Laura Berenice Ramos Monárrez. Se trata de la primera sentencia en la que la Corte adopta la perspectiva de género y el fallo representa un hito en el acceso de las mujeres a la justicia en el ámbito latinoamericano además de un referente simbólico en la defensa de los derechos de las mujeres de México. La sentencia constituye también un precedente en Derecho Internacional en el camino hacia la igualdad formal y material de las mujeres.</p>",
-          "normalizedtitle": "Caso González y otras (Campo Algodonero) vs. México"
-        },
-        {
-          "type": "standard",
-          "title": "Corte_Interamericana_de_Derechos_Humanos",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Corte Interamericana de Derechos Humanos</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q1547804",
-          "titles": {
-            "canonical": "Corte_Interamericana_de_Derechos_Humanos",
-            "normalized": "Corte Interamericana de Derechos Humanos",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Corte Interamericana de Derechos Humanos</span></span>"
-          },
-          "pageid": 224221,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_Corte_IDH.png/330px-Logo_Corte_IDH.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 330
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/6/67/Logo_Corte_IDH.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 512,
-            "height": 512
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176017372",
-          "tid": "130c40a0-d198-11f1-a8aa-e97c4be71870",
-          "timestamp": "2026-10-26T23:50:51Z",
-          "description": "órgano judicial de la Organización de los Estados Americanos",
+          "revision": "174549989",
+          "tid": "692ec890-88bf-11f1-bf1d-1884d1a7f027",
+          "timestamp": "2026-07-26T06:58:31Z",
+          "description": "ciudad en China, capital de Hubei",
           "description_source": "central",
           "coordinates": {
-            "lat": 9.93043889,
-            "lon": -84.05693889
+            "lat": 30.595,
+            "lon": 114.2975
           },
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Corte_Interamericana_de_Derechos_Humanos",
-              "revisions": "https://es.wikipedia.org/wiki/Corte_Interamericana_de_Derechos_Humanos?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Corte_Interamericana_de_Derechos_Humanos?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Corte_Interamericana_de_Derechos_Humanos"
+              "page": "https://es.wikipedia.org/wiki/Wuhan",
+              "revisions": "https://es.wikipedia.org/wiki/Wuhan?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Wuhan?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Wuhan"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Corte_Interamericana_de_Derechos_Humanos",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Corte_Interamericana_de_Derechos_Humanos",
-              "edit": "https://es.wikipedia.org/wiki/Corte_Interamericana_de_Derechos_Humanos?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Corte_Interamericana_de_Derechos_Humanos"
+              "page": "https://es.wikipedia.org/wiki/Wuhan",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Wuhan",
+              "edit": "https://es.wikipedia.org/wiki/Wuhan?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Wuhan"
             }
           },
-          "extract": "La Corte Interamericana de Derechos Humanos es un tribunal internacional con sede en San José, Costa Rica. Fue creada por la Convención Americana sobre Derechos Humanos, un tratado de derechos humanos ratificado por los miembros de la Organización de los Estados Americanos (OEA), que entró en vigor en 1978. Junto con la Comisión Interamericana de Derechos Humanos, fundada en 1959, constituyen las dos principales instituciones de derechos humanos del sistema interamericano de protección internacional de los derechos humanos.",
-          "extract_html": "<p>La <b>Corte Interamericana de Derechos Humanos</b> es un tribunal internacional con sede en San José, Costa Rica. Fue creada por la Convención Americana sobre Derechos Humanos, un tratado de derechos humanos ratificado por los miembros de la Organización de los Estados Americanos (OEA), que entró en vigor en 1978. Junto con la Comisión Interamericana de Derechos Humanos, fundada en 1959, constituyen las dos principales instituciones de derechos humanos del sistema interamericano de protección internacional de los derechos humanos.</p>",
-          "normalizedtitle": "Corte Interamericana de Derechos Humanos"
-        }
-      ],
-      "year": 2009
-    },
-    {
-      "text": "el cometa 17P/Holmes, supera al Sol con su coma.",
-      "pages": [
-        {
-          "type": "standard",
-          "title": "17P/Holmes",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">17P/Holmes</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q477136",
-          "titles": {
-            "canonical": "17P/Holmes",
-            "normalized": "17P/Holmes",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">17P/Holmes</span></span>"
-          },
-          "pageid": 1272137,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/17pHolmes_071104_eder_vga.jpg/330px-17pHolmes_071104_eder_vga.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 215
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/c/c6/17pHolmes_071104_eder_vga.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 640,
-            "height": 416
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "175021011",
-          "tid": "e807565c-a069-11f1-b4ae-d9ee4ad0e7b2",
-          "timestamp": "2026-08-25T09:46:55Z",
-          "description": "cometa del Sistema Solar",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/17P%2FHolmes",
-              "revisions": "https://es.wikipedia.org/wiki/17P%2FHolmes?action=history",
-              "edit": "https://es.wikipedia.org/wiki/17P%2FHolmes?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:17P%2FHolmes"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/17P%2FHolmes",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/17P%2FHolmes",
-              "edit": "https://es.wikipedia.org/wiki/17P%2FHolmes?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:17P%2FHolmes"
-            }
-          },
-          "extract": "17P/Holmes es un cometa periódico del sistema solar descubierto por el astrónomo amateur británico Edwin Holmes el 6 de noviembre de 1892. A finales de octubre de 2007, en la noche del 23 al 24, el cometa aumentó su brillo de una manera significativa, alrededor de un millón de veces más, desde una magnitud +17 hasta una magnitud +2,5 en unas pocas horas. El 16 de noviembre de ese mismo año, la coma del cometa, una nube de gas y polvo que envuelve al núcleo, creció hasta superar el diámetro del Sol, convirtiéndose en el objeto más grande del sistema solar. No obstante, el núcleo solo mide 3.6 kilómetros.",
-          "extract_html": "<p><b>17P/Holmes</b> es un cometa periódico del sistema solar descubierto por el astrónomo amateur británico Edwin Holmes el 6 de noviembre de 1892. A finales de octubre de 2007, en la noche del 23 al 24, el cometa aumentó su brillo de una manera significativa, alrededor de un millón de veces más, desde una magnitud +17 hasta una magnitud +2,5 en unas pocas horas. El 16 de noviembre de ese mismo año, la coma del cometa, una nube de gas y polvo que envuelve al núcleo, creció hasta superar el diámetro del Sol, convirtiéndose en el objeto más grande del sistema solar. No obstante, el núcleo solo mide 3.6 kilómetros.</p>",
-          "normalizedtitle": "17P/Holmes"
+          "extract": "Wuhan es la capital de la provincia de Hubei y la ciudad más poblada en la zona central de la República Popular China. Está localizada en la confluencia de los ríos Yangtsé y Han. Tiene una población aproximada de 11 millones de habitantes en un área de 8467 km² cuando se incluye el área metropolitana.",
+          "extract_html": "<p><b>Wuhan</b> es la capital de la provincia de Hubei y la ciudad más poblada en la zona central de la República Popular China. Está localizada en la confluencia de los ríos Yangtsé y Han. Tiene una población aproximada de <span>11 millones</span> de habitantes en un área de <span>8467 km²</span> cuando se incluye el área metropolitana.</p>",
+          "normalizedtitle": "Wuhan"
         },
         {
           "type": "standard",
-          "title": "Sol",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sol</span></span>",
+          "title": "República_Popular_China",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">República Popular China</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q525",
+          "wikibase_item": "Q148",
           "titles": {
-            "canonical": "Sol",
-            "normalized": "Sol",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sol</span></span>"
+            "canonical": "República_Popular_China",
+            "normalized": "República Popular China",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">República Popular China</span></span>"
           },
-          "pageid": 2570,
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176318425",
-          "tid": "3d339a98-e163-11f1-841c-2730b8d9c2cd",
-          "timestamp": "2026-11-16T02:12:57Z",
-          "description": "única estrella del Sistema Solar, de tipo G y situada en su centro, alrededor de la cual orbitan los demás cuerpos del sistema",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Sol",
-              "revisions": "https://es.wikipedia.org/wiki/Sol?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Sol?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Sol"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Sol",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Sol",
-              "edit": "https://es.wikipedia.org/wiki/Sol?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Sol"
-            }
-          },
-          "extract": "El Sol es una estrella de tipo-G de la secuencia principal y clase de luminosidad V. Se encuentra en el centro del sistema solar y representa la principal y más abundante fuente de radiación electromagnética de todo este sistema planetario.",
-          "extract_html": "<p>El <b>Sol</b> es una estrella de tipo-G de la secuencia principal y clase de luminosidad V. Se encuentra en el centro del sistema solar y representa la principal y más abundante fuente de radiación electromagnética de todo este sistema planetario.</p>",
-          "normalizedtitle": "Sol"
-        },
-        {
-          "type": "standard",
-          "title": "Coma_(astronomía)",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Coma (astronomía)</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q259854",
-          "titles": {
-            "canonical": "Coma_(astronomía)",
-            "normalized": "Coma (astronomía)",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Coma (astronomía)</span></span>"
-          },
-          "pageid": 123205,
+          "pageid": 17801,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Infrared_Structure_of_Comet_Holmes.jpg/330px-Infrared_Structure_of_Comet_Holmes.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 264
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Infrared_Structure_of_Comet_Holmes.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 3000,
-            "height": 2400
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "165154419",
-          "tid": "204bf6ec-e195-11ef-9edf-ca765bebae39",
-          "timestamp": "2025-02-02T18:40:08Z",
-          "description": "nube de polvo y gas que envuelve al núcleo de un cometa",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Coma_(astronom%C3%ADa)",
-              "revisions": "https://es.wikipedia.org/wiki/Coma_(astronom%C3%ADa)?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Coma_(astronom%C3%ADa)?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Coma_(astronom%C3%ADa)"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Coma_(astronom%C3%ADa)",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Coma_(astronom%C3%ADa)",
-              "edit": "https://es.wikipedia.org/wiki/Coma_(astronom%C3%ADa)?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Coma_(astronom%C3%ADa)"
-            }
-          },
-          "extract": "En astronomía, se le llama la coma o la cabellera a la nube de polvo y gas que envuelve el núcleo de un cometa. Se forma cuando un cometa se acerca al Sol, de modo que parte de la superficie helada del núcleo se evapora y junto con otros materiales lo rodean, volviéndose esta nube visible por la refracción de la luz, y ocultando el núcleo. Para que pueda formarse, la velocidad de fuga del núcleo debe ser inferior a la velocidad media de las moléculas del gas.",
-          "extract_html": "<p>En astronomía, se le llama la <b>coma</b> o la <b>cabellera</b> a la nube de polvo y gas que envuelve el núcleo de un cometa. Se forma cuando un cometa se acerca al Sol, de modo que parte de la superficie helada del núcleo se evapora y junto con otros materiales lo rodean, volviéndose esta nube visible por la refracción de la luz, y ocultando el núcleo. Para que pueda formarse, la velocidad de fuga del núcleo debe ser inferior a la velocidad media de las moléculas del gas.</p>",
-          "normalizedtitle": "Coma (astronomía)"
-        }
-      ],
-      "year": 2007
-    },
-    {
-      "text": "en Antofagasta (Chile), un terremoto de 7,7 grados en la escala Richter deja 2 muertos y 15 000 damnificados.",
-      "pages": [
-        {
-          "type": "standard",
-          "title": "Región_de_Antofagasta",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Región de Antofagasta</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q2118",
-          "titles": {
-            "canonical": "Región_de_Antofagasta",
-            "normalized": "Región de Antofagasta",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Región de Antofagasta</span></span>"
-          },
-          "pageid": 42779,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Costanera_de_Antofagasta.jpg/330px-Costanera_de_Antofagasta.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 248
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Costanera_de_Antofagasta.jpg/3840px-Costanera_de_Antofagasta.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 4032,
-            "height": 3024
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "175589888",
-          "tid": "4d52f460-bc6b-11f1-990b-e0ca4613a28d",
-          "timestamp": "2026-09-30T01:07:27Z",
-          "description": "región de Chile",
-          "description_source": "central",
-          "coordinates": {
-            "lat": -23.64694444,
-            "lon": -70.39833333
-          },
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Regi%C3%B3n_de_Antofagasta",
-              "revisions": "https://es.wikipedia.org/wiki/Regi%C3%B3n_de_Antofagasta?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Regi%C3%B3n_de_Antofagasta?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Regi%C3%B3n_de_Antofagasta"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Regi%C3%B3n_de_Antofagasta",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Regi%C3%B3n_de_Antofagasta",
-              "edit": "https://es.wikipedia.org/wiki/Regi%C3%B3n_de_Antofagasta?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Regi%C3%B3n_de_Antofagasta"
-            }
-          },
-          "extract": "La región de Antofagasta es una de las dieciséis regiones en que se divide Chile que limita con Argentina y con Bolivia al este. Su capital es la homónima Antofagasta. Ubicada en el extremo norte del país —norte grande—, limita al norte con la región de Tarapacá, al este con el departamento de Potosí en Bolivia y con las provincias de Jujuy, Salta y Catamarca pertenecientes a Argentina, al sur con la Región de Atacama y al oeste con el océano Pacífico.",
-          "extract_html": "<p>La <b>región de Antofagasta</b> es una de las dieciséis regiones en que se divide Chile que limita con Argentina y con Bolivia al este. Su capital es la homónima Antofagasta. Ubicada en el extremo norte del país —norte grande—, limita al norte con la región de Tarapacá, al este con el departamento de Potosí en Bolivia y con las provincias de Jujuy, Salta y Catamarca pertenecientes a Argentina, al sur con la Región de Atacama y al oeste con el océano Pacífico.</p>",
-          "normalizedtitle": "Región de Antofagasta"
-        },
-        {
-          "type": "standard",
-          "title": "Chile",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Chile</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q298",
-          "titles": {
-            "canonical": "Chile",
-            "normalized": "Chile",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Chile</span></span>"
-          },
-          "pageid": 276780,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/langes-330px-Flag_of_Chile.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/langes-330px-Flag_of_the_People%27s_Republic_of_China.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
             "height": 220
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/langes-960px-Flag_of_Chile.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/langes-960px-Flag_of_the_People%27s_Republic_of_China.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 900,
             "height": 600
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176313496",
-          "tid": "9da9e6c5-e131-11f1-823e-fefcb85d0537",
-          "timestamp": "2026-11-15T20:17:44Z",
-          "description": "país de América del Sur",
+          "revision": "176236248",
+          "tid": "01cd43d5-dd05-11f1-912e-1352887c8770",
+          "timestamp": "2026-11-10T12:48:20Z",
+          "description": "país de Asia Oriental",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Chile",
-              "revisions": "https://es.wikipedia.org/wiki/Chile?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Chile?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Chile"
+              "page": "https://es.wikipedia.org/wiki/Rep%C3%BAblica_Popular_China",
+              "revisions": "https://es.wikipedia.org/wiki/Rep%C3%BAblica_Popular_China?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Rep%C3%BAblica_Popular_China?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Rep%C3%BAblica_Popular_China"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Chile",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Chile",
-              "edit": "https://es.wikipedia.org/wiki/Chile?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Chile"
+              "page": "https://es.wikipedia.org/wiki/Rep%C3%BAblica_Popular_China",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Rep%C3%BAblica_Popular_China",
+              "edit": "https://es.wikipedia.org/wiki/Rep%C3%BAblica_Popular_China?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Rep%C3%BAblica_Popular_China"
             }
           },
-          "extract": "Chile, oficialmente República de Chile, es un país soberano ubicado en el extremo sudoeste de América del Sur. Adopta la forma de gobierno republicana, democrática, presidencialista y unitaria. Su capital y ciudad más poblada es Santiago.",
-          "extract_html": "<p><b>Chile</b>, oficialmente <b>República de Chile</b>, es un país soberano ubicado en el extremo sudoeste de América del Sur. Adopta la forma de gobierno republicana, democrática, presidencialista y unitaria. Su capital y ciudad más poblada es Santiago.</p>",
-          "normalizedtitle": "Chile"
+          "extract": "La República Popular China, mayormente conocida como China, es un país soberano de Asia Oriental con capital en Pekín. Es el segundo país más poblado del mundo. Es la primera economía mundial en PIB por paridad de poder adquisitivo (PPA),y la segunda a precios corrientes (nominal), tras Estados Unidos. Se constituye como un Estado socialista de partido hegemónico gobernado por el Partido Comunista de China. \nEstá dividida en veintidós provincias, cinco regiones autónomas, cuatro municipios bajo jurisdicción central y dos regiones administrativas especiales, que son Hong Kong y Macao. Asimismo, reclama la provincia de Taiwán, que es controlada por la República de China con un estatus político de la isla controvertido después del fin de la guerra civil china, cuando sirvió de refugio a los nacionalistas del Kuomintang.",
+          "extract_html": "<p>La <b>República Popular China</b>, mayormente conocida como <b>China</b>, es un país soberano de Asia Oriental con capital en Pekín. Es el segundo país más poblado del mundo. Es la primera economía mundial en PIB por paridad de poder adquisitivo (PPA),y la segunda a precios corrientes (nominal), tras Estados Unidos. Se constituye como un Estado socialista de partido hegemónico gobernado por el Partido Comunista de China. \nEstá dividida en veintidós provincias, cinco regiones autónomas, cuatro municipios bajo jurisdicción central y dos regiones administrativas especiales, que son Hong Kong y Macao. Asimismo, reclama la provincia de Taiwán, que es controlada por la República de China con un estatus político de la isla controvertido después del fin de la guerra civil china, cuando sirvió de refugio a los nacionalistas del Kuomintang.</p>",
+          "normalizedtitle": "República Popular China"
         },
         {
           "type": "standard",
-          "title": "Terremoto",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Terremoto</span></span>",
+          "title": "COVID-19",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">COVID-19</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q7944",
+          "wikibase_item": "Q84263196",
           "titles": {
-            "canonical": "Terremoto",
-            "normalized": "Terremoto",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Terremoto</span></span>"
+            "canonical": "COVID-19",
+            "normalized": "COVID-19",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">COVID-19</span></span>"
           },
-          "pageid": 231718,
+          "pageid": 9291525,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Haiti_earthquake_damage.jpg/330px-Haiti_earthquake_damage.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Symptoms_of_coronavirus_disease_2019_2.0-es.svg/langes-330px-Symptoms_of_coronavirus_disease_2019_2.0-es.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 243
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Symptoms_of_coronavirus_disease_2019_2.0-es.svg/langes-3840px-Symptoms_of_coronavirus_disease_2019_2.0-es.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 1928,
+            "height": 1421
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176282136",
+          "tid": "c80572fb-df7a-11f1-87f4-baba02c6a5cd",
+          "timestamp": "2026-11-13T15:56:26Z",
+          "description": "enfermedad infecciosa causada por el virus SARS-CoV-2",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/COVID-19",
+              "revisions": "https://es.wikipedia.org/wiki/COVID-19?action=history",
+              "edit": "https://es.wikipedia.org/wiki/COVID-19?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:COVID-19"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/COVID-19",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/COVID-19",
+              "edit": "https://es.wikipedia.org/wiki/COVID-19?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:COVID-19"
+            }
+          },
+          "extract": "La enfermedad por coronavirus de 2019, más conocida como COVID-19, covid-19 o covid, e incorrectamente llamada neumonía por coronavirus o coronavirus, es una enfermedad infecciosa causada por el SARS-CoV-2.El total de fallecidos hasta 2024 era de 6.881.955. Asimismo, a fecha de 2023, se habían administrado un total de 13.338.833.198 vacunas.",
+          "extract_html": "<p>La <b>enfermedad por coronavirus de 2019</b>, más conocida como <b>COVID-19</b>, <b>covid-19</b> o <b>covid</b>, e incorrectamente llamada <b>neumonía por coronavirus</b> o <b>coronavirus</b>, es una enfermedad infecciosa causada por el SARS-CoV-2.El total de fallecidos hasta 2024 era de 6.881.955. Asimismo, a fecha de 2023, se habían administrado un total de 13.338.833.198 vacunas.</p>",
+          "normalizedtitle": "COVID-19"
+        }
+      ],
+      "year": 2019
+    },
+    {
+      "text": "La Armada Argentina confirma el hallazgo del Submarino ARA San Juan cerca de la zona de su desaparición un año atrás.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Armada_Argentina",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Armada Argentina</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q1777326",
+          "titles": {
+            "canonical": "Armada_Argentina",
+            "normalized": "Armada Argentina",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Armada Argentina</span></span>"
+          },
+          "pageid": 357809,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Armada_argentina_emblem.svg/langes-330px-Armada_argentina_emblem.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 339
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Armada_argentina_emblem.svg/langes-250px-Armada_argentina_emblem.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 182,
+            "height": 187
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176261916",
+          "tid": "58966414-de56-11f1-9967-3384f1f4d84f",
+          "timestamp": "2026-11-12T05:03:06Z",
+          "description": "rama naval de las Fuerzas Armadas argentinas",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Armada_Argentina",
+              "revisions": "https://es.wikipedia.org/wiki/Armada_Argentina?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Armada_Argentina?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Armada_Argentina"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Armada_Argentina",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Armada_Argentina",
+              "edit": "https://es.wikipedia.org/wiki/Armada_Argentina?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Armada_Argentina"
+            }
+          },
+          "extract": "La Armada de la República Argentina (ARA), o simplemente Armada Argentina, es una de las tres ramas de las Fuerzas Armadas junto al Ejército y la Fuerza Aérea. Su misión es alistar, adiestrar y sostener los medios navales de la Nación. Estos son distribuidos en cuatro ramas conformando el poder naval integrado: la Flota de Mar, la Infantería de Marina, la Aviación Naval y la Fuerza de Submarinos.",
+          "extract_html": "<p>La <b>Armada de la República Argentina</b> (<b>ARA</b>), o simplemente <b>Armada Argentina</b>, es una de las tres ramas de las Fuerzas Armadas junto al Ejército y la Fuerza Aérea. Su misión es alistar, adiestrar y sostener los medios navales de la Nación. Estos son distribuidos en cuatro ramas conformando el poder naval integrado: la Flota de Mar, la Infantería de Marina, la Aviación Naval y la Fuerza de Submarinos.</p>",
+          "normalizedtitle": "Armada Argentina"
+        },
+        {
+          "type": "standard",
+          "title": "ARA_San_Juan_(S-42)",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">ARA San Juan (S-42)</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q5653859",
+          "titles": {
+            "canonical": "ARA_San_Juan_(S-42)",
+            "normalized": "ARA San Juan (S-42)",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">ARA San Juan (S-42)</span></span>"
+          },
+          "pageid": 906796,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/S42ARASanJuan.jpg/330px-S42ARASanJuan.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 248
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/7/7c/S42ARASanJuan.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 800,
+            "height": 600
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "174061630",
+          "tid": "aaf0cacd-6e42-11f1-b722-e11565bba646",
+          "timestamp": "2026-06-22T14:00:04Z",
+          "description": "submarino TR-1700 de 1985",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/ARA_San_Juan_(S-42)",
+              "revisions": "https://es.wikipedia.org/wiki/ARA_San_Juan_(S-42)?action=history",
+              "edit": "https://es.wikipedia.org/wiki/ARA_San_Juan_(S-42)?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:ARA_San_Juan_(S-42)"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/ARA_San_Juan_(S-42)",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/ARA_San_Juan_(S-42)",
+              "edit": "https://es.wikipedia.org/wiki/ARA_San_Juan_(S-42)?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:ARA_San_Juan_(S-42)"
+            }
+          },
+          "extract": "El ARA San Juan (S-42) de la Armada Argentina fue un submarino de ataque TR-1700 de fabricación alemana, que sirvió desde 1985 hasta su naufragio a finales de 2017. Este tipo de submarino tenía propulsión diésel-eléctrica convencional con sistema snorkel, concebido para ataques contra fuerzas de superficie, submarinos, tráfico mercante y operaciones de minado.",
+          "extract_html": "<p>El <b>ARA <i>San Juan</i> (S-42)</b> de la Armada Argentina fue un submarino de ataque TR-1700 de fabricación alemana, que sirvió desde 1985 hasta su naufragio a finales de 2017. Este tipo de submarino tenía propulsión diésel-eléctrica convencional con sistema snorkel, concebido para ataques contra fuerzas de superficie, submarinos, tráfico mercante y operaciones de minado.</p>",
+          "normalizedtitle": "ARA San Juan (S-42)"
+        },
+        {
+          "type": "standard",
+          "title": "Hundimiento_del_ARA_San_Juan_(S-42)",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Hundimiento del ARA San Juan (S-42)</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q43399604",
+          "titles": {
+            "canonical": "Hundimiento_del_ARA_San_Juan_(S-42)",
+            "normalized": "Hundimiento del ARA San Juan (S-42)",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Hundimiento del ARA San Juan (S-42)</span></span>"
+          },
+          "pageid": 8213578,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Submarino_ARA_San_Juan_%2833866567363%29.jpg/330px-Submarino_ARA_San_Juan_%2833866567363%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 248
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Submarino_ARA_San_Juan_%2833866567363%29.jpg/3840px-Submarino_ARA_San_Juan_%2833866567363%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 4608,
+            "height": 3456
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "174325675",
+          "tid": "faf2dd14-7cde-11f1-8cec-7c4e44b1af7b",
+          "timestamp": "2026-07-11T04:14:16Z",
+          "description": "desaparición y hundimiento de submarino de la Armada Argentina ocurrido en 2017",
+          "description_source": "central",
+          "coordinates": {
+            "lat": -46.73333333,
+            "lon": -60.13333333
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Hundimiento_del_ARA_San_Juan_(S-42)",
+              "revisions": "https://es.wikipedia.org/wiki/Hundimiento_del_ARA_San_Juan_(S-42)?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Hundimiento_del_ARA_San_Juan_(S-42)?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Hundimiento_del_ARA_San_Juan_(S-42)"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Hundimiento_del_ARA_San_Juan_(S-42)",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Hundimiento_del_ARA_San_Juan_(S-42)",
+              "edit": "https://es.wikipedia.org/wiki/Hundimiento_del_ARA_San_Juan_(S-42)?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Hundimiento_del_ARA_San_Juan_(S-42)"
+            }
+          },
+          "extract": "El hundimiento del ARA San Juan (S-42) se refiere a la pérdida de contacto con el submarino ARA San Juan (S-42) de la Armada Argentina, el 15 de noviembre de 2017 a las 7:30 a. m. en el mar argentino, con 38 tripulantes y 6 buzos tácticos a bordo. Pasado un año y dos días, la nave fue encontrada por una empresa privada, muy cerca del punto de desaparición y en el lugar donde se suponía que se encontraba, a 907 m de profundidad. El hundimiento y las búsquedas posteriores a la desaparición estuvieron afectadas por sospechas, irregularidades, negligencias, informes tardíos o contradictorios, luchas internas, espionaje y conflictos con los familiares de los marinos.",
+          "extract_html": "<p>El <b>hundimiento del ARA San Juan (S-42)</b> se refiere a la pérdida de contacto con el submarino ARA San Juan (S-42) de la Armada Argentina, el 15 de noviembre de 2017 a las 7:30 a. m. en el mar argentino, con 38 tripulantes y 6 buzos tácticos a bordo. Pasado un año y dos días, la nave fue encontrada por una empresa privada, muy cerca del punto de desaparición y en el lugar donde se suponía que se encontraba, a 907 m de profundidad. El hundimiento y las búsquedas posteriores a la desaparición estuvieron afectadas por sospechas, irregularidades, negligencias, informes tardíos o contradictorios, luchas internas, espionaje y conflictos con los familiares de los marinos.</p>",
+          "normalizedtitle": "Hundimiento del ARA San Juan (S-42)"
+        }
+      ],
+      "year": 2018
+    },
+    {
+      "text": "en Lima, el expresidente del Perú Alan García pide asilo político a la embajada de Uruguay tras recibir 18 meses de impedimento de salida del país.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Lima",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lima</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q2868",
+          "titles": {
+            "canonical": "Lima",
+            "normalized": "Lima",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Lima</span></span>"
+          },
+          "pageid": 1640,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg/330px-Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 223
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/6/69/Bas%C3%ADlica_Catedral_Metropolitana_de_Lima_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 3439,
+            "height": 2323
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176255832",
+          "tid": "b3a169da-de08-11f1-857d-a3c5aad2acef",
+          "timestamp": "2026-11-11T19:47:18Z",
+          "description": "capital de Perú",
+          "description_source": "central",
+          "coordinates": {
+            "lat": -12.06,
+            "lon": -77.0375
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Lima",
+              "revisions": "https://es.wikipedia.org/wiki/Lima?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Lima?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Lima"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Lima",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Lima",
+              "edit": "https://es.wikipedia.org/wiki/Lima?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Lima"
+            }
+          },
+          "extract": "Lima es la capital y ciudad más poblada del Perú. Está situada en los valles de los ríos Chillón, Rímac y Lurín, en la zona desértica de la costa central del país, frente al océano Pacífico. La ciudad es considerada el centro político, cultural, económico, financiero, comercial y gastronómico del Perú. Por su importancia geoestratégica, ha sido definida como una ciudad global de «clase beta+».Jurisdiccionalmente, se extiende principalmente dentro de la provincia de Lima y en una porción menor, al oeste, dentro de la provincia constitucional del Callao, donde se ubican el puerto marítimo y el Aeropuerto Internacional Jorge Chávez. Ambas provincias cuentan con autonomía regional desde el año 2002.",
+          "extract_html": "<p><b>Lima</b> es la capital y ciudad más poblada del Perú. Está situada en los valles de los ríos Chillón, Rímac y Lurín, en la zona desértica de la costa central del país, frente al océano Pacífico. La ciudad es considerada el centro político, cultural, económico, financiero, comercial y gastronómico del Perú. Por su importancia geoestratégica, ha sido definida como una ciudad global de «clase beta+».Jurisdiccionalmente, se extiende principalmente dentro de la provincia de Lima y en una porción menor, al oeste, dentro de la provincia constitucional del Callao, donde se ubican el puerto marítimo y el Aeropuerto Internacional Jorge Chávez. Ambas provincias cuentan con autonomía regional desde el año 2002.</p>",
+          "normalizedtitle": "Lima"
+        },
+        {
+          "type": "standard",
+          "title": "Alan_García",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alan García</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q167211",
+          "titles": {
+            "canonical": "Alan_García",
+            "normalized": "Alan García",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alan García</span></span>"
+          },
+          "pageid": 4785,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Alan_G._L._Garc%C3%ADa_P%C3%A9rez.jpg/330px-Alan_G._L._Garc%C3%ADa_P%C3%A9rez.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 412
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/3/31/Alan_G._L._Garc%C3%ADa_P%C3%A9rez.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 671,
+            "height": 837
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176317211",
+          "tid": "a9f46840-e156-11f1-b5c5-8e961c0cd463",
+          "timestamp": "2026-11-16T00:42:56Z",
+          "description": "presidente del Perú de 1985 a 1990 y de 2006 a 2011",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Alan_Garc%C3%ADa",
+              "revisions": "https://es.wikipedia.org/wiki/Alan_Garc%C3%ADa?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Alan_Garc%C3%ADa?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Alan_Garc%C3%ADa"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Alan_Garc%C3%ADa",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Alan_Garc%C3%ADa",
+              "edit": "https://es.wikipedia.org/wiki/Alan_Garc%C3%ADa?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Alan_Garc%C3%ADa"
+            }
+          },
+          "extract": "Alan Gabriel Lúdwig García Pérez fue un abogado, orador, ideólogo, académico, estadista, profesor universitario y político peruano que ejerció como presidente de la República del Perú durante dos mandatos no consecutivos: de 1985 a 1990 y de 2006 a 2011. Fue líder y figura histórica dentro de la Alianza Popular Revolucionaria Americana y fue su único miembro que ejerció como presidente. Formado políticamente por el fundador del APRA, Víctor Raúl Haya de la Torre, sirvió en la Asamblea Constituyente de 1978-1979. Elegido para el Congreso peruano en 1980, ascendió al cargo de secretario general del APRA en 1982 y fue elegido presidente en 1985 por una aplastante mayoría.",
+          "extract_html": "<p><b>Alan Gabriel Lúdwig García Pérez</b> fue un abogado, orador, ideólogo, académico, estadista, profesor universitario y político peruano que ejerció como presidente de la República del Perú durante dos mandatos no consecutivos: de 1985 a 1990 y de 2006 a 2011. Fue líder y figura histórica dentro de la Alianza Popular Revolucionaria Americana y fue su único miembro que ejerció como presidente. Formado políticamente por el fundador del APRA, Víctor Raúl Haya de la Torre, sirvió en la Asamblea Constituyente de 1978-1979. Elegido para el Congreso peruano en 1980, ascendió al cargo de secretario general del APRA en 1982 y fue elegido presidente en 1985 por una aplastante mayoría.</p>",
+          "normalizedtitle": "Alan García"
+        },
+        {
+          "type": "standard",
+          "title": "Asilo_político",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Asilo político</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q12037489",
+          "titles": {
+            "canonical": "Asilo_político",
+            "normalized": "Asilo político",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Asilo político</span></span>"
+          },
+          "pageid": 428132,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Bundesarchiv_Bild_183-J19568%2C_Bei_Stalingrad%2C_russische_Fl%C3%BCchtlinge.jpg/330px-Bundesarchiv_Bild_183-J19568%2C_Bei_Stalingrad%2C_russische_Fl%C3%BCchtlinge.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 228
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/7/75/Bundesarchiv_Bild_183-J19568%2C_Bei_Stalingrad%2C_russische_Fl%C3%BCchtlinge.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 800,
+            "height": 552
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "167742599",
+          "tid": "7fbfe208-3f84-11f0-b9ca-da6352207ab4",
+          "timestamp": "2025-06-02T07:37:56Z",
+          "description": "derecho de una persona a no ser extraditada por motivos políticos",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Asilo_pol%C3%ADtico",
+              "revisions": "https://es.wikipedia.org/wiki/Asilo_pol%C3%ADtico?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Asilo_pol%C3%ADtico?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Asilo_pol%C3%ADtico"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Asilo_pol%C3%ADtico",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Asilo_pol%C3%ADtico",
+              "edit": "https://es.wikipedia.org/wiki/Asilo_pol%C3%ADtico?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Asilo_pol%C3%ADtico"
+            }
+          },
+          "extract": "El asilo político es el derecho que tiene una persona a no ser extraditada de un país a otro que lo requiere para juzgarle por delitos políticos.",
+          "extract_html": "<p>El <b>asilo político</b> es el derecho que tiene una persona a no ser extraditada de un país a otro que lo requiere para juzgarle por delitos políticos.</p>",
+          "normalizedtitle": "Asilo político"
+        },
+        {
+          "type": "standard",
+          "title": "Uruguay",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Uruguay</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q77",
+          "titles": {
+            "canonical": "Uruguay",
+            "normalized": "Uruguay",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Uruguay</span></span>"
+          },
+          "pageid": 6216,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/langes-330px-Flag_of_Uruguay.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
             "height": 220
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Haiti_earthquake_damage.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 3000,
-            "height": 2000
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/langes-960px-Flag_of_Uruguay.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 512,
+            "height": 341
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176308563",
-          "tid": "f8264f51-e0f7-11f1-8e2f-65ad70b7a1d2",
-          "timestamp": "2026-11-15T13:25:05Z",
-          "description": "resultado de una liberación repentina de energía en la corteza terrestre que crea ondas sísmicas",
+          "revision": "176068263",
+          "tid": "ab384eaf-d458-11f1-ac58-98a0bfb2b3af",
+          "timestamp": "2026-10-30T11:54:32Z",
+          "description": "país de América del Sur",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Terremoto",
-              "revisions": "https://es.wikipedia.org/wiki/Terremoto?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Terremoto?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Terremoto"
+              "page": "https://es.wikipedia.org/wiki/Uruguay",
+              "revisions": "https://es.wikipedia.org/wiki/Uruguay?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Uruguay?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Uruguay"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Terremoto",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Terremoto",
-              "edit": "https://es.wikipedia.org/wiki/Terremoto?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Terremoto"
+              "page": "https://es.wikipedia.org/wiki/Uruguay",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Uruguay",
+              "edit": "https://es.wikipedia.org/wiki/Uruguay?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Uruguay"
             }
           },
-          "extract": "Un terremoto, también llamado sismo o seísmo en España, temblor de tierra o movimiento telúrico, es la sacudida brusca y pasajera de la corteza terrestre. Los más comunes se producen por actividad de fallas geológicas. También pueden ocurrir por otras causas, como por ejemplo: fricción en el borde de placas tectónicas, procesos volcánicos, impactos de asteroides o de cualquier objeto celeste de gran tamaño, o incluso pueden ser producidos por el ser humano al realizar detonaciones nucleares subterráneas.",
-          "extract_html": "<p>Un <b>terremoto</b>, también llamado <b>sismo o</b> <b>seísmo</b> en España, <b>temblor de tierra</b> o <b>movimiento telúrico</b>, es la sacudida brusca y pasajera de la corteza terrestre. Los más comunes se producen por actividad de fallas geológicas. También pueden ocurrir por otras causas, como por ejemplo: fricción en el borde de placas tectónicas, procesos volcánicos, impactos de asteroides o de cualquier objeto celeste de gran tamaño, o incluso pueden ser producidos por el ser humano al realizar detonaciones nucleares subterráneas.</p>",
-          "normalizedtitle": "Terremoto"
-        },
+          "extract": "Uruguay, oficialmente República Oriental del Uruguay, es un país soberano de América del Sur, situado en la parte oriental del Cono Sur. Su capital y ciudad más poblada es Montevideo. Limita al noreste con Brasil, al oeste y suroeste con Argentina, separada por el Río de la Plata; y al sur con el océano Atlántico. Abarca 176 215 km² y es el segundo país más pequeño de Sudamérica, después de Surinam. Según los datos del último censo del Instituto Nacional de Estadística en 2023, la población de Uruguay es de 3 499 451 habitantes, ubicándolo en la décima posición entre los doce países sudamericanos.",
+          "extract_html": "<p><b>Uruguay</b>, oficialmente <b>República Oriental del Uruguay</b>, es un país soberano de América del Sur, situado en la parte oriental del Cono Sur. Su capital y ciudad más poblada es Montevideo. Limita al noreste con Brasil, al oeste y suroeste con Argentina, separada por el Río de la Plata; y al sur con el océano Atlántico. Abarca <span>176 215 km²</span> y es el segundo país más pequeño de Sudamérica, después de Surinam. Según los datos del último censo del Instituto Nacional de Estadística en 2023, la población de Uruguay es de 3 499 451 habitantes, ubicándolo en la décima posición entre los doce países sudamericanos.</p>",
+          "normalizedtitle": "Uruguay"
+        }
+      ],
+      "year": 2018
+    },
+    {
+      "text": "en Francia se inicia el movimiento de los chalecos amarillos.",
+      "pages": [
         {
           "type": "standard",
-          "title": "Escala_sismológica_de_Richter",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Escala sismológica de Richter</span></span>",
+          "title": "Francia",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Francia</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q38768",
+          "wikibase_item": "Q142",
           "titles": {
-            "canonical": "Escala_sismológica_de_Richter",
-            "normalized": "Escala sismológica de Richter",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Escala sismológica de Richter</span></span>"
+            "canonical": "Francia",
+            "normalized": "Francia",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Francia</span></span>"
           },
-          "pageid": 21127,
+          "pageid": 1173,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Ondas_s%C3%ADsmicas_s_p.svg/langes-330px-Ondas_s%C3%ADsmicas_s_p.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langes-330px-Flag_of_France.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 264
+            "height": 220
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Ondas_s%C3%ADsmicas_s_p.svg/langes-250px-Ondas_s%C3%ADsmicas_s_p.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 250,
-            "height": 200
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/langes-960px-Flag_of_France.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 900,
+            "height": 600
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176166133",
-          "tid": "93316503-d959-11f1-b7d5-6bacefe52ad6",
-          "timestamp": "2026-11-05T20:43:37Z",
-          "description": "escala logarítmica arbitraria que asigna un número para cuantificar la energía que libera un terremoto",
+          "revision": "176325827",
+          "tid": "aa7f1731-e1d3-11f1-aedb-ce47ed65c68e",
+          "timestamp": "2026-11-16T15:37:44Z",
+          "description": "país de Europa Occidental",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter",
-              "revisions": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Escala_sismol%C3%B3gica_de_Richter"
+              "page": "https://es.wikipedia.org/wiki/Francia",
+              "revisions": "https://es.wikipedia.org/wiki/Francia?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Francia?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Francia"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Escala_sismol%C3%B3gica_de_Richter",
-              "edit": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Escala_sismol%C3%B3gica_de_Richter"
+              "page": "https://es.wikipedia.org/wiki/Francia",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Francia",
+              "edit": "https://es.wikipedia.org/wiki/Francia?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Francia"
             }
           },
-          "extract": "La escala sismológica de Richter, también conocida como escala de magnitud local (ML), es una escala logarítmica que asigna un número para cuantificar la energía que libera un terremoto, denominada así en honor del sismólogo estadounidense Charles Francis Richter.",
-          "extract_html": "<p>La <b>escala sismológica de Richter</b>, también conocida como <b>escala de magnitud local</b> (<b><i>M</i><sub>L</sub></b>), es una escala logarítmica que asigna un número para cuantificar la energía que libera un terremoto, denominada así en honor del sismólogo estadounidense Charles Francis Richter.</p>",
-          "normalizedtitle": "Escala sismológica de Richter"
+          "extract": "Francia, oficialmente República Francesa, es un país soberano transcontinental que se extiende por Europa Occidental y por regiones y territorios de ultramar en América y los océanos Atlántico, Pacífico e Índico. Es uno de los veintisiete Estados soberanos que integran la Unión Europea. Se constituye en república semipresidencialista unitaria con capital en París, la mayor ciudad del país y principal centro cultural y comercial; otras zonas urbanas importantes son Marsella, Lyon, Toulouse, Lille, Burdeos, Montpellier y Niza. La Francia metropolitana se extiende desde el río Rin hasta el océano Atlántico y desde el mar Mediterráneo y los montes Pirineos hasta el canal de la Mancha y el mar del Norte. Los territorios de ultramar incluyen la Guayana Francesa en América del Sur, San Pedro y Miquelón en el Atlántico Norte, las Antillas francesas y muchas islas en Oceanía y el océano Índico. Debido a sus diversos territorios costeros, Francia posee la mayor zona económica exclusiva del mundo. Sus dieciocho regiones integrales abarcan una superficie combinada de 643 801 km2 y más de 68 millones de personas. Culturalmente, pertenece a la Europa latina.",
+          "extract_html": "<p><b>Francia</b>, oficialmente <b>República Francesa</b>, es un país soberano transcontinental que se extiende por Europa Occidental y por regiones y territorios de ultramar en América y los océanos Atlántico, Pacífico e Índico. Es uno de los veintisiete Estados soberanos que integran la Unión Europea. Se constituye en república semipresidencialista unitaria con capital en París, la mayor ciudad del país y principal centro cultural y comercial; otras zonas urbanas importantes son Marsella, Lyon, Toulouse, Lille, Burdeos, Montpellier y Niza. La Francia metropolitana se extiende desde el río Rin hasta el océano Atlántico y desde el mar Mediterráneo y los montes Pirineos hasta el canal de la Mancha y el mar del Norte. Los territorios de ultramar incluyen la Guayana Francesa en América del Sur, San Pedro y Miquelón en el Atlántico Norte, las Antillas francesas y muchas islas en Oceanía y el océano Índico. Debido a sus diversos territorios costeros, Francia posee la mayor zona económica exclusiva del mundo. Sus dieciocho regiones integrales abarcan una superficie combinada de 643 801 km<sup>2</sup> y más de 68 millones de personas. Culturalmente, pertenece a la Europa latina.</p>",
+          "normalizedtitle": "Francia"
+        },
+        {
+          "type": "standard",
+          "title": "Movimiento_de_los_chalecos_amarillos",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Movimiento de los chalecos amarillos</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q58805164",
+          "titles": {
+            "canonical": "Movimiento_de_los_chalecos_amarillos",
+            "normalized": "Movimiento de los chalecos amarillos",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Movimiento de los chalecos amarillos</span></span>"
+          },
+          "pageid": 8740227,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/ManifGiletsJaunesVesoul_17nov2018_%28cropped%29.jpg/330px-ManifGiletsJaunesVesoul_17nov2018_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 171
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/7/7e/ManifGiletsJaunesVesoul_17nov2018_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1248,
+            "height": 647
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176271835",
+          "tid": "39421769-dedc-11f1-b3fa-179cded772e5",
+          "timestamp": "2026-11-12T21:01:26Z",
+          "description": "movimiento de descontento social",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Movimiento_de_los_chalecos_amarillos",
+              "revisions": "https://es.wikipedia.org/wiki/Movimiento_de_los_chalecos_amarillos?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Movimiento_de_los_chalecos_amarillos?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Movimiento_de_los_chalecos_amarillos"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Movimiento_de_los_chalecos_amarillos",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Movimiento_de_los_chalecos_amarillos",
+              "edit": "https://es.wikipedia.org/wiki/Movimiento_de_los_chalecos_amarillos?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Movimiento_de_los_chalecos_amarillos"
+            }
+          },
+          "extract": "El movimiento de los chalecos amarillos es un movimiento social de protesta que se formó en Francia a partir del mes de octubre de 2018. El movimiento también se extendió, en menor medida, a otros países vecinos principalmente Bélgica, Países Bajos, Alemania, Italia, y España.",
+          "extract_html": "<p>El <b>movimiento de los chalecos amarillos</b> es un movimiento social de protesta que se formó en Francia a partir del mes de octubre de 2018. El movimiento también se extendió, en menor medida, a otros países vecinos principalmente Bélgica, Países Bajos, Alemania, Italia, y España.</p>",
+          "normalizedtitle": "Movimiento de los chalecos amarillos"
         }
       ],
-      "year": 2007
+      "year": 2018
+    },
+    {
+      "text": "la cantante y rapera Nicki Minaj iba a presentarse en un festival musical en Shanghái, China, sin embargo el festival resultó ser falso.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Nicki_Minaj",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nicki Minaj</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q162202",
+          "titles": {
+            "canonical": "Nicki_Minaj",
+            "normalized": "Nicki Minaj",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nicki Minaj</span></span>"
+          },
+          "pageid": 3895114,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Nicki_Minaj_%2855022752134%29_%28cropped%29.jpg/330px-Nicki_Minaj_%2855022752134%29_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 440
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/6/60/Nicki_Minaj_%2855022752134%29_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 3258,
+            "height": 4341
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "175197439",
+          "tid": "b20671d4-a8a6-11f1-a6f4-757cc80a453d",
+          "timestamp": "2026-09-04T21:22:13Z",
+          "description": "rapera trinitense",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Nicki_Minaj",
+              "revisions": "https://es.wikipedia.org/wiki/Nicki_Minaj?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Nicki_Minaj?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Nicki_Minaj"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Nicki_Minaj",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Nicki_Minaj",
+              "edit": "https://es.wikipedia.org/wiki/Nicki_Minaj?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Nicki_Minaj"
+            }
+          },
+          "extract": "Onika Tanya Maraj-Petty, más conocida como Nicki Minaj, es una rapera, cantante, compositora, modelo, y empresaria trinitense. Considerada la rapera más influyente de todos los tiempos, se le atribuye haber sido una fuerza clave en el resurgimiento del rap femenino a principios de la década de 2010. Empezó a llamar la atención del público con el lanzamiento de tres mixtapes entre 2007 y 2009, año en que firmó un contrato con el sello discográfico Young Money Entertainment.",
+          "extract_html": "<p><b>Onika Tanya Maraj-Petty</b>, más conocida como <b>Nicki Minaj</b>, es una rapera, cantante, compositora, modelo, y empresaria trinitense. Considerada la rapera más influyente de todos los tiempos, se le atribuye haber sido una fuerza clave en el resurgimiento del rap femenino a principios de la década de 2010. Empezó a llamar la atención del público con el lanzamiento de tres <i>mixtapes</i> entre 2007 y 2009, año en que firmó un contrato con el sello discográfico Young Money Entertainment.</p>",
+          "normalizedtitle": "Nicki Minaj"
+        },
+        {
+          "type": "standard",
+          "title": "Festival_de_música",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Festival de música</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q868557",
+          "titles": {
+            "canonical": "Festival_de_música",
+            "normalized": "Festival de música",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Festival de música</span></span>"
+          },
+          "pageid": 317187,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/PLNT2018_0420_175038-8769_JMM.jpg/330px-PLNT2018_0420_175038-8769_JMM.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 220
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/PLNT2018_0420_175038-8769_JMM.jpg/3840px-PLNT2018_0420_175038-8769_JMM.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 5164,
+            "height": 3443
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "171208647",
+          "tid": "2e03fe12-e399-11f0-bdd0-829eefb6a75d",
+          "timestamp": "2025-12-28T02:59:09Z",
+          "description": "festival orientado a la música",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Festival_de_m%C3%BAsica",
+              "revisions": "https://es.wikipedia.org/wiki/Festival_de_m%C3%BAsica?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Festival_de_m%C3%BAsica?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Festival_de_m%C3%BAsica"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Festival_de_m%C3%BAsica",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Festival_de_m%C3%BAsica",
+              "edit": "https://es.wikipedia.org/wiki/Festival_de_m%C3%BAsica?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Festival_de_m%C3%BAsica"
+            }
+          },
+          "extract": "Un festival de música es un evento social que suele aglutinar una gran cantidad de conciertos de música durante varios días y generalmente del mismo género musical, de este modo los asistentes al festival pueden pasar varios días disfrutando de música en directo. En estos festivales se suelen realizar otras actividades alternativas relacionadas con la música. Uno de los más famosos de la historia fue el Festival de Woodstock de 1969. En el continente americano destaca el Festival Internacional de la Canción de Viña del Mar y a nivel intercontinental sobresale el Festival de la Canción de Eurovisión por sus niveles de audiencia, que llegan a cifras de 200 millones de espectadores en el mundo a través de los medios de comunicación, ordinariamente a través de la televisión e internet.",
+          "extract_html": "<p>Un <b>festival de música</b> es un evento social que suele aglutinar una gran cantidad de conciertos de música durante varios días y generalmente del mismo género musical, de este modo los asistentes al festival pueden pasar varios días disfrutando de música en directo. En estos festivales se suelen realizar otras actividades alternativas relacionadas con la música. Uno de los más famosos de la historia fue el Festival de Woodstock de 1969. En el continente americano destaca el Festival Internacional de la Canción de Viña del Mar y a nivel intercontinental sobresale el Festival de la Canción de Eurovisión por sus niveles de audiencia, que llegan a cifras de 200 millones de espectadores en el mundo a través de los medios de comunicación, ordinariamente a través de la televisión e internet.</p>",
+          "normalizedtitle": "Festival de música"
+        },
+        {
+          "type": "standard",
+          "title": "Shanghái",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Shanghái</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q8686",
+          "titles": {
+            "canonical": "Shanghái",
+            "normalized": "Shanghái",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Shanghái</span></span>"
+          },
+          "pageid": 19206,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Huangpu_Park_20124-Shanghai_%2832208802494%29.jpg/330px-Huangpu_Park_20124-Shanghai_%2832208802494%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 220
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Huangpu_Park_20124-Shanghai_%2832208802494%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 3000,
+            "height": 2003
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176225187",
+          "tid": "f2041e61-dc70-11f1-b491-43adcf90d0d4",
+          "timestamp": "2026-11-09T19:08:28Z",
+          "description": "ciudad más poblada de la República Popular China",
+          "description_source": "central",
+          "coordinates": {
+            "lat": 31.2325,
+            "lon": 121.46916667
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Shangh%C3%A1i",
+              "revisions": "https://es.wikipedia.org/wiki/Shangh%C3%A1i?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Shangh%C3%A1i?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Shangh%C3%A1i"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Shangh%C3%A1i",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Shangh%C3%A1i",
+              "edit": "https://es.wikipedia.org/wiki/Shangh%C3%A1i?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Shangh%C3%A1i"
+            }
+          },
+          "extract": "Shanghái es la ciudad más poblada de China y una de las más grandes del mundo. Administrativamente, es uno de los cuatro municipios a nivel central. Cuenta con más de 24 millones de habitantes. Situada en la China del Este, Shanghái yace en el delta del río Yangtsé, centrada en la costa del mar de la China Oriental y es administrada al máximo nivel con la categoría de municipio de control directo.",
+          "extract_html": "<p><b>Shanghái</b> es la ciudad más poblada de China y una de las más grandes del mundo. Administrativamente, es uno de los cuatro municipios a nivel central. Cuenta con más de 24 millones de habitantes. Situada en la China del Este, Shanghái yace en el delta del río Yangtsé, centrada en la costa del mar de la China Oriental y es administrada al máximo nivel con la categoría de municipio de control directo.</p>",
+          "normalizedtitle": "Shanghái"
+        },
+        {
+          "type": "standard",
+          "title": "República_Popular_China",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">República Popular China</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q148",
+          "titles": {
+            "canonical": "República_Popular_China",
+            "normalized": "República Popular China",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">República Popular China</span></span>"
+          },
+          "pageid": 17801,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/langes-330px-Flag_of_the_People%27s_Republic_of_China.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 220
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/langes-960px-Flag_of_the_People%27s_Republic_of_China.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 900,
+            "height": 600
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176236248",
+          "tid": "01cd4281-dd05-11f1-b754-fc95980c8f42",
+          "timestamp": "2026-11-10T12:48:20Z",
+          "description": "país de Asia Oriental",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Rep%C3%BAblica_Popular_China",
+              "revisions": "https://es.wikipedia.org/wiki/Rep%C3%BAblica_Popular_China?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Rep%C3%BAblica_Popular_China?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Rep%C3%BAblica_Popular_China"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Rep%C3%BAblica_Popular_China",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Rep%C3%BAblica_Popular_China",
+              "edit": "https://es.wikipedia.org/wiki/Rep%C3%BAblica_Popular_China?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Rep%C3%BAblica_Popular_China"
+            }
+          },
+          "extract": "La República Popular China, mayormente conocida como China, es un país soberano de Asia Oriental con capital en Pekín. Es el segundo país más poblado del mundo. Es la primera economía mundial en PIB por paridad de poder adquisitivo (PPA),y la segunda a precios corrientes (nominal), tras Estados Unidos. Se constituye como un Estado socialista de partido hegemónico gobernado por el Partido Comunista de China. \nEstá dividida en veintidós provincias, cinco regiones autónomas, cuatro municipios bajo jurisdicción central y dos regiones administrativas especiales, que son Hong Kong y Macao. Asimismo, reclama la provincia de Taiwán, que es controlada por la República de China con un estatus político de la isla controvertido después del fin de la guerra civil china, cuando sirvió de refugio a los nacionalistas del Kuomintang.",
+          "extract_html": "<p>La <b>República Popular China</b>, mayormente conocida como <b>China</b>, es un país soberano de Asia Oriental con capital en Pekín. Es el segundo país más poblado del mundo. Es la primera economía mundial en PIB por paridad de poder adquisitivo (PPA),y la segunda a precios corrientes (nominal), tras Estados Unidos. Se constituye como un Estado socialista de partido hegemónico gobernado por el Partido Comunista de China. \nEstá dividida en veintidós provincias, cinco regiones autónomas, cuatro municipios bajo jurisdicción central y dos regiones administrativas especiales, que son Hong Kong y Macao. Asimismo, reclama la provincia de Taiwán, que es controlada por la República de China con un estatus político de la isla controvertido después del fin de la guerra civil china, cuando sirvió de refugio a los nacionalistas del Kuomintang.</p>",
+          "normalizedtitle": "República Popular China"
+        }
+      ],
+      "year": 2018
     }
   ]
 }
