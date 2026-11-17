@@ -9,3 +9,19 @@
 .euCountry:hover,.euCountry:focus-visible{background:color-mix(in srgb,var(--line,#c9c3b8) 18%,transparent)}
 @media(max-width:900px){.euLegend{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:600px){.euLegend{grid-template-columns:1fr 1fr;gap:.5rem}.euLegend button{min-height:2.3rem;padding:.4rem .5rem;font-size:.86rem}.euCountry{padding:.65rem .1rem}}
+
+/* Tratamiento premium: jerarquia, superficie y estados de interaccion */
+.euPolitics{background:linear-gradient(145deg,color-mix(in srgb,var(--paper,#f8f5ee) 96%,white),var(--paper,#f8f5ee));box-shadow:0 14px 36px rgba(35,31,27,.08);padding:clamp(1.1rem,2.5vw,2rem);border-color:color-mix(in srgb,var(--line,#c9c3b8) 72%,transparent)}
+.euTitle{border:0;border-bottom:1px solid var(--line,#c9c3b8);background:transparent;padding:0 0 .8rem;color:var(--ink,#19232b);letter-spacing:.02em;text-align:left;width:100%}
+.euPolitics>p{color:color-mix(in srgb,var(--ink,#19232b) 76%,transparent);max-width:62rem;line-height:1.55}
+.euPolitics svg{background:radial-gradient(circle at 50% 100%,rgba(255,255,255,.72),transparent 58%);border-radius:16px;padding:.35rem}
+.euTotals{border-top:1px solid var(--line,#c9c3b8);border-bottom:1px solid var(--line,#c9c3b8);padding:.9rem 0}
+.euTotal{min-height:1.8rem;font-size:.92rem;color:var(--ink,#19232b)}
+.euTotal i{box-shadow:0 0 0 3px rgba(255,255,255,.7),0 1px 3px rgba(0,0,0,.16)}
+.euLegend button{box-shadow:0 2px 8px rgba(35,31,27,.04);transition:transform .15s ease,box-shadow .15s ease,background .15s ease}
+.euLegend button:hover,.euLegend button:focus-visible{transform:translateY(-1px);box-shadow:0 5px 14px rgba(35,31,27,.1);background:rgba(255,255,255,.55)}
+.euDetails{border-top:1px solid var(--line,#c9c3b8);padding-top:1rem}
+.euDetails h3{font-size:1rem;letter-spacing:.04em;text-transform:uppercase;color:color-mix(in srgb,var(--ink,#19232b) 72%,transparent)}
+.euCountry{color:var(--ink,#19232b);transition:background .15s ease,padding-left .15s ease}
+.euCountry:hover,.euCountry:focus-visible{padding-left:.55rem}
+@media(max-width:600px){.euPolitics{padding:1rem;border-radius:12px}.euTotals{gap:.35rem}.euTotal{font-size:.86rem}.euLegend button{box-shadow:none}}
