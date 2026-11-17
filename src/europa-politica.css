@@ -25,3 +25,5 @@
 .euCountry{color:var(--ink,#19232b);transition:background .15s ease,padding-left .15s ease}
 .euCountry:hover,.euCountry:focus-visible{padding-left:.55rem}
 @media(max-width:600px){.euPolitics{padding:1rem;border-radius:12px}.euTotals{gap:.35rem}.euTotal{font-size:.86rem}.euLegend button{box-shadow:none}}
+
+.euSubhead{margin:.2rem 0 1rem!important;color:color-mix(in srgb,var(--ink,#19232b) 68%,transparent);font-size:.95rem;letter-spacing:.08em;text-transform:uppercase;font-weight:700}
