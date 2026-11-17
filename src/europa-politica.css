@@ -1,1 +1,11 @@
 .euPolitics{border:1px solid var(--line,#ccc);border-radius:14px;padding:1.2rem;margin:1rem 0 1.5rem}.euTitle{font-weight:800;font-size:1.1rem}.euPolitics svg{display:block;width:min(100%,480px);margin:1rem auto 0;overflow:visible}.euTotals{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.65rem 1rem;margin-top:1rem}.euTotal{display:flex;align-items:center;gap:.45rem;font-weight:600}.euTotal i{width:12px;height:12px;border-radius:2px;display:inline-block;flex:0 0 12px}.euLegend{display:flex;justify-content:space-between;gap:.7rem;flex-wrap:wrap;margin:1rem 0}.euLegend button{display:flex;align-items:center;gap:.4rem}.euLegend span{width:12px;height:12px;border-radius:50%;display:inline-block}.euTimestamp{font-size:.85rem;opacity:.75}.euDetails{margin-top:1.5rem}.euDetails article{padding:.8rem 0;border-top:1px solid #9995}.euDetails article p{margin:.35rem 0}@media(max-width:600px){.euTotals{grid-template-columns:1fr}.euLegend{display:grid;grid-template-columns:1fr 1fr}.euLegend button{font-size:.9rem}}
+/* Presentación uniforme del módulo político */
+.euLegend{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));align-items:stretch;gap:.65rem;margin:1rem 0}
+.euLegend button{box-sizing:border-box;display:flex;align-items:center;justify-content:flex-start;gap:.55rem;width:100%;min-height:2.45rem;padding:.45rem .65rem;border:1px solid var(--line,#c9c3b8);border-radius:6px;background:transparent;text-align:left;font:inherit;line-height:1.2}
+.euLegend span{width:16px;height:16px;min-width:16px;border-radius:3px;display:inline-block;flex:0 0 16px}
+.euDetails{margin-top:1.5rem;text-align:left}
+.euDetails h3{text-align:left}
+.euCountry{box-sizing:border-box;display:block;width:100%;margin:0;border:0;border-top:1px solid var(--line,#c9c3b8);padding:.7rem .2rem;background:transparent;text-align:left;font:inherit;line-height:1.35;cursor:pointer}
+.euCountry:hover,.euCountry:focus-visible{background:color-mix(in srgb,var(--line,#c9c3b8) 18%,transparent)}
+@media(max-width:900px){.euLegend{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:600px){.euLegend{grid-template-columns:1fr 1fr;gap:.5rem}.euLegend button{min-height:2.3rem;padding:.4rem .5rem;font-size:.86rem}.euCountry{padding:.65rem .1rem}}
