@@ -51,6 +51,7 @@ catch{
     comparativeMode='cached-category';
   }
 }
+chesRows.sort((a,b)=>Number(b.year||0)-Number(a.year||0));
 const comparative=[];
 for(const g of d.governments){
   const party=normalize(g.party);
