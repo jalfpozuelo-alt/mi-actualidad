@@ -48,7 +48,6 @@ test('los seis ejecutivos antes pendientes tienen categoría explícita',()=>{
   assert.ok(categories[g.category]);
  }
 });
-});
 
 test('la suma de categorías es 27',()=>{
  const total=data.governments.reduce((n,g)=>n+(g.status==='validated'&&g.category?1:1),0);
