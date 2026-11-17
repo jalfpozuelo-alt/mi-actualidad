@@ -1,102 +1,23 @@
 import fs from 'node:fs/promises';
 
 const path='public/data/eu-governments.json';
-const d=JSON.parse(await fs.readFile(path,'utf8'));
-if(!Array.isArray(d.governments)||d.governments.length!==27) throw new Error('El catálogo no contiene los 27 Estados miembros');
-
-const timeoutFetch=async(url,accept='text/html,application/xhtml+xml')=>{
-  const controller=new AbortController();
-  const timer=setTimeout(()=>controller.abort(),20000);
-  try{
-    const response=await fetch(url,{redirect:'follow',signal:controller.signal,headers:{'user-agent':'mi-actualidad-government-check/1.0',accept}});
-    const body=await response.text();
-    if(!response.ok||body.length<200) throw new Error('fuente no accesible');
-    return {status:response.status,body};
-  }finally{clearTimeout(timer)}
+const data=JSON.parse(await fs.readFile(path,'utf8'));
+const expectedCountries=['Alemania','Austria','Bélgica','Bulgaria','Chequia','Chipre','Croacia','Dinamarca','Eslovaquia','Eslovenia','España','Estonia','Finlandia','Francia','Grecia','Hungría','Irlanda','Italia','Letonia','Lituania','Luxemburgo','Malta','Países Bajos','Polonia','Portugal','Rumanía','Suecia'];
+const categories={
+ socialist:'#DC3545',radicalLeft:'#8E44AD',liberal:'#E5B700',conservative:'#2563B8',
+ radicalRight:'#23864B',green:'#16A6B6',nationalist:'#C77732',pending:'#9299A3'
 };
-const normalize=value=>String(value||'').toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/[^a-z0-9]+/g,'');
-const parseCsvLine=line=>{const out=[];let value='',quoted=false;for(let i=0;i<line.length;i++){const ch=line[i];if(ch==='"'&&line[i+1]==='"'){value+='"';i++;continue}if(ch==='"'){quoted=!quoted;continue}if(ch===','&&!quoted){out.push(value);value='';continue}value+=ch}out.push(value);return out};
-const parseCsv=csv=>{const lines=csv.split(/\r?\n/).filter(Boolean);const headers=parseCsvLine(lines.shift()).map(x=>x.trim().toLowerCase());return lines.map(line=>{const values=parseCsvLine(line);return Object.fromEntries(headers.map((h,i)=>[h,values[i]||'']))})};
-const pick=(row,names)=>{for(const name of names){if(row[name]!=null&&row[name]!=='')return row[name]}return ''};
-
-const checkedAt=new Date().toISOString();
-const consiliumProxy='https://mi-actualidad.vercel.app/api/consilium-members';
-const consiliumUrl='https://www.consilium.europa.eu/en/european-council/members/';
-let membersPage=null,membersUrl=consiliumUrl,verificationMode='live-proxy';
-try{
-  const proxy=JSON.parse((await timeoutFetch(consiliumProxy,'application/json')).body);
-  if(!proxy.ok||!proxy.body) throw new Error('proxy no disponible');
-  membersPage={status:200,body:proxy.body};
-}catch{
-  // GitHub/Vercel pueden bloquear Consilium aunque el navegador lo vea. Usamos el catálogo
-  // de líderes previamente contrastado con Consilium para que la actualización sea determinista.
-  membersPage={status:200,body:d.governments.map(g=>g.leader).join('\n')};
-  verificationMode='cached-consilium-catalog';
+if(!Array.isArray(data.governments)||data.governments.length!==27) throw new Error('Se requieren exactamente 27 países');
+const names=data.governments.map(g=>g.country);
+if(new Set(names).size!==27||expectedCountries.some(c=>!names.includes(c))) throw new Error('Países duplicados o ausentes');
+for(const g of data.governments){
+  if(!g.leader||!g.party||!g.sourceUrl) throw new Error('Registro incompleto: '+g.country);
+  if(!['validated','pending'].includes(g.status)) throw new Error('Estado inválido: '+g.country);
+  if(g.status==='pending'&&g.category!==null) throw new Error('Un pendiente no puede conservar categoría: '+g.country);
+  if(g.status==='validated'&&!categories[g.category]) throw new Error('Categoría inválida: '+g.country);
+  if(g.status==='validated'&&(!g.justification||!g.academicSources?.length)) throw new Error('Falta trazabilidad: '+g.country);
 }
-const membersText=normalize(membersPage.body);
-const checked=[];
-for(const g of d.governments){
-  if(!g.country||!g.leader||!g.party) throw new Error('Registro incompleto: '+(g.country||'país desconocido'));
-  if(!membersText.includes(normalize(g.leader))) throw new Error('El Consejo Europeo no confirma a '+g.leader+' como dirigente de '+g.country+'; se conserva la edición anterior');
-  checked.push({country:g.country,leader:g.leader,url:membersUrl,status:membersPage.status,bytes:membersPage.body.length,verificationMode,checkedAt});
-}
-const chesUrl='https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv';
-let chesRows=[],comparativeMode='ches-live';
-try{chesRows=parseCsv((await timeoutFetch(chesUrl,'text/csv')).body)}
-catch{
-  try{
-    chesRows=parseCsv(await fs.readFile('config/ches-trend-1999-2024.csv','utf8'));
-    comparativeMode='ches-local-snapshot';
-  }catch{
-    comparativeMode='cached-category';
-  }
-}
-chesRows.sort((a,b)=>Number(b.year||0)-Number(a.year||0));
-const comparative=[];
-const partyAliases={
-  'cducsu':['cdu','csu'],
-  'fratelliditalia':['fdi'],
-  'nva':['nva'],
-  'progressivebulgaria':['bsp'],
-  'socialdemokratiet':['socialdemokratiet'],
-  'reformierakond':['reform'],
-  'kokoomus':['kok'],
-  'coalicioncentrista':['renaissance','horizons','modem'],
-  'nuevademocracia':['nd'],
-  'fiannafail':['fianna fail'],
-  'apvienotaisaraksts':['apvienotais saraksts'],
-  'partitlaburista':['labour'],
-  'coalicioncivica':['po'],
-  'moderaterna':['m']
-};
-const candidateNames=(g)=>{
-  const key=normalize(g.party);
-  return new Set([key,...(partyAliases[key]||[]).map(normalize)]);
-};
-for(const g of d.governments){
-  const candidates=candidateNames(g);
-  const match=chesRows.find(row=>{
-    const name=normalize(pick(row,['party_name_short','partyname_short','party_name','party']));
-    return name&&candidates.has(name);
-  });
-  if(!match){
-    if(!g.category) throw new Error('No hay clasificación de respaldo para '+g.country);
-    comparative.push({country:g.country,party:g.party,matchedParty:null,score:null,galtan:null,category:g.category,source:'Clasificación previa; correspondencia académica pendiente',mode:'cached-category',checkedAt});
-    continue;
-  }
-  const score=Number(pick(match,['lrgen','lrgen_mean','lrgen_2024','left_right']));
-  const galtan=Number(pick(match,['galtan','galtan_mean','galtan_2024']));
-  const family=Number(pick(match,['family']));
-  if(!Number.isFinite(score)&&!Number.isFinite(family)) throw new Error('CHES no aporta orientación para '+g.country+'; se conserva la edición anterior');
-  // La familia partidista documentada tiene prioridad sobre un corte numérico arbitrario.
-  const familyCategory={1:'green',3:'purple',4:'blue',5:'red',6:'red',7:'red',8:'purple',9:'blue',10:'purple'};
-  g.category=familyCategory[family]||(score<=3?'red':score<=5?'purple':score>=7&&Number.isFinite(galtan)&&galtan>=6?'green':'blue');
-  comparative.push({country:g.country,party:g.party,matchedParty:pick(match,['party_name_short','partyname_short','party_name','partyname','party']),score,galtan:Number.isFinite(galtan)?galtan:null,family:Number.isFinite(family)?family:null,category:g.category,source:chesUrl,checkedAt});
-}
-
-d.verifiedAt=checkedAt;
-d.sourceChecks=checked;
-d.comparativeChecks=comparative;
-d.updateStatus={stage:'completed',label:'Gobiernos y orientación contrastados',progress:100,methodology:'Fuente oficial para confirmar el Ejecutivo y CHES-Europe para contrastar la posición del partido. Si CHES no está accesible desde GitHub, se conserva la última clasificación contrastada y se marca como respaldo.',comparativeMode};
-await fs.writeFile(path,JSON.stringify(d,null,2)+'\n');
-console.log('Gobiernos y orientación contrastados:',comparative.length);
+const pending=data.governments.filter(g=>g.status==='pending').length;
+data.updateStatus={stage:'completed',label:'Datos estructurados y pendientes explícitos',progress:100,comparativeMode:'manifesto-primary',pending};
+await fs.writeFile(path,JSON.stringify(data,null,2)+'\n');
+console.log(JSON.stringify({countries:data.governments.length,pending,validated:data.governments.length-pending},null,2));
