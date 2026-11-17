@@ -1,5 +1,5 @@
 type EditorialBias='progressive'|'liberal'|'conservative'|'unclassified';
-const editorialSource=(name:string):{label:string;bias:EditorialBias}=>{const n=name.toLowerCase();if(/el país|the guardian/.test(n))return {label:'Progresista',bias:'progressive'};if(/20minutos|new york times|xataka/.test(n))return {label:'Liberal / centro',bias:'liberal'};if(/clarín/.test(n))return {label:'Conservadora',bias:'conservative'};return {label:'Sin clasificación editorial fiable',bias:'unclassified'}};
+const editorialSource=(name:string):{label:string;bias:EditorialBias}=>{const n=name.toLowerCase();if(/el país|the guardian|le monde/.test(n))return {label:'Progresista',bias:'progressive'};if(/20minutos|new york times|npr|techcrunch/.test(n))return {label:'Liberal / centro',bias:'liberal'};if(/el mundo|clarín|abc|la nación/.test(n))return {label:'Conservadora',bias:'conservative'};return {label:'Sin clasificación editorial fiable',bias:'unclassified'}};
 import React, {useEffect, useMemo, useState} from 'react';
 import {createRoot} from 'react-dom/client';
 import './styles.css';
