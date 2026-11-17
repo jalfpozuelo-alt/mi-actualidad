@@ -43,7 +43,10 @@ for(const g of d.governments){
   });
   if(!match) throw new Error('CHES no identifica el partido de '+g.country+' ('+g.party+'); se conserva la edición anterior');
   const score=Number(pick(match,['lrgen','lrgen_mean','lrgen_2024','left_right']));
-  comparative.push({country:g.country,party:g.party,matchedParty:pick(match,['party_name_short','partyname_short','party_name','partyname','party']),score:Number.isFinite(score)?score:null,source:chesUrl,checkedAt});
+  const galtan=Number(pick(match,['galtan','galtan_mean','galtan_2024']));
+  if(!Number.isFinite(score)) throw new Error('CHES no aporta orientación para '+g.country+'; se conserva la edición anterior');
+  g.category=score<=3?'red':score<=5?'purple':score>=7&&Number.isFinite(galtan)&&galtan>=6?'green':'blue';
+  comparative.push({country:g.country,party:g.party,matchedParty:pick(match,['party_name_short','partyname_short','party_name','partyname','party']),score,galtan:Number.isFinite(galtan)?galtan:null,category:g.category,source:chesUrl,checkedAt});
 }
 
 d.verifiedAt=checkedAt;
