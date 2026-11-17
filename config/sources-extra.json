@@ -387,6 +387,32 @@
       "format": "RSS",
       "url": "https://www.xinhuanet.com/english/rss/",
       "usage": "Titular traducido y enlace original; agencia china de carácter estatal."
+    },
+    {
+      "id": "mit-ai",
+      "name": "MIT Technology Review AI",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "language": "en",
+      "sections": [
+        "Tecnología"
+      ],
+      "format": "RSS",
+      "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
+      "usage": "Titular traducido y enlace original; análisis especializado de IA."
+    },
+    {
+      "id": "verge-ai",
+      "name": "The Verge AI",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "language": "en",
+      "sections": [
+        "Tecnología"
+      ],
+      "format": "RSS",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "usage": "Titular traducido y enlace original; tecnología e inteligencia artificial."
     }
   ]
 }

@@ -30,7 +30,9 @@
     "ria-ru",
     "tass-ru",
     "chinanews-cn",
-    "xinhua-cn"
+    "xinhua-cn",
+    "mit-ai",
+    "verge-ai"
   ],
   "publishOnlyWithSource": true,
   "allowAutomaticSummary": false,
