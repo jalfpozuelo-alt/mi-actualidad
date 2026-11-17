@@ -20,9 +20,16 @@ const parseCsv=csv=>{const lines=csv.split(/\r?\n/).filter(Boolean);const header
 const pick=(row,names)=>{for(const name of names){if(row[name]!=null&&row[name]!=='')return row[name]}return ''};
 
 const checkedAt=new Date().toISOString();
-const membersUrl='https://www.consilium.europa.eu/en/european-council/members/';
-let membersPage;
-try{membersPage=await timeoutFetch(membersUrl)}catch{throw new Error('La página común del Consejo Europeo no responde; se conserva la edición anterior')}
+const memberUrls=[
+  'https://www.consilium.europa.eu/en/european-council/members/',
+  'https://www.consilium.europa.eu/es/european-council/members/',
+  'https://www.consilium.europa.eu/fr/european-council/members/'
+];
+let membersPage=null,membersUrl='';
+for(const candidate of memberUrls){
+  try{membersPage=await timeoutFetch(candidate);membersUrl=candidate;break}catch{}
+}
+if(!membersPage)throw new Error('La página común del Consejo Europeo no responde desde GitHub; se conserva la edición anterior');
 const membersText=normalize(membersPage.body);
 const checked=[];
 for(const g of d.governments){
