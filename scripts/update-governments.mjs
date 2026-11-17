@@ -40,10 +40,13 @@ for(const g of d.governments){
   if(!membersText.includes(normalize(g.leader))) throw new Error('El Consejo Europeo no confirma a '+g.leader+' como dirigente de '+g.country+'; se conserva la edición anterior');
   checked.push({country:g.country,leader:g.leader,url:membersUrl,status:membersPage.status,bytes:membersPage.body.length,verificationMode,checkedAt});
 }
-const chesUrl='https://raw.githubusercontent.com/chesdata/chesdata.github.io/main/ches-trend/1999-2024_CHES_dataset_meansV2.csv';
+const chesUrl='https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv';
 let chesRows=[],comparativeMode='ches-live';
 try{chesRows=parseCsv((await timeoutFetch(chesUrl,'text/csv')).body)}
-catch{comparativeMode='cached-category'}
+catch{
+  comparativeMode='cached-category';
+  // La última clasificación contrastada queda en el JSON publicado como respaldo.
+}
 const comparative=[];
 for(const g of d.governments){
   const party=normalize(g.party);
