@@ -19,5 +19,5 @@ jobs:
           git config user.name "mi-actualidad-bot"
           git config user.email "actions@users.noreply.github.com"
           git add public/data/eu-governments.json
-          git diff --cached --quiet || git commit -m "content: update EU government dataset [skip ci]"
+          git diff --cached --quiet || git commit -m "content: update EU government dataset"
           git push
