@@ -44,8 +44,12 @@ const chesUrl='https://github.com/chesdata/chesdata.github.io/releases/download/
 let chesRows=[],comparativeMode='ches-live';
 try{chesRows=parseCsv((await timeoutFetch(chesUrl,'text/csv')).body)}
 catch{
-  comparativeMode='cached-category';
-  // La última clasificación contrastada queda en el JSON publicado como respaldo.
+  try{
+    chesRows=parseCsv(await fs.readFile('config/ches-trend-1999-2024.csv','utf8'));
+    comparativeMode='ches-local-snapshot';
+  }catch{
+    comparativeMode='cached-category';
+  }
 }
 const comparative=[];
 for(const g of d.governments){
