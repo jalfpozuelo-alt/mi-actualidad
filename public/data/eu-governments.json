@@ -1,5 +1,5 @@
 {
-  "verifiedAt": "2026-11-17T08:42:16.921Z",
+  "verifiedAt": "2026-11-17T08:45:47.232Z",
   "methodology": "Clasificación editorial por la familia política del partido o coalición que dirige el Ejecutivo: progresistas, liberales/centristas, conservadores y derecha radical. Cada Estado cuenta una vez. La clasificación es orientativa y se revisa cuando cambia el Gobierno. Alemania ya enlaza a la ficha oficial del canciller.",
   "sources": [
     "https://www.consilium.europa.eu/en/european-council/members/",
@@ -10,7 +10,7 @@
       "country": "Alemania",
       "leader": "Friedrich Merz",
       "party": "CDU/CSU",
-      "category": "green",
+      "category": "blue",
       "coalition": "CDU/CSU y SPD",
       "majority": "Por verificar",
       "since": "2025",
@@ -22,7 +22,7 @@
       "country": "Austria",
       "leader": "Christian Stocker",
       "party": "ÖVP",
-      "category": "green",
+      "category": "blue",
       "coalition": "ÖVP, SPÖ y NEOS",
       "majority": "Por verificar",
       "since": "2025",
@@ -34,7 +34,7 @@
       "country": "Bélgica",
       "leader": "Bart De Wever",
       "party": "N-VA",
-      "category": "green",
+      "category": "purple",
       "coalition": "Coalición federal",
       "majority": "Por verificar",
       "since": "2025",
@@ -44,7 +44,7 @@
       "country": "Bulgaria",
       "leader": "Rumen Radev",
       "party": "Progressive Bulgaria",
-      "category": "purple",
+      "category": "red",
       "coalition": "Coalición documentada en la fuente consultada",
       "majority": "Por verificar",
       "since": "2026",
@@ -54,7 +54,7 @@
       "country": "Chequia",
       "leader": "Andrej Babiš",
       "party": "ANO",
-      "category": "blue",
+      "category": "purple",
       "coalition": "ANO, SPD y Motorists",
       "majority": "Mayoría",
       "since": "2026",
@@ -94,7 +94,7 @@
       "country": "Eslovaquia",
       "leader": "Robert Fico",
       "party": "Smer-SD",
-      "category": "purple",
+      "category": "red",
       "coalition": "Smer-SD y socios",
       "majority": "Por verificar",
       "since": "2023",
@@ -114,7 +114,7 @@
       "country": "España",
       "leader": "Pedro Sánchez",
       "party": "PSOE",
-      "category": "purple",
+      "category": "red",
       "coalition": "PSOE y Sumar",
       "majority": "Minoría",
       "since": "2023",
@@ -144,7 +144,7 @@
       "country": "Francia",
       "leader": "Sébastien Lecornu",
       "party": "Coalición centrista",
-      "category": "blue",
+      "category": "purple",
       "coalition": "Coalición documentada en la fuente consultada",
       "majority": "Minoría",
       "since": "2025",
@@ -204,7 +204,7 @@
       "country": "Lituania",
       "leader": "Inga Ruginienė",
       "party": "LSDP",
-      "category": "purple",
+      "category": "red",
       "coalition": "Coalición documentada en la fuente consultada",
       "majority": "Por verificar",
       "since": "2025",
@@ -244,7 +244,7 @@
       "country": "Polonia",
       "leader": "Donald Tusk",
       "party": "Coalición Cívica",
-      "category": "purple",
+      "category": "blue",
       "coalition": "Coalición Cívica y socios",
       "majority": "Por verificar",
       "since": "2023",
@@ -254,7 +254,7 @@
       "country": "Portugal",
       "leader": "Luís Montenegro",
       "party": "PSD",
-      "category": "purple",
+      "category": "red",
       "coalition": "PSD y CDS-PP",
       "majority": "Minoría",
       "since": "2025",
@@ -264,7 +264,7 @@
       "country": "Rumanía",
       "leader": "Ilie Bolojan",
       "party": "PNL",
-      "category": "blue",
+      "category": "purple",
       "coalition": "Coalición documentada en la fuente consultada",
       "majority": "Por verificar",
       "since": "2025",
@@ -274,7 +274,7 @@
       "country": "Suecia",
       "leader": "Ulf Kristersson",
       "party": "Moderaterna",
-      "category": "blue",
+      "category": "purple",
       "coalition": "Moderaterna, KD y L",
       "majority": "Apoyo externo",
       "since": "2022",
@@ -289,7 +289,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Austria",
@@ -298,7 +298,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Bélgica",
@@ -307,7 +307,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Bulgaria",
@@ -316,7 +316,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Chequia",
@@ -325,7 +325,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Chipre",
@@ -334,7 +334,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Croacia",
@@ -343,7 +343,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Dinamarca",
@@ -352,7 +352,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Eslovaquia",
@@ -361,7 +361,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Eslovenia",
@@ -370,7 +370,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "España",
@@ -379,7 +379,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Estonia",
@@ -388,7 +388,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Finlandia",
@@ -397,7 +397,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Francia",
@@ -406,7 +406,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Grecia",
@@ -415,7 +415,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Hungría",
@@ -424,7 +424,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Irlanda",
@@ -433,7 +433,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Italia",
@@ -442,7 +442,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Letonia",
@@ -451,7 +451,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Lituania",
@@ -460,7 +460,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Luxemburgo",
@@ -469,7 +469,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Malta",
@@ -478,7 +478,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Países Bajos",
@@ -487,7 +487,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Polonia",
@@ -496,7 +496,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Portugal",
@@ -505,7 +505,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Rumanía",
@@ -514,7 +514,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Suecia",
@@ -523,7 +523,7 @@
       "status": 200,
       "bytes": 399,
       "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     }
   ],
   "comparativeChecks": [
@@ -533,9 +533,10 @@
       "matchedParty": "CSU",
       "score": 7.571428775787354,
       "galtan": 7.538461685180664,
-      "category": "green",
+      "family": 4,
+      "category": "blue",
       "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Austria",
@@ -543,9 +544,10 @@
       "matchedParty": "OVP",
       "score": 7.166666507720947,
       "galtan": 7.25,
-      "category": "green",
+      "family": 4,
+      "category": "blue",
       "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Bélgica",
@@ -553,9 +555,10 @@
       "matchedParty": "NVA",
       "score": 7.5,
       "galtan": 7.099999904632568,
-      "category": "green",
+      "family": 8,
+      "category": "purple",
       "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Bulgaria",
@@ -563,9 +566,10 @@
       "matchedParty": "BSP",
       "score": 3.680000066757202,
       "galtan": 8.15384578704834,
-      "category": "purple",
+      "family": 5,
+      "category": "red",
       "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Chequia",
@@ -573,9 +577,10 @@
       "matchedParty": "ANO",
       "score": 6.71,
       "galtan": 3.54,
-      "category": "blue",
+      "family": 3,
+      "category": "purple",
       "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Chipre",
@@ -586,7 +591,7 @@
       "category": "red",
       "source": "Clasificación previa; correspondencia académica pendiente",
       "mode": "cached-category",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Croacia",
@@ -594,9 +599,10 @@
       "matchedParty": "HDZ",
       "score": 6.44444465637207,
       "galtan": 6.411764621734619,
+      "family": 4,
       "category": "blue",
       "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Dinamarca",
@@ -607,7 +613,7 @@
       "category": "blue",
       "source": "Clasificación previa; correspondencia académica pendiente",
       "mode": "cached-category",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Eslovaquia",
@@ -615,9 +621,10 @@
       "matchedParty": "Smer-SD",
       "score": 4.777777671813965,
       "galtan": 8.947368621826172,
-      "category": "purple",
+      "family": 5,
+      "category": "red",
       "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Eslovenia",
@@ -625,9 +632,10 @@
       "matchedParty": "SDS",
       "score": 7,
       "galtan": 6.079999923706055,
+      "family": 1,
       "category": "green",
       "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "España",
@@ -635,9 +643,10 @@
       "matchedParty": "PSOE",
       "score": 3.8125,
       "galtan": 2.9375,
-      "category": "purple",
+      "family": 5,
+      "category": "red",
       "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Estonia",
@@ -648,7 +657,7 @@
       "category": "blue",
       "source": "Clasificación previa; correspondencia académica pendiente",
       "mode": "cached-category",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Finlandia",
@@ -656,9 +665,10 @@
       "matchedParty": "KOK",
       "score": 7.818181991577148,
       "galtan": 5.272727489471436,
+      "family": 2,
       "category": "blue",
       "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Francia",
@@ -666,9 +676,10 @@
       "matchedParty": "MoDem",
       "score": 5.363636493682861,
       "galtan": 4.5,
-      "category": "blue",
+      "family": 3,
+      "category": "purple",
       "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Grecia",
@@ -676,9 +687,10 @@
       "matchedParty": "ND",
       "score": 6.900000095367432,
       "galtan": 5.400000095367432,
+      "family": 2,
       "category": "blue",
       "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Hungría",
@@ -686,9 +698,10 @@
       "matchedParty": "Tisza",
       "score": 6.166666507720947,
       "galtan": 5.25,
+      "family": 4,
       "category": "blue",
       "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Irlanda",
@@ -699,7 +712,7 @@
       "category": "red",
       "source": "Clasificación previa; correspondencia académica pendiente",
       "mode": "cached-category",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Italia",
@@ -707,9 +720,10 @@
       "matchedParty": "FDI",
       "score": 8.466666221618652,
       "galtan": 9.133333206176758,
+      "family": 1,
       "category": "green",
       "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Letonia",
@@ -720,7 +734,7 @@
       "category": "purple",
       "source": "Clasificación previa; correspondencia académica pendiente",
       "mode": "cached-category",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Lituania",
@@ -728,9 +742,10 @@
       "matchedParty": "LSDP",
       "score": 3.70588231086731,
       "galtan": 5.176470756530762,
-      "category": "purple",
+      "family": 5,
+      "category": "red",
       "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Luxemburgo",
@@ -738,9 +753,10 @@
       "matchedParty": "CSV",
       "score": 6,
       "galtan": 6,
+      "family": 4,
       "category": "blue",
       "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Malta",
@@ -751,7 +767,7 @@
       "category": "purple",
       "source": "Clasificación previa; correspondencia académica pendiente",
       "mode": "cached-category",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Países Bajos",
@@ -759,9 +775,10 @@
       "matchedParty": "D66",
       "score": 4.666666507720947,
       "galtan": 1.333333373069763,
+      "family": 3,
       "category": "purple",
       "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Polonia",
@@ -769,9 +786,10 @@
       "matchedParty": "PO",
       "score": 4.928571224212646,
       "galtan": 3.655172348022461,
-      "category": "purple",
+      "family": 4,
+      "category": "blue",
       "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Portugal",
@@ -779,9 +797,10 @@
       "matchedParty": "PSD",
       "score": 4.181818008422852,
       "galtan": 6.636363506317139,
-      "category": "purple",
+      "family": 5,
+      "category": "red",
       "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Rumanía",
@@ -789,9 +808,10 @@
       "matchedParty": "PNL",
       "score": 6.272727489471436,
       "galtan": 5.5,
-      "category": "blue",
+      "family": 3,
+      "category": "purple",
       "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     },
     {
       "country": "Suecia",
@@ -799,9 +819,10 @@
       "matchedParty": "M",
       "score": 5.545454502105713,
       "galtan": 3.818181753158569,
-      "category": "blue",
+      "family": 3,
+      "category": "purple",
       "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:42:16.921Z"
+      "checkedAt": "2026-11-17T08:45:47.232Z"
     }
   ],
   "updateStatus": {
