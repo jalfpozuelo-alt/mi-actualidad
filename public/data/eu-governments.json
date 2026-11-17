@@ -1,835 +1,694 @@
 {
-  "verifiedAt": "2026-11-17T08:45:47.232Z",
-  "methodology": "Clasificación editorial por la familia política del partido o coalición que dirige el Ejecutivo: progresistas, liberales/centristas, conservadores y derecha radical. Cada Estado cuenta una vez. La clasificación es orientativa y se revisa cuando cambia el Gobierno. Alemania ya enlaza a la ficha oficial del canciller.",
+  "verifiedAt": "2026-11-17T00:00:00.000Z",
+  "academicVersion": "Manifesto Project 2026a; The PopuList 4.0; CHES trend 1999-2024",
+  "methodology": "Consilium identifica al representante nacional; Manifesto Project aporta parfam; The PopuList contrasta far-right/far-left; CHES aporta contraste. La categoría naranja es propia de la aplicación. Los casos sin coincidencia fiable quedan en gris.",
   "sources": [
     "https://www.consilium.europa.eu/en/european-council/members/",
-    "https://www.cidob.org/sites/default/files/2026-04/Gobiernos_13_04_26.pdf"
+    "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+    "https://popu-list.org/",
+    "https://www.chesdata.eu/ches-europe/"
   ],
   "governments": [
     {
       "country": "Alemania",
       "leader": "Friedrich Merz",
-      "party": "CDU/CSU",
-      "category": "blue",
-      "coalition": "CDU/CSU y SPD",
-      "majority": "Por verificar",
-      "since": "2025",
+      "role": "Representante nacional en el Consejo Europeo",
+      "party": "CDU",
+      "category": "conservative",
+      "status": "validated",
+      "justification": "Manifesto Project parfam documenta la familia Democristianos; la aplicación la traduce a la categoría visual acordada.",
       "sourceUrl": "https://www.bundesregierung.de/breg-de/bundesregierung/bundeskabinett/friedrich-merz-2342660",
-      "sourceType": "Fuente oficial del Gobierno alemán",
-      "sourceCheckedAt": "2026-11-16"
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": false,
+        "source": "The PopuList 4.0; no far-right override used"
+      },
+      "manifesto": {
+        "family": "Democristianos",
+        "parfam": null
+      }
     },
     {
       "country": "Austria",
       "leader": "Christian Stocker",
+      "role": "Representante nacional en el Consejo Europeo",
       "party": "ÖVP",
-      "category": "blue",
-      "coalition": "ÖVP, SPÖ y NEOS",
-      "majority": "Por verificar",
-      "since": "2025",
+      "category": "conservative",
+      "status": "validated",
+      "justification": "Manifesto Project parfam documenta la familia Democristianos; la aplicación la traduce a la categoría visual acordada.",
       "sourceUrl": "https://www.bundeskanzleramt.gv.at/en/federal-chancellery/federal-chancellor-christian-stocker.html",
-      "sourceType": "Fuente oficial de la Cancillería Federal de Austria",
-      "sourceCheckedAt": null
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": false,
+        "source": "The PopuList 4.0; no far-right override used"
+      },
+      "manifesto": {
+        "family": "Democristianos",
+        "parfam": null
+      }
     },
     {
       "country": "Bélgica",
       "leader": "Bart De Wever",
+      "role": "Representante nacional en el Consejo Europeo",
       "party": "N-VA",
-      "category": "purple",
-      "coalition": "Coalición federal",
-      "majority": "Por verificar",
-      "since": "2025",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
+      "category": "radicalRight",
+      "status": "validated",
+      "justification": "Manifesto parfam 70; The PopuList identifica el partido como far right.",
+      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": true,
+        "source": "The PopuList 4.0"
+      },
+      "manifesto": {
+        "family": "Nacionalistas y derecha radical",
+        "parfam": 70
+      }
     },
     {
       "country": "Bulgaria",
       "leader": "Rumen Radev",
-      "party": "Progressive Bulgaria",
-      "category": "red",
-      "coalition": "Coalición documentada en la fuente consultada",
-      "majority": "Por verificar",
-      "since": "2026",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
+      "role": "Representante nacional en el Consejo Europeo",
+      "party": "Independiente",
+      "category": null,
+      "status": "pending",
+      "justification": "No hay correspondencia partidista fiable o el representante es independiente.",
+      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": false,
+        "source": "The PopuList 4.0; no far-right override used"
+      },
+      "manifesto": {
+        "family": "Información ausente",
+        "parfam": null
+      }
     },
     {
       "country": "Chequia",
       "leader": "Andrej Babiš",
-      "party": "ANO",
-      "category": "purple",
-      "coalition": "ANO, SPD y Motorists",
-      "majority": "Mayoría",
-      "since": "2026",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
+      "role": "Representante nacional en el Consejo Europeo",
+      "party": "ANO 2011",
+      "category": "conservative",
+      "status": "validated",
+      "justification": "Manifesto Project parfam documenta la familia Conservadores; la aplicación la traduce a la categoría visual acordada.",
+      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": false,
+        "source": "The PopuList 4.0; no far-right override used"
+      },
+      "manifesto": {
+        "family": "Conservadores",
+        "parfam": null
+      }
     },
     {
       "country": "Chipre",
       "leader": "Nikos Christodoulides",
-      "party": "Independiente",
-      "category": "red",
-      "coalition": "Coalición documentada en la fuente consultada",
-      "majority": "Por verificar",
-      "since": "2023",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
+      "role": "Representante nacional en el Consejo Europeo",
+      "party": "DIPA",
+      "category": null,
+      "status": "pending",
+      "justification": "No hay correspondencia partidista fiable o el representante es independiente.",
+      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": false,
+        "source": "The PopuList 4.0; no far-right override used"
+      },
+      "manifesto": {
+        "family": "Información ausente",
+        "parfam": null
+      }
     },
     {
       "country": "Croacia",
       "leader": "Andrej Plenković",
+      "role": "Representante nacional en el Consejo Europeo",
       "party": "HDZ",
-      "category": "blue",
-      "coalition": "HDZ y socios",
-      "majority": "Por verificar",
-      "since": "2024",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
+      "category": "conservative",
+      "status": "validated",
+      "justification": "Manifesto Project parfam documenta la familia Democristianos; la aplicación la traduce a la categoría visual acordada.",
+      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": false,
+        "source": "The PopuList 4.0; no far-right override used"
+      },
+      "manifesto": {
+        "family": "Democristianos",
+        "parfam": null
+      }
     },
     {
       "country": "Dinamarca",
       "leader": "Mette Frederiksen",
+      "role": "Representante nacional en el Consejo Europeo",
       "party": "Socialdemokratiet",
-      "category": "blue",
-      "coalition": "Socialdemokratiet, Radikale Venstre, SF y Moderaterne",
-      "majority": "Minoría",
-      "since": "2026",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
+      "category": "socialist",
+      "status": "validated",
+      "justification": "Manifesto Project parfam documenta la familia Socialdemócratas; la aplicación la traduce a la categoría visual acordada.",
+      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": false,
+        "source": "The PopuList 4.0; no far-right override used"
+      },
+      "manifesto": {
+        "family": "Socialdemócratas",
+        "parfam": null
+      }
     },
     {
       "country": "Eslovaquia",
       "leader": "Robert Fico",
+      "role": "Representante nacional en el Consejo Europeo",
       "party": "Smer-SD",
-      "category": "red",
-      "coalition": "Smer-SD y socios",
-      "majority": "Por verificar",
-      "since": "2023",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
+      "category": "socialist",
+      "status": "validated",
+      "justification": "Manifesto Project parfam documenta la familia Socialdemócratas; la aplicación la traduce a la categoría visual acordada.",
+      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": false,
+        "source": "The PopuList 4.0; no far-right override used"
+      },
+      "manifesto": {
+        "family": "Socialdemócratas",
+        "parfam": null
+      }
     },
     {
       "country": "Eslovenia",
       "leader": "Janez Janša",
+      "role": "Representante nacional en el Consejo Europeo",
       "party": "SDS",
-      "category": "green",
-      "coalition": "Por verificar",
-      "majority": "Por verificar",
-      "since": "2026",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
+      "category": "conservative",
+      "status": "validated",
+      "justification": "Manifesto Project parfam documenta la familia Conservadores; la aplicación la traduce a la categoría visual acordada.",
+      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": false,
+        "source": "The PopuList 4.0; no far-right override used"
+      },
+      "manifesto": {
+        "family": "Conservadores",
+        "parfam": null
+      }
     },
     {
       "country": "España",
       "leader": "Pedro Sánchez",
+      "role": "Representante nacional en el Consejo Europeo",
       "party": "PSOE",
-      "category": "red",
-      "coalition": "PSOE y Sumar",
-      "majority": "Minoría",
-      "since": "2023",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
+      "category": "socialist",
+      "status": "validated",
+      "justification": "Manifesto Project parfam documenta la familia Socialdemócratas; la aplicación la traduce a la categoría visual acordada.",
+      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": false,
+        "source": "The PopuList 4.0; no far-right override used"
+      },
+      "manifesto": {
+        "family": "Socialdemócratas",
+        "parfam": null
+      }
     },
     {
       "country": "Estonia",
       "leader": "Kristen Michal",
+      "role": "Representante nacional en el Consejo Europeo",
       "party": "Reformierakond",
-      "category": "blue",
-      "coalition": "Reformierakond y socios",
-      "majority": "Mayoría",
-      "since": "2024",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
+      "category": "liberal",
+      "status": "validated",
+      "justification": "Manifesto Project parfam documenta la familia Liberales; la aplicación la traduce a la categoría visual acordada.",
+      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": false,
+        "source": "The PopuList 4.0; no far-right override used"
+      },
+      "manifesto": {
+        "family": "Liberales",
+        "parfam": null
+      }
     },
     {
       "country": "Finlandia",
       "leader": "Petteri Orpo",
+      "role": "Representante nacional en el Consejo Europeo",
       "party": "Kokoomus",
-      "category": "blue",
-      "coalition": "Kokoomus, Perussuomalaiset, RKP y KD",
-      "majority": "Mayoría",
-      "since": "2023",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
+      "category": "conservative",
+      "status": "validated",
+      "justification": "Manifesto Project parfam documenta la familia Conservadores; la aplicación la traduce a la categoría visual acordada.",
+      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": false,
+        "source": "The PopuList 4.0; no far-right override used"
+      },
+      "manifesto": {
+        "family": "Conservadores",
+        "parfam": null
+      }
     },
     {
       "country": "Francia",
-      "leader": "Sébastien Lecornu",
-      "party": "Coalición centrista",
-      "category": "purple",
-      "coalition": "Coalición documentada en la fuente consultada",
-      "majority": "Minoría",
-      "since": "2025",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
+      "leader": "Emmanuel Macron",
+      "role": "Representante nacional en el Consejo Europeo",
+      "party": "Renaissance",
+      "category": "liberal",
+      "status": "validated",
+      "justification": "Manifesto Project parfam documenta la familia Liberales; la aplicación la traduce a la categoría visual acordada.",
+      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": false,
+        "source": "The PopuList 4.0; no far-right override used"
+      },
+      "manifesto": {
+        "family": "Liberales",
+        "parfam": null
+      }
     },
     {
       "country": "Grecia",
       "leader": "Kyriakos Mitsotakis",
+      "role": "Representante nacional en el Consejo Europeo",
       "party": "Nueva Democracia",
-      "category": "blue",
-      "coalition": "Nueva Democracia",
-      "majority": "Mayoría",
-      "since": "2023",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
+      "category": "conservative",
+      "status": "validated",
+      "justification": "Manifesto Project parfam documenta la familia Conservadores; la aplicación la traduce a la categoría visual acordada.",
+      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": false,
+        "source": "The PopuList 4.0; no far-right override used"
+      },
+      "manifesto": {
+        "family": "Conservadores",
+        "parfam": null
+      }
     },
     {
       "country": "Hungría",
       "leader": "Péter Magyar",
+      "role": "Representante nacional en el Consejo Europeo",
       "party": "TISZA",
-      "category": "blue",
-      "coalition": "Coalición documentada en la fuente consultada",
-      "majority": "Por verificar",
-      "since": "2026",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
+      "category": null,
+      "status": "pending",
+      "justification": "No hay correspondencia partidista fiable o el representante es independiente.",
+      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": false,
+        "source": "The PopuList 4.0; no far-right override used"
+      },
+      "manifesto": {
+        "family": "Información ausente",
+        "parfam": null
+      }
     },
     {
       "country": "Irlanda",
       "leader": "Micheál Martin",
+      "role": "Representante nacional en el Consejo Europeo",
       "party": "Fianna Fáil",
-      "category": "red",
-      "coalition": "Fianna Fáil y Fine Gael",
-      "majority": "Por verificar",
-      "since": "2025",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
+      "category": "conservative",
+      "status": "validated",
+      "justification": "Manifesto Project parfam documenta la familia Democristianos; la aplicación la traduce a la categoría visual acordada.",
+      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": false,
+        "source": "The PopuList 4.0; no far-right override used"
+      },
+      "manifesto": {
+        "family": "Democristianos",
+        "parfam": null
+      }
     },
     {
       "country": "Italia",
       "leader": "Giorgia Meloni",
+      "role": "Representante nacional en el Consejo Europeo",
       "party": "Fratelli d'Italia",
-      "category": "green",
-      "coalition": "FdI, Lega y Forza Italia",
-      "majority": "Mayoría",
-      "since": "2022",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
+      "category": "radicalRight",
+      "status": "validated",
+      "justification": "Manifesto parfam 70; The PopuList identifica el partido como far right.",
+      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": true,
+        "source": "The PopuList 4.0"
+      },
+      "manifesto": {
+        "family": "Nacionalistas y derecha radical",
+        "parfam": 70
+      }
     },
     {
       "country": "Letonia",
       "leader": "Andris Kulbergs",
+      "role": "Representante nacional en el Consejo Europeo",
       "party": "Apvienotais saraksts",
-      "category": "purple",
-      "coalition": "Coalición de gobierno",
-      "majority": "Por verificar",
-      "since": "2026",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
+      "category": null,
+      "status": "pending",
+      "justification": "No hay correspondencia partidista fiable o el representante es independiente.",
+      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": false,
+        "source": "The PopuList 4.0; no far-right override used"
+      },
+      "manifesto": {
+        "family": "Información ausente",
+        "parfam": null
+      }
     },
     {
       "country": "Lituania",
-      "leader": "Inga Ruginienė",
-      "party": "LSDP",
-      "category": "red",
-      "coalition": "Coalición documentada en la fuente consultada",
-      "majority": "Por verificar",
-      "since": "2025",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
-    },
-    {
-      "country": "Luxemburgo",
-      "leader": "Luc Frieden",
-      "party": "CSV",
-      "category": "blue",
-      "coalition": "CSV y DP",
-      "majority": "Mayoría",
-      "since": "2023",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
-    },
-    {
-      "country": "Malta",
-      "leader": "Robert Abela",
-      "party": "Partit Laburista",
-      "category": "purple",
-      "coalition": "Partit Laburista",
-      "majority": "Mayoría",
-      "since": "2022",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
-    },
-    {
-      "country": "Países Bajos",
-      "leader": "Rob Jetten",
-      "party": "D66",
-      "category": "purple",
-      "coalition": "Coalición documentada en la fuente consultada",
-      "majority": "Minoría",
-      "since": "2026",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
-    },
-    {
-      "country": "Polonia",
-      "leader": "Donald Tusk",
-      "party": "Coalición Cívica",
-      "category": "blue",
-      "coalition": "Coalición Cívica y socios",
-      "majority": "Por verificar",
-      "since": "2023",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
-    },
-    {
-      "country": "Portugal",
-      "leader": "Luís Montenegro",
-      "party": "PSD",
-      "category": "red",
-      "coalition": "PSD y CDS-PP",
-      "majority": "Minoría",
-      "since": "2025",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
-    },
-    {
-      "country": "Rumanía",
-      "leader": "Ilie Bolojan",
-      "party": "PNL",
-      "category": "purple",
-      "coalition": "Coalición documentada en la fuente consultada",
-      "majority": "Por verificar",
-      "since": "2025",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
-    },
-    {
-      "country": "Suecia",
-      "leader": "Ulf Kristersson",
-      "party": "Moderaterna",
-      "category": "purple",
-      "coalition": "Moderaterna, KD y L",
-      "majority": "Apoyo externo",
-      "since": "2022",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
-    }
-  ],
-  "sourceChecks": [
-    {
-      "country": "Alemania",
-      "leader": "Friedrich Merz",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Austria",
-      "leader": "Christian Stocker",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Bélgica",
-      "leader": "Bart De Wever",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Bulgaria",
-      "leader": "Rumen Radev",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Chequia",
-      "leader": "Andrej Babiš",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Chipre",
-      "leader": "Nikos Christodoulides",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Croacia",
-      "leader": "Andrej Plenković",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Dinamarca",
-      "leader": "Mette Frederiksen",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Eslovaquia",
-      "leader": "Robert Fico",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Eslovenia",
-      "leader": "Janez Janša",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "España",
-      "leader": "Pedro Sánchez",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Estonia",
-      "leader": "Kristen Michal",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Finlandia",
-      "leader": "Petteri Orpo",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Francia",
-      "leader": "Sébastien Lecornu",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Grecia",
-      "leader": "Kyriakos Mitsotakis",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Hungría",
-      "leader": "Péter Magyar",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Irlanda",
-      "leader": "Micheál Martin",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Italia",
-      "leader": "Giorgia Meloni",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Letonia",
-      "leader": "Andris Kulbergs",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Lituania",
-      "leader": "Inga Ruginienė",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Luxemburgo",
-      "leader": "Luc Frieden",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Malta",
-      "leader": "Robert Abela",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Países Bajos",
-      "leader": "Rob Jetten",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Polonia",
-      "leader": "Donald Tusk",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Portugal",
-      "leader": "Luís Montenegro",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Rumanía",
-      "leader": "Ilie Bolojan",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Suecia",
-      "leader": "Ulf Kristersson",
-      "url": "https://www.consilium.europa.eu/en/european-council/members/",
-      "status": 200,
-      "bytes": 399,
-      "verificationMode": "cached-consilium-catalog",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    }
-  ],
-  "comparativeChecks": [
-    {
-      "country": "Alemania",
-      "party": "CDU/CSU",
-      "matchedParty": "CSU",
-      "score": 7.571428775787354,
-      "galtan": 7.538461685180664,
-      "family": 4,
-      "category": "blue",
-      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Austria",
-      "party": "ÖVP",
-      "matchedParty": "OVP",
-      "score": 7.166666507720947,
-      "galtan": 7.25,
-      "family": 4,
-      "category": "blue",
-      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Bélgica",
-      "party": "N-VA",
-      "matchedParty": "NVA",
-      "score": 7.5,
-      "galtan": 7.099999904632568,
-      "family": 8,
-      "category": "purple",
-      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Bulgaria",
-      "party": "Progressive Bulgaria",
-      "matchedParty": "BSP",
-      "score": 3.680000066757202,
-      "galtan": 8.15384578704834,
-      "family": 5,
-      "category": "red",
-      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Chequia",
-      "party": "ANO",
-      "matchedParty": "ANO",
-      "score": 6.71,
-      "galtan": 3.54,
-      "family": 3,
-      "category": "purple",
-      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Chipre",
+      "leader": "Gitanas Nausėda",
+      "role": "Representante nacional en el Consejo Europeo",
       "party": "Independiente",
-      "matchedParty": null,
-      "score": null,
-      "galtan": null,
-      "category": "red",
-      "source": "Clasificación previa; correspondencia académica pendiente",
-      "mode": "cached-category",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Croacia",
-      "party": "HDZ",
-      "matchedParty": "HDZ",
-      "score": 6.44444465637207,
-      "galtan": 6.411764621734619,
-      "family": 4,
-      "category": "blue",
-      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Dinamarca",
-      "party": "Socialdemokratiet",
-      "matchedParty": null,
-      "score": null,
-      "galtan": null,
-      "category": "blue",
-      "source": "Clasificación previa; correspondencia académica pendiente",
-      "mode": "cached-category",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Eslovaquia",
-      "party": "Smer-SD",
-      "matchedParty": "Smer-SD",
-      "score": 4.777777671813965,
-      "galtan": 8.947368621826172,
-      "family": 5,
-      "category": "red",
-      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Eslovenia",
-      "party": "SDS",
-      "matchedParty": "SDS",
-      "score": 7,
-      "galtan": 6.079999923706055,
-      "family": 1,
-      "category": "green",
-      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "España",
-      "party": "PSOE",
-      "matchedParty": "PSOE",
-      "score": 3.8125,
-      "galtan": 2.9375,
-      "family": 5,
-      "category": "red",
-      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Estonia",
-      "party": "Reformierakond",
-      "matchedParty": null,
-      "score": null,
-      "galtan": null,
-      "category": "blue",
-      "source": "Clasificación previa; correspondencia académica pendiente",
-      "mode": "cached-category",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Finlandia",
-      "party": "Kokoomus",
-      "matchedParty": "KOK",
-      "score": 7.818181991577148,
-      "galtan": 5.272727489471436,
-      "family": 2,
-      "category": "blue",
-      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Francia",
-      "party": "Coalición centrista",
-      "matchedParty": "MoDem",
-      "score": 5.363636493682861,
-      "galtan": 4.5,
-      "family": 3,
-      "category": "purple",
-      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Grecia",
-      "party": "Nueva Democracia",
-      "matchedParty": "ND",
-      "score": 6.900000095367432,
-      "galtan": 5.400000095367432,
-      "family": 2,
-      "category": "blue",
-      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Hungría",
-      "party": "TISZA",
-      "matchedParty": "Tisza",
-      "score": 6.166666507720947,
-      "galtan": 5.25,
-      "family": 4,
-      "category": "blue",
-      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Irlanda",
-      "party": "Fianna Fáil",
-      "matchedParty": null,
-      "score": null,
-      "galtan": null,
-      "category": "red",
-      "source": "Clasificación previa; correspondencia académica pendiente",
-      "mode": "cached-category",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Italia",
-      "party": "Fratelli d'Italia",
-      "matchedParty": "FDI",
-      "score": 8.466666221618652,
-      "galtan": 9.133333206176758,
-      "family": 1,
-      "category": "green",
-      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Letonia",
-      "party": "Apvienotais saraksts",
-      "matchedParty": null,
-      "score": null,
-      "galtan": null,
-      "category": "purple",
-      "source": "Clasificación previa; correspondencia académica pendiente",
-      "mode": "cached-category",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
-    },
-    {
-      "country": "Lituania",
-      "party": "LSDP",
-      "matchedParty": "LSDP",
-      "score": 3.70588231086731,
-      "galtan": 5.176470756530762,
-      "family": 5,
-      "category": "red",
-      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
+      "category": null,
+      "status": "pending",
+      "justification": "No hay correspondencia partidista fiable o el representante es independiente.",
+      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": false,
+        "source": "The PopuList 4.0; no far-right override used"
+      },
+      "manifesto": {
+        "family": "Información ausente",
+        "parfam": null
+      }
     },
     {
       "country": "Luxemburgo",
+      "leader": "Luc Frieden",
+      "role": "Representante nacional en el Consejo Europeo",
       "party": "CSV",
-      "matchedParty": "CSV",
-      "score": 6,
-      "galtan": 6,
-      "family": 4,
-      "category": "blue",
-      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
+      "category": "conservative",
+      "status": "validated",
+      "justification": "Manifesto Project parfam documenta la familia Democristianos; la aplicación la traduce a la categoría visual acordada.",
+      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": false,
+        "source": "The PopuList 4.0; no far-right override used"
+      },
+      "manifesto": {
+        "family": "Democristianos",
+        "parfam": null
+      }
     },
     {
       "country": "Malta",
-      "party": "Partit Laburista",
-      "matchedParty": null,
-      "score": null,
-      "galtan": null,
-      "category": "purple",
-      "source": "Clasificación previa; correspondencia académica pendiente",
-      "mode": "cached-category",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
+      "leader": "Robert Abela",
+      "role": "Representante nacional en el Consejo Europeo",
+      "party": "Labour Party",
+      "category": "socialist",
+      "status": "validated",
+      "justification": "Manifesto Project parfam documenta la familia Socialdemócratas; la aplicación la traduce a la categoría visual acordada.",
+      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": false,
+        "source": "The PopuList 4.0; no far-right override used"
+      },
+      "manifesto": {
+        "family": "Socialdemócratas",
+        "parfam": null
+      }
     },
     {
       "country": "Países Bajos",
+      "leader": "Rob Jetten",
+      "role": "Representante nacional en el Consejo Europeo",
       "party": "D66",
-      "matchedParty": "D66",
-      "score": 4.666666507720947,
-      "galtan": 1.333333373069763,
-      "family": 3,
-      "category": "purple",
-      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
+      "category": "liberal",
+      "status": "validated",
+      "justification": "Manifesto Project parfam documenta la familia Liberales; la aplicación la traduce a la categoría visual acordada.",
+      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": false,
+        "source": "The PopuList 4.0; no far-right override used"
+      },
+      "manifesto": {
+        "family": "Liberales",
+        "parfam": null
+      }
     },
     {
       "country": "Polonia",
-      "party": "Coalición Cívica",
-      "matchedParty": "PO",
-      "score": 4.928571224212646,
-      "galtan": 3.655172348022461,
-      "family": 4,
-      "category": "blue",
-      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
+      "leader": "Donald Tusk",
+      "role": "Representante nacional en el Consejo Europeo",
+      "party": "Platforma Obywatelska",
+      "category": "liberal",
+      "status": "validated",
+      "justification": "Manifesto Project parfam documenta la familia Liberales; la aplicación la traduce a la categoría visual acordada.",
+      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": false,
+        "source": "The PopuList 4.0; no far-right override used"
+      },
+      "manifesto": {
+        "family": "Liberales",
+        "parfam": null
+      }
     },
     {
       "country": "Portugal",
+      "leader": "Luís Montenegro",
+      "role": "Representante nacional en el Consejo Europeo",
       "party": "PSD",
-      "matchedParty": "PSD",
-      "score": 4.181818008422852,
-      "galtan": 6.636363506317139,
-      "family": 5,
-      "category": "red",
-      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
+      "category": "conservative",
+      "status": "validated",
+      "justification": "Manifesto Project parfam documenta la familia Democristianos; la aplicación la traduce a la categoría visual acordada.",
+      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": false,
+        "source": "The PopuList 4.0; no far-right override used"
+      },
+      "manifesto": {
+        "family": "Democristianos",
+        "parfam": null
+      }
     },
     {
       "country": "Rumanía",
-      "party": "PNL",
-      "matchedParty": "PNL",
-      "score": 6.272727489471436,
-      "galtan": 5.5,
-      "family": 3,
-      "category": "purple",
-      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
+      "leader": "Nicușor Dan",
+      "role": "Representante nacional en el Consejo Europeo",
+      "party": "Independiente",
+      "category": null,
+      "status": "pending",
+      "justification": "No hay correspondencia partidista fiable o el representante es independiente.",
+      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": false,
+        "source": "The PopuList 4.0; no far-right override used"
+      },
+      "manifesto": {
+        "family": "Información ausente",
+        "parfam": null
+      }
     },
     {
       "country": "Suecia",
+      "leader": "Ulf Kristersson",
+      "role": "Representante nacional en el Consejo Europeo",
       "party": "Moderaterna",
-      "matchedParty": "M",
-      "score": 5.545454502105713,
-      "galtan": 3.818181753158569,
-      "family": 3,
-      "category": "purple",
-      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
-      "checkedAt": "2026-11-17T08:45:47.232Z"
+      "category": "conservative",
+      "status": "validated",
+      "justification": "Manifesto Project parfam documenta la familia Conservadores; la aplicación la traduce a la categoría visual acordada.",
+      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "academicSources": [
+        "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
+        "https://popu-list.org/",
+        "https://www.chesdata.eu/ches-europe/"
+      ],
+      "checkedAt": "2026-11-17",
+      "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
+      "popuList": {
+        "farRight": false,
+        "source": "The PopuList 4.0; no far-right override used"
+      },
+      "manifesto": {
+        "family": "Conservadores",
+        "parfam": null
+      }
     }
   ],
   "updateStatus": {
     "stage": "completed",
-    "label": "Gobiernos y orientación contrastados",
+    "label": "Datos verificados; pendientes explícitos",
     "progress": 100,
-    "methodology": "Fuente oficial para confirmar el Ejecutivo y CHES-Europe para contrastar la posición del partido. Si CHES no está accesible desde GitHub, se conserva la última clasificación contrastada y se marca como respaldo.",
-    "comparativeMode": "ches-live"
+    "comparativeMode": "manifesto-primary"
   }
 }
