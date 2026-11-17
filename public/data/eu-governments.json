@@ -1,5 +1,5 @@
 {
-  "verifiedAt": "2026-11-15T00:00:00Z",
+  "verifiedAt": "2026-11-17T05:55:18.685Z",
   "methodology": "Clasificación editorial por la familia política del partido o coalición que dirige el Ejecutivo: progresistas, liberales/centristas, conservadores y derecha radical. Cada Estado cuenta una vez. La clasificación es orientativa y se revisa cuando cambia el Gobierno. Alemania ya enlaza a la ficha oficial del canciller.",
   "sources": [
     "https://www.consilium.europa.eu/en/european-council/members/",
@@ -10,7 +10,7 @@
       "country": "Alemania",
       "leader": "Friedrich Merz",
       "party": "CDU/CSU",
-      "category": "blue",
+      "category": "purple",
       "coalition": "CDU/CSU y SPD",
       "majority": "Por verificar",
       "since": "2025",
@@ -34,7 +34,7 @@
       "country": "Bélgica",
       "leader": "Bart De Wever",
       "party": "N-VA",
-      "category": "blue",
+      "category": "green",
       "coalition": "Coalición federal",
       "majority": "Por verificar",
       "since": "2025",
@@ -44,7 +44,7 @@
       "country": "Bulgaria",
       "leader": "Rumen Radev",
       "party": "Progressive Bulgaria",
-      "category": "red",
+      "category": "purple",
       "coalition": "Coalición documentada en la fuente consultada",
       "majority": "Por verificar",
       "since": "2026",
@@ -54,7 +54,7 @@
       "country": "Chequia",
       "leader": "Andrej Babiš",
       "party": "ANO",
-      "category": "blue",
+      "category": "purple",
       "coalition": "ANO, SPD y Motorists",
       "majority": "Mayoría",
       "since": "2026",
@@ -64,7 +64,7 @@
       "country": "Chipre",
       "leader": "Nikos Christodoulides",
       "party": "Independiente",
-      "category": "purple",
+      "category": "red",
       "coalition": "Coalición documentada en la fuente consultada",
       "majority": "Por verificar",
       "since": "2023",
@@ -84,7 +84,7 @@
       "country": "Dinamarca",
       "leader": "Mette Frederiksen",
       "party": "Socialdemokratiet",
-      "category": "red",
+      "category": "blue",
       "coalition": "Socialdemokratiet, Radikale Venstre, SF y Moderaterne",
       "majority": "Minoría",
       "since": "2026",
@@ -94,7 +94,7 @@
       "country": "Eslovaquia",
       "leader": "Robert Fico",
       "party": "Smer-SD",
-      "category": "green",
+      "category": "blue",
       "coalition": "Smer-SD y socios",
       "majority": "Por verificar",
       "since": "2023",
@@ -104,7 +104,7 @@
       "country": "Eslovenia",
       "leader": "Janez Janša",
       "party": "SDS",
-      "category": "blue",
+      "category": "purple",
       "coalition": "Por verificar",
       "majority": "Por verificar",
       "since": "2026",
@@ -174,7 +174,7 @@
       "country": "Irlanda",
       "leader": "Micheál Martin",
       "party": "Fianna Fáil",
-      "category": "blue",
+      "category": "red",
       "coalition": "Fianna Fáil y Fine Gael",
       "majority": "Por verificar",
       "since": "2025",
@@ -184,7 +184,7 @@
       "country": "Italia",
       "leader": "Giorgia Meloni",
       "party": "Fratelli d'Italia",
-      "category": "green",
+      "category": "red",
       "coalition": "FdI, Lega y Forza Italia",
       "majority": "Mayoría",
       "since": "2022",
@@ -194,7 +194,7 @@
       "country": "Letonia",
       "leader": "Andris Kulbergs",
       "party": "Apvienotais saraksts",
-      "category": "blue",
+      "category": "purple",
       "coalition": "Coalición de gobierno",
       "majority": "Por verificar",
       "since": "2026",
@@ -204,7 +204,7 @@
       "country": "Lituania",
       "leader": "Inga Ruginienė",
       "party": "LSDP",
-      "category": "red",
+      "category": "purple",
       "coalition": "Coalición documentada en la fuente consultada",
       "majority": "Por verificar",
       "since": "2025",
@@ -214,7 +214,7 @@
       "country": "Luxemburgo",
       "leader": "Luc Frieden",
       "party": "CSV",
-      "category": "blue",
+      "category": "purple",
       "coalition": "CSV y DP",
       "majority": "Mayoría",
       "since": "2023",
@@ -224,7 +224,7 @@
       "country": "Malta",
       "leader": "Robert Abela",
       "party": "Partit Laburista",
-      "category": "red",
+      "category": "purple",
       "coalition": "Partit Laburista",
       "majority": "Mayoría",
       "since": "2022",
@@ -254,7 +254,7 @@
       "country": "Portugal",
       "leader": "Luís Montenegro",
       "party": "PSD",
-      "category": "blue",
+      "category": "red",
       "coalition": "PSD y CDS-PP",
       "majority": "Minoría",
       "since": "2025",
@@ -280,5 +280,529 @@
       "since": "2022",
       "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/"
     }
-  ]
+  ],
+  "sourceChecks": [
+    {
+      "country": "Alemania",
+      "leader": "Friedrich Merz",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Austria",
+      "leader": "Christian Stocker",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Bélgica",
+      "leader": "Bart De Wever",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Bulgaria",
+      "leader": "Rumen Radev",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Chequia",
+      "leader": "Andrej Babiš",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Chipre",
+      "leader": "Nikos Christodoulides",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Croacia",
+      "leader": "Andrej Plenković",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Dinamarca",
+      "leader": "Mette Frederiksen",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Eslovaquia",
+      "leader": "Robert Fico",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Eslovenia",
+      "leader": "Janez Janša",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "España",
+      "leader": "Pedro Sánchez",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Estonia",
+      "leader": "Kristen Michal",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Finlandia",
+      "leader": "Petteri Orpo",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Francia",
+      "leader": "Sébastien Lecornu",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Grecia",
+      "leader": "Kyriakos Mitsotakis",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Hungría",
+      "leader": "Péter Magyar",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Irlanda",
+      "leader": "Micheál Martin",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Italia",
+      "leader": "Giorgia Meloni",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Letonia",
+      "leader": "Andris Kulbergs",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Lituania",
+      "leader": "Inga Ruginienė",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Luxemburgo",
+      "leader": "Luc Frieden",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Malta",
+      "leader": "Robert Abela",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Países Bajos",
+      "leader": "Rob Jetten",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Polonia",
+      "leader": "Donald Tusk",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Portugal",
+      "leader": "Luís Montenegro",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Rumanía",
+      "leader": "Ilie Bolojan",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Suecia",
+      "leader": "Ulf Kristersson",
+      "url": "https://www.consilium.europa.eu/en/european-council/members/",
+      "status": 200,
+      "bytes": 399,
+      "verificationMode": "cached-consilium-catalog",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    }
+  ],
+  "comparativeChecks": [
+    {
+      "country": "Alemania",
+      "party": "CDU/CSU",
+      "matchedParty": "S",
+      "score": 4,
+      "galtan": 4,
+      "category": "purple",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Austria",
+      "party": "ÖVP",
+      "matchedParty": "V",
+      "score": 6.636363506317139,
+      "galtan": 4.636363506317139,
+      "category": "blue",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Bélgica",
+      "party": "N-VA",
+      "matchedParty": "NVA",
+      "score": 7.5,
+      "galtan": 7.099999904632568,
+      "category": "green",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Bulgaria",
+      "party": "Progressive Bulgaria",
+      "matchedParty": "S",
+      "score": 4,
+      "galtan": 4,
+      "category": "purple",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Chequia",
+      "party": "ANO",
+      "matchedParty": "A",
+      "score": 4.428571224212646,
+      "galtan": 3.461538553237915,
+      "category": "purple",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Chipre",
+      "party": "Independiente",
+      "matchedParty": "PE",
+      "score": 3,
+      "galtan": 3.444444417953491,
+      "category": "red",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Croacia",
+      "party": "HDZ",
+      "matchedParty": "HDZ",
+      "score": 6.44444465637207,
+      "galtan": 6.411764621734619,
+      "category": "blue",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Dinamarca",
+      "party": "Socialdemokratiet",
+      "matchedParty": "M",
+      "score": 5.545454502105713,
+      "galtan": 3.818181753158569,
+      "category": "blue",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Eslovaquia",
+      "party": "Smer-SD",
+      "matchedParty": "M",
+      "score": 5.545454502105713,
+      "galtan": 3.818181753158569,
+      "category": "blue",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Eslovenia",
+      "party": "SDS",
+      "matchedParty": "S",
+      "score": 4,
+      "galtan": 4,
+      "category": "purple",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "España",
+      "party": "PSOE",
+      "matchedParty": "PS",
+      "score": 2.555555582046509,
+      "galtan": 2.777777671813965,
+      "category": "red",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Estonia",
+      "party": "Reformierakond",
+      "matchedParty": "M",
+      "score": 5.545454502105713,
+      "galtan": 3.818181753158569,
+      "category": "blue",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Finlandia",
+      "party": "Kokoomus",
+      "matchedParty": "M",
+      "score": 5.545454502105713,
+      "galtan": 3.818181753158569,
+      "category": "blue",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Francia",
+      "party": "Coalición centrista",
+      "matchedParty": "S",
+      "score": 4,
+      "galtan": 4,
+      "category": "purple",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Grecia",
+      "party": "Nueva Democracia",
+      "matchedParty": "M",
+      "score": 5.545454502105713,
+      "galtan": 3.818181753158569,
+      "category": "blue",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Hungría",
+      "party": "TISZA",
+      "matchedParty": "S",
+      "score": 4,
+      "galtan": 4,
+      "category": "purple",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Irlanda",
+      "party": "Fianna Fáil",
+      "matchedParty": "FI",
+      "score": 0.8181818127632141,
+      "galtan": 1.818181872367859,
+      "category": "red",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Italia",
+      "party": "Fratelli d'Italia",
+      "matchedParty": "EL",
+      "score": 1.272727251052856,
+      "galtan": 1.909090876579285,
+      "category": "red",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Letonia",
+      "party": "Apvienotais saraksts",
+      "matchedParty": "S",
+      "score": 4,
+      "galtan": 4,
+      "category": "purple",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Lituania",
+      "party": "LSDP",
+      "matchedParty": "S",
+      "score": 4,
+      "galtan": 4,
+      "category": "purple",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Luxemburgo",
+      "party": "CSV",
+      "matchedParty": "S",
+      "score": 4,
+      "galtan": 4,
+      "category": "purple",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Malta",
+      "party": "Partit Laburista",
+      "matchedParty": "S",
+      "score": 4,
+      "galtan": 4,
+      "category": "purple",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Países Bajos",
+      "party": "D66",
+      "matchedParty": "D66",
+      "score": 4.666666507720947,
+      "galtan": 1.333333373069763,
+      "category": "purple",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Polonia",
+      "party": "Coalición Cívica",
+      "matchedParty": "V",
+      "score": 6.636363506317139,
+      "galtan": 4.636363506317139,
+      "category": "blue",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Portugal",
+      "party": "PSD",
+      "matchedParty": "PS",
+      "score": 2.555555582046509,
+      "galtan": 2.777777671813965,
+      "category": "red",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Rumanía",
+      "party": "PNL",
+      "matchedParty": "L",
+      "score": 3.299999952316284,
+      "galtan": 1.333333373069763,
+      "category": "purple",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    },
+    {
+      "country": "Suecia",
+      "party": "Moderaterna",
+      "matchedParty": "M",
+      "score": 5.545454502105713,
+      "galtan": 3.818181753158569,
+      "category": "blue",
+      "source": "https://github.com/chesdata/chesdata.github.io/releases/download/ches-trend/1999-2024_CHES_dataset_meansV2.csv",
+      "checkedAt": "2026-11-17T05:55:18.685Z"
+    }
+  ],
+  "updateStatus": {
+    "stage": "completed",
+    "label": "Gobiernos y orientación contrastados",
+    "progress": 100,
+    "methodology": "Fuente oficial para confirmar el Ejecutivo y CHES-Europe para contrastar la posición del partido. Si CHES no está accesible desde GitHub, se conserva la última clasificación contrastada y se marca como respaldo.",
+    "comparativeMode": "ches-live"
+  }
 }
