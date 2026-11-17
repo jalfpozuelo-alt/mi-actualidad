@@ -27,3 +27,5 @@
 @media(max-width:600px){.euPolitics{padding:1rem;border-radius:12px}.euTotals{gap:.35rem}.euTotal{font-size:.86rem}.euLegend button{box-shadow:none}}
 
 .euSubhead{margin:.2rem 0 1rem!important;color:color-mix(in srgb,var(--ink,#19232b) 68%,transparent);font-size:.95rem;letter-spacing:.08em;text-transform:uppercase;font-weight:700}
+
+.euActions{display:flex;align-items:stretch;gap:.7rem;margin:.8rem 0 1rem}.euAction{box-sizing:border-box;flex:1 1 0;min-height:2.75rem;padding:.7rem 1rem;border:1px solid transparent;border-radius:999px;font:inherit;font-weight:800;letter-spacing:.02em;cursor:pointer;transition:transform .15s ease,box-shadow .15s ease,filter .15s ease}.euAction:hover,.euAction:focus-visible{transform:translateY(-1px);box-shadow:0 6px 16px rgba(35,31,27,.14)}.euAction:disabled{opacity:.7;cursor:wait;transform:none}.euUpdate{background:#b9633e;color:#fff}.euReload{background:#3c86ae;color:#fff}@media(max-width:600px){.euActions{gap:.5rem}.euAction{min-height:2.5rem;padding:.6rem .55rem;font-size:.78rem;letter-spacing:0}}
