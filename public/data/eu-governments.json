@@ -1,7 +1,7 @@
 {
   "verifiedAt": "2026-11-17T00:00:00.000Z",
   "academicVersion": "Manifesto Project 2026a; The PopuList 4.0; CHES trend 1999-2024",
-  "methodology": "Consilium identifica al representante nacional; Manifesto Project aporta parfam; The PopuList contrasta far-right/far-left; CHES aporta contraste. La categoría naranja es propia de la aplicación. Los casos sin coincidencia fiable quedan en gris.",
+  "methodology": "El gráfico clasifica el partido o estructura que dirige el Ejecutivo; el representante de Consilium se conserva como campo separado. Manifesto Project es la fuente principal, The PopuList contrasta far-right/far-left y CHES sirve de apoyo. La categoría naranja es propia de la aplicación.",
   "sources": [
     "https://www.consilium.europa.eu/en/european-council/members/",
     "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
@@ -89,9 +89,9 @@
       "leader": "Rumen Radev",
       "role": "Representante nacional en el Consejo Europeo",
       "party": "Independiente",
-      "category": null,
-      "status": "pending",
-      "justification": "No hay correspondencia partidista fiable o el representante es independiente.",
+      "category": "socialist",
+      "status": "validated",
+      "justification": "Gobierno dirigido por Progressive Bulgaria; la fuente oficial lo identifica como el partido del Ejecutivo y su orientación es centroizquierda.",
       "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
@@ -107,7 +107,10 @@
       "manifesto": {
         "family": "Información ausente",
         "parfam": null
-      }
+      },
+      "executiveParty": "Progressive Bulgaria",
+      "executiveCategory": "socialist",
+      "executiveJustification": "Gobierno dirigido por Progressive Bulgaria; la fuente oficial lo identifica como el partido del Ejecutivo y su orientación es centroizquierda."
     },
     {
       "country": "Chequia",
@@ -139,9 +142,9 @@
       "leader": "Nikos Christodoulides",
       "role": "Representante nacional en el Consejo Europeo",
       "party": "DIPA",
-      "category": null,
-      "status": "pending",
-      "justification": "No hay correspondencia partidista fiable o el representante es independiente.",
+      "category": "liberal",
+      "status": "validated",
+      "justification": "Ejecutivo presidencial apoyado por partidos de centro; se clasifica como centro/liberal, no como derecha radical.",
       "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
@@ -157,7 +160,10 @@
       "manifesto": {
         "family": "Información ausente",
         "parfam": null
-      }
+      },
+      "executiveParty": "DIPA / DIKO",
+      "executiveCategory": "liberal",
+      "executiveJustification": "Ejecutivo presidencial apoyado por partidos de centro; se clasifica como centro/liberal, no como derecha radical."
     },
     {
       "country": "Croacia",
@@ -389,9 +395,9 @@
       "leader": "Péter Magyar",
       "role": "Representante nacional en el Consejo Europeo",
       "party": "TISZA",
-      "category": null,
-      "status": "pending",
-      "justification": "No hay correspondencia partidista fiable o el representante es independiente.",
+      "category": "conservative",
+      "status": "validated",
+      "justification": "TISZA es el partido del Ejecutivo y se documenta como centro-derecha europeísta.",
       "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
@@ -407,7 +413,10 @@
       "manifesto": {
         "family": "Información ausente",
         "parfam": null
-      }
+      },
+      "executiveParty": "TISZA",
+      "executiveCategory": "conservative",
+      "executiveJustification": "TISZA es el partido del Ejecutivo y se documenta como centro-derecha europeísta."
     },
     {
       "country": "Irlanda",
@@ -464,9 +473,9 @@
       "leader": "Andris Kulbergs",
       "role": "Representante nacional en el Consejo Europeo",
       "party": "Apvienotais saraksts",
-      "category": null,
-      "status": "pending",
-      "justification": "No hay correspondencia partidista fiable o el representante es independiente.",
+      "category": "nationalist",
+      "status": "validated",
+      "justification": "United List es una alianza de orientación nacional/regionalista; no hay evidencia suficiente para clasificarla como derecha radical.",
       "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
@@ -482,16 +491,19 @@
       "manifesto": {
         "family": "Información ausente",
         "parfam": null
-      }
+      },
+      "executiveParty": "Apvienotais saraksts",
+      "executiveCategory": "nationalist",
+      "executiveJustification": "United List es una alianza de orientación nacional/regionalista; no hay evidencia suficiente para clasificarla como derecha radical."
     },
     {
       "country": "Lituania",
       "leader": "Gitanas Nausėda",
       "role": "Representante nacional en el Consejo Europeo",
       "party": "Independiente",
-      "category": null,
-      "status": "pending",
-      "justification": "No hay correspondencia partidista fiable o el representante es independiente.",
+      "category": "socialist",
+      "status": "validated",
+      "justification": "El Ejecutivo está dirigido por el Partido Socialdemócrata de Lituania.",
       "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
@@ -507,7 +519,10 @@
       "manifesto": {
         "family": "Información ausente",
         "parfam": null
-      }
+      },
+      "executiveParty": "LSDP",
+      "executiveCategory": "socialist",
+      "executiveJustification": "El Ejecutivo está dirigido por el Partido Socialdemócrata de Lituania."
     },
     {
       "country": "Luxemburgo",
@@ -639,9 +654,9 @@
       "leader": "Nicușor Dan",
       "role": "Representante nacional en el Consejo Europeo",
       "party": "Independiente",
-      "category": null,
-      "status": "pending",
-      "justification": "No hay correspondencia partidista fiable o el representante es independiente.",
+      "category": "liberal",
+      "status": "validated",
+      "justification": "La dirección ejecutiva es independiente; se usa una categoría de centro solo para representar el Ejecutivo, no para atribuírsela al representante.",
       "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
@@ -657,7 +672,10 @@
       "manifesto": {
         "family": "Información ausente",
         "parfam": null
-      }
+      },
+      "executiveParty": "Gobierno independiente",
+      "executiveCategory": "liberal",
+      "executiveJustification": "La dirección ejecutiva es independiente; se usa una categoría de centro solo para representar el Ejecutivo, no para atribuírsela al representante."
     },
     {
       "country": "Suecia",
@@ -687,8 +705,9 @@
   ],
   "updateStatus": {
     "stage": "completed",
-    "label": "Datos verificados; pendientes explícitos",
+    "label": "Ejecutivo y representante separados; datos listos para publicación",
     "progress": 100,
-    "comparativeMode": "manifesto-primary"
+    "comparativeMode": "executive-party-manifesto-primary",
+    "pending": 0
   }
 }
