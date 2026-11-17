@@ -20,25 +20,16 @@ const parseCsv=csv=>{const lines=csv.split(/\r?\n/).filter(Boolean);const header
 const pick=(row,names)=>{for(const name of names){if(row[name]!=null&&row[name]!=='')return row[name]}return ''};
 
 const checkedAt=new Date().toISOString();
+const membersUrl='https://www.consilium.europa.eu/en/european-council/members/';
+let membersPage;
+try{membersPage=await timeoutFetch(membersUrl)}catch{throw new Error('La página común del Consejo Europeo no responde; se conserva la edición anterior')}
+const membersText=normalize(membersPage.body);
 const checked=[];
-const sourceCache=new Map();
 for(const g of d.governments){
-  if(!g.country||!g.leader||!g.party||!g.sourceUrl?.startsWith('https://')) throw new Error('Registro incompleto: '+(g.country||'país desconocido'));
-  try{
-    let result=sourceCache.get(g.sourceUrl);
-    if(!result){
-      let lastError;
-      for(let attempt=0;attempt<3&&!result;attempt++){
-        try{result=await timeoutFetch(g.sourceUrl);sourceCache.set(g.sourceUrl,result)}catch(error){lastError=error;await new Promise(resolve=>setTimeout(resolve,1000*(attempt+1)))}
-      }
-      if(!result)throw lastError||new Error('fuente no accesible');
-    }
-    checked.push({country:g.country,url:g.sourceUrl,status:result.status,bytes:result.body.length,checkedAt});
-  }catch{
-    throw new Error('La fuente oficial de '+g.country+' no responde tras varios intentos; se conserva la edición anterior');
-  }
+  if(!g.country||!g.leader||!g.party) throw new Error('Registro incompleto: '+(g.country||'país desconocido'));
+  if(!membersText.includes(normalize(g.leader))) throw new Error('El Consejo Europeo no confirma a '+g.leader+' como dirigente de '+g.country+'; se conserva la edición anterior');
+  checked.push({country:g.country,leader:g.leader,url:membersUrl,status:membersPage.status,bytes:membersPage.body.length,checkedAt});
 }
-
 const chesUrl='https://raw.githubusercontent.com/chesdata/chesdata.github.io/main/ches-trend/1999-2024_CHES_dataset_meansV2.csv';
 let chesRows=[];
 try{chesRows=parseCsv((await timeoutFetch(chesUrl,'text/csv')).body)}catch{throw new Error('CHES no está disponible; se conserva la edición anterior')}
