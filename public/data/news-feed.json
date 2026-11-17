@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-17T05:37:30.011Z",
+  "generatedAt": "2026-11-17T05:41:11.123Z",
   "isEditoriallyValidated": false,
   "summaryStatus": "pending-editorial-review",
   "stories": [
@@ -9,12 +9,12 @@
       "title": "No son candidatos, pero condicionan la campaña: “Ayuso tiene que tener protagonismo siempre, es el novio en la boda y el muerto en el entierro”",
       "summary": "Lula, Ayuso o el Sindicato de Inquilinas condicionan la campaña electoral sin presentarse a las elecciones",
       "publishedAt": "2026-11-17T04:45:01.000Z",
-      "updatedAt": "2026-11-17T05:37:24.280Z",
+      "updatedAt": "2026-11-17T05:41:02.822Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 113.25373333333333,
+      "importance": 113.13232111111111,
       "source": {
         "name": "EL PAÍS",
         "url": "https://elpais.com/podcasts/hoy-en-el-pais/2026-11-17/los-que-influyen-en-la-campana-pero-no-aparecen-en-las-papeletas.html"
@@ -27,12 +27,12 @@
       "title": "El PSOE apunta en su programa a las grandes del Ibex por su desigualdad salarial",
       "summary": "Los socialistas proponen subir impuestos a las cotizadas cuyo primer ejecutivo supere 100 veces el salario mediano de la plantilla, una circunstancia que se produce en Santander, BBVA, Telefónica, Inditex y Ferrovial",
       "publishedAt": "2026-11-17T04:45:00.000Z",
-      "updatedAt": "2026-11-17T05:37:24.280Z",
+      "updatedAt": "2026-11-17T05:41:02.822Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 113.25317777777778,
+      "importance": 113.13176555555556,
       "source": {
         "name": "EL PAÍS",
         "url": "https://elpais.com/economia/2026-11-17/el-psoe-apunta-en-su-programa-a-las-grandes-del-ibex-por-su-desigualdad-salarial.html"
@@ -45,12 +45,12 @@
       "title": "La batalla por el voto útil reabre las brechas del bloque de izquierdas",
       "summary": "El Frente Amplio, debilitado en las encuestas, se revuelve contra el PSOE por copiar propuestas y ocupar su espacio mientras en la derecha también se recrudece la batalla entre PP y Vox",
       "publishedAt": "2026-11-17T04:30:01.000Z",
-      "updatedAt": "2026-11-17T05:37:24.280Z",
+      "updatedAt": "2026-11-17T05:41:02.822Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 112.75373388888889,
+      "importance": 112.63232111111111,
       "source": {
         "name": "EL PAÍS",
         "url": "https://elpais.com/espana/2026-11-17/la-batalla-por-el-voto-util-reabre-las-brechas-del-bloque-de-izquierdas.html"
@@ -63,12 +63,12 @@
       "title": "El futuro del aborto: entre garantizar el derecho en la Constitución y recortarlo a las menores",
       "summary": "Vox, que siempre ha abogado por vetar la interrupción voluntaria del embarazo de la sanidad pública, está eludiendo el debate; el PP no la nombra en su programa y la izquierda quiere blindarla",
       "publishedAt": "2026-11-17T04:30:01.000Z",
-      "updatedAt": "2026-11-17T05:37:24.280Z",
+      "updatedAt": "2026-11-17T05:41:02.822Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 112.75373333333333,
+      "importance": 112.63232111111111,
       "source": {
         "name": "EL PAÍS",
         "url": "https://elpais.com/sociedad/2026-11-17/el-futuro-del-aborto-entre-garantizar-el-derecho-en-la-constitucion-y-recortarlo-a-las-menores.html"
@@ -81,12 +81,12 @@
       "title": "PP y Vox dan alas a la caza: ayudas para cartuchos y cotos, cazadores como científicos, licencias gratis y plan para matar lobos",
       "summary": "Los gobiernos autonómicos con coalición de derechas aumentan las subvenciones al sector y aventuran un respaldo sin precedentes si logran la mayoría en el Congreso",
       "publishedAt": "2026-11-17T04:30:01.000Z",
-      "updatedAt": "2026-11-17T05:37:24.280Z",
+      "updatedAt": "2026-11-17T05:41:02.822Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 112.75373333333333,
+      "importance": 112.63232111111111,
       "source": {
         "name": "EL PAÍS",
         "url": "https://elpais.com/clima-y-medio-ambiente/2026-11-17/pp-y-vox-dan-alas-a-la-caza-ayudas-para-cartuchos-y-cotos-cazadores-como-cientificos-licencias-gratis-y-plan-para-matar-lobos.html"
@@ -99,12 +99,12 @@
       "title": "Los Suns vencen 117-105 a los Nuggets para su primer triunfo como visitantes",
       "summary": "Phoenix se impuso a Denver 117-105 con Booker liderando un ataque balanceado, destacando en rebotes y puntos de segunda oportunidad. El conjunto visitante, pese a la actuación de Jokic, logró su primer triunfo fuera de casa gracias a una sólida actuación de su banca.",
       "publishedAt": "2026-11-17T05:10:03.000Z",
-      "updatedAt": "2026-11-17T05:37:26.093Z",
+      "updatedAt": "2026-11-17T05:41:04.665Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 106.08717055555556,
+      "importance": 105.96574166666667,
       "source": {
         "name": "Clarín",
         "url": "https://www.clarin.com/estados-unidos/los-suns-vencen-117-105-a-los-nuggets-para-su-primer-triunfo-como-visitantes_0_a0Vp7DTLrr.html"
@@ -117,15 +117,33 @@
       "title": "Rusia rechaza comparaciones entre cita de Xi, Trump y Putin y la histórica cumbre de Yalta",
       "summary": "Rusia descarta similitudes entre la cumbre de líderes de China, Rusia y EE.UU. y la conferencia de Yalta de 1945, enfocando la reunión en la paz mundial. La cita en Shenzhen abordará la desnuclearización y conflictos actuales, mientras Ucrania teme que anime a Rusia a proseguir su guerra.",
       "publishedAt": "2026-11-17T04:50:10.000Z",
-      "updatedAt": "2026-11-17T05:37:26.093Z",
+      "updatedAt": "2026-11-17T05:41:04.665Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 105.42439277777778,
+      "importance": 105.30296388888888,
       "source": {
         "name": "Clarín",
         "url": "https://www.clarin.com/estados-unidos/rusia-rechaza-comparaciones-entre-cita-de-xi-trump-y-putin-y-la-historica-cumbre-de-yalta_0_E4pwBgnR4Q.html"
+      },
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "lanacion-ar-759a8afa7b194261",
+      "title": "Manipular las reglas: el eterno vicio de la casta",
+      "summary": "Tres razones libertarias para derogar las PASO; el juego de Bullrich; la crisis del PJ; Cristina y Kicillof, parejos; el armado de la Corte en dos modelos; el peligro de las PASO bonaerenses",
+      "publishedAt": "2026-11-17T05:35:04.000Z",
+      "updatedAt": "2026-11-17T05:41:07.793Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 104.79789277777778,
+      "source": {
+        "name": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/manipular-las-reglas-el-eterno-vicio-de-la-casta-nid17112026/"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -135,12 +153,12 @@
       "title": "Confirmado y oficial: último día para activar los avisos digitales del IRS por el nuevo índice COLA 2027",
       "summary": "Algunos beneficiarios recibirán el aumento antes de que termine el año mientras que el resto percibirá los nuevos montos durante enero. Quiénes cobrarán primero y cómo queda establecido el calendario de pagos.",
       "publishedAt": "2026-11-17T04:31:35.000Z",
-      "updatedAt": "2026-11-17T05:37:26.093Z",
+      "updatedAt": "2026-11-17T05:41:04.665Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.80494833333333,
+      "importance": 104.68351944444444,
       "source": {
         "name": "Clarín",
         "url": "https://www.clarin.com/estados-unidos/confirmado-oficial-ultimo-dia-activar-avisos-digitales-irs-nuevo-indice-cola-2027_0_HhjKn5ILOm.html"
@@ -153,33 +171,15 @@
       "title": "Carlos Slim, billonario y empresario mexicano: “El éxito no depende del reconocimiento de los demás, sino de algo que ocurre en nuestro interior”",
       "summary": "En una carta de 1994 a estudiantes universitarios, el magnate definió el éxito como un estado interior y no como el aplauso ajeno. También aconsejó vivir sin miedos ni culpas y valorar el trabajo bien hecho.",
       "publishedAt": "2026-11-17T04:31:35.000Z",
-      "updatedAt": "2026-11-17T05:37:26.093Z",
+      "updatedAt": "2026-11-17T05:41:04.665Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.80494833333333,
+      "importance": 104.68351944444444,
       "source": {
         "name": "Clarín",
         "url": "https://www.clarin.com/internacional/carlos-slim-billonario-empresario-mexicano-exito-depende-reconocimiento-ocurre-interior_0_xEsfLAjaXV.html"
-      },
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "clarin-ar-b49bec6375ce725e",
-      "title": "Woody Allen, 90 años, director de cine, sobre el sentido de la vida: \"La jubilación es para la gente que se ha pasado toda una vida odiando lo que hacía\"",
-      "summary": "A sus 90 años, el cineasta mantiene una trayectoria ligada al humor, la escritura y la reflexión sobre la vida cotidiana. Su carrera también invita a repasar el lugar que ocupa el trabajo en su historia.",
-      "publishedAt": "2026-11-17T04:21:34.000Z",
-      "updatedAt": "2026-11-17T05:37:26.093Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 104.47105944444445,
-      "source": {
-        "name": "Clarín",
-        "url": "https://www.clarin.com/estados-unidos/woody-allen-90-anos-director-cine-sentido-vida-jubilacion-gente-pasado-toda-vida-odiando_0_BrNlnF6Po1.html"
       },
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -189,12 +189,12 @@
       "title": "Socialdemocracia: Según informa la prensa, Giffey se plantea presentarse a la presidencia del SPD",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-17T05:10:27.000Z",
-      "updatedAt": "2026-11-17T05:37:29.741Z",
+      "updatedAt": "2026-11-17T05:41:10.893Z",
       "country": "Alemania",
       "countryCode": "DE",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.09847722222223,
+      "importance": 103.975615,
       "source": {
         "name": "Deutschlandfunk",
         "url": "https://www.deutschlandfunk.de/giffey-haelt-sich-laut-bericht-bewerbung-fuer-spd-vorsitz-offen-102.html"
@@ -207,12 +207,12 @@
       "title": "Gobierno federal: El Comité de Coalición quiere decidir hoy sobre la reducción del impuesto sobre la electricidad para todos",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-17T05:10:27.000Z",
-      "updatedAt": "2026-11-17T05:37:29.741Z",
+      "updatedAt": "2026-11-17T05:41:10.893Z",
       "country": "Alemania",
       "countryCode": "DE",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.09847722222223,
+      "importance": 103.975615,
       "source": {
         "name": "Deutschlandfunk",
         "url": "https://www.deutschlandfunk.de/koalitionsausschuss-will-heute-ueber-stromsteuer-senkung-fuer-alle-entscheiden-100.html"
@@ -225,12 +225,12 @@
       "title": "Magdeburgo - Klüssendorf (SPD) pide una candidatura a primer ministro de Sajonia-Anhalt que cuente con el apoyo de todos los partidos",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-17T05:10:27.000Z",
-      "updatedAt": "2026-11-17T05:37:29.741Z",
+      "updatedAt": "2026-11-17T05:41:10.893Z",
       "country": "Alemania",
       "countryCode": "DE",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.09847722222223,
+      "importance": 103.975615,
       "source": {
         "name": "Deutschlandfunk",
         "url": "https://www.deutschlandfunk.de/kluessendorf-spd-fordert-parteiuebergreifende-ministerpraesidenten-kandidatur-in-sachsen-anhalt-104.html"
@@ -243,12 +243,12 @@
       "title": "Guerra en Ucrania - Fin de la búsqueda: más de 70 muertos tras un ataque aéreo ruso en Komyshuvakha",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-17T05:10:27.000Z",
-      "updatedAt": "2026-11-17T05:37:29.741Z",
+      "updatedAt": "2026-11-17T05:41:10.893Z",
       "country": "Alemania",
       "countryCode": "DE",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.09847722222223,
+      "importance": 103.975615,
       "source": {
         "name": "Deutschlandfunk",
         "url": "https://www.deutschlandfunk.de/suche-beendet-ueber-70-tote-nach-russischem-luftangriff-auf-komyschuwacha-102.html"
@@ -261,12 +261,12 @@
       "title": "Reunión de ministros de Asuntos Exteriores - Ciberataques a sistemas de refrigeración: la UE planea nuevas sanciones contra Irán",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-17T05:10:27.000Z",
-      "updatedAt": "2026-11-17T05:37:29.741Z",
+      "updatedAt": "2026-11-17T05:41:10.893Z",
       "country": "Alemania",
       "countryCode": "DE",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.09847722222223,
+      "importance": 103.975615,
       "source": {
         "name": "Deutschlandfunk",
         "url": "https://www.deutschlandfunk.de/hackerangriffe-auf-kuehlsysteme-eu-plant-neue-sanktionen-gegen-den-iran-102.html"
@@ -279,12 +279,12 @@
       "title": "«El caprichoso Putin, el obstinado Zelenski y la traición de los demócratas». Joe Biden ha publicado unas memorias sobre los cuatro años de su presidencia",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-17T05:02:03.000Z",
-      "updatedAt": "2026-11-17T05:37:28.124Z",
+      "updatedAt": "2026-11-17T05:41:08.574Z",
       "country": "Rusia",
       "countryCode": "RU",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 103.81937555555555,
+      "importance": 103.69690333333334,
       "source": {
         "name": "BBC Russian",
         "url": "https://www.bbc.com/russian/articles/cmwy98n9rxy9o?at_medium=RSS&at_campaign=rss"
@@ -297,12 +297,12 @@
       "title": "\"Cette enfant aura été plus aimée morte que vivante\" : après onze jours de procès, la courte vie de la petite martyre de l'A10 se dessine en pointillés",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-17T04:45:10.000Z",
-      "updatedAt": "2026-11-17T05:37:28.812Z",
+      "updatedAt": "2026-11-17T05:41:09.194Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 103.25621555555556,
+      "importance": 103.1337811111111,
       "source": {
         "name": "Franceinfo",
         "url": "https://www.franceinfo.fr/faits-divers/martyre-de-l-a10/cette-enfant-aura-ete-plus-aimee-morte-que-vivante-apres-onze-jours-de-proces-la-courte-vie-de-la-petite-martyre-de-l-a10-se-dessine-en-pointilles_8284622.html#xtor=RSS-3-[lestitres]"
@@ -315,12 +315,12 @@
       "title": "\"Un véritable changement de paradigme\" : ce que contient le projet de loi relatif à la résilience des infrastructures critiques, qui doit renforcer la cybersécurité en France",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-17T04:41:37.000Z",
-      "updatedAt": "2026-11-17T05:37:28.812Z",
+      "updatedAt": "2026-11-17T05:41:09.194Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 103.13788222222222,
+      "importance": 103.01544777777778,
       "source": {
         "name": "Franceinfo",
         "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/un-veritable-changement-de-paradigme-ce-que-contient-le-projet-de-loi-relatif-a-la-resilience-des-infrastructures-critiques-qui-doit-renforcer-la-cybersecurite-en-france_8284760.html#xtor=RSS-3-[lestitres]"
@@ -333,12 +333,12 @@
       "title": "La mayoría de los alemanes consideran a Rusia una amenaza y temen una guerra: encuesta",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-17T04:41:00.000Z",
-      "updatedAt": "2026-11-17T05:37:28.371Z",
+      "updatedAt": "2026-11-17T05:41:08.882Z",
       "country": "Rusia",
       "countryCode": "RU",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 103.11757166666666,
+      "importance": 102.99506555555556,
       "source": {
         "name": "DW Russian",
         "url": "https://www.dw.com/ru/большинство-немцев-считают-россию-угрозой-и-опасаются-войны-опрос/a-79964686?maca=rus-rss-ru-top-1051-rdf"
@@ -351,12 +351,12 @@
       "title": "Las divisiones en el Gobierno de Trump sobre la política hacia China salen a la luz pública",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-17T03:48:50.000Z",
-      "updatedAt": "2026-11-17T05:37:28.649Z",
+      "updatedAt": "2026-11-17T05:41:09.119Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 101.37852833333334,
+      "importance": 101.256045,
       "source": {
         "name": "The New York Times",
         "url": "https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html"
@@ -369,12 +369,12 @@
       "title": "Director general de DTEK: «Toda la preparación de los profesionales energéticos ucranianos puede quedar destruida con un solo ataque ruso»",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-17T03:44:54.000Z",
-      "updatedAt": "2026-11-17T05:37:28.124Z",
+      "updatedAt": "2026-11-17T05:41:08.574Z",
       "country": "Rusia",
       "countryCode": "RU",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 101.2477088888889,
+      "importance": 101.12523666666667,
       "source": {
         "name": "BBC Russian",
         "url": "https://www.bbc.com/russian/articles/cw4gnl5jk2g5o?at_medium=RSS&at_campaign=rss"
@@ -387,12 +387,12 @@
       "title": "El juez Alito advierte de que la reforma del Tribunal podría amenazar la independencia judicial",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-17T03:14:39.000Z",
-      "updatedAt": "2026-11-17T05:37:28.649Z",
+      "updatedAt": "2026-11-17T05:41:09.119Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 100.23908388888889,
+      "importance": 100.11660055555555,
       "source": {
         "name": "The New York Times",
         "url": "https://www.nytimes.com/2026/11/16/us/politics/supreme-court-alito.html"
@@ -405,12 +405,12 @@
       "title": "Rusia ha vuelto a atacar puentes en Kiev, Ucrania, y el puente de Crimea",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-17T03:13:00.000Z",
-      "updatedAt": "2026-11-17T05:37:28.371Z",
+      "updatedAt": "2026-11-17T05:41:08.882Z",
       "country": "Rusia",
       "countryCode": "RU",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 100.18423833333333,
+      "importance": 100.06173222222222,
       "source": {
         "name": "DW Russian",
         "url": "https://www.dw.com/ru/россия-вновь-ударила-по-мостам-в-киеве-украина-по-крымскому-мосту/a-79964533?maca=rus-rss-ru-top-1051-rdf"
@@ -423,12 +423,12 @@
       "title": "EE. UU. endurece el cerco tecnológico a China y vigila exportaciones de chips a cinco países",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-17T03:08:43.000Z",
-      "updatedAt": "2026-11-17T05:37:26.053Z",
+      "updatedAt": "2026-11-17T05:41:04.581Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 100.04274833333334,
+      "importance": 99.92134388888888,
       "source": {
         "name": "France 24",
         "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261117-ee-uu-endurece-el-cerco-tecnol%C3%B3gico-a-china-y-vigila-exportaciones-de-chips-a-cinco-pa%C3%ADses"
@@ -441,12 +441,12 @@
       "title": "Cómo lo megamillonarios en Rusia se preparan para un futuro sin Putin",
       "summary": "Algunos magnates rusos añoran el regreso al sistema oligárquico de los años noventa, cuando los empresarios disfrutaban del poder. ¿Hay alguna posibilidad de que sea realidad?",
       "publishedAt": "2026-11-17T02:46:30.000Z",
-      "updatedAt": "2026-11-17T05:37:24.474Z",
+      "updatedAt": "2026-11-17T05:41:02.882Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 99.30307055555555,
+      "importance": 99.18173277777778,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/c91430j35n5ro?at_medium=RSS&at_campaign=rss"
@@ -459,12 +459,12 @@
       "title": "Robert Pattinson: Cómo el protagonista de «Crepúsculo» se convirtió en el agente 007",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-17T02:38:11.000Z",
-      "updatedAt": "2026-11-17T05:37:27.995Z",
+      "updatedAt": "2026-11-17T05:41:08.146Z",
       "country": "China",
       "countryCode": "CN",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 99.02389166666667,
+      "importance": 98.90158555555556,
       "source": {
         "name": "BBC Chinese",
         "url": "https://www.bbc.com/zhongwen/articles/c893rgw9zrxqo/trad?at_medium=RSS&at_campaign=rss"
@@ -477,12 +477,12 @@
       "title": "Impuestos, vivienda, salario mínimo... los candidatos presidenciales de Francia debaten sus propuestas",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-17T02:35:48.000Z",
-      "updatedAt": "2026-11-17T05:37:26.053Z",
+      "updatedAt": "2026-11-17T05:41:04.581Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 98.9455261111111,
+      "importance": 98.82412166666667,
       "source": {
         "name": "France 24",
         "url": "https://www.france24.com/es/francia/20261117-impuestos-vivienda-salario-m%C3%ADnimo-los-candidatos-presidenciales-de-francia-debaten-sus-propuestas"
@@ -495,12 +495,12 @@
       "title": "Observaciones sobre la APEC en Shenzhen: Xi Jinping quiere decirle al mundo que China tiene el futuro en sus manos",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-17T02:09:22.000Z",
-      "updatedAt": "2026-11-17T05:37:27.995Z",
+      "updatedAt": "2026-11-17T05:41:08.145Z",
       "country": "China",
       "countryCode": "CN",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 98.06333611111111,
+      "importance": 97.94103055555556,
       "source": {
         "name": "BBC Chinese",
         "url": "https://www.bbc.com/zhongwen/articles/c893rg46x0ygo/trad?at_medium=RSS&at_campaign=rss"
@@ -513,12 +513,12 @@
       "title": "Lo que la apuesta de Pete Buttigieg en las elecciones legislativas de 2026 podría significar para 2028",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-17T02:03:05.000Z",
-      "updatedAt": "2026-11-17T05:37:28.649Z",
+      "updatedAt": "2026-11-17T05:41:09.119Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 97.85352833333333,
+      "importance": 97.731045,
       "source": {
         "name": "The New York Times",
         "url": "https://www.nytimes.com/2026/11/16/us/politics/pete-buttigieg-2028.html"
@@ -531,12 +531,12 @@
       "title": "Robert Pattinson es el nuevo James Bond: comienza una nueva era para 007",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-17T01:58:43.000Z",
-      "updatedAt": "2026-11-17T05:37:26.054Z",
+      "updatedAt": "2026-11-17T05:41:04.581Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 97.70941444444445,
+      "importance": 97.58801055555556,
       "source": {
         "name": "France 24",
         "url": "https://www.france24.com/es/video/20261117-robert-pattinson-es-el-nuevo-james-bond-comienza-una-nueva-era-para-007"
@@ -549,12 +549,12 @@
       "title": "El Niño Draws Sea Turtles to California’s Coast for the First Time",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-17T01:36:39.000Z",
-      "updatedAt": "2026-11-17T05:37:28.649Z",
+      "updatedAt": "2026-11-17T05:41:09.119Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 96.97241722222222,
+      "importance": 96.84993388888888,
       "source": {
         "name": "The New York Times",
         "url": "https://www.nytimes.com/2026/11/16/us/sea-turtles-california.html"
@@ -567,12 +567,12 @@
       "title": "En Kamyshevakha han concluido las labores de búsqueda: 72 muertos tras el ataque de Rusia",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-17T01:14:00.000Z",
-      "updatedAt": "2026-11-17T05:37:28.371Z",
+      "updatedAt": "2026-11-17T05:41:08.882Z",
       "country": "Rusia",
       "countryCode": "RU",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 96.21757166666667,
+      "importance": 96.09506555555555,
       "source": {
         "name": "DW Russian",
         "url": "https://www.dw.com/ru/в-камышевахе-завершены-поисковые-работы-72-погибших-после-удара-рф/a-79964421?maca=rus-rss-ru-top-1051-rdf"
@@ -585,12 +585,12 @@
       "title": "Cinco Estados de la UE anuncian planes para crear «centros de retorno» para inmigrantes en Ruanda",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-17T01:10:59.000Z",
-      "updatedAt": "2026-11-17T05:37:26.202Z",
+      "updatedAt": "2026-11-17T05:41:04.785Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 96.11822111111111,
+      "importance": 95.9967861111111,
       "source": {
         "name": "The Guardian",
         "url": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda"
@@ -603,12 +603,12 @@
       "title": "Trump apela a los tribunales estatales y federales para que anulen su condena penal por el pago de dinero para comprar el silencio",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-17T00:48:19.000Z",
-      "updatedAt": "2026-11-17T05:37:28.557Z",
+      "updatedAt": "2026-11-17T05:41:09.094Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 95.36135722222222,
+      "importance": 95.23883666666667,
       "source": {
         "name": "PBS NewsHour",
         "url": "https://www.pbs.org/newshour/politics/trump-appeals-to-state-and-federal-courts-to-erase-hush-money-criminal-conviction"
@@ -621,12 +621,12 @@
       "title": "Los multimillonarios rusos ya están imaginando una «era post-Putin»",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-17T00:34:50.000Z",
-      "updatedAt": "2026-11-17T05:37:27.995Z",
+      "updatedAt": "2026-11-17T05:41:08.145Z",
       "country": "China",
       "countryCode": "CN",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 94.912225,
+      "importance": 94.78991944444445,
       "source": {
         "name": "BBC Chinese",
         "url": "https://www.bbc.com/zhongwen/articles/cmx27v835864o/trad?at_medium=RSS&at_campaign=rss"
@@ -639,12 +639,12 @@
       "title": "Guerra interna por el control de Nvidia: la vuelta de Jensen Huang como CEO está encima de la mesa",
       "summary": "En poco menos de una semana, Jensen Huang pasó de ser uno de los CEO más alabados de Silicon Valley, a verse obligado a presentar su dimisión y dejar de dirigir Nvidia. Tras 33 años, Huang tiraba la toalla como CEO y anunciaba su dimisión como presidente, CEO y consejero, con efecto inmediato. Habían salido a la luz varias relaciones extramatrimoniales, una con una mujer sospechosa de lazos con la inteligencia china. Cuatro días después, la pregunta es otra: ¿puede volver? Nvidia llegó a la crisis sin sucesor claro. Ahora hay una directora interina, un consejo que busca a un candidato para que",
       "publishedAt": "2026-11-16T18:31:22.000Z",
-      "updatedAt": "2026-11-17T05:37:26.595Z",
+      "updatedAt": "2026-11-17T05:41:05.095Z",
       "country": "España",
       "countryCode": "ES",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 92.79744722222222,
+      "importance": 92.67605833333333,
       "source": {
         "name": "Xataka",
         "url": "https://www.xataka.com/empresas-y-economia/guerra-interna-control-nvidia-vuelta-jensen-huang-como-ceo-esta-encima-mesa"
@@ -657,12 +657,12 @@
       "title": "Un experto forense asegura que su análisis de las fotos de la autopsia de Epstein sugiere que el financiero fue asesinado en prisión",
       "summary": "El profesor Michael Freeman declaró a la BBC que cree que las lesiones del delincuente sexual convicto son compatibles con un homicidio.",
       "publishedAt": "2026-11-16T22:16:38.000Z",
-      "updatedAt": "2026-11-17T05:37:24.474Z",
+      "updatedAt": "2026-11-17T05:41:02.882Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 90.30751444444445,
+      "importance": 90.18617666666667,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/cwe9k0d7x9z0o?at_medium=RSS&at_campaign=rss"
@@ -675,12 +675,12 @@
       "title": "5 países de la Unión Europea anuncian la creación de un centro de deportación de migrantes en Ruanda",
       "summary": "Alemania, Dinamarca, Austria, Grecia y Países Bajos anunciaron la creación de un \"centro de retorno\" para los solicitantes de asilo cuyas peticiones hayan sido denegadas.",
       "publishedAt": "2026-11-16T21:35:10.000Z",
-      "updatedAt": "2026-11-17T05:37:24.474Z",
+      "updatedAt": "2026-11-17T05:41:02.882Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 88.92529222222223,
+      "importance": 88.80395444444444,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/cmlywv925gzlo?at_medium=RSS&at_campaign=rss"
@@ -693,12 +693,12 @@
       "title": "La «startup» de IA para la ciberseguridad Corma alcanza una valoración de 1000 millones de dólares en unos 3 meses",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T23:32:32.000Z",
-      "updatedAt": "2026-11-17T05:37:26.239Z",
+      "updatedAt": "2026-11-17T05:41:04.824Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 87.8365338888889,
+      "importance": 87.71509777777777,
       "source": {
         "name": "TechCrunch",
         "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
@@ -711,12 +711,12 @@
       "title": "El gigante cibernético Infoblox confirma un incidente de seguridad tras el acceso de «información de la empresa» por parte de hackers",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T22:12:31.000Z",
-      "updatedAt": "2026-11-17T05:37:26.239Z",
+      "updatedAt": "2026-11-17T05:41:04.824Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 85.16931166666667,
+      "importance": 85.04787555555555,
       "source": {
         "name": "TechCrunch",
         "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/"
@@ -729,12 +729,12 @@
       "title": "Todas las preguntas que Nvidia debería responder el martes, pero que probablemente no responderá",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T22:03:02.000Z",
-      "updatedAt": "2026-11-17T05:37:26.239Z",
+      "updatedAt": "2026-11-17T05:41:04.824Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 84.85320055555556,
+      "importance": 84.73176444444445,
       "source": {
         "name": "TechCrunch",
         "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/"
@@ -747,12 +747,12 @@
       "title": "Qué tan poderosas son las pandillas a las que se enfrenta Bukele en Haití",
       "summary": "El presidente de El Salvador ha enviado al menos 2.000 militares de fuerzas especiales al país caribeño.",
       "publishedAt": "2026-11-16T19:14:07.000Z",
-      "updatedAt": "2026-11-17T05:37:24.474Z",
+      "updatedAt": "2026-11-17T05:41:02.882Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 84.22362555555556,
+      "importance": 84.10228777777778,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/watch/cxj05r723gpjo?at_medium=RSS&at_campaign=rss"
@@ -765,12 +765,12 @@
       "title": "Apple presenta nuevos controles de seguridad para Mac a medida que los agentes de IA aumentan los riesgos para la privacidad",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T21:01:02.000Z",
-      "updatedAt": "2026-11-17T05:37:26.239Z",
+      "updatedAt": "2026-11-17T05:41:04.824Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 82.7865338888889,
+      "importance": 82.66509777777777,
       "source": {
         "name": "TechCrunch",
         "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/"
@@ -783,12 +783,12 @@
       "title": "El fiscal general del estado de California demanda a OpenAI por incidentes con agentes deshonestos",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T20:07:13.000Z",
-      "updatedAt": "2026-11-17T05:37:26.239Z",
+      "updatedAt": "2026-11-17T05:41:04.824Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 80.992645,
+      "importance": 80.87120888888889,
       "source": {
         "name": "TechCrunch",
         "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
@@ -801,12 +801,12 @@
       "title": "Tras el incidente de Jensen Huang, la gente se preocupa por la situación actual de la industria de los chips en China",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T15:36:00.000Z",
-      "updatedAt": "2026-11-17T05:37:28.020Z",
+      "updatedAt": "2026-11-17T05:41:08.392Z",
       "country": "China",
       "countryCode": "CN",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 76.9511,
+      "importance": 76.8286711111111,
       "source": {
         "name": "DW Chinese",
         "url": "https://www.dw.com/zh/黄仁勋事件后-人们关注中国的芯片产业现状/a-79961605?maca=chi-rss-chi-all-1127-rdf"
@@ -819,12 +819,12 @@
       "title": "Disminuye el número de estudiantes que van a Estados Unidos a estudiar. Algunos estudiantes se van a China en su lugar. ¿A qué se debe?",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-16T15:34:00.000Z",
-      "updatedAt": "2026-11-17T05:37:28.020Z",
+      "updatedAt": "2026-11-17T05:41:08.392Z",
       "country": "China",
       "countryCode": "CN",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 76.88443333333333,
+      "importance": 76.76200444444444,
       "source": {
         "name": "DW Chinese",
         "url": "https://www.dw.com/zh/赴美留学的人数减少-一些学生改赴中国-原因何在？/a-79961436?maca=chi-rss-chi-all-1127-rdf"
