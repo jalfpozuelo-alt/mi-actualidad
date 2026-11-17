@@ -21,13 +21,21 @@ const pick=(row,names)=>{for(const name of names){if(row[name]!=null&&row[name]!
 
 const checkedAt=new Date().toISOString();
 const checked=[];
+const sourceCache=new Map();
 for(const g of d.governments){
   if(!g.country||!g.leader||!g.party||!g.sourceUrl?.startsWith('https://')) throw new Error('Registro incompleto: '+(g.country||'país desconocido'));
   try{
-    const result=await timeoutFetch(g.sourceUrl);
+    let result=sourceCache.get(g.sourceUrl);
+    if(!result){
+      let lastError;
+      for(let attempt=0;attempt<3&&!result;attempt++){
+        try{result=await timeoutFetch(g.sourceUrl);sourceCache.set(g.sourceUrl,result)}catch(error){lastError=error;await new Promise(resolve=>setTimeout(resolve,1000*(attempt+1)))}
+      }
+      if(!result)throw lastError||new Error('fuente no accesible');
+    }
     checked.push({country:g.country,url:g.sourceUrl,status:result.status,bytes:result.body.length,checkedAt});
   }catch{
-    throw new Error('La fuente oficial de '+g.country+' no responde; se conserva la edición anterior');
+    throw new Error('La fuente oficial de '+g.country+' no responde tras varios intentos; se conserva la edición anterior');
   }
 }
 
