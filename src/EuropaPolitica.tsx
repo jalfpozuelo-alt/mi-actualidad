@@ -2,7 +2,7 @@ import React,{useEffect,useState} from 'react';
 type Government={country:string;leader:string;party:string;category:'red'|'purple'|'blue'|'green'|null;coalition?:string;majority?:string;since?:string;sourceUrl:string};
 type Dataset={verifiedAt:string|null;governments:Government[];excluded?:string[]};
 type Pipeline={stage:string;label:string;progress:number;ok:boolean};
-const colors={red:'#D84A52',purple:'#8854B8',blue:'#397BC6',green:'#31966B'};
+const colors={red:'#D84A52',purple:'#E0B52B',blue:'#397BC6',green:'#31966B'};
 const labels={red:'Progresistas',purple:'Liberales y centristas',blue:'Conservadores',green:'Derecha radical'};
 const members=['Alemania','Austria','Bélgica','Bulgaria','Chequia','Chipre','Croacia','Dinamarca','Eslovaquia','Eslovenia','España','Estonia','Finlandia','Francia','Grecia','Hungría','Irlanda','Italia','Letonia','Lituania','Luxemburgo','Malta','Países Bajos','Polonia','Portugal','Rumanía','Suecia'];
 const API='https://mi-actualidad.vercel.app/api';
