@@ -2,6 +2,9 @@ name: Actualización de gobiernos
 on:
   schedule: [{cron: '0 6 * * *'}]
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [scripts/update-governments.mjs, config/**, .github/workflows/governments.yml]
 permissions: {contents: write}
 concurrency: {group: governments-update, cancel-in-progress: true}
 jobs:
