@@ -17,3 +17,5 @@
 /* Portada más compacta */
 .hero{padding-bottom:22px!important}.hero+h2{margin-top:10px!important}
 @media(max-width:600px){.hero{padding-bottom:16px!important}.hero+h2{margin-top:6px!important}}
+
+.sourceBias{display:inline-flex;align-items:center;margin-left:.35rem;padding:.2rem .48rem;border-radius:999px;font-size:10px;font-weight:700;line-height:1;border:1px solid currentColor;white-space:nowrap}.sourceBias-progressive{color:#DC3545;background:color-mix(in srgb,#DC3545 12%,transparent)}.sourceBias-liberal{color:#9a7a00;background:color-mix(in srgb,#E5B700 18%,transparent)}.sourceBias-conservative{color:#2563B8;background:color-mix(in srgb,#2563B8 12%,transparent)}.sourceBias-unclassified{color:#69727c;background:color-mix(in srgb,#9299A3 16%,transparent)}.dark .sourceBias-progressive{color:#ff8790}.dark .sourceBias-liberal{color:#f4d65c}.dark .sourceBias-conservative{color:#78adff}.dark .sourceBias-unclassified{color:#c0c8d0}@media(max-width:600px){.sourceBias{font-size:9px;padding:.18rem .38rem}}
