@@ -86,9 +86,12 @@ for(const g of d.governments){
   }
   const score=Number(pick(match,['lrgen','lrgen_mean','lrgen_2024','left_right']));
   const galtan=Number(pick(match,['galtan','galtan_mean','galtan_2024']));
-  if(!Number.isFinite(score)) throw new Error('CHES no aporta orientación para '+g.country+'; se conserva la edición anterior');
-  g.category=score<=3?'red':score<=5?'purple':score>=7&&Number.isFinite(galtan)&&galtan>=6?'green':'blue';
-  comparative.push({country:g.country,party:g.party,matchedParty:pick(match,['party_name_short','partyname_short','party_name','partyname','party']),score,galtan:Number.isFinite(galtan)?galtan:null,category:g.category,source:chesUrl,checkedAt});
+  const family=Number(pick(match,['family']));
+  if(!Number.isFinite(score)&&!Number.isFinite(family)) throw new Error('CHES no aporta orientación para '+g.country+'; se conserva la edición anterior');
+  // La familia partidista documentada tiene prioridad sobre un corte numérico arbitrario.
+  const familyCategory={1:'green',3:'purple',4:'blue',5:'red',6:'red',7:'red',8:'purple',9:'blue',10:'purple'};
+  g.category=familyCategory[family]||(score<=3?'red':score<=5?'purple':score>=7&&Number.isFinite(galtan)&&galtan>=6?'green':'blue');
+  comparative.push({country:g.country,party:g.party,matchedParty:pick(match,['party_name_short','partyname_short','party_name','partyname','party']),score,galtan:Number.isFinite(galtan)?galtan:null,family:Number.isFinite(family)?family:null,category:g.category,source:chesUrl,checkedAt});
 }
 
 d.verifiedAt=checkedAt;
