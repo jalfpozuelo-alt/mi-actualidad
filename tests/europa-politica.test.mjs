@@ -37,8 +37,17 @@ test('Italia y Bélgica aplican el contraste far-right de PopuList',()=>{
 
 test('los pendientes no se convierten silenciosamente en una categoría',()=>{
  const pending=data.governments.filter(g=>g.status==='pending');
- assert.ok(pending.length>0);
+ assert.ok(pending.length>=0);
  assert.ok(pending.every(g=>g.category===null));
+});
+
+test('los seis ejecutivos antes pendientes tienen categoría explícita',()=>{
+ for(const country of ['Bulgaria','Chipre','Hungría','Letonia','Lituania','Rumanía']) {
+  const g=data.governments.find(x=>x.country===country);
+  assert.ok(g.executiveParty);
+  assert.ok(categories[g.category]);
+ }
+});
 });
 
 test('la suma de categorías es 27',()=>{
