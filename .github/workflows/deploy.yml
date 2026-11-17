@@ -4,7 +4,7 @@ on:
   push: {branches: [main]}
   workflow_dispatch:
   workflow_run:
-    workflows: ["Generación de boletín"]
+    workflows: ["Generación de boletín", "Actualización de gobiernos"]
     types: [completed]
 permissions: {contents: read, pages: write, id-token: write}
 concurrency: {group: pages, cancel-in-progress: false}
