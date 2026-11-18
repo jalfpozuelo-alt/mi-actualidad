@@ -1,20 +1,80 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T19:09:10.951Z",
+  "generatedAt": "2026-11-18T19:16:38.436Z",
   "isEditoriallyValidated": false,
   "summaryStatus": "pending-editorial-review",
   "stories": [
+    {
+      "id": "france24-37bce25f4bd172e6",
+      "title": "Sin final a la vista: Irán promete ataques \"más devastadores\" y Arabia Saudita prevé un conflicto largo con los hutíes",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-18T19:12:40.000Z",
+      "updatedAt": "2026-11-18T19:16:22.075Z",
+      "country": "Francia",
+      "countryCode": "FR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 115.876625,
+      "source": {
+        "name": "France 24",
+        "url": "https://www.france24.com/es/medio-oriente/20261118-sin-final-a-la-vista-ir%C3%A1n-promete-ataques-m%C3%A1s-devastadores-y-arabia-saudita-prev%C3%A9-un-conflicto-largo-con-los-hut%C3%ADes"
+      },
+      "topicKey": "arabia|ataques|devastadores|final|iran|promete|saudita|vista",
+      "image": "https://s.france24.com/media/display/b953010e-e380-11f1-b923-c5c0357b2a0c/w:1024/p:16x9/2026-11-17T201416Z-193291447-RC2VPOAP80P9-RTRMADP-3-IRAN-CRISIS-SAUDI-YEMEN.jpg",
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "france24-59507d15a609d9f2",
+      "title": "Directo a... Washington y los demócratas nominan a Hakeem Jeffries para presidir la Cámara Baja",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-18T19:05:33.000Z",
+      "updatedAt": "2026-11-18T19:16:22.075Z",
+      "country": "Francia",
+      "countryCode": "FR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 115.63940277777778,
+      "source": {
+        "name": "France 24",
+        "url": "https://www.france24.com/es/video/20261118-directo-a-washington-y-los-dem%C3%B3cratas-nominan-a-hakeem-jeffries-para-presidir-la-c%C3%A1mara-baja"
+      },
+      "topicKey": "camara|democratas|directo|hakeem|jeffries|nominan|presidir|washington",
+      "image": "https://s.france24.com/media/display/c5a2d88c-e37e-11f1-8953-6d75ed565170/w:1024/p:16x9/ES-20261118-124502-124910-CS.jpg",
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "france24-920d43c3cd6f5455",
+      "title": "Xi recibe a Trump y a Putin en Shenzhen antes de un inédito encuentro trilateral",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-18T19:04:44.000Z",
+      "updatedAt": "2026-11-18T19:16:22.075Z",
+      "country": "Francia",
+      "countryCode": "FR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 115.61218055555555,
+      "source": {
+        "name": "France 24",
+        "url": "https://www.france24.com/es/video/20261118-xi-recibe-a-trump-y-a-putin-en-shenzhen-antes-de-un-in%C3%A9dito-encuentro-trilateral"
+      },
+      "topicKey": "antes|encuentro|inedito|putin|recibe|shenzhen|trilateral|trump",
+      "image": "https://s.france24.com/media/display/f78ca70c-e37d-11f1-83fb-c5c0357b2a0c/w:1024/p:16x9/ES-20261118-123344-123502-CS.jpg",
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
     {
       "id": "france24-d10f9e16fb8073f0",
       "title": "\"Me tomaré cuatro días libres\": furor por el videojuego Grand Theft Auto, que regresa tras 13 años",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-18T19:00:21.000Z",
-      "updatedAt": "2026-11-18T19:08:29.440Z",
+      "updatedAt": "2026-11-18T19:16:22.075Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 115.72864444444444,
+      "importance": 115.46606944444444,
       "source": {
         "name": "France 24",
         "url": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20261118-me-tomar%C3%A9-cuatro-d%C3%ADas-libres-furor-por-el-videojuego-grand-theft-auto-que-regresa-tras-13-a%C3%B1os"
@@ -25,36 +85,16 @@
       "isEditorialSummary": false
     },
     {
-      "id": "nyt-us-1a5115cb92d28c75",
-      "title": "Trump llega a China centrado en la amistad con Xi, no en el escándalo de espionaje de Nvidia",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T18:52:04.000Z",
-      "updatedAt": "2026-11-18T19:08:44.971Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 115.443905,
-      "source": {
-        "name": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/18/us/politics/trump-xi-shenzhen-spy-scandal.html"
-      },
-      "topicKey": "amistad|centrado|china|escandalo|espionaje|llega|nvidia|trump",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
       "id": "france24-d484d43490378f41",
       "title": "Directo Latam y El Salvador se suma a la lucha contra las bandas criminales en Haití",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-18T18:27:59.000Z",
-      "updatedAt": "2026-11-18T19:08:29.440Z",
+      "updatedAt": "2026-11-18T19:16:22.075Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 114.64975555555556,
+      "importance": 114.38718055555556,
       "source": {
         "name": "France 24",
         "url": "https://www.france24.com/es/video/20261118-directo-latam-y-el-salvador-se-suma-a-la-lucha-contra-las-bandas-criminales-en-hait%C3%AD"
@@ -65,121 +105,81 @@
       "isEditorialSummary": false
     },
     {
-      "id": "france24-a87a2e7d6762c1c0",
-      "title": "Sarampión se expande en América: EE. UU., Bolivia y México pierden certificación",
+      "id": "ria-ru-d1e481757b231034",
+      "title": "Lerchek y el padre de su cuarto hijo han hablado sobre sus planes de boda.",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T18:26:32.000Z",
-      "updatedAt": "2026-11-18T19:08:29.440Z",
-      "country": "Francia",
-      "countryCode": "FR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 114.60142222222223,
-      "source": {
-        "name": "France 24",
-        "url": "https://www.france24.com/es/video/20261118-sarampi%C3%B3n-se-expande-en-am%C3%A9rica-ee-uu-bolivia-y-m%C3%A9xico-pierden-certificaci%C3%B3n"
-      },
-      "topicKey": "america|bolivia|certificacion|expande|mexico|pierden|sarampion",
-      "image": "https://s.france24.com/media/display/35427626-e379-11f1-9de1-1ba7ddfab527/w:1024/p:16x9/ES-20261118-074254-074430-CS.jpg",
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "france24-3788a5afcf7975d7",
-      "title": "Cumbre APEC: avanzan los temas económicos más allá del encuentro entre Xi, Trump y Putin",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T18:23:31.000Z",
-      "updatedAt": "2026-11-18T19:08:29.440Z",
-      "country": "Francia",
-      "countryCode": "FR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 114.50086666666667,
-      "source": {
-        "name": "France 24",
-        "url": "https://www.france24.com/es/programas/econom%C3%ADa/20261118-economia-china-apec-rusia-comercio"
-      },
-      "topicKey": "alla|apec|avanzan|cumbre|economicos|encuentro|temas|trump",
-      "image": "https://s.france24.com/media/display/9e16d31a-e377-11f1-b667-ff16da94d1fe/w:1024/p:16x9/2026-11-18T135312Z-606932417-RC2BQOANH2WZ-RTRMADP-3-APEC-SUMMIT.jpg",
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "france24-2d3adee371e6350c",
-      "title": "13 años después, el fenómeno cultural de GTA VI se apodera del mundo",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T18:03:15.000Z",
-      "updatedAt": "2026-11-18T19:08:29.440Z",
-      "country": "Francia",
-      "countryCode": "FR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 113.8253111111111,
-      "source": {
-        "name": "France 24",
-        "url": "https://www.france24.com/es/video/20261118-13-a%C3%B1os-despu%C3%A9s-el-fen%C3%B3meno-cultural-de-gta-vi-se-apodera-del-mundo"
-      },
-      "topicKey": "anos|apodera|cultural|despues|fenomeno|mundo",
-      "image": "https://s.france24.com/media/display/731d7140-e373-11f1-9c40-6d75ed565170/w:1024/p:16x9/GTA-VI.png",
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "nyt-us-a486a12b284bf19a",
-      "title": "El senador Bill Cassidy bloquea el nombramiento de Trump para dirigir la Agencia de Ciencia",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T17:47:25.000Z",
-      "updatedAt": "2026-11-18T19:08:45.742Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 113.28847666666667,
-      "source": {
-        "name": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/18/us/politics/bill-cassidy-jim-oneill-science.html"
-      },
-      "topicKey": "agencia|bill|bloquea|cassidy|dirigir|nombramiento|senador|trump",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "nyt-us-62cfb00a57ddf5eb",
-      "title": "Trump se siente cada vez más frustrado con Vance por sus críticas a la guerra de Irán",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T17:15:08.000Z",
-      "updatedAt": "2026-11-18T19:08:46.421Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 112.21198833333334,
-      "source": {
-        "name": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/18/us/politics/vance-trump-iran-2028-election-rubio.html"
-      },
-      "topicKey": "cada|criticas|frustrado|guerra|iran|siente|trump|vance",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "ria-ru-57b5a30cf42f1676",
-      "title": "En la región de Rostov se han modificado los itinerarios de los autobuses en tres carreteras",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T19:04:01.000Z",
-      "updatedAt": "2026-11-18T19:09:00.460Z",
+      "publishedAt": "2026-11-18T19:13:02.000Z",
+      "updatedAt": "2026-11-18T19:16:29.934Z",
       "country": "Rusia",
       "countryCode": "RU",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.83363388888888,
+      "importance": 111.88448111111111,
       "source": {
         "name": "RIA Novosti",
-        "url": "https://ria.ru/20261118/avtobus-2132509769.html"
+        "url": "https://ria.ru/20261118/bloger-2132510502.html"
       },
-      "topicKey": "autobuses|carreteras|itinerarios|modificado|region|rostov|tres",
+      "topicKey": "boda|cuarto|hablado|hijo|lerchek|padre|planes",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "ria-ru-d2fc6e8195987a06",
+      "title": "Los cirujanos salvaron a un luchador al que le detectaron un aneurisma arterial durante una operación",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-18T19:11:39.000Z",
+      "updatedAt": "2026-11-18T19:16:30.715Z",
+      "country": "Rusia",
+      "countryCode": "RU",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 111.8379361111111,
+      "source": {
+        "name": "RIA Novosti",
+        "url": "https://ria.ru/20261118/hirurgi-2132510323.html"
+      },
+      "topicKey": "aneurisma|arterial|cirujanos|detectaron|durante|luchador|operacion|salvaron",
+      "image": "https://cdnn21.imgria.ru/images/96059/95/960599532_0:102:2000:1227_650x0_80_0_0_d715030e661886342b5d338645407edd.jpg",
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "lanacion-ar-a92f93f3a56c8f55",
+      "title": "Sin disparar ni un tiro: cómo fue el robo de 21 millones de dólares al banco de Bariloche que se cuenta en la serie “Gordon”",
+      "summary": "Antes de sumergirse en el submundo de la violencia política argentina, Aníbal Gordon encabezó el atraco a una entidad bancaria que fue el más importante en la historia de la Patagonia y que se retrata en la miniserie que lanza hoy Netflix",
+      "publishedAt": "2026-11-18T19:07:36.000Z",
+      "updatedAt": "2026-11-18T19:16:25.278Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 111.70595666666667,
+      "source": {
+        "name": "La Nación",
+        "url": "https://www.lanacion.com.ar/lifestyle/sin-un-solo-tiro-como-fue-el-robo-de-21-millones-de-dolares-al-banco-de-bariloche-que-se-cuenta-en-nid18112026/"
+      },
+      "topicKey": "banco|bariloche|cuenta|disparar|dolares|millones|robo|tiro",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "lanacion-ar-32d2801a42fcc64c",
+      "title": "Uno por uno, los dirigentes del PJ y el kirchnerismo que se mostraron con Sergio Massa",
+      "summary": "El exministro de Economía levantó el perfil después de tres años de moverse con sigilo; fue en un acto en San Fernando, rodeado de peronistas federales, kirchneristas y de las provincias; el gran ausente fue Kicillof",
+      "publishedAt": "2026-11-18T19:06:00.000Z",
+      "updatedAt": "2026-11-18T19:16:25.278Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 111.65262333333334,
+      "source": {
+        "name": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/uno-por-uno-los-dirigentes-del-pj-y-el-kirchnerismo-que-se-mostraron-con-sergio-massa-nid18112026/"
+      },
+      "topicKey": "dirigentes|kirchnerismo|massa|mostraron|sergio",
       "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -189,12 +189,12 @@
       "title": "Mauricio Macri, 67 años, sobre su rutina de entrenamiento: “Descubrí algo increíble haciendo pilates”",
       "summary": "Mauricio Macri compartió su rutina, sus cuidados y qué busca en una pareja en una entrevista que le hicieron por streaming",
       "publishedAt": "2026-11-18T19:02:56.000Z",
-      "updatedAt": "2026-11-18T19:08:38.732Z",
+      "updatedAt": "2026-11-18T19:16:25.278Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.80959333333334,
+      "importance": 111.55040111111111,
       "source": {
         "name": "La Nación",
         "url": "https://www.lanacion.com.ar/salud/vida_sana/mauricio-macri-67-anos-sobre-su-rutina-de-entrenamiento-descubri-algo-increible-haciendo-pilates-nid18112026/"
@@ -209,12 +209,12 @@
       "title": "Mariano Chihade, esposo de Mariana Fabbiani, fue operado con éxito: “Seguimos rezando por su salud”",
       "summary": "El productor y fundador de la productora Mandarina Contenidos fue intervenido esta mañana tras ser diagnosticado con un nódulo en su cerebro",
       "publishedAt": "2026-11-18T19:01:29.000Z",
-      "updatedAt": "2026-11-18T19:08:38.732Z",
+      "updatedAt": "2026-11-18T19:16:25.278Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.76126,
+      "importance": 111.50206777777778,
       "source": {
         "name": "La Nación",
         "url": "https://www.lanacion.com.ar/espectaculos/personajes/mariano-chihade-esposo-de-mariana-fabbiani-fue-operado-con-exito-seguimos-rezando-por-su-salud-nid18112026/"
@@ -229,12 +229,12 @@
       "title": "Lanzamiento del Grand Theft Auto VI (GTA 6), EN VIVO: primera crítica, a qué hora se puede jugar y todas las novedades",
       "summary": "Todo lo que necesitás saber sobre el juego del año",
       "publishedAt": "2026-11-18T19:00:56.000Z",
-      "updatedAt": "2026-11-18T19:08:38.732Z",
+      "updatedAt": "2026-11-18T19:16:25.278Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.74292666666666,
+      "importance": 111.48373444444445,
       "source": {
         "name": "La Nación",
         "url": "https://www.lanacion.com.ar/tecnologia/lanzamiento-de-gta-6-en-vivo-primera-critica-a-que-hora-se-puede-jugar-y-todas-las-novedades-de-las-nid18112026/"
@@ -245,241 +245,61 @@
       "isEditorialSummary": false
     },
     {
-      "id": "ria-ru-fd824f24f9d84e74",
-      "title": "Estados Unidos no ve una amenaza inminente de que Irán utilice una «bomba sucia»",
+      "id": "verge-ai-a19f9e7086b4fb8d",
+      "title": "Las demandas contra empresas tecnológicas marcaron 2026, y los legisladores quieren más",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T18:59:47.000Z",
-      "updatedAt": "2026-11-18T19:09:01.332Z",
-      "country": "Rusia",
-      "countryCode": "RU",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.69203777777778,
-      "source": {
-        "name": "RIA Novosti",
-        "url": "https://ria.ru/20261118/ssha-2132509251.html"
-      },
-      "topicKey": "amenaza|bomba|estados|inminente|iran|sucia|unidos|utilice",
-      "image": "https://cdnn21.imgria.ru/images/147625/66/1476256612_0:206:2962:1872_650x0_80_0_0_bac0a01fd9557a08ebd806bff3e1c21d.jpg",
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "lanacion-ar-c48d01fbd06ebc7f",
-      "title": "Se aproximan 96 horas de calor, tormentas severas, “episodios húmedos” y ráfagas de más de 90 km/h: las zonas afectadas",
-      "summary": "El noreste concentrará las precipitaciones más intensas, mientras que el AMBA alternará mejoras con nuevas lluvias; cómo se perfila el fin de semana",
-      "publishedAt": "2026-11-18T18:51:34.000Z",
-      "updatedAt": "2026-11-18T19:08:38.732Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.43070444444444,
-      "source": {
-        "name": "La Nación",
-        "url": "https://www.lanacion.com.ar/sociedad/se-aproximan-96-horas-de-calor-tormentas-severas-episodios-humedos-y-rafagas-de-mas-de-90-kmh-las-nid18112026/"
-      },
-      "topicKey": "aproximan|calor|episodios|horas|humedos|rafagas|severas|tormentas",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "deutschlandfunk-de-325160bbb5ecf409",
-      "title": "PFAS - Tribunal de Cuentas: la UE hace demasiado poco contra los «contaminantes eternos»",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T18:48:44.000Z",
-      "updatedAt": "2026-11-18T19:08:52.847Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.32841833333333,
-      "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/rechnungshof-eu-unternimmt-zu-wenig-gegen-ewigkeitschemikalien-102.html"
-      },
-      "topicKey": "contaminantes|contra|cuentas|demasiado|hace|pfas|poco|tribunal",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "deutschlandfunk-de-eba8ef30eb0a0a36",
-      "title": "Encuentro en Shenzhen: primer saludo de Xi, Trump y Putin antes de la cumbre tripartita",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T18:48:44.000Z",
-      "updatedAt": "2026-11-18T19:08:53.796Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.32789111111111,
-      "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/erste-begruessung-von-xi-trump-und-putin-vor-dreiergipfel-100.html"
-      },
-      "topicKey": "antes|cumbre|encuentro|primer|putin|saludo|shenzhen|trump",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "deutschlandfunk-de-f3367330544f04a1",
-      "title": "Oriente Medio - El ejército israelí inicia una nueva operación en la Franja de Gaza",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T18:48:44.000Z",
-      "updatedAt": "2026-11-18T19:08:54.591Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.32745,
-      "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/israels-armee-beginnt-neuen-einsatz-im-gazastreifen-100.html"
-      },
-      "topicKey": "ejercito|franja|inicia|israeli|medio|nueva|operacion|oriente",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "deutschlandfunk-de-0fc731476e0eec4e",
-      "title": "Polonia: El expresidente del Tribunal Constitucional pierde su inmunidad",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T18:48:44.000Z",
-      "updatedAt": "2026-11-18T19:08:55.422Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.32698777777777,
-      "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/abgeloester-praesident-des-verfassungsgerichts-verliert-immunitaet-100.html"
-      },
-      "topicKey": "constitucional|expresidente|inmunidad|pierde|polonia|tribunal",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "deutschlandfunk-de-5ec9285c5931d2b1",
-      "title": "OIEA - Corea del Norte amplía su programa nuclear",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T18:48:44.000Z",
-      "updatedAt": "2026-11-18T19:08:56.188Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.32656222222222,
-      "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/nordkorea-baut-nuklearprogramm-aus-100.html"
-      },
-      "topicKey": "amplia|corea|norte|nuclear|oiea|programa",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "ria-ru-9b18854a0471e807",
-      "title": "Portugal se ha negado a entregar más cazas a Ucrania",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T18:48:17.000Z",
-      "updatedAt": "2026-11-18T19:09:03.167Z",
-      "country": "Rusia",
-      "countryCode": "RU",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.307685,
-      "source": {
-        "name": "RIA Novosti",
-        "url": "https://ria.ru/20261118/portugalija-2132508859.html"
-      },
-      "topicKey": "cazas|entregar|negado|portugal|ucrania",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "ria-ru-7a5e741282c5acd7",
-      "title": "El primer reactor de la central nuclear de Akkuyu suministrará electricidad a millones de personas",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T18:44:00.000Z",
-      "updatedAt": "2026-11-18T19:09:04.688Z",
-      "country": "Rusia",
-      "countryCode": "RU",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.16406222222223,
-      "source": {
-        "name": "RIA Novosti",
-        "url": "https://ria.ru/20261118/energoblok-2132508472.html"
-      },
-      "topicKey": "akkuyu|central|electricidad|millones|nuclear|primer|reactor|suministrara",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "nyt-us-d095c82edb5aa556",
-      "title": "Los demócratas nominan a Hakeem Jeffries como presidente de la Cámara de Representantes, haciendo historia",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T16:42:43.000Z",
-      "updatedAt": "2026-11-18T19:08:47.997Z",
+      "publishedAt": "2026-11-18T19:07:29.000Z",
+      "updatedAt": "2026-11-18T19:16:36.184Z",
       "country": "Estados Unidos",
       "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.13055722222222,
+      "section": "Tecnología",
+      "category": "Tecnología",
+      "importance": 109.69600944444444,
       "source": {
-        "name": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/18/us/politics/hakeem-jeffries-speaker-of-the-house-democrats.html"
+        "name": "The Verge AI",
+        "url": "https://www.theverge.com/policy/1036935/congress-forced-arbitration-deepfakes-defiance-act"
       },
-      "topicKey": "camara|democratas|haciendo|hakeem|jeffries|nominan|presidente|representantes",
+      "topicKey": "2026|contra|demandas|empresas|legisladores|marcaron|quieren|tecnologicas",
       "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "clarin-ar-841a78f84cb06a1f",
-      "title": "La Plata cumple 144 años y tendrá un feriado este jueves 19 de noviembre: quiénes no trabajan",
-      "summary": "La ciudad tendrá asueto administrativo y día no laborable por su 144° aniversario. Qué sectores tendrán el día libre y cómo funcionarán los comercios.",
-      "publishedAt": "2026-11-18T18:42:24.000Z",
-      "updatedAt": "2026-11-18T19:08:29.540Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.13025555555555,
+      "id": "verge-ai-d7174b90d189e047",
+      "title": "¿Qué es Nvidia sin su «sugar daddy» de la IA al mando?",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-18T18:34:15.000Z",
+      "updatedAt": "2026-11-18T19:16:36.959Z",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "section": "Tecnología",
+      "category": "Tecnología",
+      "importance": 108.58780055555556,
       "source": {
-        "name": "Clarín",
-        "url": "https://www.clarin.com/informacion-general/plata-cumple-144-anos-feriado-jueves-19-noviembre-trabajan_0_jETpi5FSgI.html"
+        "name": "The Verge AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition"
       },
-      "topicKey": "anos|cumple|feriado|jueves|noviembre|plata|quienes|tendra",
-      "image": "https://www.clarin.com/img/2026/11/18/ropwi0PsC_1200x630__1.jpg",
+      "topicKey": "daddy|mando|nvidia|sugar",
+      "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "npr-us-c4915d5429f3bbeb",
-      "title": "A medida que disminuyen las muertes por sobredosis, la Casa Blanca hace afirmaciones engañosas sobre quién merece el mérito",
+      "id": "verge-ai-00a34e9a7fe6f28e",
+      "title": "Los nuevos animatrónicos de Star Wars de Disney interactúan con los visitantes gracias a la IA",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T18:18:16.000Z",
-      "updatedAt": "2026-11-18T19:08:26.180Z",
+      "publishedAt": "2026-11-18T17:50:57.000Z",
+      "updatedAt": "2026-11-18T19:16:37.700Z",
       "country": "Estados Unidos",
       "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 110.32767777777778,
+      "section": "Tecnología",
+      "category": "Tecnología",
+      "importance": 107.14405555555555,
       "source": {
-        "name": "NPR",
-        "url": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl"
+        "name": "The Verge AI",
+        "url": "https://www.theverge.com/tech/1036729/disney-star-wars-anzellans-animatronic-amazon-aws-cloud-ai"
       },
-      "topicKey": "afirmaciones|blanca|casa|disminuyen|hace|medida|muertes|sobredosis",
+      "topicKey": "animatronicos|disney|gracias|interactuan|nuevos|star|visitantes|wars",
       "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -489,12 +309,12 @@
       "title": "PP y Vox mantienen su mayoría, Podemos baja del 1% y los bloques se estancan a la espera del voto de un 14,3% de indecisos",
       "summary": "El PSOE sigue rascando décimas a su izquierda, pero la ventaja de la derecha no se altera y permanece entre 185 y 196 escaños Leer",
       "publishedAt": "2026-11-18T19:00:28.000Z",
-      "updatedAt": "2026-11-18T19:08:31.355Z",
+      "updatedAt": "2026-11-18T19:16:22.775Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 106.73146944444444,
+      "importance": 106.46956944444445,
       "source": {
         "name": "EL MUNDO",
         "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/18/6afdd75c21efa083408b45b2.html"
@@ -505,36 +325,16 @@
       "isEditorialSummary": false
     },
     {
-      "id": "chinanews-cn-7af676a3535b86a1",
-      "title": "El nuevo fósil de Homo erectus descubierto en Guangxi, China, ayudará a resolver un enigma clave sobre la evolución humana temprana",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T16:07:40.000Z",
-      "updatedAt": "2026-11-18T19:09:07.666Z",
-      "country": "China",
-      "countryCode": "CN",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 105.95129666666666,
-      "source": {
-        "name": "China News Service",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-19/10734432.shtml"
-      },
-      "topicKey": "ayudara|china|descubierto|erectus|fosil|guangxi|homo|nuevo",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
       "id": "elpais-77fa1a11f1899cb9",
       "title": "Sánchez, en Antena 3: “Absoluta tranquilidad, el PSOE no se ha financiado irregularmente”",
       "summary": "El presidente defiende su gestión en una entrevista en ‘Espejo Público’ y recuerda que al tesorero del PP le encontraron 50 millones en Suiza",
       "publishedAt": "2026-11-18T18:34:18.000Z",
-      "updatedAt": "2026-11-18T19:08:22.492Z",
+      "updatedAt": "2026-11-18T19:16:20.126Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 105.8641711111111,
+      "importance": 105.59881888888889,
       "source": {
         "name": "EL PAÍS",
         "url": "https://elpais.com/espana/elecciones-generales/2026-11-18/sanchez-en-antena-3-absoluta-tranquilidad-el-psoe-no-se-ha-financiado-irregularmente.html"
@@ -549,12 +349,12 @@
       "title": "Ex dirigentes de PSOE, UCD, CiU, Cs y PP, junto a académicos, abogan por el cambio político en España el 29-N",
       "summary": "Reclaman, en un manifiesto, la alternancia en el Gobierno y reivindican la independencia de las instituciones, la dignidad de la política y la apertura de una nueva etapa de concordia tras Sánchez Leer",
       "publishedAt": "2026-11-18T18:33:17.000Z",
-      "updatedAt": "2026-11-18T19:08:31.356Z",
+      "updatedAt": "2026-11-18T19:16:22.775Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 105.82535777777778,
+      "importance": 105.56345833333333,
       "source": {
         "name": "EL MUNDO",
         "url": "https://www.elmundo.es/cataluna/2026/11/18/6afdbd5bfdddff1f688b457b.html"
@@ -569,12 +369,12 @@
       "title": "El inusual encuentro con los awá, un grupo de indígenas aislados en Brasil (y por qué genera preocupación)",
       "summary": "Unos 20 integrantes del pueblo awá se acercó a la tribu de los guajajara e intercambiaron alimentos, lo que disparó de inmediato las alarmas.",
       "publishedAt": "2026-11-18T13:19:32.000Z",
-      "updatedAt": "2026-11-18T19:08:22.821Z",
+      "updatedAt": "2026-11-18T19:16:20.319Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 104.37176611111111,
+      "importance": 104.10648944444445,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/cmglry191y9xo?at_medium=RSS&at_campaign=rss"
@@ -585,36 +385,16 @@
       "isEditorialSummary": false
     },
     {
-      "id": "chinanews-cn-0725cf0507dc4dee",
-      "title": "Dar conferencias en universidades, promocionar cerezas, probar platos típicos de su tierra natal... Los líderes de distintos países no paran de trabajar en Shenzhen",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T14:55:01.000Z",
-      "updatedAt": "2026-11-18T19:09:08.933Z",
-      "country": "China",
-      "countryCode": "CN",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 103.5289261111111,
-      "source": {
-        "name": "China News Service",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734423.shtml"
-      },
-      "topicKey": "cerezas|conferencias|platos|probar|promocionar|tierra|tipicos|universidades",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
       "id": "elpais-7d51b3080ebdd07a",
       "title": "El Congreso aprueba siete decretos sociales con un amplísimo respaldo pero entre críticas de campaña",
       "summary": "La Diputación Permanente convalida medidas para Ceuta, las danas, los accidentes ferroviarios, las familias monomarentales y más dependencia",
       "publishedAt": "2026-11-18T17:10:51.000Z",
-      "updatedAt": "2026-11-18T19:08:22.492Z",
+      "updatedAt": "2026-11-18T19:16:20.125Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 103.08250444444444,
+      "importance": 102.81715277777778,
       "source": {
         "name": "EL PAÍS",
         "url": "https://elpais.com/espana/2026-11-18/el-congreso-aprueba-siete-decretos-sociales-con-un-amplisimo-respaldo-pero-entre-criticas-de-campana.html"
@@ -629,12 +409,12 @@
       "title": "No podíamos pagar una casa para nuestra familia, así que compramos una con desconocidos",
       "summary": "Hay personas y familias en Canadá que no pueden permitirse adquirir una vivienda por sus precios elevados y buscan cómo asociarse a otros que estén en su misma situación.",
       "publishedAt": "2026-11-18T11:50:32.000Z",
-      "updatedAt": "2026-11-18T19:08:22.821Z",
+      "updatedAt": "2026-11-18T19:16:20.320Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 101.40509944444445,
+      "importance": 101.13982222222222,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/cmzx95xnwdd6o?at_medium=RSS&at_campaign=rss"
@@ -649,12 +429,12 @@
       "title": "Encuentran una falla crítica en Java, el lenguaje de programación del que dependen el 90% de las grandes compañías del mundo",
       "summary": "La misma empresa tecnológica emergente que descubrió una vulnerabilidad en PHP utilizó inteligencia artificial para descubrir un fallo crítico de software en uno de los lenguajes de programación más populares del mundo.",
       "publishedAt": "2026-11-18T11:28:37.000Z",
-      "updatedAt": "2026-11-18T19:08:22.821Z",
+      "updatedAt": "2026-11-18T19:16:20.320Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 100.67454388888889,
+      "importance": 100.40926666666667,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/cwvg2enzxdm9o?at_medium=RSS&at_campaign=rss"
@@ -669,12 +449,12 @@
       "title": "El disco de oro con mensajes para los extraterrestres que transporta la sonda Voyager 1 (y cómo podrán descifrarlo)",
       "summary": "Las sondas Voyager 1 y Voyager 2 fueron lanzadas al espacio con discos de oro que contienen mensajes para civilizaciones extraterrestres.",
       "publishedAt": "2026-11-18T11:27:58.000Z",
-      "updatedAt": "2026-11-18T19:08:22.821Z",
+      "updatedAt": "2026-11-18T19:16:20.320Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 100.65287722222223,
+      "importance": 100.3876,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/ck1l0v4yy6p0o?at_medium=RSS&at_campaign=rss"
@@ -689,12 +469,12 @@
       "title": "\"Hola delincuentes\": Albiol coloca vallas contra las okupaciones y los multirreincidentes en el área metropolitana de Barcelona",
       "summary": "El cartel contra la delincuencia está escrito en castellano y en árabe Leer",
       "publishedAt": "2026-11-18T15:00:28.000Z",
-      "updatedAt": "2026-11-18T19:08:31.356Z",
+      "updatedAt": "2026-11-18T19:16:22.775Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 98.73146888888888,
+      "importance": 98.46956944444445,
       "source": {
         "name": "EL MUNDO",
         "url": "https://www.elmundo.es/cataluna/2026/11/18/6afdb6f9fc6c83ed388b45a0.html"
@@ -709,12 +489,12 @@
       "title": "Por qué la histórica cumbre entre Trump, Putin y Xi preocupa a Europa (y qué puede significar para el resto del mundo)",
       "summary": "Los preparativos para la primera reunión trilateral de los líderes de China, Rusia y Estados Unidos han generado alarma en Europa, donde algunos ven paralelismos con la división del mundo en esferas de influencia tras la Segunda Guerra Mundial.",
       "publishedAt": "2026-11-18T04:04:11.000Z",
-      "updatedAt": "2026-11-18T19:08:22.820Z",
+      "updatedAt": "2026-11-18T19:16:20.319Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 85.8601,
+      "importance": 85.59482277777778,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/cmwy98z3727vo?at_medium=RSS&at_campaign=rss"
