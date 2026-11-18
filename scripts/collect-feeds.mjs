@@ -9,7 +9,7 @@ const parser=new Parser({timeout:10000}); const stories=[]; const withTimeout=(p
 const spanishSources=new Set(catalog.sources.filter(s=>s.language==='es').map(s=>s.id));
 const translationEmail=process.env.MYMEMORY_EMAIL||'';
 const googleTranslateKey=process.env.GOOGLE_TRANSLATE_API_KEY||'';
-const translationCache=new Map(Object.entries(JSON.parse(await fs.readFile('generated/translation-cache.json','utf8').catch(()=> '{}'))));
+const translationCachePath='generated/translation-cache.json'; const translationCacheAge=3*24*60*60*1000; const translationCacheStat=await fs.stat(translationCachePath).catch(()=>null); const translationCacheSource=translationCacheStat&&Date.now()-translationCacheStat.mtimeMs<translationCacheAge?await fs.readFile(translationCachePath,'utf8').catch(()=> '{}'):'{}'; const translationCache=new Map(Object.entries(JSON.parse(translationCacheSource)));
 let translationCalls=0; const deadline=Date.now()+180000;
 async function translateTitle(title){
   if(spanishSources.has(this.id)||spanishWords.test(title)) return title;
