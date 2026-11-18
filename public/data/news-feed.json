@@ -1,186 +1,26 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T21:07:37.769Z",
+  "generatedAt": "2026-11-18T21:13:49.404Z",
   "isEditoriallyValidated": false,
   "summaryStatus": "pending-editorial-review",
   "stories": [
     {
-      "id": "nyt-us-f8e9049856f1237b",
-      "title": "Trump, Xi y Putin se sentarán juntos por primera vez. No será como Yalta.",
+      "id": "tass-ru-bdac21b4ca2d1c48",
+      "title": "El aeropuerto de Kaluga ha suspendido la llegada y salida de aviones",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T20:12:59.000Z",
-      "updatedAt": "2026-11-18T21:07:06.312Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
+      "publishedAt": "2026-11-18T21:11:37.000Z",
+      "updatedAt": "2026-11-18T21:13:42.089Z",
+      "country": "Rusia",
+      "countryCode": "RU",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 114.19593777777777,
+      "importance": 111.93050611111111,
       "source": {
-        "name": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/18/us/politics/trump-xi-putin-summit-yalta.html"
+        "name": "TASS",
+        "url": "https://tass.ru/ekonomika/28332505"
       },
-      "topicKey": "juntos|primera|putin|sentaran|sera|trump|yalta",
+      "topicKey": "aeropuerto|aviones|kaluga|llegada|salida|suspendido",
       "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "nyt-us-c645153b88ce965d",
-      "title": "La suspensión de vuelos se produjo cuando Duffy impulsaba una rápida modernización de los sistemas de aviación",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T20:04:58.000Z",
-      "updatedAt": "2026-11-18T21:07:05.030Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 113.92942777777778,
-      "source": {
-        "name": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/18/us/sean-duffy-ground-stop-faa-trump.html"
-      },
-      "topicKey": "cuando|duffy|impulsaba|modernizacion|produjo|rapida|suspension|vuelos",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "nyt-us-ea6e4380612d07dd",
-      "title": "Los nuevos miembros reciben un curso intensivo sobre el Congreso con aires de colegio primario",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T20:04:41.000Z",
-      "updatedAt": "2026-11-18T21:07:05.666Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 113.91963,
-      "source": {
-        "name": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/18/us/politics/new-members-congress.html"
-      },
-      "topicKey": "aires|colegio|congreso|curso|intensivo|miembros|nuevos|reciben",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "france24-56ea5bba92546b73",
-      "title": "'GTA VI': ¿por qué causa tanto furor y críticas al mismo tiempo?",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T19:48:32.000Z",
-      "updatedAt": "2026-11-18T21:06:57.196Z",
-      "country": "Francia",
-      "countryCode": "FR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 113.38600277777778,
-      "source": {
-        "name": "France 24",
-        "url": "https://www.france24.com/es/programas/en-contexto/20261118-gta-vi-por-qu%C3%A9-causa-tanto-furor-y-cr%C3%ADticas-al-mismo-tiempo"
-      },
-      "topicKey": "causa|criticas|furor|mismo|tanto|tiempo",
-      "image": "https://s.france24.com/media/display/dcaaaf24-e387-11f1-8858-7908c4e1a3c7/w:1024/p:16x9/2026-11-18T130617Z-1014129328-RC2BQOAWJKJ1-RTRMADP-3-GAMING-GTA-VI-BRITAIN.jpg",
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "bbc-mundo-2c86f5c5400571da",
-      "title": "Ataques informáticos, IA o actualizaciones pendientes: qué hay detrás de la ola de problemas tecnológicos de los últimos días",
-      "summary": "No hay pruebas de que estén relacionadas, pero la constante sucesión de disrupciones tecnológicas puede resultar inquietante.",
-      "publishedAt": "2026-11-18T19:31:04.000Z",
-      "updatedAt": "2026-11-18T21:06:55.506Z",
-      "country": "Reino Unido",
-      "countryCode": "GB",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 112.80471888888889,
-      "source": {
-        "name": "BBC Mundo",
-        "url": "https://www.bbc.com/mundo/articles/cq98x39klx03o?at_medium=RSS&at_campaign=rss"
-      },
-      "topicKey": "actualizaciones|ataques|detras|informaticos|pendientes|problemas|tecnologicos|ultimos",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "france24-37bce25f4bd172e6",
-      "title": "Sin final a la vista: Irán promete ataques \"más devastadores\" y Arabia Saudita prevé un conflicto largo con los hutíes",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T19:12:40.000Z",
-      "updatedAt": "2026-11-18T21:06:57.196Z",
-      "country": "Francia",
-      "countryCode": "FR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 112.19044666666667,
-      "source": {
-        "name": "France 24",
-        "url": "https://www.france24.com/es/medio-oriente/20261118-sin-final-a-la-vista-ir%C3%A1n-promete-ataques-m%C3%A1s-devastadores-y-arabia-saudita-prev%C3%A9-un-conflicto-largo-con-los-hut%C3%ADes"
-      },
-      "topicKey": "arabia|ataques|devastadores|final|iran|promete|saudita|vista",
-      "image": "https://s.france24.com/media/display/b953010e-e380-11f1-b923-c5c0357b2a0c/w:1024/p:16x9/2026-11-17T201416Z-193291447-RC2VPOAP80P9-RTRMADP-3-IRAN-CRISIS-SAUDI-YEMEN.jpg",
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "france24-59507d15a609d9f2",
-      "title": "Directo a... Washington y los demócratas nominan a Hakeem Jeffries para presidir la Cámara Baja",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T19:05:33.000Z",
-      "updatedAt": "2026-11-18T21:06:57.196Z",
-      "country": "Francia",
-      "countryCode": "FR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.95322444444444,
-      "source": {
-        "name": "France 24",
-        "url": "https://www.france24.com/es/video/20261118-directo-a-washington-y-los-dem%C3%B3cratas-nominan-a-hakeem-jeffries-para-presidir-la-c%C3%A1mara-baja"
-      },
-      "topicKey": "camara|democratas|directo|hakeem|jeffries|nominan|presidir|washington",
-      "image": "https://s.france24.com/media/display/c5a2d88c-e37e-11f1-8953-6d75ed565170/w:1024/p:16x9/ES-20261118-124502-124910-CS.jpg",
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "tagesschau-de-fec55d4721f64416",
-      "title": "El ejército israelí inicia una operación en territorio controlado por Hamás",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T21:04:52.000Z",
-      "updatedAt": "2026-11-18T21:07:00.559Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.92857833333333,
-      "source": {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/ausland/asien/israel-gaza-bodenoffensive-104.html"
-      },
-      "topicKey": "controlado|ejercito|hamas|inicia|israeli|operacion|territorio",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "france24-920d43c3cd6f5455",
-      "title": "Xi recibe a Trump y a Putin en Shenzhen antes de un inédito encuentro trilateral",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T19:04:44.000Z",
-      "updatedAt": "2026-11-18T21:06:57.196Z",
-      "country": "Francia",
-      "countryCode": "FR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.92600222222222,
-      "source": {
-        "name": "France 24",
-        "url": "https://www.france24.com/es/video/20261118-xi-recibe-a-trump-y-a-putin-en-shenzhen-antes-de-un-in%C3%A9dito-encuentro-trilateral"
-      },
-      "topicKey": "antes|encuentro|inedito|putin|recibe|shenzhen|trilateral|trump",
-      "image": "https://s.france24.com/media/display/f78ca70c-e37d-11f1-83fb-c5c0357b2a0c/w:1024/p:16x9/ES-20261118-123344-123502-CS.jpg",
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
@@ -188,13 +28,13 @@
       "id": "lanacion-ar-82f99430ed3eedee",
       "title": "Milei publicó su propia versión de GTA en la previa de un nuevo lanzamiento del juego",
       "summary": "El Presidente difundió un video inspirado en la estética del famoso videojuego; aparece junto a Karina Milei y destruyen carteles de “gasto público”, “impuestos” y “regulaciones”",
-      "publishedAt": "2026-11-18T21:04:49.000Z",
-      "updatedAt": "2026-11-18T21:07:02.409Z",
+      "publishedAt": "2026-11-18T21:11:26.000Z",
+      "updatedAt": "2026-11-18T21:13:33.697Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.92588388888889,
+      "importance": 111.92905722222223,
       "source": {
         "name": "La Nación",
         "url": "https://www.lanacion.com.ar/politica/milei-publico-su-propia-version-de-gta-en-la-previa-de-un-nuevo-lanzamiento-del-juego-nid18112026/"
@@ -205,16 +45,116 @@
       "isEditorialSummary": false
     },
     {
-      "id": "lanacion-ar-2b2916ea63c140f3",
-      "title": "Abierto de Palermo: Las Monjitas se recuperó a expensas de La Aguada",
-      "summary": "Después de la tormenta, el equipo de Camilo Bautista consiguió su primera victoria",
-      "publishedAt": "2026-11-18T21:03:53.000Z",
-      "updatedAt": "2026-11-18T21:07:02.409Z",
+      "id": "tass-ru-07680b59f7d509cc",
+      "title": "Vicesecretario General de la ONU: Los terroristas en Afganistán se han armado con drones y están ejerciendo presión sobre Kabul",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-18T21:10:36.000Z",
+      "updatedAt": "2026-11-18T21:13:43.933Z",
+      "country": "Rusia",
+      "countryCode": "RU",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 111.89559277777778,
+      "source": {
+        "name": "TASS",
+        "url": "https://tass.ru/mezhdunarodnaya-panorama/28332499"
+      },
+      "topicKey": "afganistan|armado|drones|ejerciendo|estan|general|terroristas|vicesecretario",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "tass-ru-0a0ec9a4a53056c3",
+      "title": "A partir del 19 de noviembre, los navegadores podrán mostrar advertencias al realizar pagos a través del Sistema de Pago Rápido (SPR).",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-18T21:08:28.000Z",
+      "updatedAt": "2026-11-18T21:13:44.706Z",
+      "country": "Rusia",
+      "countryCode": "RU",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 111.82405222222222,
+      "source": {
+        "name": "TASS",
+        "url": "https://tass.ru/ekonomika/28332465"
+      },
+      "topicKey": "advertencias|mostrar|navegadores|noviembre|pagos|partir|podran|realizar",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "tass-ru-e4204fcf2c60e7ba",
+      "title": "El servicio «Escaparate de datos» del Ministerio de Desarrollo Digital, Tecnologías de la Información y Comunicaciones recibe más de 2 millones de solicitudes al mes",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-18T21:08:09.000Z",
+      "updatedAt": "2026-11-18T21:13:45.642Z",
+      "country": "Rusia",
+      "countryCode": "RU",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 111.81297666666667,
+      "source": {
+        "name": "TASS",
+        "url": "https://tass.ru/armiya-i-opk/28332473"
+      },
+      "topicKey": "datos|desarrollo|digital|escaparate|informacion|ministerio|servicio|tecnologias",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "tass-ru-6b05c499275b7e68",
+      "title": "Más de 12 000 militares recibieron atención médica de alta tecnología en 2023",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-18T21:08:00.000Z",
+      "updatedAt": "2026-11-18T21:13:46.363Z",
+      "country": "Rusia",
+      "countryCode": "RU",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 111.80757611111112,
+      "source": {
+        "name": "TASS",
+        "url": "https://tass.ru/armiya-i-opk/28332475"
+      },
+      "topicKey": "2023|alta|atencion|medica|militares|recibieron|tecnologia",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "lanacion-ar-c2f1b15cdc3266aa",
+      "title": "¿Un robot empieza a cambiar el chip ideológico de la UBA?",
+      "summary": "Muchas universidades generan recursos propios a través de servicios a terceros, pero se administran de manera opaca: esta vez aparece una fórmula virtuosa: la recaudación a la luz del día, con listas de donantes, auditoría de fondos y un objetivo concreto",
+      "publishedAt": "2026-11-18T21:06:46.000Z",
+      "updatedAt": "2026-11-18T21:13:33.697Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.89477277777777,
+      "importance": 111.77350166666666,
+      "source": {
+        "name": "La Nación",
+        "url": "https://www.lanacion.com.ar/opinion/un-robot-empieza-a-cambiar-el-chip-ideologico-de-la-uba-nid18112026/"
+      },
+      "topicKey": "cambiar|chip|empieza|ideologico|robot",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "lanacion-ar-2b2916ea63c140f3",
+      "title": "Abierto de Palermo: Las Monjitas se recuperó a expensas de La Aguada",
+      "summary": "Después de la tormenta, el equipo de Camilo Bautista consiguió su primera victoria",
+      "publishedAt": "2026-11-18T21:03:53.000Z",
+      "updatedAt": "2026-11-18T21:13:33.697Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 111.67739055555556,
       "source": {
         "name": "La Nación",
         "url": "https://www.lanacion.com.ar/deportes/polo/abierto-de-palermo-las-monjitas-se-recupero-a-expensas-de-la-aguada-nid18112026/"
@@ -225,36 +165,16 @@
       "isEditorialSummary": false
     },
     {
-      "id": "tass-ru-5946973deed554c6",
-      "title": "En Daguestán, las familias afectadas por las inundaciones recibieron certificados de vivienda",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T21:03:59.000Z",
-      "updatedAt": "2026-11-18T21:07:18.752Z",
-      "country": "Rusia",
-      "countryCode": "RU",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.88902666666667,
-      "source": {
-        "name": "TASS",
-        "url": "https://tass.ru/obschestvo/28332495"
-      },
-      "topicKey": "afectadas|certificados|daguestan|familias|inundaciones|recibieron|vivienda",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
       "id": "lanacion-ar-e9c24fafd9ad5cfa",
       "title": "Javier Milei y sus medidas, en vivo: “Voy a ser reelecto: no tengan dudas de que vamos a ganar en primera”, dijo el Presidente",
       "summary": "El minuto a minuto de las decisiones del jefe de Estado, las reacciones de la oposición y las declaraciones de los funcionarios",
       "publishedAt": "2026-11-18T21:03:14.000Z",
-      "updatedAt": "2026-11-18T21:07:02.409Z",
+      "updatedAt": "2026-11-18T21:13:33.697Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.87310611111111,
+      "importance": 111.65572388888889,
       "source": {
         "name": "La Nación",
         "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-cito-a-pablo-picasso-y-dijo-me-voy-a-encargar-de-lo-nid18112026/"
@@ -265,81 +185,21 @@
       "isEditorialSummary": false
     },
     {
-      "id": "ria-ru-f6780d284ac1d0e0",
-      "title": "Uno de los tres portaaviones estadounidenses en el Golfo Pérsico ha abandonado la región, según informan los medios de comunicación.",
+      "id": "pbs-us-1b4433bf2d3c8e92",
+      "title": "Cornyn bloquea al alto funcionario del Departamento de Justicia propuesto para una vacante judicial en Texas",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T21:03:04.000Z",
-      "updatedAt": "2026-11-18T21:07:12.700Z",
-      "country": "Rusia",
-      "countryCode": "RU",
+      "publishedAt": "2026-11-18T21:02:57.000Z",
+      "updatedAt": "2026-11-18T21:13:35.504Z",
+      "country": "Estados Unidos",
+      "countryCode": "US",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.86183333333334,
+      "importance": 111.64527555555556,
       "source": {
-        "name": "RIA Novosti",
-        "url": "https://ria.ru/20261119/ssha-2132520644.html"
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/politics/cornyn-blocks-top-justice-department-official-nominated-for-judicial-vacancy-in-texas"
       },
-      "topicKey": "abandonado|estadounidenses|golfo|persico|portaaviones|region|segun|tres",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "tass-ru-04291d014e605d83",
-      "title": "Las unidades de las Fuerzas Armadas de la Federación de Rusia estarán equipadas con robots para evacuar al 100 % de los heridos antes de que finalice el año.",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T21:03:01.000Z",
-      "updatedAt": "2026-11-18T21:07:20.312Z",
-      "country": "Rusia",
-      "countryCode": "RU",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.85593777777778,
-      "source": {
-        "name": "TASS",
-        "url": "https://tass.ru/armiya-i-opk/28332479"
-      },
-      "topicKey": "armadas|equipadas|estaran|federacion|fuerzas|robots|rusia|unidades",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "tass-ru-97986880b05a259e",
-      "title": "Riesgos viales: cuándo y por qué se producen la mayoría de los accidentes",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T21:03:00.000Z",
-      "updatedAt": "2026-11-18T21:07:21.016Z",
-      "country": "Rusia",
-      "countryCode": "RU",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.8549911111111,
-      "source": {
-        "name": "TASS",
-        "url": "https://tass.ru/obschestvo/28326821"
-      },
-      "topicKey": "accidentes|cuando|mayoria|producen|riesgos|viales",
-      "image": "https://cdn-media.tass.ru/fit/400x300_b2b00b17/tass/m2/uploads/i/20261117/9574997.jpg",
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "tass-ru-892f00090d2b1b59",
-      "title": "El contenido de los botiquines de primeros auxilios se ha duplicado con creces desde el inicio de la operación militar especial.",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T21:02:48.000Z",
-      "updatedAt": "2026-11-18T21:07:21.986Z",
-      "country": "Rusia",
-      "countryCode": "RU",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.84778555555556,
-      "source": {
-        "name": "TASS",
-        "url": "https://tass.ru/armiya-i-opk/28332477"
-      },
-      "topicKey": "auxilios|botiquines|contenido|creces|duplicado|inicio|operacion|primeros",
+      "topicKey": "alto|bloquea|cornyn|departamento|funcionario|justicia|propuesto|vacante",
       "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -349,12 +209,12 @@
       "title": "El celular en las aulas: después de años de debate, aparece evidencia de que las prohibiciones funcionan",
       "summary": "El primer estudio nacional que sigue el crecimiento individual de los estudiantes en EE.UU. muestra que pueden ayudar a revertir las caídas en el desempeño",
       "publishedAt": "2026-11-18T21:02:27.000Z",
-      "updatedAt": "2026-11-18T21:07:02.409Z",
+      "updatedAt": "2026-11-18T21:13:33.697Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.846995,
+      "importance": 111.62961277777778,
       "source": {
         "name": "La Nación",
         "url": "https://www.lanacion.com.ar/sociedad/las-prohibiciones-de-telefonos-en-las-escuelas-estan-mejorando-gradualmente-los-puntajes-de-los-nid18112026/"
@@ -365,16 +225,56 @@
       "isEditorialSummary": false
     },
     {
-      "id": "france24-d10f9e16fb8073f0",
-      "title": "\"Me tomaré cuatro días libres\": furor por el videojuego Grand Theft Auto, que regresa tras 13 años",
+      "id": "franceinfo-bf7a4488f0ce42a5",
+      "title": "Budget, préventes, musique… Cinq chiffres vertigineux autour de \"GTA VI\", qui sort après treize ans d'attente",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T19:00:21.000Z",
-      "updatedAt": "2026-11-18T21:06:57.196Z",
+      "publishedAt": "2026-11-18T20:32:27.000Z",
+      "updatedAt": "2026-11-18T21:13:35.812Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.77989111111111,
+      "importance": 110.62843777777778,
+      "source": {
+        "name": "Franceinfo",
+        "url": "https://www.franceinfo.fr/culture/jeux-video/gta-vi/budget-preventes-musique-cinq-chiffres-vertigineux-autour-de-gta-vi-qui-sort-apres-treize-ans-d-attente_8267372.html#xtor=RSS-3-[lestitres]"
+      },
+      "topicKey": "autour|budget|chiffres|cinq|musique|preventes|sort|vertigineux",
+      "image": "https://www.franceinfo.fr/pictures/QaZKESMlT7p5PpdAmpvQH6-q42Y/0x0:3840x2160/432x243/filters:format(jpg)/2026/11/04/6aeb1a7ab3c37538240259.jpg",
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "bbc-mundo-2c86f5c5400571da",
+      "title": "Ataques informáticos, IA o actualizaciones pendientes: qué hay detrás de la ola de problemas tecnológicos de los últimos días",
+      "summary": "No hay pruebas de que estén relacionadas, pero la constante sucesión de disrupciones tecnológicas puede resultar inquietante.",
+      "publishedAt": "2026-11-18T19:31:04.000Z",
+      "updatedAt": "2026-11-18T21:13:27.715Z",
+      "country": "Reino Unido",
+      "countryCode": "GB",
+      "section": "Tecnología",
+      "category": "Tecnología",
+      "importance": 110.586825,
+      "source": {
+        "name": "BBC Mundo",
+        "url": "https://www.bbc.com/mundo/articles/cq98x39klx03o?at_medium=RSS&at_campaign=rss"
+      },
+      "topicKey": "actualizaciones|ataques|detras|informaticos|pendientes|problemas|tecnologicos|ultimos",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "france24-d10f9e16fb8073f0",
+      "title": "\"Me tomaré cuatro días libres\": furor por el videojuego Grand Theft Auto, que regresa tras 13 años",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-18T19:00:21.000Z",
+      "updatedAt": "2026-11-18T21:13:29.739Z",
+      "country": "Francia",
+      "countryCode": "FR",
+      "section": "Tecnología",
+      "category": "Tecnología",
+      "importance": 109.56181166666667,
       "source": {
         "name": "France 24",
         "url": "https://www.france24.com/es/ciencia-y-tecnolog%C3%ADas/20261118-me-tomar%C3%A9-cuatro-d%C3%ADas-libres-furor-por-el-videojuego-grand-theft-auto-que-regresa-tras-13-a%C3%B1os"
@@ -385,216 +285,16 @@
       "isEditorialSummary": false
     },
     {
-      "id": "lanacion-ar-edd59a1d86196265",
-      "title": "“Nefasta cláusula”: el presidente de Acopiadores fustigó prácticas de los molinos y también cuestionó a los exportadores",
-      "summary": "Fernando Rivara defendió la plataforma de trazabilidad Visec, acusó a la industria molinera de aplicar prácticas comerciales que perjudican a productores y acopiadores y advirtió que los exportadores retienen dinero de las operaciones sin pagar intereses",
-      "publishedAt": "2026-11-18T21:00:15.000Z",
-      "updatedAt": "2026-11-18T21:07:02.410Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.77366111111111,
-      "source": {
-        "name": "La Nación",
-        "url": "https://www.lanacion.com.ar/economia/campo/nefasta-clausula-el-presidente-de-acopiadores-fustigo-practicas-de-los-molinos-y-tambien-cuestiono-a-nid18112026/"
-      },
-      "topicKey": "acopiadores|clausula|fustigo|molinos|nefasta|practicas|presidente|tambien",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "deutschlandfunk-de-ffc3ee7f029ced6e",
-      "title": "Shenzhen - Primer saludo de Xi, Trump y Putin antes de la reunión tripartita",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T20:44:57.000Z",
-      "updatedAt": "2026-11-18T21:07:09.315Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.259825,
-      "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/erste-begruessung-von-xi-trump-und-putin-vor-dreiertreffen-100.html"
-      },
-      "topicKey": "antes|primer|putin|reunion|saludo|shenzhen|tripartita|trump",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "deutschlandfunk-de-80d3738336155d05",
-      "title": "Hegseth en Caracas: Estados Unidos y Venezuela firman un acuerdo de cooperación militar",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T20:44:57.000Z",
-      "updatedAt": "2026-11-18T21:07:09.957Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.25946833333333,
-      "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/usa-und-venezuela-unterzeichnen-militaerisches-kooperationsabkommen-100.html"
-      },
-      "topicKey": "acuerdo|caracas|cooperacion|estados|firman|hegseth|unidos|venezuela",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "deutschlandfunk-de-617209d62ecabbc0",
-      "title": "Turquía: El exalcalde de Estambul, Imamoglu, vuelve a ser inhabilitado para ejercer cargos políticos",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T20:44:57.000Z",
-      "updatedAt": "2026-11-18T21:07:10.830Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.25898333333333,
-      "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/istanbuls-ex-buergermeister-imamoglu-mit-weiterem-politikverbot-belegt-102.html"
-      },
-      "topicKey": "cargos|ejercer|estambul|exalcalde|imamoglu|inhabilitado|turquia|vuelve",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "pbs-us-63e265b1d7a826cc",
-      "title": "Se prevé que los musulmanes superen en número a los cristianos para 2035 y se conviertan en la religión más extendida del mundo.",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T20:25:17.000Z",
-      "updatedAt": "2026-11-18T21:07:04.170Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 110.60712777777778,
-      "source": {
-        "name": "PBS NewsHour",
-        "url": "https://www.pbs.org/newshour/world/muslims-are-projected-to-outnumber-christians-by-2035-as-the-worlds-largest-religion"
-      },
-      "topicKey": "2035|conviertan|cristianos|musulmanes|numero|preve|religion|superen",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "tagesschau-de-c17db9e478863745",
-      "title": "Un equipo de Karlsruhe recibe el Premio al Futuro por su investigación sobre microchips",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T19:44:46.000Z",
-      "updatedAt": "2026-11-18T21:07:01.287Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 109.25817388888889,
-      "source": {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/wissen/forschung/zukunftspreis-110.html"
-      },
-      "topicKey": "equipo|futuro|investigacion|karlsruhe|microchips|premio|recibe",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "verge-ai-66574755f6b392c2",
-      "title": "La última apropiación de tierras de Trump es un centro de IA en Filipinas",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T19:40:36.000Z",
-      "updatedAt": "2026-11-18T21:07:26.036Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 107.10553555555556,
-      "source": {
-        "name": "The Verge AI",
-        "url": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica"
-      },
-      "topicKey": "apropiacion|centro|filipinas|tierras|trump|ultima",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "ars-tech-bf45b68b22eb5d0c",
-      "title": "Best Buy vuelve a vender Blu-rays en línea y en sus tiendas",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T19:31:17.000Z",
-      "updatedAt": "2026-11-18T21:07:28.725Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 106.79348611111111,
-      "source": {
-        "name": "Ars Technica",
-        "url": "https://arstechnica.com/gadgets/2026/11/best-buy-sells-blu-rays-again-after-quitting-the-business-in-2024/"
-      },
-      "topicKey": "best|linea|rays|tiendas|vender|vuelve",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "verge-ai-d0d45b2248dd790b",
-      "title": "¿Qué le espera a Nvidia? Cualquier cosa que no haga tambalear el barco, que es increíblemente rentable",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T19:30:00.000Z",
-      "updatedAt": "2026-11-18T21:07:26.715Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 106.751825,
-      "source": {
-        "name": "The Verge AI",
-        "url": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang"
-      },
-      "topicKey": "barco|cosa|cualquier|espera|haga|increiblemente|nvidia|tambalear",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "ars-tech-be28d25a0e42e5e3",
-      "title": "Los chats internos revelan que las invasiones de la privacidad de Muse están asustando a los empleados de Meta",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T19:19:33.000Z",
-      "updatedAt": "2026-11-18T21:07:29.454Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 106.40197,
-      "source": {
-        "name": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/"
-      },
-      "topicKey": "asustando|chats|estan|internos|invasiones|muse|privacidad|revelan",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
       "id": "elpais-afb9473fc45cc7fa",
       "title": "Vídeo, análisis en directo y verificación a tiempo real: así podrás ver el cara a cara entre Sánchez y Feijóo  en EL PAÍS",
       "summary": "El periódico despliega un equipo de analistas y de especialistas en todas las áreas para seguir el único debate a dos de la campaña del 29-N",
       "publishedAt": "2026-11-18T20:33:23.000Z",
-      "updatedAt": "2026-11-18T21:06:55.376Z",
+      "updatedAt": "2026-11-18T21:13:27.380Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 105.88201333333333,
+      "importance": 105.66423333333333,
       "source": {
         "name": "EL PAÍS",
         "url": "https://elpais.com/espana/elecciones-generales/2026-11-18/video-analisis-en-directo-y-verificacion-a-tiempo-real-asi-podras-ver-el-cara-a-cara-entre-sanchez-y-feijoo-en-el-pais.html"
@@ -605,36 +305,16 @@
       "isEditorialSummary": false
     },
     {
-      "id": "ars-tech-313425cc9651e42a",
-      "title": "El Gobierno de Trump ordena a Kalshi que suspenda las apuestas sobre qué palabras dirá Trump",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T18:46:08.000Z",
-      "updatedAt": "2026-11-18T21:07:30.121Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 105.28771055555555,
-      "source": {
-        "name": "Ars Technica",
-        "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-orders-kalshi-to-halt-wagers-on-what-words-trump-will-say/"
-      },
-      "topicKey": "apuestas|dira|gobierno|kalshi|ordena|palabras|suspenda|trump",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
       "id": "20min-es-70e284ef85a1bdfa",
       "title": "Caída de PlayStation Network: los usuarios reportan problemas en pleno lanzamiento de GTA 6",
       "summary": "Numerosos usuarios han comenzado a reportar problemas a partir de las 19.00 horas de este miércoles.",
       "publishedAt": "2026-11-18T19:36:39.000Z",
-      "updatedAt": "2026-11-18T21:07:11.050Z",
+      "updatedAt": "2026-11-18T21:13:37.995Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 103.98219444444445,
+      "importance": 103.767225,
       "source": {
         "name": "20minutos",
         "url": "https://www.20minutos.es/tecnologia/caida-playstation-network-los-usuarios-reportan-problemas-servicio-online_7062867_0.html"
@@ -645,22 +325,22 @@
       "isEditorialSummary": false
     },
     {
-      "id": "genbeta-1a3826d07aa79bd5",
-      "title": "Casi 64 millones de visualizaciones en Netflix con sus 6 episodios: la miniserie de Netflix que estrena segunda temporada en noviembre",
-      "summary": "Si te gustan las historias de espías y conspiraciones, quizás te acuerdes de una serie de Netflix que llegó en diciembre de 2024 y consiguió hacerse un hueco entre los títulos más vistos de la plataforma. Hablamos de Palomas negras (Black Doves), una ficción protagonizada por Keira Knightley que vuelve casi dos años después con una segunda temporada. Y lo mejor es que no tendrás que esperar para descubrir qué ocurre, porque sus seis nuevos episodios ya están disponibles desde el 5 de noviembre. La primera temporada llegó el 5 de diciembre de 2024 con solo seis capítulos y un reparto encabezado",
-      "publishedAt": "2026-11-18T18:01:13.000Z",
-      "updatedAt": "2026-11-18T21:07:27.135Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 103.79214722222223,
+      "id": "franceinfo-2a3301a991c4d9ef",
+      "title": "Un procès requis à l'encontre du comédien Philippe Caubère pour viols et agressions sexuelles aggravés, proxénétisme et corruption de mineure",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-18T16:35:12.000Z",
+      "updatedAt": "2026-11-18T21:13:35.812Z",
+      "country": "Francia",
+      "countryCode": "FR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 102.72010444444444,
       "source": {
-        "name": "Genbeta",
-        "url": "https://www.genbeta.com/actualidad/casi-64-millones-visualizaciones-netflix-sus-6-episodios-miniserie-netflix-que-estrena-segunda-temporada-noviembre"
+        "name": "Franceinfo",
+        "url": "https://www.franceinfo.fr/societe/harcelement-sexuel/un-proces-requis-a-l-encontre-du-comedien-philippe-caubere-pour-viols-et-agressions-sexuelles-aggraves-proxenetisme-et-corruption-de-mineure_8288639.html#xtor=RSS-3-[lestitres]"
       },
-      "topicKey": "casi|episodios|estrena|millones|miniserie|netflix|netflix|visualizaciones",
-      "image": null,
+      "topicKey": "caubere|comedien|encontre|philippe|pour|proces|requis|viols",
+      "image": "https://www.franceinfo.fr/pictures/_9yjradvYpaEgnW8V_A_DJ7nqGo/0x360:6490x4011/432x243/filters:format(jpg)/2026/11/18/6afdd398a3b66188298496.jpg",
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
@@ -669,12 +349,12 @@
       "title": "PP y Vox mantienen su mayoría, Podemos baja del 1% y los bloques se estancan a la espera del voto de un 14,3% de indecisos",
       "summary": "El PSOE sigue rascando décimas a su izquierda, pero la ventaja de la derecha no se altera y permanece entre 185 y 196 escaños Leer",
       "publishedAt": "2026-11-18T19:00:28.000Z",
-      "updatedAt": "2026-11-18T21:06:57.999Z",
+      "updatedAt": "2026-11-18T21:13:31.191Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 102.78333388888889,
+      "importance": 102.56489388888889,
       "source": {
         "name": "EL MUNDO",
         "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/18/6afdd75c21efa083408b45b2.html"
@@ -689,12 +369,12 @@
       "title": "Ex dirigentes de PSOE, UCD, CiU, Cs y PP, junto a académicos, abogan por el cambio político en España el 29-N",
       "summary": "Reclaman, en un manifiesto, la alternancia en el Gobierno y reivindican la independencia de las instituciones, la dignidad de la política y la apertura de una nueva etapa de concordia tras Sánchez Leer",
       "publishedAt": "2026-11-18T18:33:17.000Z",
-      "updatedAt": "2026-11-18T21:06:57.999Z",
+      "updatedAt": "2026-11-18T21:13:31.192Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 101.87722277777777,
+      "importance": 101.65878222222223,
       "source": {
         "name": "EL MUNDO",
         "url": "https://www.elmundo.es/cataluna/2026/11/18/6afdbd5bfdddff1f688b457b.html"
@@ -705,56 +385,16 @@
       "isEditorialSummary": false
     },
     {
-      "id": "bbc-mundo-cc9794c9875b2a87",
-      "title": "El inusual encuentro con los awá, un grupo de indígenas aislados en Brasil (y por qué genera preocupación)",
-      "summary": "Unos 20 integrantes del pueblo awá se acercó a la tribu de los guajajara e intercambiaron alimentos, lo que disparó de inmediato las alarmas.",
-      "publishedAt": "2026-11-18T13:19:32.000Z",
-      "updatedAt": "2026-11-18T21:06:55.506Z",
-      "country": "Reino Unido",
-      "countryCode": "GB",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 100.42027444444444,
-      "source": {
-        "name": "BBC Mundo",
-        "url": "https://www.bbc.com/mundo/articles/cmglry191y9xo?at_medium=RSS&at_campaign=rss"
-      },
-      "topicKey": "aislados|brasil|encuentro|genera|grupo|indigenas|inusual|preocupacion",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "genbeta-fce5e403df637975",
-      "title": "Juanjo, español viviendo en Japón: “Los japoneses han normalizado vivir en 15 o 20 metros cuadrados”",
-      "summary": "Aunque son muchos los edificios grandes que podemos encontrar en Tokio, también existen algunos que son mucho más pequeños. En un vídeo de YouTube, Juanjo Dalmau muestra algunos de estos espacios. “Desde fuera parece una ciudad superfuturista con edificios enormes, que lo es, pero mucha gente vive en pisos diminutos de 20, 25 e incluso 9 metros cuadrados”, comenta el creador de contenido. En él muestra cómo se aprovechan los espacios y cómo están organizados. “Los japoneses han normalizado que vivir en 15 o 20 metros cuadrados”. Así valora la forma de vida que puede encontrarse en Tokio. Las d",
-      "publishedAt": "2026-11-18T16:01:18.000Z",
-      "updatedAt": "2026-11-18T21:07:27.135Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 99.794925,
-      "source": {
-        "name": "Genbeta",
-        "url": "https://www.genbeta.com/vivienda/juanjo-espanol-viviendo-japon-japoneses-han-normalizado-vivir-15-20-metros-cuadrados"
-      },
-      "topicKey": "espanol|japon|japoneses|juanjo|metros|normalizado|viviendo|vivir",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
       "id": "elpais-7d51b3080ebdd07a",
       "title": "El Congreso aprueba siete decretos sociales con un amplísimo respaldo pero entre críticas de campaña",
       "summary": "La Diputación Permanente convalida medidas para Ceuta, las danas, los accidentes ferroviarios, las familias monomarentales y más dependencia",
       "publishedAt": "2026-11-18T17:10:51.000Z",
-      "updatedAt": "2026-11-18T21:06:55.376Z",
+      "updatedAt": "2026-11-18T21:13:27.380Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 99.13090222222222,
+      "importance": 98.91312277777777,
       "source": {
         "name": "EL PAÍS",
         "url": "https://elpais.com/espana/2026-11-18/el-congreso-aprueba-siete-decretos-sociales-con-un-amplisimo-respaldo-pero-entre-criticas-de-campana.html"
@@ -769,117 +409,17 @@
       "title": "\"Aquí están los 4 trabajos que resistirán a la Inteligencia Artificial\". Las predicciones de Bill Gates y el plan de Microsoft.",
       "summary": "La inteligencia artificial va a cambiar bastante el mercado laboral, pero Bill Gates cree que hay terrenos en los que las personas seguirán siendo necesarias, y señala cuatro: la programación, la biología, la energía y el deporte profesional. Y es que, aunque la automatización asuma cada vez más tareas, eso no implica que los trabajadores vayan a desaparecer de todos los ámbitos. El deporte, para las personas. Gates puso ese ejemplo en The Tonight Show en 2025. Cuando el presentador le preguntó si seguiremos necesitando a los humanos, contestó que no para la mayoría de las cosas, pero añadió q",
       "publishedAt": "2026-11-18T15:01:15.000Z",
-      "updatedAt": "2026-11-18T21:07:27.135Z",
+      "updatedAt": "2026-11-18T21:13:48.979Z",
       "country": "España",
       "countryCode": "ES",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 97.79325833333334,
+      "importance": 97.58112277777778,
       "source": {
         "name": "Genbeta",
         "url": "https://www.genbeta.com/inteligencia-artificial/aqui-estan-4-trabajos-que-resistiran-a-inteligencia-artificial-predicciones-bill-gates-plan-microsoft"
       },
       "topicKey": "aqui|artificial|bill|estan|inteligencia|predicciones|resistiran|trabajos",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "bbc-mundo-57823747161b0a6a",
-      "title": "No podíamos pagar una casa para nuestra familia, así que compramos una con desconocidos",
-      "summary": "Hay personas y familias en Canadá que no pueden permitirse adquirir una vivienda por sus precios elevados y buscan cómo asociarse a otros que estén en su misma situación.",
-      "publishedAt": "2026-11-18T11:50:32.000Z",
-      "updatedAt": "2026-11-18T21:06:55.506Z",
-      "country": "Reino Unido",
-      "countryCode": "GB",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 97.45360777777778,
-      "source": {
-        "name": "BBC Mundo",
-        "url": "https://www.bbc.com/mundo/articles/cmzx95xnwdd6o?at_medium=RSS&at_campaign=rss"
-      },
-      "topicKey": "casa|compramos|desconocidos|familia|nuestra|pagar|podiamos",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "bbc-mundo-65589e17eecb7f16",
-      "title": "El disco de oro con mensajes para los extraterrestres que transporta la sonda Voyager 1 (y cómo podrán descifrarlo)",
-      "summary": "Las sondas Voyager 1 y Voyager 2 fueron lanzadas al espacio con discos de oro que contienen mensajes para civilizaciones extraterrestres.",
-      "publishedAt": "2026-11-18T11:27:58.000Z",
-      "updatedAt": "2026-11-18T21:06:55.506Z",
-      "country": "Reino Unido",
-      "countryCode": "GB",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 96.70138555555556,
-      "source": {
-        "name": "BBC Mundo",
-        "url": "https://www.bbc.com/mundo/articles/ck1l0v4yy6p0o?at_medium=RSS&at_campaign=rss"
-      },
-      "topicKey": "descifrarlo|disco|extraterrestres|mensajes|podran|sonda|transporta|voyager",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "genbeta-9e17757a14efb797",
-      "title": "Luis Tosar, actor, 54 años: “Me produce mucha tristeza que ahora haya niños por ahí hablando de Franco, reivindicando su figura”",
-      "summary": "La infancia de Luis Tosar fue un poco de descampados y de fábricas abandonadas. Cuando habla de sus hijos, le preocupa el mundo en el que están creciendo. En su charla con Ana Trasobares se lamentaba del panorama actual. “A mí me produce mucha tristeza que ahora haya niños por ahí hablando de Franco, reivindicando su figura”. “Niños, cuyos padres ni siquiera han vivido el franquismo y, aun así, están en ese discurso”. En un contexto de polarización de redes, Tosar lamentaba que hubiera jóvenes reivindicando al dictador. “No se dan cuenta de que este señor se alzó en armas el 18 de julio y acab",
-      "publishedAt": "2026-11-18T14:01:21.000Z",
-      "updatedAt": "2026-11-18T21:07:27.136Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 95.79659166666667,
-      "source": {
-        "name": "Genbeta",
-        "url": "https://www.genbeta.com/espana/luis-tosar-actor-54-anos-me-produce-mucha-tristeza-que-ahora-haya-ninos-ahi-hablando-franco-reivindicando-su-figura"
-      },
-      "topicKey": "actor|ahora|anos|luis|mucha|produce|tosar|tristeza",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "genbeta-19c56dd8265ecd12",
-      "title": "Juan Manuel Rojas, arquitecto: “Si hoy tuviésemos albañiles como los que hicieron la Plaza de España, yo diseñaría una plaza así”",
-      "summary": "Para explicar este problema de profesionalidad en las obras de construcción, Juan Manuel Rojas utiliza el ejemplo de la Plaza de España de Sevilla. “Si yo tuviese los albañiles que hicieron la Plaza de España, yo diseñaría la Plaza de España, pero desgraciadamente no tengo esos albañiles”, explica en esta entrevista. Con ello justifica que hay que llevar las viviendas a la fábrica. El arquitecto fundó en 2002 su propio estudio Hombre de Piedra Arquitectos junto a Laura Domínguez. Además, es profesor en la Escuela Técnica Superior de Arquitectura de Sevilla. Pertenece a Arquitectura Industriali",
-      "publishedAt": "2026-11-18T12:01:23.000Z",
-      "updatedAt": "2026-11-18T21:07:27.136Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 91.79770222222223,
-      "source": {
-        "name": "Genbeta",
-        "url": "https://www.genbeta.com/vivienda/juan-manuel-rojas-arquitecto-hoy-tuviesemos-albaniles-como-que-hicieron-plaza-espana-yo-disenaria-plaza-asi"
-      },
-      "topicKey": "albaniles|arquitecto|hicieron|juan|manuel|plaza|rojas|tuviesemos",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "bbc-mundo-3db2891cff3d81ff",
-      "title": "Por qué la histórica cumbre entre Trump, Putin y Xi preocupa a Europa (y qué puede significar para el resto del mundo)",
-      "summary": "Los preparativos para la primera reunión trilateral de los líderes de China, Rusia y Estados Unidos han generado alarma en Europa, donde algunos ven paralelismos con la división del mundo en esferas de influencia tras la Segunda Guerra Mundial.",
-      "publishedAt": "2026-11-18T04:04:11.000Z",
-      "updatedAt": "2026-11-18T21:06:55.506Z",
-      "country": "Reino Unido",
-      "countryCode": "GB",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 81.90860833333333,
-      "source": {
-        "name": "BBC Mundo",
-        "url": "https://www.bbc.com/mundo/articles/cmwy98z3727vo?at_medium=RSS&at_campaign=rss"
-      },
-      "topicKey": "cumbre|europa|historica|preocupa|puede|putin|significar|trump",
       "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
