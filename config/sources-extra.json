@@ -413,6 +413,58 @@
       "format": "RSS",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
       "usage": "Titular traducido y enlace original; tecnología e inteligencia artificial."
+    },
+    {
+      "id": "genbeta",
+      "name": "Genbeta",
+      "country": "España",
+      "countryCode": "ES",
+      "sections": [
+        "Tecnología"
+      ],
+      "format": "RSS",
+      "url": "https://www.genbeta.com/index.xml",
+      "usage": "Titular y enlace original; fuente tecnológica en español.",
+      "language": "es"
+    },
+    {
+      "id": "ars-tech",
+      "name": "Ars Technica",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "sections": [
+        "Tecnología"
+      ],
+      "format": "RSS",
+      "url": "https://feeds.arstechnica.com/arstechnica/index",
+      "usage": "Titular traducido y enlace original; tecnología, ciencia y seguridad.",
+      "language": "en"
+    },
+    {
+      "id": "ieee-spectrum",
+      "name": "IEEE Spectrum",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "sections": [
+        "Tecnología"
+      ],
+      "format": "RSS",
+      "url": "https://spectrum.ieee.org/feeds/feed.rss",
+      "usage": "Titular traducido y enlace original; ingeniería, ciencia e IA.",
+      "language": "en"
+    },
+    {
+      "id": "google-ai",
+      "name": "Google AI Blog",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "sections": [
+        "Tecnología"
+      ],
+      "format": "RSS",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
+      "usage": "Titular traducido y enlace original; fuente oficial de Google AI.",
+      "language": "en"
     }
   ]
 }
