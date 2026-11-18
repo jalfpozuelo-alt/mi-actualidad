@@ -13,7 +13,7 @@ const translationCache=new Map(Object.entries(JSON.parse(await fs.readFile('gene
 let translationCalls=0; const deadline=Date.now()+180000;
 async function translateTitle(title){
   if(spanishSources.has(this.id)||spanishWords.test(title)) return title;
-  if(translationCache.has(title)) return translationCache.get(title);
+  if(translationCache.has(title)){const cached=translationCache.get(title);if(cached&&!containsCjk(cached)&&!looksUntranslated(cached,sourceLanguage)&&!containsForeignTitle(cached))return cached;translationCache.delete(title)}
   if(translationCalls>=40||Date.now()>deadline)return null;
   translationCalls++;
   const sourceLanguage=this.language||'en';
