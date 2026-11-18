@@ -32,7 +32,11 @@
     "chinanews-cn",
     "xinhua-cn",
     "mit-ai",
-    "verge-ai"
+    "verge-ai",
+    "genbeta",
+    "ars-tech",
+    "ieee-spectrum",
+    "google-ai"
   ],
   "publishOnlyWithSource": true,
   "allowAutomaticSummary": false,
