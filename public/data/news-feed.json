@@ -1,20 +1,40 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-18T11:51:38.314Z",
+  "generatedAt": "2026-11-18T11:58:42.199Z",
   "isEditoriallyValidated": false,
   "summaryStatus": "pending-editorial-review",
   "stories": [
+    {
+      "id": "bbc-mundo-57823747161b0a6a",
+      "title": "No podíamos pagar una casa para nuestra familia, así que compramos una con desconocidos",
+      "summary": "Hay personas y familias en Canadá que no pueden permitirse adquirir una vivienda por sus precios elevados y buscan cómo asociarse a otros que estén en su misma situación.",
+      "publishedAt": "2026-11-18T11:50:32.000Z",
+      "updatedAt": "2026-11-18T11:58:24.116Z",
+      "country": "Reino Unido",
+      "countryCode": "GB",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 115.73771333333333,
+      "source": {
+        "name": "BBC Mundo",
+        "url": "https://www.bbc.com/mundo/articles/cmzx95xnwdd6o?at_medium=RSS&at_campaign=rss"
+      },
+      "topicKey": "casa|compramos|desconocidos|familia|nuestra|pagar|podiamos",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
     {
       "id": "bbc-mundo-43b65859cd863877",
       "title": "Encuentran una falla crítica en Java, el tercer lenguaje de programación más utilizado en el mundo del que dependen el 90% de las grandes compañías",
       "summary": "La misma empresa tecnológica emergente que descubrió una vulnerabilidad en PHP utilizó inteligencia artificial para descubrir un fallo crítico de software en uno de los lenguajes de programación más populares del mundo.",
       "publishedAt": "2026-11-18T11:28:37.000Z",
-      "updatedAt": "2026-11-18T11:50:46.360Z",
+      "updatedAt": "2026-11-18T11:58:24.115Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 115.26146666666666,
+      "importance": 115.00715833333334,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/cwvg2enzxdm9o?at_medium=RSS&at_campaign=rss"
@@ -29,12 +49,12 @@
       "title": "El disco de oro con mensajes para los extraterrestres que transporta la sonda Voyager 1 (y cómo podrán descifrarlo)",
       "summary": "Las sondas Voyager 1 y Voyager 2 fueron lanzadas al espacio con discos de oro que contienen mensajes para civilizaciones extraterrestres.",
       "publishedAt": "2026-11-18T11:27:58.000Z",
-      "updatedAt": "2026-11-18T11:50:46.360Z",
+      "updatedAt": "2026-11-18T11:58:24.116Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 115.23980055555556,
+      "importance": 114.98549111111112,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/ck1l0v4yy6p0o?at_medium=RSS&at_campaign=rss"
@@ -45,182 +65,222 @@
       "isEditorialSummary": false
     },
     {
-      "id": "bbc-mundo-267b97e0b7f27ae9",
-      "title": "El test genético que descubrió el covid-19 y que ahora salva vidas al detectar casi todas las infecciones",
-      "summary": "Permitió identificar el covid-19. Ahora, esta técnica genética ayuda a los médicos a tomar decisiones de vida o muerte.",
-      "publishedAt": "2026-11-18T10:38:26.000Z",
-      "updatedAt": "2026-11-18T11:50:46.360Z",
-      "country": "Reino Unido",
-      "countryCode": "GB",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 113.5886888888889,
-      "source": {
-        "name": "BBC Mundo",
-        "url": "https://www.bbc.com/mundo/articles/c6ly5nwjx2llo?at_medium=RSS&at_campaign=rss"
-      },
-      "topicKey": "ahora|covid|descubrio|detectar|genetico|salva|test|vidas",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "nyt-us-58e1b97b705f0887",
-      "title": "Los demócratas de la Cámara de Representantes lanzan una amplia red mientras se preparan para las investigaciones sobre Trump",
+      "id": "ria-ru-8af13efc3b684893",
+      "title": "En Vladivostok, un hombre lanzó a un gato desde el balcón de un piso 18.º",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T10:04:14.000Z",
-      "updatedAt": "2026-11-18T11:51:05.222Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 112.43821,
-      "source": {
-        "name": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/18/us/politics/democrats-cast-investigative-net.html"
-      },
-      "topicKey": "amplia|camara|democratas|investigaciones|lanzan|mientras|preparan|representantes",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "nyt-us-e39b270a3d7e6cff",
-      "title": "Según los servicios de inteligencia, Putin seguirá con la guerra en Ucrania a pesar de sus planes de reunirse con Trump",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T10:03:56.000Z",
-      "updatedAt": "2026-11-18T11:51:05.916Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 112.42782444444444,
-      "source": {
-        "name": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/18/us/politics/trump-putin-ukraine-war.html"
-      },
-      "topicKey": "guerra|inteligencia|pesar|putin|seguira|segun|servicios|ucrania",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "nyt-us-2972a4ab81740b13",
-      "title": "Un estudio revela que los modelos de IA estadounidenses podrían volverse contra EE. UU.",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T10:03:50.000Z",
-      "updatedAt": "2026-11-18T11:51:06.613Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 112.4241038888889,
-      "source": {
-        "name": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/18/us/politics/audit-ai-terrorist-attack-plans.html"
-      },
-      "topicKey": "contra|estadounidenses|estudio|modelos|podrian|revela|volverse",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "nyt-us-6ec58e1c68dbec82",
-      "title": "Los fans acuden en masa a este famoso letrero. Los vecinos dicen: «Salid de mi calle».",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T10:03:36.000Z",
-      "updatedAt": "2026-11-18T11:51:07.258Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 112.41596777777778,
-      "source": {
-        "name": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/18/us/hollywood-sign-lawsuit.html"
-      },
-      "topicKey": "acuden|dicen|famoso|fans|letrero|masa|salid|vecinos",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "nyt-us-245ebdead001ac56",
-      "title": "Los obispos católicos de EE. UU. debatirán sobre la IA en su reunión anual",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T10:02:23.000Z",
-      "updatedAt": "2026-11-18T11:51:07.893Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 112.37505944444445,
-      "source": {
-        "name": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/18/us/us-catholic-bishops-meeting-ai.html"
-      },
-      "topicKey": "anual|catolicos|debatiran|obispos|reunion",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "ria-ru-41ae1cffcd2bb793",
-      "title": "Expertos: Los empleadores han empezado a hacer regalos de Año Nuevo a sus empleados con más frecuencia",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T11:48:24.000Z",
-      "updatedAt": "2026-11-18T11:51:18.532Z",
+      "publishedAt": "2026-11-18T11:58:16.000Z",
+      "updatedAt": "2026-11-18T11:58:36.676Z",
       "country": "Rusia",
       "countryCode": "RU",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.90303777777778,
+      "importance": 111.98851333333333,
       "source": {
         "name": "RIA Novosti",
-        "url": "https://ria.ru/20261118/ekspert-2132408135.html"
+        "url": "https://ria.ru/20261118/vladivostok-2132411024.html"
       },
-      "topicKey": "empezado|empleadores|empleados|expertos|frecuencia|hacer|nuevo|regalos",
-      "image": "https://cdnn21.imgria.ru/images/07ea/02/17/2076201454_0:320:3072:2048_650x0_80_0_0_100370972395377fe5733a15f089cf92.jpg",
+      "topicKey": "balcon|gato|hombre|lanzo|piso|vladivostok",
+      "image": "https://cdnn21.imgria.ru/images/150141/01/1501410141_0:95:1887:1156_650x0_80_0_0_e54cc0b0559db2934db40f2192429a94.jpg",
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "ria-ru-40639ff712a6ae24",
-      "title": "Un avión de reconocimiento británico voló durante una hora cerca de la frontera marítima de Rusia",
+      "id": "ria-ru-37a76fdbcef0cefb",
+      "title": "Un residente de Volgogrado que golpeó a su madre hasta la muerte ha sido condenado a prisión",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T11:46:15.000Z",
-      "updatedAt": "2026-11-18T11:51:19.352Z",
+      "publishedAt": "2026-11-18T11:57:40.000Z",
+      "updatedAt": "2026-11-18T11:58:37.394Z",
       "country": "Rusia",
       "countryCode": "RU",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.83091555555555,
+      "importance": 111.96811444444444,
       "source": {
         "name": "RIA Novosti",
-        "url": "https://ria.ru/20261118/samolet-2132407501.html"
+        "url": "https://ria.ru/20261118/volgogradets-2132410651.html"
       },
-      "topicKey": "avion|britanico|cerca|durante|frontera|hora|reconocimiento|volo",
+      "topicKey": "condenado|golpeo|hasta|madre|muerte|residente|sido|volgogrado",
+      "image": "https://cdnn21.imgria.ru/images/15091/95/150919519_0:46:512:334_650x0_80_0_0_0009ab73949afbe5bf1e3fbd2b23e07e.jpg",
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "tagesschau-de-4b9b9c8c319bc09a",
+      "title": "No habrá recuento: la BSW pierde el recurso electoral",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-18T11:55:00.000Z",
+      "updatedAt": "2026-11-18T11:58:29.679Z",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 111.88351166666666,
+      "source": {
+        "name": "Tagesschau",
+        "url": "https://www.tagesschau.de/inland/innenpolitik/bsw-beschwerde-abgelehnt-bundestagswahl-100.html"
+      },
+      "topicKey": "electoral|habra|pierde|recuento|recurso",
       "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "ria-ru-475e19102b39e36d",
-      "title": "Las Fuerzas Armadas de Ucrania dañaron un gasoducto en Kubán",
+      "id": "ria-ru-3b6b2c224713e696",
+      "title": "Putin levantó el pulgar al reunirse con Trump en Shenzhen",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T11:44:39.000Z",
-      "updatedAt": "2026-11-18T11:51:20.109Z",
+      "publishedAt": "2026-11-18T11:55:07.000Z",
+      "updatedAt": "2026-11-18T11:58:38.060Z",
       "country": "Rusia",
       "countryCode": "RU",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.77716166666667,
+      "importance": 111.88274444444444,
       "source": {
         "name": "RIA Novosti",
-        "url": "https://ria.ru/20261118/vsu-2132406909.html"
+        "url": "https://ria.ru/20261118/putin-2132410075.html"
       },
-      "topicKey": "armadas|danaron|fuerzas|gasoducto|kuban|ucrania",
-      "image": "https://cdnn21.imgria.ru/images/07e8/03/02/1930651503_0:662:1664:1598_650x0_80_0_0_1c092c242e576d00fe25f99f4ccc61bb.jpg",
+      "topicKey": "levanto|pulgar|putin|reunirse|shenzhen|trump",
+      "image": "https://cdnn21.imgria.ru/images/07ea/0b/12/2132402837_0:90:2844:1690_650x0_80_0_0_769d2bbead499e4af1e85587af288cf2.jpg",
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "deutschlandfunk-de-87ccc4517c624dc0",
+      "title": "«Vivir la democracia»: protestas contra los recortes",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-18T11:53:03.000Z",
+      "updatedAt": "2026-11-18T11:58:32.562Z",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 111.81691,
+      "source": {
+        "name": "Deutschlandfunk",
+        "url": "https://www.deutschlandfunk.de/proteste-gegen-kuerzungen-102.html"
+      },
+      "topicKey": "contra|democracia|protestas|recortes|vivir",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "deutschlandfunk-de-826c41e6d1d9bc2e",
+      "title": "Encuentro en Shenzhen: Xi aboga por una cooperación más estrecha entre China y Rusia",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-18T11:53:03.000Z",
+      "updatedAt": "2026-11-18T11:58:34.336Z",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 111.81592444444445,
+      "source": {
+        "name": "Deutschlandfunk",
+        "url": "https://www.deutschlandfunk.de/xi-wirbt-fuer-engere-zusammenarbeit-chinas-und-russlands-102.html"
+      },
+      "topicKey": "aboga|china|cooperacion|encuentro|estrecha|rusia|shenzhen",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "lanacion-ar-e9c24fafd9ad5cfa",
+      "title": "Javier Milei y sus medidas, en vivo: “Voy a ser relecto: no tengan dudas de que vamos a ganar en primera”, dijo el Presidente",
+      "summary": "El minuto a minuto de las decisiones del jefe de Estado, las reacciones de la oposición y las declaraciones de los funcionarios",
+      "publishedAt": "2026-11-18T11:52:47.000Z",
+      "updatedAt": "2026-11-18T11:58:29.998Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 111.80944555555556,
+      "source": {
+        "name": "La Nación",
+        "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-mandatario-cito-a-pablo-picasso-y-dijo-me-voy-a-encargar-de-lo-nid18112026/"
+      },
+      "topicKey": "dudas|javier|medidas|milei|relecto|tengan|vamos|vivo",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "ria-ru-964ab6b773b98691",
+      "title": "Grossi afirmó que no tiene previsto visitar la central nuclear de Zaporiyia antes de finales de año.",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-18T11:52:14.000Z",
+      "updatedAt": "2026-11-18T11:58:38.849Z",
+      "country": "Rusia",
+      "countryCode": "RU",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 111.786195,
+      "source": {
+        "name": "RIA Novosti",
+        "url": "https://ria.ru/20261118/grossi-2132409257.html"
+      },
+      "topicKey": "afirmo|central|grossi|nuclear|previsto|tiene|visitar|zaporiyia",
+      "image": "https://cdnn21.imgria.ru/images/07ea/07/0a/2104087332_0:135:3089:1873_650x0_80_0_0_5b98a84c46d5c18d25b8c6f2620b8782.jpg",
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "franceinfo-a3ab47be5fd3b297",
+      "title": "Priorité donnée à l'école, rétablissement des comptes publics… Edouard Philippe développe plusieurs mesures de son programme présidentiel",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-18T11:51:52.000Z",
+      "updatedAt": "2026-11-18T11:58:30.430Z",
+      "country": "Francia",
+      "countryCode": "FR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 111.77865,
+      "source": {
+        "name": "Franceinfo",
+        "url": "https://www.franceinfo.fr/politique/edouard-philippe/priorite-donnee-a-l-ecole-retablissement-des-comptes-publics-edouard-philippe-met-en-lumiere-plusieurs-mesures-de-son-programme-presidentiel_8287970.html#xtor=RSS-3-[lestitres]"
+      },
+      "topicKey": "comptes|donnee|ecole|edouard|philippe|priorite|publics|retablissement",
+      "image": "https://www.franceinfo.fr/pictures/qofw9GK18r6Sv4NpqEJzy_JXxXw/0x0:1024x576/432x243/filters:format(jpg)/2026/11/18/6afd8560a34cc650238937.jpg",
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "lanacion-ar-0d1bda92647f44c3",
+      "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotizan el oficial y el paralelo este miércoles 18 de noviembre, minuto a minuto",
+      "summary": "La divisa oficial operó a $1575 para la venta en el Banco Nación; el dólar blue cotizó a $1605 para esa operación; qué pasó con el MEP y el CCL",
+      "publishedAt": "2026-11-18T11:51:37.000Z",
+      "updatedAt": "2026-11-18T11:58:29.998Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 111.77055666666666,
+      "source": {
+        "name": "La Nación",
+        "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotizan-el-oficial-y-el-paralelo-este-miercoles-18-de-nid18112026/"
+      },
+      "topicKey": "blue|cotizan|cuanto|dolar|dolar|oficial|paralelo|vivo",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "ria-ru-014e7c0e2a95ae0a",
+      "title": "Xi Jinping ha revelado qué temas tratarán los líderes de la APEC durante su reunión",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-18T11:51:13.000Z",
+      "updatedAt": "2026-11-18T11:58:39.558Z",
+      "country": "Rusia",
+      "countryCode": "RU",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 111.75191222222222,
+      "source": {
+        "name": "RIA Novosti",
+        "url": "https://ria.ru/20261118/kitay-2132408594.html"
+      },
+      "topicKey": "apec|durante|jinping|lideres|reunion|revelado|temas|trataran",
+      "image": "https://cdnn21.imgria.ru/images/07ea/0b/12/2132406785_0:324:3064:2048_650x0_80_0_0_e1534724baefe63d74a27525ac4f00af.jpg",
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
@@ -229,12 +289,12 @@
       "title": "Arthur C. Brooks, profesor de Harvard: “Si querés que tus hijos sean buenos, honestos y felices, sé un ejemplo de lo que querés ver”",
       "summary": "El académico explicó la clave esenciales de una crianza para que los hijos sean buenas personas; explicó por qué el aprendizaje constante está directamente relacionado con el bienestar",
       "publishedAt": "2026-11-18T11:44:11.000Z",
-      "updatedAt": "2026-11-18T11:51:04.263Z",
+      "updatedAt": "2026-11-18T11:58:29.998Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.77040944444444,
+      "importance": 111.5227788888889,
       "source": {
         "name": "La Nación",
         "url": "https://www.lanacion.com.ar/sociedad/arthur-c-brooks-profesor-de-harvard-si-queres-que-tus-hijos-sean-buenos-honestos-y-felices-se-un-nid15112026/"
@@ -249,12 +309,12 @@
       "title": "Gabriel Rolón, sobre cómo recordamos a nuestros padres: “Se transforman en personas por ahí más nobles de lo que fueron”",
       "summary": "El escritor reflexionó sobre el peso de la memoria y la construcción de la identidad; advirtió sobre el riesgo de idealizar el pasado o postergar el bienestar",
       "publishedAt": "2026-11-18T11:44:10.000Z",
-      "updatedAt": "2026-11-18T11:51:04.263Z",
+      "updatedAt": "2026-11-18T11:58:29.998Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.76985388888889,
+      "importance": 111.52222333333333,
       "source": {
         "name": "La Nación",
         "url": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-sobre-como-recordamos-a-nuestros-padres-se-transforman-en-personas-por-ahi-mas-nobles-nid16112026/"
@@ -269,12 +329,12 @@
       "title": "Mariano Chihade fue internado en el Fleni y lo operarán por un nódulo en el cerebro",
       "summary": "La noticia fue confirmada a través de un parte médico difundido desde la cuenta oficial de Mandarina Contenidos",
       "publishedAt": "2026-11-18T11:44:04.000Z",
-      "updatedAt": "2026-11-18T11:51:04.263Z",
+      "updatedAt": "2026-11-18T11:58:29.999Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.76652055555556,
+      "importance": 111.51889,
       "source": {
         "name": "La Nación",
         "url": "https://www.lanacion.com.ar/espectaculos/personajes/mariano-chihade-fue-internado-en-el-fleni-y-lo-operaran-por-un-nodulo-en-el-cerebro-nid17112026/"
@@ -285,282 +345,22 @@
       "isEditorialSummary": false
     },
     {
-      "id": "lanacion-ar-df41714e0f619258",
-      "title": "Súper Niño 2026 en Argentina: cuándo se espera el pico de lluvias y cuáles serían las provincias más afectadas",
-      "summary": "La Bolsa de Cereales de Buenos Aires prevé tormentas con acumulados superiores a 100 milímetros hacia mediados de noviembre; el sur del NOA concentra los registros mayores del informe agroclimático",
-      "publishedAt": "2026-11-18T11:44:01.000Z",
-      "updatedAt": "2026-11-18T11:51:04.263Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.7648538888889,
-      "source": {
-        "name": "La Nación",
-        "url": "https://www.lanacion.com.ar/sociedad/super-nino-2026-en-argentina-cuando-se-espera-el-pico-de-lluvias-y-cuales-serian-las-provincias-mas-nid12112026/"
-      },
-      "topicKey": "2026|argentina|cuando|espera|lluvias|nino|pico|super",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "ria-ru-59b5d0f6e4189867",
-      "title": "En Vorónezh, los directores generales de una agencia inmobiliaria están siendo investigados por presunto fraude",
+      "id": "franceinfo-f47f269f79f760b9",
+      "title": "L'Union européenne propose un nouveau prêt de 45 milliards d'euros à l'Ukraine pour 2027",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T11:44:17.000Z",
-      "updatedAt": "2026-11-18T11:51:20.893Z",
-      "country": "Rusia",
-      "countryCode": "RU",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.76450388888888,
-      "source": {
-        "name": "RIA Novosti",
-        "url": "https://ria.ru/20261118/voronezh-2132406616.html"
-      },
-      "topicKey": "agencia|directores|estan|generales|inmobiliaria|investigados|siendo|voronezh",
-      "image": "https://cdnn21.imgria.ru/images/07e9/05/14/2018074532_0:160:3072:1888_650x0_80_0_0_056587d036553621ffd43e10b4011458.jpg",
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "ria-ru-6b8f5cabdfd28696",
-      "title": "El OIEA espera reanudar las inspecciones en Irán en un futuro próximo",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T11:44:14.000Z",
-      "updatedAt": "2026-11-18T11:51:21.790Z",
-      "country": "Rusia",
-      "countryCode": "RU",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.76233888888889,
-      "source": {
-        "name": "RIA Novosti",
-        "url": "https://ria.ru/20261118/magate-2132406513.html"
-      },
-      "topicKey": "espera|futuro|inspecciones|iran|oiea|proximo|reanudar",
-      "image": "https://cdnn21.imgria.ru/images/07e6/0a/19/1826666375_0:320:3072:2048_650x0_80_0_0_830d7aacf6cabdbd0926409900e754d1.jpg",
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "lanacion-ar-7f5f481c1a8f57c5",
-      "title": "Qué hace que las personas cambien con los años y cómo influyen las experiencias, según la psicología",
-      "summary": "En una entrevista con LA NACION, Pilar Sordo analizó la transformación de la conducta humana frente a las experiencias de vida y la importancia del discurso interno",
-      "publishedAt": "2026-11-18T11:43:56.000Z",
-      "updatedAt": "2026-11-18T11:51:04.263Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.76207611111111,
-      "source": {
-        "name": "La Nación",
-        "url": "https://www.lanacion.com.ar/sociedad/que-hace-que-las-personas-cambien-con-los-anos-y-como-influyen-las-experiencias-segun-la-psicologia-nid17112026/"
-      },
-      "topicKey": "anos|cambien|experiencias|hace|influyen|personas|psicologia|segun",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "tagesschau-de-6001964c77ad8fe8",
-      "title": "Cómo puede ayudar a la salud un impuesto sobre el azúcar",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T11:43:38.000Z",
-      "updatedAt": "2026-11-18T11:50:59.560Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.7546888888889,
-      "source": {
-        "name": "Tagesschau",
-        "url": "https://www.tagesschau.de/wissen/gesundheit/wie-eine-zuckersteuer-der-gesundheit-helfen-koennte-100.html"
-      },
-      "topicKey": "ayudar|azucar|impuesto|puede|salud",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "franceinfo-a3ab47be5fd3b297",
-      "title": "Priorité donnée à l'école, rétablissement des comptes publics... Edouard Philippe met en lumière plusieurs mesures de son programme présidentiel",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T11:37:32.000Z",
-      "updatedAt": "2026-11-18T11:51:08.256Z",
+      "publishedAt": "2026-11-18T11:44:03.000Z",
+      "updatedAt": "2026-11-18T11:58:30.430Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.54652444444444,
+      "importance": 111.51809444444444,
       "source": {
         "name": "Franceinfo",
-        "url": "https://www.franceinfo.fr/politique/edouard-philippe/priorite-donnee-a-l-ecole-retablissement-des-comptes-publics-edouard-philippe-met-en-lumiere-plusieurs-mesures-de-son-programme-presidentiel_8287970.html#xtor=RSS-3-[lestitres]"
+        "url": "https://www.franceinfo.fr/monde/europe/manifestations-en-ukraine/l-union-europeenne-propose-un-nouveau-pret-de-45-milliards-d-euros-a-l-ukraine-pour-2027_8288159.html#xtor=RSS-3-[lestitres]"
       },
-      "topicKey": "comptes|donnee|ecole|edouard|philippe|priorite|publics|retablissement",
-      "image": "https://www.franceinfo.fr/pictures/qofw9GK18r6Sv4NpqEJzy_JXxXw/0x0:1024x576/432x243/filters:format(jpg)/2026/11/18/6afd8560a34cc650238937.jpg",
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "deutschlandfunk-de-826c41e6d1d9bc2e",
-      "title": "Encuentro en Shenzhen: Xi aboga por una cooperación más estrecha entre China y Rusia",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T11:25:52.000Z",
-      "updatedAt": "2026-11-18T11:51:12.146Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.15547444444445,
-      "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/xi-wirbt-fuer-engere-zusammenarbeit-chinas-und-russlands-102.html"
-      },
-      "topicKey": "aboga|china|cooperacion|encuentro|estrecha|rusia|shenzhen",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "deutschlandfunk-de-08289e145bdace9c",
-      "title": "Reducción de impuestos: así se compone el precio de la electricidad en Alemania",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T11:25:52.000Z",
-      "updatedAt": "2026-11-18T11:51:13.768Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.15457333333333,
-      "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/so-setzt-sich-der-strompreis-in-deutschland-zusammen-100.html"
-      },
-      "topicKey": "alemania|compone|electricidad|impuestos|precio|reduccion",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "deutschlandfunk-de-f1b4ba0dfde10133",
-      "title": "Guerra contra Ucrania - Wadephul: Europa debe estar presente en las conversaciones de paz",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T11:25:52.000Z",
-      "updatedAt": "2026-11-18T11:51:15.695Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.15350277777777,
-      "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/wadephul-europa-muss-bei-friedensgespraechen-mit-am-tisch-sitzen-100.html"
-      },
-      "topicKey": "contra|debe|estar|europa|guerra|presente|ucrania|wadephul",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "deutschlandfunk-de-1063f74bf8a8cc9e",
-      "title": "Acuerdo de la UE: las redes eléctricas europeas deben crecer más rápido",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T11:25:52.000Z",
-      "updatedAt": "2026-11-18T11:51:16.318Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.15315666666666,
-      "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/europas-stromnetze-sollen-schneller-wachsen-104.html"
-      },
-      "topicKey": "acuerdo|crecer|deben|electricas|europeas|rapido|redes",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "chinanews-cn-81a417da27fbcdea",
-      "title": "【Armonía y convivencia】Xi Jinping: «Las relaciones entre China y Rusia son “tan firmes como una montaña, sin importar el viento o la lluvia”, y “siempre hay que tener en cuenta el panorama general”».",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T11:20:04.000Z",
-      "updatedAt": "2026-11-18T11:51:27.685Z",
-      "country": "China",
-      "countryCode": "CN",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 110.95350833333333,
-      "source": {
-        "name": "China News Service",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734274.shtml"
-      },
-      "topicKey": "armonia|china|convivencia|firmes|jinping|montana|relaciones|rusia",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "chinanews-cn-d8da580d29fa295c",
-      "title": "Xi Jinping y Peng Liyuan ofrecen una cena de bienvenida a los invitados que asisten a la 33.ª Reunión Informal de Líderes del Foro de Cooperación Económica Asia-Pacífico (APEC)",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T11:15:52.000Z",
-      "updatedAt": "2026-11-18T11:51:29.101Z",
-      "country": "China",
-      "countryCode": "CN",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 110.81272166666666,
-      "source": {
-        "name": "China News Service",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734288.shtml"
-      },
-      "topicKey": "asisten|bienvenida|cena|invitados|jinping|liyuan|ofrecen|peng",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "lemonde-fr-51aa9b34397c6c65",
-      "title": "Juicio por la detención violenta de un hombre negro: los agentes de policía franceses se disculpan y ofrecen justificaciones cuestionables",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T11:05:07.000Z",
-      "updatedAt": "2026-11-18T11:51:10.429Z",
-      "country": "Francia",
-      "countryCode": "FR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 110.46476166666666,
-      "source": {
-        "name": "Le Monde",
-        "url": "https://www.lemonde.fr/en/france/article/2026/11/18/trial-over-violent-arrest-of-black-man-french-police-officers-offer-apologies-and-questionable-justifications_6783328_7.html"
-      },
-      "topicKey": "agentes|detencion|franceses|hombre|juicio|negro|policia|violenta",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "chinanews-cn-69b3553eb1db3a26",
-      "title": "(APEC de Shenzhen) Xi Jinping recibe al presidente estadounidense Donald Trump",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T10:50:44.000Z",
-      "updatedAt": "2026-11-18T11:51:33.755Z",
-      "country": "China",
-      "countryCode": "CN",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 109.97235833333333,
-      "source": {
-        "name": "China News Service",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-18/10734266.shtml"
-      },
-      "topicKey": "apec|donald|estadounidense|jinping|presidente|recibe|shenzhen|trump",
-      "image": null,
+      "topicKey": "europeenne|euros|milliards|nouveau|pret|propose|ukraine|union",
+      "image": "https://www.franceinfo.fr/pictures/OeF3DHLVKzCoJk67KgU0PaVstu0/0x0:1024x576/432x243/filters:format(jpg)/2026/11/18/6afd8f2b5252f213122423.jpg",
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
@@ -569,12 +369,12 @@
       "title": "Jensen Huang rompe su silencio tras dimitir: “Sería un honor volver como CEO de NVIDIA”",
       "summary": "Jensen Huang ha dicho que sería “un honor” volver a dirigir NVIDIA si el consejo se lo pide. Es su primera declaración pública desde que dimitió la semana pasada. Su salida llegó tras conocerse varias relaciones extramatrimoniales: una con una empleada y otra con Alice Huang, una mujer a la que la inteligencia estadounidense investiga como posible activo de China. Qué ha dicho. El comunicado es breve, lo ha publicado en X y tiene dos partes: La disculpa. “No he estado a la altura de lo que se espera de todos en NVIDIA y he cometido errores graves en mi vida personal. He creado problemas al con",
       "publishedAt": "2026-11-18T11:35:57.000Z",
-      "updatedAt": "2026-11-18T11:50:57.463Z",
+      "updatedAt": "2026-11-18T11:58:26.526Z",
       "country": "España",
       "countryCode": "ES",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 109.49974277777778,
+      "importance": 109.25026333333334,
       "source": {
         "name": "Xataka",
         "url": "https://www.xataka.com/empresas-y-economia/jensen-huang-rompe-su-silencio-dimitir-seria-honor-volver-como-ceo-nvidia"
@@ -585,41 +385,21 @@
       "isEditorialSummary": false
     },
     {
-      "id": "verge-ai-da6c827addce47a1",
-      "title": "Suno ahora te permite crear vídeos con IA para tu música generada por IA",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T11:16:53.000Z",
-      "updatedAt": "2026-11-18T11:51:37.623Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 108.8418761111111,
+      "id": "elpais-7dd7e5fc5d5f64dc",
+      "title": "Irene Montero y Vito Quiles o cómo una misma escena se convierte en dos vídeos antagónicos con millones de visitas",
+      "summary": "El agitador ultra publica unas imágenes en redes que contrastan con las mismas que publica la candidata. “Él manda a un tipo a vigilarnos para saber siempre dónde estamos”, cuentan fuentes de Podemos",
+      "publishedAt": "2026-11-18T11:46:48.000Z",
+      "updatedAt": "2026-11-18T11:58:23.761Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "España",
+      "category": "España",
+      "importance": 106.61346611111111,
       "source": {
-        "name": "The Verge AI",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1036415/suno-visuals-ai-generated-video-images-feature"
+        "name": "EL PAÍS",
+        "url": "https://elpais.com/espana/elecciones-generales/2026-11-18/irene-montero-y-vito-quiles-o-como-una-misma-escena-se-convierte-en-dos-videos-antagonicos-con-millones-de-visitas.html"
       },
-      "topicKey": "ahora|crear|generada|musica|permite|suno|videos",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "mit-ai-d1dd49b4f83d7a93",
-      "title": "Esta «startup» olfativa afirma que su nariz de IA es tan buena como la de un ser humano",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-18T10:20:30.000Z",
-      "updatedAt": "2026-11-18T11:51:36.794Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 106.96289222222222,
-      "source": {
-        "name": "MIT Technology Review AI",
-        "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
-      },
-      "topicKey": "afirma|buena|humano|nariz|olfativa|startup",
+      "topicKey": "convierte|escena|irene|misma|montero|quiles|videos|vito",
       "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -629,12 +409,12 @@
       "title": "Campaña electoral 29-N y actualidad política, en directo | Sánchez confía en poder formar gobierno “con una mayoría progresista más amplia”",
       "summary": "Feijóo: “Al PP se le ha juzgado judicialmente y políticamente” | En el sexto día de campaña electoral, Abascal viaja a Sevilla y Colau, a Gijón",
       "publishedAt": "2026-11-18T11:32:21.000Z",
-      "updatedAt": "2026-11-18T11:50:46.141Z",
+      "updatedAt": "2026-11-18T11:58:23.761Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 106.38603277777777,
+      "importance": 106.13179944444444,
       "source": {
         "name": "EL PAÍS",
         "url": "https://elpais.com/espana/elecciones-generales/2026-11-18/campana-electoral-29-n-y-actualidad-politica-en-directo.html"
@@ -649,12 +429,12 @@
       "title": "Horario del debate electoral entre Pedro Sánchez y Alberto Núñez Feijóo y dónde ver online y por televisión en directo",
       "summary": "El debate se estructurará en cinco apartados: vivienda, economía, política social y servicios públicos, lucha contra la corrupción y migración.",
       "publishedAt": "2026-11-18T11:23:51.000Z",
-      "updatedAt": "2026-11-18T11:51:16.558Z",
+      "updatedAt": "2026-11-18T11:58:34.754Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 106.08580111111111,
+      "importance": 105.8423588888889,
       "source": {
         "name": "20minutos",
         "url": "https://www.20minutos.es/nacional/horario-debate-electoral-pedro-sanchez-alberto-nunez-feijoo-elecciones-generales-donde-ver_7061066_0.html"
@@ -669,12 +449,12 @@
       "title": "Susanna Griso, muy directa al comenzar su entrevista a Pedro Sánchez: \"¿Qué tiene que pasar en este país para que dimita?\"",
       "summary": "El presidente del Gobierno sostuvo que ha \"asumido la responsabilidad política\" en los casos que les \"han afectado\".",
       "publishedAt": "2026-11-18T10:29:52.000Z",
-      "updatedAt": "2026-11-18T11:51:16.558Z",
+      "updatedAt": "2026-11-18T11:58:34.754Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 104.28635666666666,
+      "importance": 104.04291444444445,
       "source": {
         "name": "20minutos",
         "url": "https://www.20minutos.es/television/susanna-griso-muy-directa-comenzar-su-entrevista-pedro-sanchez-que-tiene-que-pasar-este-pais-para-que-dimita_7062528_0.html"
@@ -689,12 +469,12 @@
       "title": "Un día de campaña con Feijóo tras las agresiones a cargos del PP en el País Vasco: \"La violencia es consecuencia directa de blanquear a Bildu\"",
       "summary": "EL MUNDO viaja con el candidato del PP a Guipúzcoa y a Vizcaya: \"Los que tienen que tener miedo son los violentos; endureceré el Código Penal contra la 'kale borroka'\" Leer",
       "publishedAt": "2026-11-18T10:24:17.000Z",
-      "updatedAt": "2026-11-18T11:50:57.619Z",
+      "updatedAt": "2026-11-18T11:58:26.877Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 104.11076722222222,
+      "importance": 103.86117944444445,
       "source": {
         "name": "EL MUNDO",
         "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/17/6afca35ce4d4d8b81f8b45ab.html"
@@ -705,36 +485,16 @@
       "isEditorialSummary": false
     },
     {
-      "id": "20min-es-2303090ee1a27c5d",
-      "title": "Sánchez dice que ya ha asumido responsabilidades políticas por la corrupción y distingue casos \"reales y ficticios\"",
-      "summary": "Asegura que apartó a personas implicadas, como José Luis Ábalos y Santos Cerdán, y pone la dimisión de Óscar Puente tras el accidente de Urda como ejemplo de que ha asumido responsabilidades políticas.",
-      "publishedAt": "2026-11-18T09:42:12.000Z",
-      "updatedAt": "2026-11-18T11:51:16.558Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "España",
-      "category": "España",
-      "importance": 102.69746777777777,
-      "source": {
-        "name": "20minutos",
-        "url": "https://www.20minutos.es/nacional/sanchez-dice-que-ya-ha-asumido-responsabilidades-politicas-por-corrupcion-distingue-casos-reales-ficticios_7062500_0.html"
-      },
-      "topicKey": "asumido|casos|corrupcion|dice|distingue|politicas|responsabilidades|sanchez",
-      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/18/6afd742bec8ff0-64253652.jpeg",
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
       "id": "bbc-mundo-3db2891cff3d81ff",
       "title": "Por qué la histórica cumbre entre Trump, Putin y Xi preocupa a Europa (y qué puede significar para el resto del mundo)",
       "summary": "Los preparativos para la primera reunión trilateral de los líderes de China, Rusia y Estados Unidos han generado alarma en Europa, donde algunos ven paralelismos con la división del mundo en esferas de influencia tras la Segunda Guerra Mundial.",
       "publishedAt": "2026-11-18T04:04:11.000Z",
-      "updatedAt": "2026-11-18T11:50:46.359Z",
+      "updatedAt": "2026-11-18T11:58:24.115Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 100.44702277777778,
+      "importance": 100.19271388888889,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/cmwy98z3727vo?at_medium=RSS&at_campaign=rss"
@@ -749,12 +509,12 @@
       "title": "¿Qué hay detrás de las recientes interrupciones informáticas en Estados Unidos?",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-18T02:39:32.000Z",
-      "updatedAt": "2026-11-18T11:50:54.446Z",
+      "updatedAt": "2026-11-18T11:58:25.922Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 97.62086333333333,
+      "importance": 97.37004333333334,
       "source": {
         "name": "France 24",
         "url": "https://www.france24.com/es/video/20261118-qu%C3%A9-hay-detr%C3%A1s-de-las-recientes-interrupciones-inform%C3%A1ticas-en-estados-unidos"
@@ -769,12 +529,12 @@
       "title": "Una filtración masiva de documentos vuelve a vincular a Deutsche Bank con Jeffrey Epstein",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-18T02:38:16.000Z",
-      "updatedAt": "2026-11-18T11:50:54.446Z",
+      "updatedAt": "2026-11-18T11:58:25.922Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 97.57864111111111,
+      "importance": 97.3278211111111,
       "source": {
         "name": "France 24",
         "url": "https://www.france24.com/es/video/20261118-una-filtraci%C3%B3n-masiva-de-documentos-vuelve-a-vincular-a-deutsche-bank-con-jeffrey-epstein"
@@ -789,12 +549,12 @@
       "title": "Revés para Netanyahu: el Parlamento de Israel elige a un aliado de Eisenkot como presidente",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-18T02:35:04.000Z",
-      "updatedAt": "2026-11-18T11:50:54.446Z",
+      "updatedAt": "2026-11-18T11:58:25.922Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 97.47197444444444,
+      "importance": 97.22115444444444,
       "source": {
         "name": "France 24",
         "url": "https://www.france24.com/es/video/20261118-rev%C3%A9s-para-netanyahu-el-parlamento-de-israel-elige-a-un-aliado-de-eisenkot-como-presidente"
@@ -809,37 +569,17 @@
       "title": "Cómo fue el sofisticado ataque con el que Ucrania destruyó parte del preciado puente de Crimea de Putin (y qué consecuencias tendrá)",
       "summary": "Uno de los símbolos de la ocupación rusa de Ucrania ha sufrido graves daños tras un ataque en siete fases perpetrado por Kyiv.",
       "publishedAt": "2026-11-18T00:55:45.000Z",
-      "updatedAt": "2026-11-18T11:50:46.359Z",
+      "updatedAt": "2026-11-18T11:58:24.115Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 94.16591166666666,
+      "importance": 93.91160277777777,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/c6y498pd1q54o?at_medium=RSS&at_campaign=rss"
       },
       "topicKey": "ataque|crimea|destruyo|parte|preciado|puente|sofisticado|ucrania",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "verge-ai-19bce111d0ee6096",
-      "title": "Satya Nadella dice que ahora está «AGI-pilled»",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-17T23:41:18.000Z",
-      "updatedAt": "2026-11-18T11:51:38.312Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 85.65538222222222,
-      "source": {
-        "name": "The Verge AI",
-        "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now"
-      },
-      "topicKey": "ahora|dice|nadella|pilled|satya",
       "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
