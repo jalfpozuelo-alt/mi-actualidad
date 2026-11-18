@@ -34,3 +34,9 @@
 
 
 .euLegend button,.euCountry,.euAction{touch-action:manipulation}.euPolitics svg{max-width:100%;height:auto}.euLegend button:focus-visible,.euCountry:focus-visible,.euAction:focus-visible{outline:3px solid #e5b700;outline-offset:2px}
+
+.euParliament{border:1px solid var(--line,#ccc);border-radius:14px;padding:1.2rem;margin:1rem 0 1.5rem;background:linear-gradient(145deg,color-mix(in srgb,var(--paper,#f8f5ee) 96%,white),var(--paper,#f8f5ee));box-shadow:0 14px 36px rgba(35,31,27,.08);border-color:color-mix(in srgb,var(--line,#c9c3b8) 72%,transparent)}
+.euParliament .euTitle{font-weight:800;font-size:1.1rem;border:0;border-bottom:1px solid var(--line,#c9c3b8);background:transparent;padding:0 0 .8rem;color:var(--ink,#19232b);letter-spacing:.02em;text-align:left;width:100%}
+.euParliament svg{display:block;width:min(100%,480px);margin:1rem auto 0;overflow:visible;background:radial-gradient(circle at 50% 100%,rgba(255,255,255,.72),transparent 58%);border-radius:16px}
+.euParliament .euTotals{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:.65rem 1rem;margin-top:1rem}.euParliament .euTotal{display:flex;align-items:center;gap:.45rem;font-weight:600;border:0;background:transparent;font:inherit;text-align:left}.euParliament .euTotal i{width:12px;height:12px;border-radius:2px;display:inline-block;flex:0 0 12px}.euParliamentDetails{margin-top:1.5rem;text-align:left}.euParliamentDetails h3{margin-bottom:.5rem}
+@media(max-width:600px){.euParliament .euTotals{grid-template-columns:1fr}}
