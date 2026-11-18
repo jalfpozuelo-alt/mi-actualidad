@@ -13,7 +13,7 @@ const translationCache=new Map(Object.entries(JSON.parse(await fs.readFile('gene
 let translationCalls=0; const deadline=Date.now()+180000;
 async function translateTitle(title){
   if(spanishSources.has(this.id)||spanishWords.test(title)) return title;
-  if(translationCache.has(title)) return translationCache.get(title);
+  if(translationCache.has(title)){const cached=translationCache.get(title);if(cached&&!containsCjk(cached)&&!looksUntranslated(cached,sourceLanguage)&&!containsForeignTitle(cached))return cached;translationCache.delete(title)}
   if(translationCalls>=40||Date.now()>deadline)return null;
   translationCalls++;
   const sourceLanguage=this.language||'en';
@@ -27,8 +27,8 @@ async function translateTitle(title){
   if(!translationEmail)return null;
   try{const url='https://api.mymemory.translated.net/get?q='+encodeURIComponent(title)+'&langpair='+sourceLanguage+'|es&de='+encodeURIComponent(translationEmail);const response=await fetch(url,{signal:AbortSignal.timeout(6000)});const result=await response.json();const translated=result?.responseData?.translatedText?.trim();if(!translated||translated.toLowerCase()===title.toLowerCase()||looksUntranslated(translated,sourceLanguage))return null;translationCache.set(title,translated);return translated}catch{return null}
 }
-const looksUntranslated=(value,language)=>{const words=value.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').match(/[a-záéíóúüñ]+/g)||[];const sets={fr:new Set(['le','la','les','des','une','est','pour','dans','avec','que','sur','au','aux','du']),de:new Set(['der','die','das','und','ist','für','mit','von','den','dem','nicht','ein','eine']),en:new Set(['the','and','is','for','with','from','this','that','in'])};const set=sets[language];return Boolean(set&&words.filter(w=>set.has(w)).length>=2)};
-const containsForeignTitle=value=>{const words=value.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').match(/[a-záéíóúüñ]+/g)||[];const foreign=new Set(['le','la','les','des','une','est','pour','dans','avec','que','sur','au','aux','du','der','die','das','und','ist','für','mit','von','den','dem','nicht','ein','eine']);return words.filter(w=>foreign.has(w)).length>=2};
+const looksUntranslated=(value,language)=>{const words=value.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').match(/[a-záéíóúüñ]+/g)||[];const sets={fr:new Set(['le','la','les','des','une','est','pour','dans','avec','que','sur','au','aux','du','il','fait','chez','francais','français','cinq','français','chauffes','chauffés','proposent','mesures','lutter','contre','precarite','précarité','energetique','énergétique']),de:new Set(['der','die','das','und','ist','für','mit','von','den','dem','nicht','ein','eine','zu','auf','werden','wird','nach','über','als']),en:new Set(['the','and','is','for','with','from','this','that','in'])};const set=sets[language];return Boolean(set&&words.filter(w=>set.has(w)).length>=2)};
+const containsForeignTitle=value=>{const words=value.toLowerCase().normalize('NFD').replace(/[\\u0300-\\u036f]/g,'').match(/[a-záéíóúüñ]+/g)||[];const foreign=new Set(['le','la','les','des','une','est','pour','dans','avec','que','sur','au','aux','du','il','fait','chez','francais','français','cinq','chauffes','chauffés','proposent','mesures','lutter','contre','precarite','précarité','energetique','énergétique','der','die','das','und','ist','für','mit','von','den','dem','nicht','ein','eine','zu','auf','werden','wird','nach','über','als']);return words.filter(w=>foreign.has(w)).length>=2};
 const containsCjk=value=>Array.from(value).some(char=>{const code=char.codePointAt(0)||0;return (code>=0x3400&&code<=0x9fff)||(code>=0x3040&&code<=0x30ff)});
 const spanishWords=/\b(el|la|los|las|una|un|de|del|para|con|por|que|en|es|sus|sobre|tras|más|cómo|hoy|mundo|gobierno|economía|política|salud|tecnología)\b/i;
 const imageUrl=item=>item?.enclosure?.url||item?.['media:content']?.$?.url||item?.['media:thumbnail']?.$?.url||null;
