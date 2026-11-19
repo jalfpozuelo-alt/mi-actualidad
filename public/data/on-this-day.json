@@ -1,497 +1,653 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "source": "Wikimedia",
   "items": [
     {
-      "text": "en Perú, accidente del Vuelo 2213 de LATAM Perú, aeronave A320Neo la cual colisiona en el aeropuerto internacional Jorge Chávez de Lima con un vehículo de emergencia mientras estaba en carrera de despegue hacia la ciudad de Juliaca.",
+      "text": "Después de más de 13 años, Rockstar Games lanza Grand Theft Auto VI para PlayStation 5 y XBox Series X|S. Su estreno culmina con la espera más grande en la historia de los videojuegos y se consolida con una colaboración a nivel mundial.",
       "pages": [
         {
           "type": "standard",
-          "title": "Vuelo_2213_de_LATAM_Airlines_Perú",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Vuelo 2213 de LATAM Airlines Perú</span></span>",
+          "title": "Rockstar_Games",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Rockstar Games</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q115277477",
+          "wikibase_item": "Q94912",
           "titles": {
-            "canonical": "Vuelo_2213_de_LATAM_Airlines_Perú",
-            "normalized": "Vuelo 2213 de LATAM Airlines Perú",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Vuelo 2213 de LATAM Airlines Perú</span></span>"
+            "canonical": "Rockstar_Games",
+            "normalized": "Rockstar Games",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Rockstar Games</span></span>"
           },
-          "pageid": 10390420,
+          "pageid": 286374,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Latam_LA2213_%282%29.jpg/330px-Latam_LA2213_%282%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Rockstar_Games_Logo.svg/langes-330px-Rockstar_Games_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 185
+            "height": 304
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Latam_LA2213_%282%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1024,
-            "height": 575
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Rockstar_Games_Logo.svg/langes-960px-Rockstar_Games_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 512,
+            "height": 471
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "175683862",
-          "tid": "58f05f53-c12e-11f1-b579-8ecdf4a3e3ee",
-          "timestamp": "2026-10-06T02:33:43Z",
-          "description": "accidente de aviación en Perú en 2022",
+          "revision": "175684353",
+          "tid": "cfdd280f-c135-11f1-88ef-d406ef50e5e5",
+          "timestamp": "2026-10-06T03:27:09Z",
+          "description": "desarrolladora estadounidense de videojuegos",
           "description_source": "central",
           "coordinates": {
-            "lat": -12.02194444,
-            "lon": -77.11444444
+            "lat": 40.72888889,
+            "lon": -73.99
           },
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Vuelo_2213_de_LATAM_Airlines_Per%C3%BA",
-              "revisions": "https://es.wikipedia.org/wiki/Vuelo_2213_de_LATAM_Airlines_Per%C3%BA?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Vuelo_2213_de_LATAM_Airlines_Per%C3%BA?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Vuelo_2213_de_LATAM_Airlines_Per%C3%BA"
+              "page": "https://es.wikipedia.org/wiki/Rockstar_Games",
+              "revisions": "https://es.wikipedia.org/wiki/Rockstar_Games?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Rockstar_Games?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Rockstar_Games"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Vuelo_2213_de_LATAM_Airlines_Per%C3%BA",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Vuelo_2213_de_LATAM_Airlines_Per%C3%BA",
-              "edit": "https://es.wikipedia.org/wiki/Vuelo_2213_de_LATAM_Airlines_Per%C3%BA?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Vuelo_2213_de_LATAM_Airlines_Per%C3%BA"
+              "page": "https://es.wikipedia.org/wiki/Rockstar_Games",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Rockstar_Games",
+              "edit": "https://es.wikipedia.org/wiki/Rockstar_Games?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Rockstar_Games"
             }
           },
-          "extract": "El vuelo 2213 de LATAM Airlines Perú (LP2213/LPE2213) era un vuelo regular de pasajeros de ámbito nacional que partía del Aeropuerto Internacional Jorge Chávez de Lima, Perú, con destino al Aeropuerto Internacional Inca Manco Cápac de Juliaca, Perú. El 18 de noviembre de 2022, el Airbus A320neo colisionó con un vehículo de bomberos durante la carrera de despegue, causando la muerte de dos bomberos e hiriendo gravemente a un tercero, quien falleció siete meses después a causa de sus heridas. Cuarenta pasajeros y miembros de la tripulación resultaron heridos: cuatro de gravedad y treinta y seis con heridas leves.La aeronave sufrió daños sustanciales y fue declarada pérdida total, lo que supone la primera pérdida de casco de la familia A320neo.",
-          "extract_html": "<p>El <b>vuelo 2213 de LATAM Airlines Perú</b> (<b>LP2213</b>/<b>LPE2213</b>) era un vuelo regular de pasajeros de ámbito nacional que partía del Aeropuerto Internacional Jorge Chávez de Lima, Perú, con destino al Aeropuerto Internacional Inca Manco Cápac de Juliaca, Perú. El 18 de noviembre de 2022, el Airbus A320neo colisionó con un vehículo de bomberos durante la carrera de despegue, causando la muerte de dos bomberos e hiriendo gravemente a un tercero, quien falleció siete meses después a causa de sus heridas. Cuarenta pasajeros y miembros de la tripulación resultaron heridos: cuatro de gravedad y treinta y seis con heridas leves.La aeronave sufrió daños sustanciales y fue declarada pérdida total, lo que supone la primera pérdida de casco de la familia A320neo.</p>",
-          "normalizedtitle": "Vuelo 2213 de LATAM Airlines Perú"
-        }
-      ],
-      "year": 2022
-    },
-    {
-      "text": "La agrupación musical Serenata Guayanesa es declarada por la Unesco Patrimonio Cultural de Venezuela.",
-      "pages": [
+          "extract": "Rockstar Games, Inc es una compañía desarrolladora y distribuidora de videojuegos adquirido por el distribuidor de videojuegos Take-Two Interactive y creador del motor de videojuego RAGE. La compañía es internacionalmente conocida por títulos como la serie Grand Theft Auto, Max Payne, Midnight Club y Red Dead. Comprende estudios que han sido adquiridos y renombrados, así como otros creados internamente. Mientras la mayoría de los estudios que Take-Two Interactive ha adquirido se fusionaron en la marca Rockstar, otros más recientes han mantenido sus propias identidades y forman parte de la división de la compañía 2K Games.",
+          "extract_html": "<p><b>Rockstar Games, Inc</b> es una compañía desarrolladora y distribuidora de videojuegos adquirido por el distribuidor de videojuegos Take-Two Interactive y creador del motor de videojuego RAGE. La compañía es internacionalmente conocida por títulos como la serie <i>Grand Theft Auto</i>, <i>Max Payne</i>, <i>Midnight Club</i> y <i>Red Dead</i>. Comprende estudios que han sido adquiridos y renombrados, así como otros creados internamente. Mientras la mayoría de los estudios que Take-Two Interactive ha adquirido se fusionaron en la marca Rockstar, otros más recientes han mantenido sus propias identidades y forman parte de la división de la compañía 2K Games.</p>",
+          "normalizedtitle": "Rockstar Games"
+        },
         {
           "type": "standard",
-          "title": "Serenata_Guayanesa",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Serenata Guayanesa</span></span>",
+          "title": "Grand_Theft_Auto_VI",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Grand Theft Auto VI</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q2811710",
+          "wikibase_item": "Q23648408",
           "titles": {
-            "canonical": "Serenata_Guayanesa",
-            "normalized": "Serenata Guayanesa",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Serenata Guayanesa</span></span>"
+            "canonical": "Grand_Theft_Auto_VI",
+            "normalized": "Grand Theft Auto VI",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Grand Theft Auto VI</span></span>"
           },
-          "pageid": 253117,
+          "pageid": 10337727,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Serenata_Guayanesa%2C_2008.jpg/330px-Serenata_Guayanesa%2C_2008.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Grand_Theft_Auto_VI_logo_%28with_gradient%29.svg/langes-330px-Grand_Theft_Auto_VI_logo_%28with_gradient%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
             "height": 251
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/8/88/Serenata_Guayanesa%2C_2008.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1968,
-            "height": 1495
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Grand_Theft_Auto_VI_logo_%28with_gradient%29.svg/langes-960px-Grand_Theft_Auto_VI_logo_%28with_gradient%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 512,
+            "height": 389
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "166196394",
-          "tid": "db032167-03ee-11f0-ae2a-9bcdd89a1258",
-          "timestamp": "2025-03-18T11:48:06Z",
-          "description": "Agrupación venezolana",
+          "revision": "176366405",
+          "tid": "cfe26d42-e3e3-11f1-aaf0-12b434a41a86",
+          "timestamp": "2026-11-19T06:38:21Z",
+          "description": "videojuego de 2026",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Serenata_Guayanesa",
-              "revisions": "https://es.wikipedia.org/wiki/Serenata_Guayanesa?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Serenata_Guayanesa?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Serenata_Guayanesa"
+              "page": "https://es.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+              "revisions": "https://es.wikipedia.org/wiki/Grand_Theft_Auto_VI?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Grand_Theft_Auto_VI?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Grand_Theft_Auto_VI"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Serenata_Guayanesa",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Serenata_Guayanesa",
-              "edit": "https://es.wikipedia.org/wiki/Serenata_Guayanesa?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Serenata_Guayanesa"
+              "page": "https://es.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Grand_Theft_Auto_VI",
+              "edit": "https://es.wikipedia.org/wiki/Grand_Theft_Auto_VI?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Grand_Theft_Auto_VI"
             }
           },
-          "extract": "Serenata Guayanesa es un género y a su vez es un cuarteto vocal e instrumental de música típica y folclórica venezolana.",
-          "extract_html": "<p><b>Serenata Guayanesa</b> es un género y a su vez es un cuarteto vocal e instrumental de música típica y folclórica venezolana.</p>",
-          "normalizedtitle": "Serenata Guayanesa"
+          "extract": "Grand Theft Auto VI es un videojuego de acción y aventura desarrollado y publicado por Rockstar Games. Es el octavo juego principal de la serie Grand Theft Auto, después de Grand Theft Auto V (2013), y el decimosexto en total. Ambientado en el estado ficticio de Leonida, basado en Florida, la historia sigue a la pareja de criminales Jason Duval y Lucia Caminos. Los jugadores podrán explorar libremente el mundo abierto de Leonida, que incluye Vice City, inspirada en Miami.",
+          "extract_html": "<p><i><b>Grand Theft Auto VI</b></i> es un videojuego de acción y aventura desarrollado y publicado por Rockstar Games. Es el octavo juego principal de la serie <i>Grand Theft Auto</i>, después de <i>Grand Theft Auto V</i> (2013), y el decimosexto en total. Ambientado en el estado ficticio de Leonida, basado en Florida, la historia sigue a la pareja de criminales Jason Duval y Lucia Caminos. Los jugadores podrán explorar libremente el mundo abierto de Leonida, que incluye Vice City, inspirada en Miami.</p>",
+          "normalizedtitle": "Grand Theft Auto VI"
         },
         {
           "type": "standard",
-          "title": "Patrimonio_cultural",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Patrimonio cultural</span></span>",
+          "title": "PlayStation_5",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">PlayStation 5</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q210272",
+          "wikibase_item": "Q63184502",
           "titles": {
-            "canonical": "Patrimonio_cultural",
-            "normalized": "Patrimonio cultural",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Patrimonio cultural</span></span>"
+            "canonical": "PlayStation_5",
+            "normalized": "PlayStation 5",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">PlayStation 5</span></span>"
           },
-          "pageid": 521501,
+          "pageid": 9022222,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_UNESCO.svg/langes-330px-Flag_of_UNESCO.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/PlayStation_5_and_DualSense_with_transparent_background.png/330px-PlayStation_5_and_DualSense_with_transparent_background.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 440
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/1/1b/PlayStation_5_and_DualSense_with_transparent_background.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 3024,
+            "height": 4032
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176215688",
+          "tid": "e15c9743-dbe9-11f1-9b8d-5e4869c67aea",
+          "timestamp": "2026-11-09T03:01:38Z",
+          "description": "videoconsola desarrollada por Sony Interactive Entertainment",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/PlayStation_5",
+              "revisions": "https://es.wikipedia.org/wiki/PlayStation_5?action=history",
+              "edit": "https://es.wikipedia.org/wiki/PlayStation_5?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:PlayStation_5"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/PlayStation_5",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/PlayStation_5",
+              "edit": "https://es.wikipedia.org/wiki/PlayStation_5?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:PlayStation_5"
+            }
+          },
+          "extract": "PlayStation 5  es la quinta consola de videojuegos de sobremesa desarrollada por la empresa Sony Interactive Entertainment. Es la tercera consola de Sony en ser diseñada por Mark Cerny. Fue anunciada en diciembre de 2019 como la sucesora de la PlayStation 4. Se lanzó el 12 de noviembre de 2020 en Australia, Nueva Zelanda, Estados Unidos, México, Japón, Corea del Sur y Canadá, y en la semana siguiente en el resto del mundo. La PlayStation 5 junto con la Xbox Series X|S de Microsoft, lanzada el mismo mes, son parte de la novena generación de consolas de videojuegos.",
+          "extract_html": "<p><b>PlayStation 5</b><span style=\"font-weight:normal\"> </span> es la quinta consola de videojuegos de sobremesa desarrollada por la empresa Sony Interactive Entertainment. Es la tercera consola de Sony en ser diseñada por Mark Cerny. Fue anunciada en diciembre de 2019 como la sucesora de la PlayStation 4. Se lanzó el 12 de noviembre de 2020 en Australia, Nueva Zelanda, Estados Unidos, México, Japón, Corea del Sur y Canadá, y en la semana siguiente en el resto del mundo. La PlayStation 5 junto con la Xbox Series X|S de Microsoft, lanzada el mismo mes, son parte de la novena generación de consolas de videojuegos.</p>",
+          "normalizedtitle": "PlayStation 5"
+        },
+        {
+          "type": "standard",
+          "title": "Xbox_Series_X_y_Series_S",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Xbox Series X y Series S</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q98973368",
+          "titles": {
+            "canonical": "Xbox_Series_X_y_Series_S",
+            "normalized": "Xbox Series X y Series S",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Xbox Series X y Series S</span></span>"
+          },
+          "pageid": 9210152,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Xbox_Series_X_S_color.svg/langes-330px-Xbox_Series_X_S_color.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 162
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Xbox_Series_X_S_color.svg/langes-120px-Xbox_Series_X_S_color.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 110,
+            "height": 54
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176174149",
+          "tid": "e08fef5e-d9b6-11f1-a639-30c4be1f9ee5",
+          "timestamp": "2026-11-06T07:51:30Z",
+          "description": "línea de videoconsolas domésticas",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Xbox_Series_X_y_Series_S",
+              "revisions": "https://es.wikipedia.org/wiki/Xbox_Series_X_y_Series_S?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Xbox_Series_X_y_Series_S?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Xbox_Series_X_y_Series_S"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Xbox_Series_X_y_Series_S",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Xbox_Series_X_y_Series_S",
+              "edit": "https://es.wikipedia.org/wiki/Xbox_Series_X_y_Series_S?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Xbox_Series_X_y_Series_S"
+            }
+          },
+          "extract": "Las Xbox Series X y  Xbox Series S, son una línea de videoconsolas de sobremesa desarrolladas por Microsoft y la cuarta generación de la familia de consolas Xbox. La familia de consolas, conocida colectivamente como \"Project Scarlett\" y revelada por primera vez en el E3 2019, incluye la Xbox Series X de gama alta, revelada en The Game Awards 2019 y cuyo nombre en código es \"Project Anaconda\", y la Xbox Series S de menor costo, anunciada en septiembre de 2020 y cuyo nombre en código es \"Project Lockhart\". Ambas consolas se lanzaron el 10 de noviembre de 2020 y compiten actualmente con la PlayStation 5 de Sony, lanzada el mismo mes, y ambas son parte de la novena generación de consolas de videojuegos.",
+          "extract_html": "<p>Las <b>Xbox Series X</b> y <b> Xbox Series S</b>, son una línea de videoconsolas de sobremesa desarrolladas por Microsoft y la cuarta generación de la familia de consolas Xbox. La familia de consolas, conocida colectivamente como \"<b>Project Scarlett</b>\" y revelada por primera vez en el E3 2019, incluye la Xbox Series X de gama alta, revelada en The Game Awards 2019 y cuyo nombre en código es \"<b>Project Anaconda</b>\", y la Xbox Series S de menor costo, anunciada en septiembre de 2020 y cuyo nombre en código es \"<b>Project Lockhart</b>\". Ambas consolas se lanzaron el 10 de noviembre de 2020 y compiten actualmente con la PlayStation 5 de Sony, lanzada el mismo mes, y ambas son parte de la novena generación de consolas de videojuegos.</p>",
+          "normalizedtitle": "Xbox Series X y Series S"
+        }
+      ],
+      "year": 2026
+    },
+    {
+      "text": "Segunda vuelta de las elecciones presidenciales en Argentina. Javier Milei gana las elecciones.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Javier_Milei",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Javier Milei</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q52395487",
+          "titles": {
+            "canonical": "Javier_Milei",
+            "normalized": "Javier Milei",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Javier Milei</span></span>"
+          },
+          "pageid": 8834241,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Retrato_oficial_Presidente_Milei.png/330px-Retrato_oficial_Presidente_Milei.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 473
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/2/25/Retrato_oficial_Presidente_Milei.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 788,
+            "height": 1130
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176118691",
+          "tid": "e4e5b178-d70d-11f1-a7b8-9a3218ec1eaa",
+          "timestamp": "2026-11-02T22:36:50Z",
+          "description": "presidente de Argentina desde 2023",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Javier_Milei",
+              "revisions": "https://es.wikipedia.org/wiki/Javier_Milei?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Javier_Milei?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Javier_Milei"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Javier_Milei",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Javier_Milei",
+              "edit": "https://es.wikipedia.org/wiki/Javier_Milei?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Javier_Milei"
+            }
+          },
+          "extract": "Javier Gerardo Milei es un economista, escritor, político y docente argentino que ejerce como presidente de la Nación Argentina desde el 10 de diciembre de 2023. Anteriormente fue diputado nacional entre 2021 y 2023 representando a la Ciudad Autónoma de Buenos Aires, así como líder de su partido político La Libertad Avanza.",
+          "extract_html": "<p><b>Javier Gerardo Milei</b> es un economista, escritor, político y docente argentino que ejerce como presidente de la Nación Argentina desde el 10 de diciembre de 2023. Anteriormente fue diputado nacional entre 2021 y 2023 representando a la Ciudad Autónoma de Buenos Aires, así como líder de su partido político La Libertad Avanza.</p>",
+          "normalizedtitle": "Javier Milei"
+        }
+      ],
+      "year": 2023
+    },
+    {
+      "text": "Sale a la venta la PS5.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "PlayStation_5",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">PlayStation 5</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q63184502",
+          "titles": {
+            "canonical": "PlayStation_5",
+            "normalized": "PlayStation 5",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">PlayStation 5</span></span>"
+          },
+          "pageid": 9022222,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/PlayStation_5_and_DualSense_with_transparent_background.png/330px-PlayStation_5_and_DualSense_with_transparent_background.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 440
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/1/1b/PlayStation_5_and_DualSense_with_transparent_background.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 3024,
+            "height": 4032
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176215688",
+          "tid": "e15c98b3-dbe9-11f1-82a1-12a5793c2bb4",
+          "timestamp": "2026-11-09T03:01:38Z",
+          "description": "videoconsola desarrollada por Sony Interactive Entertainment",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/PlayStation_5",
+              "revisions": "https://es.wikipedia.org/wiki/PlayStation_5?action=history",
+              "edit": "https://es.wikipedia.org/wiki/PlayStation_5?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:PlayStation_5"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/PlayStation_5",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/PlayStation_5",
+              "edit": "https://es.wikipedia.org/wiki/PlayStation_5?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:PlayStation_5"
+            }
+          },
+          "extract": "PlayStation 5  es la quinta consola de videojuegos de sobremesa desarrollada por la empresa Sony Interactive Entertainment. Es la tercera consola de Sony en ser diseñada por Mark Cerny. Fue anunciada en diciembre de 2019 como la sucesora de la PlayStation 4. Se lanzó el 12 de noviembre de 2020 en Australia, Nueva Zelanda, Estados Unidos, México, Japón, Corea del Sur y Canadá, y en la semana siguiente en el resto del mundo. La PlayStation 5 junto con la Xbox Series X|S de Microsoft, lanzada el mismo mes, son parte de la novena generación de consolas de videojuegos.",
+          "extract_html": "<p><b>PlayStation 5</b><span style=\"font-weight:normal\"> </span> es la quinta consola de videojuegos de sobremesa desarrollada por la empresa Sony Interactive Entertainment. Es la tercera consola de Sony en ser diseñada por Mark Cerny. Fue anunciada en diciembre de 2019 como la sucesora de la PlayStation 4. Se lanzó el 12 de noviembre de 2020 en Australia, Nueva Zelanda, Estados Unidos, México, Japón, Corea del Sur y Canadá, y en la semana siguiente en el resto del mundo. La PlayStation 5 junto con la Xbox Series X|S de Microsoft, lanzada el mismo mes, son parte de la novena generación de consolas de videojuegos.</p>",
+          "normalizedtitle": "PlayStation 5"
+        }
+      ],
+      "year": 2020
+    },
+    {
+      "text": "en Chile se realizan elecciones presidenciales, que gana Sebastián Piñera.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Chile",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Chile</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q298",
+          "titles": {
+            "canonical": "Chile",
+            "normalized": "Chile",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Chile</span></span>"
+          },
+          "pageid": 276780,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/langes-330px-Flag_of_Chile.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
             "height": 220
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Flag_of_UNESCO.svg/langes-960px-Flag_of_UNESCO.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/langes-960px-Flag_of_Chile.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 900,
             "height": 600
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176201924",
-          "tid": "b708cc3c-db4c-11f1-a7fd-6066dbc4de35",
-          "timestamp": "2026-11-08T08:16:36Z",
-          "description": "herencia cultural de una comunidad",
+          "revision": "176313496",
+          "tid": "9da9e6c5-e131-11f1-823e-fefcb85d0537",
+          "timestamp": "2026-11-15T20:17:44Z",
+          "description": "país de América del Sur",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Patrimonio_cultural",
-              "revisions": "https://es.wikipedia.org/wiki/Patrimonio_cultural?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Patrimonio_cultural?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Patrimonio_cultural"
+              "page": "https://es.wikipedia.org/wiki/Chile",
+              "revisions": "https://es.wikipedia.org/wiki/Chile?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Chile?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Chile"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Patrimonio_cultural",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Patrimonio_cultural",
-              "edit": "https://es.wikipedia.org/wiki/Patrimonio_cultural?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Patrimonio_cultural"
+              "page": "https://es.wikipedia.org/wiki/Chile",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Chile",
+              "edit": "https://es.wikipedia.org/wiki/Chile?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Chile"
             }
           },
-          "extract": "El patrimonio cultural es la herencia cultural propia del pasado de una comunidad, mantenida hasta la actualidad y transmitida a las generaciones futuras.",
-          "extract_html": "<p>El <b>patrimonio cultural</b> es la herencia cultural propia del pasado de una comunidad, mantenida hasta la actualidad y transmitida a las generaciones futuras.</p>",
-          "normalizedtitle": "Patrimonio cultural"
-        }
-      ],
-      "year": 2016
-    },
-    {
-      "text": "la empresa japonesa Nintendo lanza la consola Wii U.",
-      "pages": [
+          "extract": "Chile, oficialmente República de Chile, es un país soberano ubicado en el extremo sudoeste de América del Sur. Adopta la forma de gobierno republicana, democrática, presidencialista y unitaria. Su capital y ciudad más poblada es Santiago.",
+          "extract_html": "<p><b>Chile</b>, oficialmente <b>República de Chile</b>, es un país soberano ubicado en el extremo sudoeste de América del Sur. Adopta la forma de gobierno republicana, democrática, presidencialista y unitaria. Su capital y ciudad más poblada es Santiago.</p>",
+          "normalizedtitle": "Chile"
+        },
         {
           "type": "standard",
-          "title": "Wii_U",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Wii U</span></span>",
+          "title": "Sebastián_Piñera",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sebastián Piñera</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q56942",
+          "wikibase_item": "Q306",
           "titles": {
-            "canonical": "Wii_U",
-            "normalized": "Wii U",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Wii U</span></span>"
+            "canonical": "Sebastián_Piñera",
+            "normalized": "Sebastián Piñera",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sebastián Piñera</span></span>"
           },
-          "pageid": 4608166,
+          "pageid": 133453,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Wii_U_Console_and_Gamepad.png/330px-Wii_U_Console_and_Gamepad.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Retrato_Oficial_Presidente_Pi%C3%B1era_2018.jpg/330px-Retrato_Oficial_Presidente_Pi%C3%B1era_2018.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 159
+            "height": 427
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Wii_U_Console_and_Gamepad.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 2900,
-            "height": 1400
+            "source": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Retrato_Oficial_Presidente_Pi%C3%B1era_2018.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 2008,
+            "height": 2598
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "175822760",
-          "tid": "6619e8d8-c7d9-11f1-b1ff-acebc9ee6474",
-          "timestamp": "2026-10-14T14:13:16Z",
-          "description": "consola de videojuegos creada por Nintendo",
+          "revision": "176222459",
+          "tid": "0424931e-dc56-11f1-bee4-38bcbd6b5fd1",
+          "timestamp": "2026-11-09T15:55:42Z",
+          "description": "empresario y político chileno, presidente de Chile",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Wii_U",
-              "revisions": "https://es.wikipedia.org/wiki/Wii_U?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Wii_U?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Wii_U"
+              "page": "https://es.wikipedia.org/wiki/Sebasti%C3%A1n_Pi%C3%B1era",
+              "revisions": "https://es.wikipedia.org/wiki/Sebasti%C3%A1n_Pi%C3%B1era?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Sebasti%C3%A1n_Pi%C3%B1era?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Sebasti%C3%A1n_Pi%C3%B1era"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Wii_U",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Wii_U",
-              "edit": "https://es.wikipedia.org/wiki/Wii_U?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Wii_U"
+              "page": "https://es.wikipedia.org/wiki/Sebasti%C3%A1n_Pi%C3%B1era",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Sebasti%C3%A1n_Pi%C3%B1era",
+              "edit": "https://es.wikipedia.org/wiki/Sebasti%C3%A1n_Pi%C3%B1era?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Sebasti%C3%A1n_Pi%C3%B1era"
             }
           },
-          "extract": "Nintendo Wii U , con nombre clave Project Café es una consola descontinuada perteneciente a la octava generación de videoconsolas, siendo la séptima consola de sobremesa desarrollada por Nintendo, fabricada en China por Foxconn y en Japón por Mitsumi se lanzó como directa sucesora de Wii. La consola fue lanzada el 18 de noviembre de 2012 en terreno norteamericano siendo su fecha de apertura. Se presentó en la conferencia de Nintendo durante el Electronic Entertainment Expo 2011 el 7 de junio de 2011. Competía principalmente con la PlayStation 4 de Sony y la Xbox One de Microsoft.",
-          "extract_html": "<p><b>Nintendo Wii U</b><span style=\"font-weight:normal\"> </span>, con nombre clave <i><b>Project Café</b></i> es una consola descontinuada perteneciente a la octava generación de videoconsolas, siendo la séptima consola de sobremesa desarrollada por Nintendo, fabricada en China por Foxconn y en Japón por Mitsumi se lanzó como directa sucesora de Wii. La consola fue lanzada el 18 de noviembre de 2012 en terreno norteamericano siendo su fecha de apertura. Se presentó en la conferencia de Nintendo durante el Electronic Entertainment Expo 2011 el 7 de junio de 2011. Competía principalmente con la PlayStation 4 de Sony y la Xbox One de Microsoft.</p>",
-          "normalizedtitle": "Wii U"
+          "extract": "Miguel Juan Sebastián Piñera Echenique fue un político, ingeniero comercial y empresario chileno. Ejerció como presidente de la República de Chile en dos períodos no consecutivos entre 2010-2014 y 2018-2022; además fue el primer Presidente pro tempore de la CELAC (2011-2013), primer Presidente pro tempore de la Alianza del Pacifico y el primer Presidente pro tempore del PROSUR (2019-2020).",
+          "extract_html": "<p><b>Miguel Juan Sebastián Piñera Echenique</b> fue un político, ingeniero comercial y empresario chileno. Ejerció como presidente de la República de Chile en dos períodos no consecutivos entre 2010-2014 y 2018-2022; además fue el primer <span>Presidente <i>pro tempore</i> de la CELAC</span> (2011-2013), primer Presidente pro tempore de la Alianza del Pacifico y el primer Presidente pro tempore del PROSUR (2019-2020).</p>",
+          "normalizedtitle": "Sebastián Piñera"
         }
       ],
-      "year": 2012
+      "year": 2017
     },
     {
-      "text": "Se lanza la versión oficial del videojuego Minecraft.",
+      "text": "en la ciudad de Beirut (Líbano), dos suicidas musulmanes hacen explotar sendas bombas en la embajada iraní; mueren 23 personas y quedan heridas otras 160.",
       "pages": [
         {
           "type": "standard",
-          "title": "Minecraft",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Minecraft</span></span>",
+          "title": "Beirut",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Beirut</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q49740",
+          "wikibase_item": "Q3820",
           "titles": {
-            "canonical": "Minecraft",
-            "normalized": "Minecraft",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Minecraft</span></span>"
+            "canonical": "Beirut",
+            "normalized": "Beirut",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Beirut</span></span>"
           },
-          "pageid": 4211249,
+          "pageid": 36677,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Minecraft-creeper-face.jpg/330px-Minecraft-creeper-face.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Beirut_Central_District_Collage.jpg/330px-Beirut_Central_District_Collage.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 440
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Beirut_Central_District_Collage.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 768,
+            "height": 1024
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "175399673",
+          "tid": "3d163f30-b293-11f1-ad97-b01411d6c2d3",
+          "timestamp": "2026-09-17T12:28:08Z",
+          "description": "capital del Líbano",
+          "description_source": "central",
+          "coordinates": {
+            "lat": 33.88694444,
+            "lon": 35.51305556
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Beirut",
+              "revisions": "https://es.wikipedia.org/wiki/Beirut?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Beirut?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Beirut"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Beirut",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Beirut",
+              "edit": "https://es.wikipedia.org/wiki/Beirut?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Beirut"
+            }
+          },
+          "extract": "Beirut es la capital y principal puerto marítimo del Líbano. Perteneciente a la gobernación de Beirut, en 2019 se estimaba que su población era de unos 3 300 000 habitantes.",
+          "extract_html": "<p><b>Beirut</b> es la capital y principal puerto marítimo del Líbano. Perteneciente a la gobernación de Beirut, en 2019 se estimaba que su población era de unos 3 300 000 habitantes.</p>",
+          "normalizedtitle": "Beirut"
+        },
+        {
+          "type": "standard",
+          "title": "Líbano",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Líbano</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q822",
+          "titles": {
+            "canonical": "Líbano",
+            "normalized": "Líbano",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Líbano</span></span>"
+          },
+          "pageid": 20919,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/langes-330px-Flag_of_Lebanon.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 220
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/langes-3840px-Flag_of_Lebanon.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 2880,
+            "height": 1920
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176247083",
+          "tid": "8c5888ed-dd8b-11f1-9b03-d870e5144986",
+          "timestamp": "2026-11-11T04:51:25Z",
+          "description": "país de Asia Occidental",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/L%C3%ADbano",
+              "revisions": "https://es.wikipedia.org/wiki/L%C3%ADbano?action=history",
+              "edit": "https://es.wikipedia.org/wiki/L%C3%ADbano?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:L%C3%ADbano"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/L%C3%ADbano",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/L%C3%ADbano",
+              "edit": "https://es.wikipedia.org/wiki/L%C3%ADbano?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:L%C3%ADbano"
+            }
+          },
+          "extract": "El Líbano, oficialmente la República Libanesa, es un país árabe de Asia Occidental, localizado en el Levante mediterráneo. Limita al sur con Israel, al sur y al este con Siria, y al oeste con el mar Mediterráneo. El país se ubica entre la península arábiga y la cuenca del Mediterráneo. Su capital y ciudad más poblada es Beirut. Posee una extensión territorial de 10 450 km², siendo uno de los países más pequeños del mundo.",
+          "extract_html": "<p>El <b>Líbano</b>, oficialmente la <b>República Libanesa</b>, es un país árabe de Asia Occidental, localizado en el Levante mediterráneo. Limita al sur con Israel, al sur y al este con Siria, y al oeste con el mar Mediterráneo. El país se ubica entre la península arábiga y la cuenca del Mediterráneo. Su capital y ciudad más poblada es Beirut. Posee una extensión territorial de 10 450 km², siendo uno de los países más pequeños del mundo.</p>",
+          "normalizedtitle": "Líbano"
+        }
+      ],
+      "year": 2013
+    },
+    {
+      "text": "la Corte Internacional de Justicia de La Haya da a conocer su fallo sobre el litigio territorial entre Colombia y Nicaragua.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Corte_Internacional_de_Justicia",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Corte Internacional de Justicia</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q7801",
+          "titles": {
+            "canonical": "Corte_Internacional_de_Justicia",
+            "normalized": "Corte Internacional de Justicia",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Corte Internacional de Justicia</span></span>"
+          },
+          "pageid": 13034,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/International_Court_of_Justice_Seal.svg/langes-330px-International_Court_of_Justice_Seal.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
             "height": 330
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Minecraft-creeper-face.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1080,
-            "height": 1080
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/International_Court_of_Justice_Seal.svg/langes-250px-International_Court_of_Justice_Seal.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 231,
+            "height": 231
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176348609",
-          "tid": "e3180e3d-e2f7-11f1-a47a-33cfba6100be",
-          "timestamp": "2026-11-18T02:29:32Z",
-          "description": "videojuego de 2011",
+          "revision": "175252818",
+          "tid": "1ebe8b32-ab85-11f1-9e84-24b2f6bd065c",
+          "timestamp": "2026-09-08T12:59:26Z",
+          "description": "órgano judicial de las Naciones Unidas",
           "description_source": "central",
+          "coordinates": {
+            "lat": 52.08666667,
+            "lon": 4.29555556
+          },
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Minecraft",
-              "revisions": "https://es.wikipedia.org/wiki/Minecraft?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Minecraft?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Minecraft"
+              "page": "https://es.wikipedia.org/wiki/Corte_Internacional_de_Justicia",
+              "revisions": "https://es.wikipedia.org/wiki/Corte_Internacional_de_Justicia?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Corte_Internacional_de_Justicia?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Corte_Internacional_de_Justicia"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Minecraft",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Minecraft",
-              "edit": "https://es.wikipedia.org/wiki/Minecraft?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Minecraft"
+              "page": "https://es.wikipedia.org/wiki/Corte_Internacional_de_Justicia",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Corte_Internacional_de_Justicia",
+              "edit": "https://es.wikipedia.org/wiki/Corte_Internacional_de_Justicia?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Corte_Internacional_de_Justicia"
             }
           },
-          "extract": "Minecraft es un videojuego de construcción de tipo «mundo abierto» o en inglés sandbox creado originalmente por el sueco Markus Persson, que creó posteriormente Mojang Studios. Está programado en el lenguaje de programación Java para la versión Java Edition y posteriormente desarrollado en C++ para la versión de Bedrock Edition. Fue lanzado el 17 de mayo de 2009, y después de numerosos cambios, su primera versión estable «1.0» fue publicada el 18 de noviembre de 2011.",
-          "extract_html": "<p><i><b>Minecraft</b></i> es un videojuego de construcción de tipo «mundo abierto» o en inglés <i>sandbox</i> creado originalmente por el sueco Markus Persson, que creó posteriormente Mojang Studios. Está programado en el lenguaje de programación Java para la versión <i>Java Edition</i> y posteriormente desarrollado en C++ para la versión de <i>Bedrock Edition.</i> Fue lanzado el 17 de mayo de 2009, y después de numerosos cambios, su primera versión estable «1.0» fue publicada el 18 de noviembre de 2011.</p>",
-          "normalizedtitle": "Minecraft"
-        }
-      ],
-      "year": 2011
-    },
-    {
-      "text": "la Wikipedia en español publica su artículo número 300 000.",
-      "pages": [
-        {
-          "type": "standard",
-          "title": "Wikipedia_en_español",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Wikipedia en español</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q8449",
-          "titles": {
-            "canonical": "Wikipedia_en_español",
-            "normalized": "Wikipedia en español",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Wikipedia en español</span></span>"
-          },
-          "pageid": 1724921,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Wikipedia-logo-v2-es.svg/langes-330px-Wikipedia-logo-v2-es.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 379
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Wikipedia-logo-v2-es.svg/langes-250px-Wikipedia-logo-v2-es.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 135,
-            "height": 155
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "175083563",
-          "tid": "220280b8-a322-11f1-9ebd-9cd6d6f24d12",
-          "timestamp": "2026-08-28T20:50:42Z",
-          "description": "edición de Wikipedia en idioma español",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Wikipedia_en_espa%C3%B1ol",
-              "revisions": "https://es.wikipedia.org/wiki/Wikipedia_en_espa%C3%B1ol?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Wikipedia_en_espa%C3%B1ol?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Wikipedia_en_espa%C3%B1ol"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Wikipedia_en_espa%C3%B1ol",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Wikipedia_en_espa%C3%B1ol",
-              "edit": "https://es.wikipedia.org/wiki/Wikipedia_en_espa%C3%B1ol?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Wikipedia_en_espa%C3%B1ol"
-            }
-          },
-          "extract": "La Wikipedia en español es la edición en español o castellano de Wikipedia. Al igual que las versiones existentes de Wikipedia en otros idiomas, es una enciclopedia de contenido libre, publicada en Internet bajo las licencias libres CC BY-SA 4.0 y GFDL. En la actualidad cuenta con 2 150 587 artículos, y es escrita por usuarios voluntarios, es decir, que cualquiera puede editar un artículo, corregirlo o ampliarlo. Los servidores son administrados por la Fundación Wikimedia, una organización sin ánimo de lucro cuya financiación se basa fundamentalmente en donaciones.",
-          "extract_html": "<p>La <b>Wikipedia en español</b> es la edición en español o castellano de Wikipedia. Al igual que las versiones existentes de Wikipedia en otros idiomas, es una enciclopedia de contenido libre, publicada en Internet bajo las licencias libres CC BY-SA 4.0 y GFDL. En la actualidad cuenta con 2 150 587 artículos, y es escrita por usuarios voluntarios, es decir, que cualquiera puede editar un artículo, corregirlo o ampliarlo. Los servidores son administrados por la Fundación Wikimedia, una organización sin ánimo de lucro cuya financiación se basa fundamentalmente en donaciones.</p>",
-          "normalizedtitle": "Wikipedia en español"
-        }
-      ],
-      "year": 2007
-    },
-    {
-      "text": "en los Estados Unidos, la actriz estadounidense Katie Holmes se casa con el actor estadounidense Tom Cruise con rituales de la secta Cienciología.",
-      "pages": [
-        {
-          "type": "standard",
-          "title": "Katie_Holmes",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Katie Holmes</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q174346",
-          "titles": {
-            "canonical": "Katie_Holmes",
-            "normalized": "Katie Holmes",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Katie Holmes</span></span>"
-          },
-          "pageid": 414999,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Katie_Holmes_at_the_2026_New_York_Film_Festival-094_%28cropped%29.jpg/330px-Katie_Holmes_at_the_2026_New_York_Film_Festival-094_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 495
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/2/21/Katie_Holmes_at_the_2026_New_York_Film_Festival-094_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1600,
-            "height": 2401
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176300013",
-          "tid": "fb2a2ed7-e070-11f1-af5c-68cfb4c29962",
-          "timestamp": "2026-11-14T21:18:48Z",
-          "description": "actriz estadounidense",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Katie_Holmes",
-              "revisions": "https://es.wikipedia.org/wiki/Katie_Holmes?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Katie_Holmes?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Katie_Holmes"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Katie_Holmes",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Katie_Holmes",
-              "edit": "https://es.wikipedia.org/wiki/Katie_Holmes?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Katie_Holmes"
-            }
-          },
-          "extract": "Kate Noelle Holmes ,conocida como Katie Holmes, es una actriz estadounidense que alcanzó fama por su papel de Joey Potter en la serie dramática para adolescentes Dawson's Creek (1998-2003).",
-          "extract_html": "<p><b>Kate Noelle Holmes</b> ,conocida como <b>Katie Holmes</b>, es una actriz estadounidense que alcanzó fama por su papel de Joey Potter en la serie dramática para adolescentes <i>Dawson's Creek</i> (1998-2003).</p>",
-          "normalizedtitle": "Katie Holmes"
+          "extract": "La Corte Internacional de Justicia (CIJ) o Tribunal Internacional de Justicia (TIJ) es el principal órgano judicial de las Naciones Unidas. Fue establecida en 1945 en La Haya, siendo la continuadora, a partir de 1946, de la Corte Permanente de Justicia Internacional.",
+          "extract_html": "<p>La <b>Corte Internacional de Justicia</b> (<b>CIJ</b>) o <b>Tribunal Internacional de Justicia</b> (<b>TIJ</b>) es el principal órgano judicial de las Naciones Unidas. Fue establecida en 1945 en La Haya, siendo la continuadora, a partir de 1946, de la Corte Permanente de Justicia Internacional.</p>",
+          "normalizedtitle": "Corte Internacional de Justicia"
         },
         {
           "type": "standard",
-          "title": "Tom_Cruise",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tom Cruise</span></span>",
+          "title": "Fallo_de_la_Corte_de_La_Haya_en_2012_sobre_el_litigio_entre_Colombia_y_Nicaragua",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Fallo de la Corte de La Haya en 2012 sobre el litigio entre Colombia y Nicaragua</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q37079",
+          "wikibase_item": "Q5855540",
           "titles": {
-            "canonical": "Tom_Cruise",
-            "normalized": "Tom Cruise",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tom Cruise</span></span>"
+            "canonical": "Fallo_de_la_Corte_de_La_Haya_en_2012_sobre_el_litigio_entre_Colombia_y_Nicaragua",
+            "normalized": "Fallo de la Corte de La Haya en 2012 sobre el litigio entre Colombia y Nicaragua",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Fallo de la Corte de La Haya en 2012 sobre el litigio entre Colombia y Nicaragua</span></span>"
           },
-          "pageid": 13202,
+          "pageid": 5496782,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Tom_Cruise_at_53rd_Saturn_Awards_2026-01.jpg/330px-Tom_Cruise_at_53rd_Saturn_Awards_2026-01.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/ICJ_Territorial_and_Maritime_Dispute_%28Nicaragua_v._Colombia%29_Course_of_the_maritime_boundary_%28es%29.svg/langes-330px-ICJ_Territorial_and_Maritime_Dispute_%28Nicaragua_v._Colombia%29_Course_of_the_maritime_boundary_%28es%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 413
+            "height": 248
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/2/23/Tom_Cruise_at_53rd_Saturn_Awards_2026-01.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1600,
-            "height": 2000
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/ICJ_Territorial_and_Maritime_Dispute_%28Nicaragua_v._Colombia%29_Course_of_the_maritime_boundary_%28es%29.svg/langes-960px-ICJ_Territorial_and_Maritime_Dispute_%28Nicaragua_v._Colombia%29_Course_of_the_maritime_boundary_%28es%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 923,
+            "height": 695
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176355014",
-          "tid": "23ae70d6-e366-11f1-9802-ae5b2946f3ef",
-          "timestamp": "2026-11-18T15:38:45Z",
-          "description": "actor y productor estadounidense",
-          "description_source": "central",
+          "revision": "176315064",
+          "tid": "09e113dd-e143-11f1-80e7-e69d662f2a3b",
+          "timestamp": "2026-11-15T22:22:27Z",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Tom_Cruise",
-              "revisions": "https://es.wikipedia.org/wiki/Tom_Cruise?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Tom_Cruise?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Tom_Cruise"
+              "page": "https://es.wikipedia.org/wiki/Fallo_de_la_Corte_de_La_Haya_en_2012_sobre_el_litigio_entre_Colombia_y_Nicaragua",
+              "revisions": "https://es.wikipedia.org/wiki/Fallo_de_la_Corte_de_La_Haya_en_2012_sobre_el_litigio_entre_Colombia_y_Nicaragua?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Fallo_de_la_Corte_de_La_Haya_en_2012_sobre_el_litigio_entre_Colombia_y_Nicaragua?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Fallo_de_la_Corte_de_La_Haya_en_2012_sobre_el_litigio_entre_Colombia_y_Nicaragua"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Tom_Cruise",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Tom_Cruise",
-              "edit": "https://es.wikipedia.org/wiki/Tom_Cruise?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Tom_Cruise"
+              "page": "https://es.wikipedia.org/wiki/Fallo_de_la_Corte_de_La_Haya_en_2012_sobre_el_litigio_entre_Colombia_y_Nicaragua",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Fallo_de_la_Corte_de_La_Haya_en_2012_sobre_el_litigio_entre_Colombia_y_Nicaragua",
+              "edit": "https://es.wikipedia.org/wiki/Fallo_de_la_Corte_de_La_Haya_en_2012_sobre_el_litigio_entre_Colombia_y_Nicaragua?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Fallo_de_la_Corte_de_La_Haya_en_2012_sobre_el_litigio_entre_Colombia_y_Nicaragua"
             }
           },
-          "extract": "Thomas «Tom» Cruise Mapother IV, es un actor y productor de cine estadounidense, ganador de un Premio Óscar Honorífico, tres Globos de Oro, un Premio Saturn y una Palma de Oro, entre otras.",
-          "extract_html": "<p><b>Thomas «Tom» Cruise Mapother IV</b>, es un actor y productor de cine estadounidense, ganador de un Premio Óscar Honorífico, tres Globos de Oro, un Premio Saturn y una Palma de Oro, entre otras.</p>",
-          "normalizedtitle": "Tom Cruise"
-        },
-        {
-          "type": "standard",
-          "title": "Cienciología",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Cienciología</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q131036",
-          "titles": {
-            "canonical": "Cienciología",
-            "normalized": "Cienciología",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Cienciología</span></span>"
-          },
-          "pageid": 75976,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Scientology_symbol.svg/langes-330px-Scientology_symbol.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 404
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Scientology_symbol.svg/langes-500px-Scientology_symbol.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 490,
-            "height": 600
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176274187",
-          "tid": "7d8fe153-def9-11f1-9f19-b42fc595aa26",
-          "timestamp": "2026-11-13T00:30:56Z",
-          "description": "grupo de creencias y prácticas relacionadas con el escritor L. Ron Hubbard",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Cienciolog%C3%ADa",
-              "revisions": "https://es.wikipedia.org/wiki/Cienciolog%C3%ADa?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Cienciolog%C3%ADa?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Cienciolog%C3%ADa"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Cienciolog%C3%ADa",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Cienciolog%C3%ADa",
-              "edit": "https://es.wikipedia.org/wiki/Cienciolog%C3%ADa?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Cienciolog%C3%ADa"
-            }
-          },
-          "extract": "La cienciología es una secta formada por un sistema de prácticas y creencias religiosas desarrollado en 1954 por el autor estadounidense L. Ron Hubbard (1911-1986). Hubbard inicialmente desarrolló un programa de ideas que llamó dianética, que fueron propagadas por la Fundación Dianética. La fundación pronto quedó en bancarrota y Hubbard perdió los derechos de Dianética: la ciencia moderna de la salud mental en 1952. Entonces recaracterizó el asunto como religión y lo rebautizó como cienciología, manteniendo la terminología, doctrinas, el electropsicómetro y la práctica de las auditorías. En un año, recuperó los derechos de «Dianética» y retuvo ambos temas bajo el abrigo de la Iglesia de la Cienciología. Hubbard describe la etimología de la palabra Scientology a partir de la palabra latina scio, «saber» o «distinguir», y la palabra griega logos, que significa «la palabra o la forma exterior por la que el pensamiento interior se expresa y se da a conocer». Hubbard escribió \"por tanto, cienciología significa saber sobre el saber, o la ciencia del conocimiento\".",
-          "extract_html": "<p>La <b>cienciología</b> es una secta formada por un sistema de prácticas y creencias religiosas desarrollado en 1954 por el autor estadounidense L. Ron Hubbard (1911-1986). Hubbard inicialmente desarrolló un programa de ideas que llamó dianética, que fueron propagadas por la Fundación Dianética. La fundación pronto quedó en bancarrota y Hubbard perdió los derechos de <i>Dianética: la ciencia moderna de la salud mental</i> en 1952. Entonces recaracterizó el asunto como religión y lo rebautizó como cienciología, manteniendo la terminología, doctrinas, el electropsicómetro y la práctica de las auditorías. En un año, recuperó los derechos de «Dianética» y retuvo ambos temas bajo el abrigo de la Iglesia de la Cienciología. Hubbard describe la etimología de la palabra <i>Scientology</i> a partir de la palabra latina <i>scio</i>, «saber» o «distinguir», y la palabra griega <i>logos</i>, que significa «la palabra o la forma exterior por la que el pensamiento interior se expresa y se da a conocer». Hubbard escribió \"por tanto, cienciología significa saber sobre el saber, o la ciencia del conocimiento\".</p>",
-          "normalizedtitle": "Cienciología"
+          "extract": "El Fallo de la Corte de La Haya en 2012 sobre el litigio entre Colombia y Nicaragua fue una sentencia emitida por la Corte Internacional de Justicia el 19 de noviembre de 2012, mediante la cual se procedió a resolver la cuestión de fondo del caso sobre la disputa territorial y de delimitación marítima entre la República de Nicaragua y la República de Colombia en el mar Caribe sudoccidental, iniciado por la primera en el 2001.",
+          "extract_html": "<p>El <b>Fallo de la Corte de La Haya en 2012 sobre el litigio entre Colombia y Nicaragua</b> fue una sentencia emitida por la Corte Internacional de Justicia el 19 de noviembre de 2012, mediante la cual se procedió a resolver la cuestión de fondo del caso sobre la disputa territorial y de delimitación marítima entre la República de Nicaragua y la República de Colombia en el mar Caribe sudoccidental, iniciado por la primera en el 2001.</p>",
+          "normalizedtitle": "Fallo de la Corte de La Haya en 2012 sobre el litigio entre Colombia y Nicaragua"
         }
       ],
-      "year": 2006
+      "year": 2012
     }
   ]
 }
