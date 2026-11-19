@@ -33,9 +33,9 @@
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "175684353",
-          "tid": "cfdd280f-c135-11f1-88ef-d406ef50e5e5",
-          "timestamp": "2026-10-06T03:27:09Z",
+          "revision": "176368260",
+          "tid": "6e7fc57a-e406-11f1-8af3-d45c33738097",
+          "timestamp": "2026-11-19T10:46:10Z",
           "description": "desarrolladora estadounidense de videojuegos",
           "description_source": "central",
           "coordinates": {
@@ -56,8 +56,8 @@
               "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Rockstar_Games"
             }
           },
-          "extract": "Rockstar Games, Inc es una compañía desarrolladora y distribuidora de videojuegos adquirido por el distribuidor de videojuegos Take-Two Interactive y creador del motor de videojuego RAGE. La compañía es internacionalmente conocida por títulos como la serie Grand Theft Auto, Max Payne, Midnight Club y Red Dead. Comprende estudios que han sido adquiridos y renombrados, así como otros creados internamente. Mientras la mayoría de los estudios que Take-Two Interactive ha adquirido se fusionaron en la marca Rockstar, otros más recientes han mantenido sus propias identidades y forman parte de la división de la compañía 2K Games.",
-          "extract_html": "<p><b>Rockstar Games, Inc</b> es una compañía desarrolladora y distribuidora de videojuegos adquirido por el distribuidor de videojuegos Take-Two Interactive y creador del motor de videojuego RAGE. La compañía es internacionalmente conocida por títulos como la serie <i>Grand Theft Auto</i>, <i>Max Payne</i>, <i>Midnight Club</i> y <i>Red Dead</i>. Comprende estudios que han sido adquiridos y renombrados, así como otros creados internamente. Mientras la mayoría de los estudios que Take-Two Interactive ha adquirido se fusionaron en la marca Rockstar, otros más recientes han mantenido sus propias identidades y forman parte de la división de la compañía 2K Games.</p>",
+          "extract": "Rockstar Games, Inc. es una compañía desarrolladora y distribuidora de videojuegos adquirido por el distribuidor de videojuegos Take-Two Interactive y creador del motor de videojuego RAGE. La compañía es internacionalmente conocida por títulos como la serie Grand Theft Auto, Max Payne, Midnight Club y Red Dead. Comprende estudios que han sido adquiridos y renombrados, así como otros creados internamente. Mientras la mayoría de los estudios que Take-Two Interactive ha adquirido se fusionaron en la marca Rockstar, otros más recientes han mantenido sus propias identidades y forman parte de la división de la compañía 2K Games.",
+          "extract_html": "<p><b>Rockstar Games, Inc.</b> es una compañía desarrolladora y distribuidora de videojuegos adquirido por el distribuidor de videojuegos Take-Two Interactive y creador del motor de videojuego RAGE. La compañía es internacionalmente conocida por títulos como la serie <i>Grand Theft Auto</i>, <i>Max Payne</i>, <i>Midnight Club</i> y <i>Red Dead</i>. Comprende estudios que han sido adquiridos y renombrados, así como otros creados internamente. Mientras la mayoría de los estudios que Take-Two Interactive ha adquirido se fusionaron en la marca Rockstar, otros más recientes han mantenido sus propias identidades y forman parte de la división de la compañía 2K Games.</p>",
           "normalizedtitle": "Rockstar Games"
         },
         {
@@ -87,9 +87,9 @@
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176366405",
-          "tid": "cfe26d42-e3e3-11f1-aaf0-12b434a41a86",
-          "timestamp": "2026-11-19T06:38:21Z",
+          "revision": "176369615",
+          "tid": "21a6ee3d-e41c-11f1-baf2-394655b79701",
+          "timestamp": "2026-11-19T13:21:30Z",
           "description": "videojuego de 2026",
           "description_source": "central",
           "content_urls": {
@@ -106,8 +106,8 @@
               "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Grand_Theft_Auto_VI"
             }
           },
-          "extract": "Grand Theft Auto VI es un videojuego de acción y aventura desarrollado y publicado por Rockstar Games. Es el octavo juego principal de la serie Grand Theft Auto, después de Grand Theft Auto V (2013), y el decimosexto en total. Ambientado en el estado ficticio de Leonida, basado en Florida, la historia sigue a la pareja de criminales Jason Duval y Lucia Caminos. Los jugadores podrán explorar libremente el mundo abierto de Leonida, que incluye Vice City, inspirada en Miami.",
-          "extract_html": "<p><i><b>Grand Theft Auto VI</b></i> es un videojuego de acción y aventura desarrollado y publicado por Rockstar Games. Es el octavo juego principal de la serie <i>Grand Theft Auto</i>, después de <i>Grand Theft Auto V</i> (2013), y el decimosexto en total. Ambientado en el estado ficticio de Leonida, basado en Florida, la historia sigue a la pareja de criminales Jason Duval y Lucia Caminos. Los jugadores podrán explorar libremente el mundo abierto de Leonida, que incluye Vice City, inspirada en Miami.</p>",
+          "extract": "Grand Theft Auto VI es un videojuego de acción y aventura desarrollado y publicado por Rockstar Games. Es el octavo juego principal de la serie Grand Theft Auto, después de Grand Theft Auto V (2013), y el decimosexto en total. Ambientado en el estado ficticio de Leonida, basado en Florida, la historia sigue a la pareja de criminales Jason Duval y Lucia Caminos. Los jugadores pueden explorar libremente el mundo abierto de Leonida, que incluye la ciudad ficticia de Vice City, inspirada en Miami.",
+          "extract_html": "<p><i><b>Grand Theft Auto VI</b></i> es un videojuego de acción y aventura desarrollado y publicado por Rockstar Games. Es el octavo juego principal de la serie <i>Grand Theft Auto</i>, después de <i>Grand Theft Auto V</i> (2013), y el decimosexto en total. Ambientado en el estado ficticio de Leonida, basado en Florida, la historia sigue a la pareja de criminales Jason Duval y Lucia Caminos. Los jugadores pueden explorar libremente el mundo abierto de Leonida, que incluye la ciudad ficticia de Vice City, inspirada en Miami.</p>",
           "normalizedtitle": "Grand Theft Auto VI"
         },
         {
@@ -515,9 +515,9 @@
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176247083",
-          "tid": "8c5888ed-dd8b-11f1-9b03-d870e5144986",
-          "timestamp": "2026-11-11T04:51:25Z",
+          "revision": "176367988",
+          "tid": "31fe9a80-e403-11f1-be42-e4a0aa6c015f",
+          "timestamp": "2026-11-19T10:23:00Z",
           "description": "país de Asia Occidental",
           "description_source": "central",
           "content_urls": {
@@ -626,7 +626,7 @@
           "lang": "es",
           "dir": "ltr",
           "revision": "176315064",
-          "tid": "09e113dd-e143-11f1-80e7-e69d662f2a3b",
+          "tid": "09e11662-e143-11f1-8c66-3b15a77c5131",
           "timestamp": "2026-11-15T22:22:27Z",
           "content_urls": {
             "desktop": {
