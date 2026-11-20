@@ -1,332 +1,768 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "source": "Wikimedia",
   "items": [
     {
-      "text": "Después de más de 13 años, Rockstar Games lanza Grand Theft Auto VI para PlayStation 5 y XBox Series X|S. Su estreno culmina con la espera más grande en la historia de los videojuegos y se consolida con una colaboración a nivel mundial.",
+      "text": "En Catar se dio inicio la XXII versión de la Copa Mundial de Fútbol",
       "pages": [
         {
           "type": "standard",
-          "title": "Rockstar_Games",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Rockstar Games</span></span>",
+          "title": "Catar",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Catar</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q94912",
+          "wikibase_item": "Q846",
           "titles": {
-            "canonical": "Rockstar_Games",
-            "normalized": "Rockstar Games",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Rockstar Games</span></span>"
+            "canonical": "Catar",
+            "normalized": "Catar",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Catar</span></span>"
           },
-          "pageid": 286374,
+          "pageid": 23572,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Rockstar_Games_Logo.svg/langes-330px-Rockstar_Games_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/langes-330px-Flag_of_Qatar.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 304
+            "height": 130
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Rockstar_Games_Logo.svg/langes-960px-Rockstar_Games_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 512,
-            "height": 471
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/langes-1920px-Flag_of_Qatar.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 1400,
+            "height": 550
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176368260",
-          "tid": "6e7fc57a-e406-11f1-8af3-d45c33738097",
-          "timestamp": "2026-11-19T10:46:10Z",
-          "description": "desarrolladora estadounidense de videojuegos",
+          "revision": "176140013",
+          "tid": "273aeb60-d7ff-11f1-afca-3633eea98182",
+          "timestamp": "2026-11-04T03:23:50Z",
+          "description": "país de Asia Occidental",
           "description_source": "central",
-          "coordinates": {
-            "lat": 40.72888889,
-            "lon": -73.99
-          },
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Rockstar_Games",
-              "revisions": "https://es.wikipedia.org/wiki/Rockstar_Games?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Rockstar_Games?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Rockstar_Games"
+              "page": "https://es.wikipedia.org/wiki/Catar",
+              "revisions": "https://es.wikipedia.org/wiki/Catar?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Catar?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Catar"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Rockstar_Games",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Rockstar_Games",
-              "edit": "https://es.wikipedia.org/wiki/Rockstar_Games?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Rockstar_Games"
+              "page": "https://es.wikipedia.org/wiki/Catar",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Catar",
+              "edit": "https://es.wikipedia.org/wiki/Catar?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Catar"
             }
           },
-          "extract": "Rockstar Games, Inc. es una compañía desarrolladora y distribuidora de videojuegos adquirido por el distribuidor de videojuegos Take-Two Interactive y creador del motor de videojuego RAGE. La compañía es internacionalmente conocida por títulos como la serie Grand Theft Auto, Max Payne, Midnight Club y Red Dead. Comprende estudios que han sido adquiridos y renombrados, así como otros creados internamente. Mientras la mayoría de los estudios que Take-Two Interactive ha adquirido se fusionaron en la marca Rockstar, otros más recientes han mantenido sus propias identidades y forman parte de la división de la compañía 2K Games.",
-          "extract_html": "<p><b>Rockstar Games, Inc.</b> es una compañía desarrolladora y distribuidora de videojuegos adquirido por el distribuidor de videojuegos Take-Two Interactive y creador del motor de videojuego RAGE. La compañía es internacionalmente conocida por títulos como la serie <i>Grand Theft Auto</i>, <i>Max Payne</i>, <i>Midnight Club</i> y <i>Red Dead</i>. Comprende estudios que han sido adquiridos y renombrados, así como otros creados internamente. Mientras la mayoría de los estudios que Take-Two Interactive ha adquirido se fusionaron en la marca Rockstar, otros más recientes han mantenido sus propias identidades y forman parte de la división de la compañía 2K Games.</p>",
-          "normalizedtitle": "Rockstar Games"
+          "extract": "Catar, cuyo nombre oficial es Estado de Catar, es un Estado soberano árabe ubicado en el oeste de Asia que ocupa la pequeña península homónima en el este de la península arábiga. Tiene una única frontera terrestre, por el sur con Arabia Saudita, mientras que el resto del territorio lo bañan las aguas del golfo Pérsico. Un estrecho de agua separa esta península del Estado insular de Baréin.",
+          "extract_html": "<p><b>Catar</b>, cuyo nombre oficial es <b>Estado de Catar</b>, es un Estado soberano árabe ubicado en el oeste de Asia que ocupa la pequeña península homónima en el este de la península arábiga. Tiene una única frontera terrestre, por el sur con Arabia Saudita, mientras que el resto del territorio lo bañan las aguas del golfo Pérsico. Un estrecho de agua separa esta península del Estado insular de Baréin.</p>",
+          "normalizedtitle": "Catar"
         },
         {
           "type": "standard",
-          "title": "Grand_Theft_Auto_VI",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Grand Theft Auto VI</span></span>",
+          "title": "Copa_Mundial_de_Fútbol_de_2022",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Copa Mundial de Fútbol de 2022</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q23648408",
+          "wikibase_item": "Q284163",
           "titles": {
-            "canonical": "Grand_Theft_Auto_VI",
-            "normalized": "Grand Theft Auto VI",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Grand Theft Auto VI</span></span>"
+            "canonical": "Copa_Mundial_de_Fútbol_de_2022",
+            "normalized": "Copa Mundial de Fútbol de 2022",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Copa Mundial de Fútbol de 2022</span></span>"
           },
-          "pageid": 10337727,
+          "pageid": 3180316,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Grand_Theft_Auto_VI_logo_%28with_gradient%29.svg/langes-330px-Grand_Theft_Auto_VI_logo_%28with_gradient%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Argentina_3-3_Francia_-_Copa_Mundial_2022_-_Argentina_campe%C3%B3n_%28cropped%29.jpg/330px-Argentina_3-3_Francia_-_Copa_Mundial_2022_-_Argentina_campe%C3%B3n_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 251
+            "height": 221
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Grand_Theft_Auto_VI_logo_%28with_gradient%29.svg/langes-960px-Grand_Theft_Auto_VI_logo_%28with_gradient%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 512,
+            "source": "https://upload.wikimedia.org/wikipedia/commons/8/88/Argentina_3-3_Francia_-_Copa_Mundial_2022_-_Argentina_campe%C3%B3n_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 745,
+            "height": 498
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176120346",
+          "tid": "f7b4ae13-d71e-11f1-8216-a824a3995e0f",
+          "timestamp": "2026-11-03T00:39:03Z",
+          "description": "XXII edición de la Copa Mundial de la FIFA",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol_de_2022",
+              "revisions": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol_de_2022?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol_de_2022?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Copa_Mundial_de_F%C3%BAtbol_de_2022"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol_de_2022",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Copa_Mundial_de_F%C3%BAtbol_de_2022",
+              "edit": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol_de_2022?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Copa_Mundial_de_F%C3%BAtbol_de_2022"
+            }
+          },
+          "extract": "La Copa Mundial de la FIFA Catar 2022 fue la vigésima segunda edición de la Copa Mundial de Fútbol masculino organizada por la FIFA. Esta edición del evento se desarrolló del 20 de noviembre al 18 de diciembre en el otoño de Catar, que consiguió los derechos de organización el 2 de diciembre de 2010.",
+          "extract_html": "<p>La <b>Copa Mundial de la FIFA Catar 2022</b> fue la vigésima segunda edición de la Copa Mundial de Fútbol masculino organizada por la FIFA. Esta edición del evento se desarrolló del 20 de noviembre al 18 de diciembre en el otoño de Catar, que consiguió los derechos de organización el 2 de diciembre de 2010.</p>",
+          "normalizedtitle": "Copa Mundial de Fútbol de 2022"
+        },
+        {
+          "type": "standard",
+          "title": "Copa_Mundial_de_Fútbol",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Copa Mundial de Fútbol</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q19317",
+          "titles": {
+            "canonical": "Copa_Mundial_de_Fútbol",
+            "normalized": "Copa Mundial de Fútbol",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Copa Mundial de Fútbol</span></span>"
+          },
+          "pageid": 8915,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/FIFA_World_Cup_Trophy_photo_by_Djuradj_Vujcic.jpg/330px-FIFA_World_Cup_Trophy_photo_by_Djuradj_Vujcic.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 447
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/FIFA_World_Cup_Trophy_photo_by_Djuradj_Vujcic.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 723,
+            "height": 980
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176064928",
+          "tid": "adc3842b-d411-11f1-a55e-ae19317ecd67",
+          "timestamp": "2026-10-30T03:26:22Z",
+          "description": "torneo internacional de fútbol masculino a nivel de selecciones nacionales",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol",
+              "revisions": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Copa_Mundial_de_F%C3%BAtbol"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Copa_Mundial_de_F%C3%BAtbol",
+              "edit": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Copa_Mundial_de_F%C3%BAtbol"
+            }
+          },
+          "extract": "La Copa Mundial de la FIFA, también conocida como Copa Mundial de Fútbol, Copa del Mundo o simplemente Mundial, es el principal torneo internacional oficial de fútbol masculino a nivel de selecciones nacionales en el mundo.",
+          "extract_html": "<p>La <b>Copa Mundial de la FIFA</b>, también conocida como <b>Copa Mundial de Fútbol</b>, <b>Copa del Mundo</b> o simplemente <b>Mundial</b>, es el principal torneo internacional oficial de fútbol masculino a nivel de selecciones nacionales en el mundo.</p>",
+          "normalizedtitle": "Copa Mundial de Fútbol"
+        }
+      ],
+      "year": 2022
+    },
+    {
+      "text": "En México y otros lugares del mundo se celebra el primer día de la «Acción Global por Ayotzinapa», en el que miles de mexicanos exigen la renuncia del presidente Enrique Peña Nieto debido a su responsabilidad en el asesinato de los estudiantes de Ayotzinapa.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "México",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">México</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q96",
+          "titles": {
+            "canonical": "México",
+            "normalized": "México",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">México</span></span>"
+          },
+          "pageid": 1830,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/langes-330px-Flag_of_Mexico.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 189
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/langes-1280px-Flag_of_Mexico.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 980,
+            "height": 560
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176376430",
+          "tid": "9d7a5488-e467-11f1-8f28-4c19d9a4cc13",
+          "timestamp": "2026-11-19T22:21:50Z",
+          "description": "país de América del Norte",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/M%C3%A9xico",
+              "revisions": "https://es.wikipedia.org/wiki/M%C3%A9xico?action=history",
+              "edit": "https://es.wikipedia.org/wiki/M%C3%A9xico?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:M%C3%A9xico"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/M%C3%A9xico",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/M%C3%A9xico",
+              "edit": "https://es.wikipedia.org/wiki/M%C3%A9xico?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:M%C3%A9xico"
+            }
+          },
+          "extract": "México, oficialmente Estados Unidos Mexicanos, es un país soberano ubicado en la parte meridional de América del Norte; su capital y ciudad más poblada es la Ciudad de México. De acuerdo con la constitución vigente, su forma de gobierno consiste en una república representativa, democrática, laica y federal, compuesta por 32 entidades federativas.",
+          "extract_html": "<p><b>México</b>, oficialmente <b>Estados Unidos Mexicanos</b>, es un país soberano ubicado en la parte meridional de América del Norte; su capital y ciudad más poblada es la Ciudad de México. De acuerdo con la constitución vigente, su forma de gobierno consiste en una república representativa, democrática, laica y federal, compuesta por 32 entidades federativas.</p>",
+          "normalizedtitle": "México"
+        },
+        {
+          "type": "standard",
+          "title": "Enrique_Peña_Nieto",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Enrique Peña Nieto</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q296741",
+          "titles": {
+            "canonical": "Enrique_Peña_Nieto",
+            "normalized": "Enrique Peña Nieto",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Enrique Peña Nieto</span></span>"
+          },
+          "pageid": 227172,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Enrique_Pena_Nieto.jpg/330px-Enrique_Pena_Nieto.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 439
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/9/98/Enrique_Pena_Nieto.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 3028,
+            "height": 4029
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176334169",
+          "tid": "11311ce6-e22e-11f1-9618-25b6fd19ae18",
+          "timestamp": "2026-11-17T02:24:51Z",
+          "description": "político y abogado mexicano; 64.º presidente de México",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Enrique_Pe%C3%B1a_Nieto",
+              "revisions": "https://es.wikipedia.org/wiki/Enrique_Pe%C3%B1a_Nieto?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Enrique_Pe%C3%B1a_Nieto?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Enrique_Pe%C3%B1a_Nieto"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Enrique_Pe%C3%B1a_Nieto",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Enrique_Pe%C3%B1a_Nieto",
+              "edit": "https://es.wikipedia.org/wiki/Enrique_Pe%C3%B1a_Nieto?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Enrique_Pe%C3%B1a_Nieto"
+            }
+          },
+          "extract": "Enrique Peña Nieto es un expolítico y abogado mexicano que se desempeñó como presidente de México desde el 1 de diciembre de 2012 hasta el 30 de noviembre de 2018.",
+          "extract_html": "<p><b>Enrique Peña Nieto</b> es un expolítico y abogado mexicano que se desempeñó como presidente de México desde el 1 de diciembre de 2012 hasta el 30 de noviembre de 2018.</p>",
+          "normalizedtitle": "Enrique Peña Nieto"
+        },
+        {
+          "type": "standard",
+          "title": "Desaparición_forzada_de_Iguala_de_2014",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Desaparición forzada de Iguala de 2014</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q18327329",
+          "titles": {
+            "canonical": "Desaparición_forzada_de_Iguala_de_2014",
+            "normalized": "Desaparición forzada de Iguala de 2014",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Desaparición forzada de Iguala de 2014</span></span>"
+          },
+          "pageid": 6472015,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Ayotzinapa20150726_ohs059.jpg/330px-Ayotzinapa20150726_ohs059.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 219
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/2/23/Ayotzinapa20150726_ohs059.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 2288,
+            "height": 1520
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "175703087",
+          "tid": "3d1eb3fc-c22b-11f1-9536-a221e22ef22d",
+          "timestamp": "2026-10-07T08:43:59Z",
+          "description": "desaparición forzada de 44 estudiantes de la Escuela Normal de Ayotzinapa, Guerrero, México",
+          "description_source": "central",
+          "coordinates": {
+            "lat": 17.55361111,
+            "lon": -99.41027778
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Desaparici%C3%B3n_forzada_de_Iguala_de_2014",
+              "revisions": "https://es.wikipedia.org/wiki/Desaparici%C3%B3n_forzada_de_Iguala_de_2014?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Desaparici%C3%B3n_forzada_de_Iguala_de_2014?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Desaparici%C3%B3n_forzada_de_Iguala_de_2014"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Desaparici%C3%B3n_forzada_de_Iguala_de_2014",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Desaparici%C3%B3n_forzada_de_Iguala_de_2014",
+              "edit": "https://es.wikipedia.org/wiki/Desaparici%C3%B3n_forzada_de_Iguala_de_2014?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Desaparici%C3%B3n_forzada_de_Iguala_de_2014"
+            }
+          },
+          "extract": "Las desapariciones forzadas de Iguala de 2014, también conocidas como secuestro masivo de Iguala de 2014, caso Ayotzinapa, caso Iguala o los 43, fueron una serie de episodios de violencia ocurridos en la noche del 26 y madrugada del 27 de septiembre de 2014 en México, donde la policía municipal de Iguala, Huitzuco, Cocula, Tepecoacuilco, la policía estatal de Guerrero, elementos del Ejército Mexicano y la Marina Armada de México adscritos al 27.º Batallón de Infantería de Iguala participaron en la vigilancia, espionaje, seguimiento, persecución y ataque a estudiantes en la Escuela Normal Rural de Ayotzinapa ubicada a 257 kilómetros al sureste de Iguala, teniendo como resultado la desaparición forzada de 43 personas, 27 heridos y el asesinato de al menos 9 —entre ellos, periodistas y pobladores—. Todo ello con la vigilancia activa del Ejército Mexicano, el Centro de Investigación y Seguridad Nacional (CISEN) —ahora Centro Nacional de Inteligencia (CNI) y la Policía Federal (PF)— hoy integrada a la Guardia Nacional.",
+          "extract_html": "<p>Las <b>desapariciones forzadas de Iguala de 2014</b>, también conocidas como <b>secuestro masivo de Iguala de 2014</b>, <b>caso Ayotzinapa</b>, <b>caso Iguala</b> o <b>los 43</b>, fueron una serie de episodios de violencia ocurridos en la noche del 26 y madrugada del 27 de septiembre de 2014 en México, donde la policía municipal de Iguala, Huitzuco, Cocula, Tepecoacuilco, la policía estatal de Guerrero, elementos del Ejército Mexicano y la Marina Armada de México adscritos al 27.º Batallón de Infantería de Iguala participaron en la vigilancia, espionaje, seguimiento, persecución y ataque a estudiantes en la Escuela Normal Rural de Ayotzinapa ubicada a 257 kilómetros al sureste de Iguala, teniendo como resultado la desaparición forzada de 43 personas, 27 heridos y el asesinato de al menos 9 —entre ellos, periodistas y pobladores—. Todo ello con la vigilancia activa del Ejército Mexicano, el Centro de Investigación y Seguridad Nacional (CISEN) —ahora Centro Nacional de Inteligencia (CNI) y la Policía Federal (PF)— hoy integrada a la Guardia Nacional.</p>",
+          "normalizedtitle": "Desaparición forzada de Iguala de 2014"
+        }
+      ],
+      "year": 2014
+    },
+    {
+      "text": "En España se celebran las elecciones generales de España de 2011, ganándolas el Partido Popular con Mariano Rajoy a la cabeza por mayoría absoluta, mientras el PSOE sufre la mayor derrota electoral de su historia.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "España",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">España</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q29",
+          "titles": {
+            "canonical": "España",
+            "normalized": "España",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">España</span></span>"
+          },
+          "pageid": 972,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Flag_of_the_Kingdom_of_Spain.svg/langes-330px-Flag_of_the_Kingdom_of_Spain.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 220
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Flag_of_the_Kingdom_of_Spain.svg/langes-960px-Flag_of_the_Kingdom_of_Spain.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 750,
+            "height": 500
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176360842",
+          "tid": "25def340-e39b-11f1-92a2-84ce1becde69",
+          "timestamp": "2026-11-18T21:58:12Z",
+          "description": "país del suroeste de Europa con territorios en África",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Espa%C3%B1a",
+              "revisions": "https://es.wikipedia.org/wiki/Espa%C3%B1a?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Espa%C3%B1a?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Espa%C3%B1a"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Espa%C3%B1a",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Espa%C3%B1a",
+              "edit": "https://es.wikipedia.org/wiki/Espa%C3%B1a?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Espa%C3%B1a"
+            }
+          },
+          "extract": "España, formalmente Reino de España, es un país soberano transcontinental situado principalmente en el suroeste de Europa, con territorios en el norte de África. Constituido en un Estado social y Estado de Derecho, su forma de gobierno es la monarquía parlamentaria. Es uno de los veintisiete Estados de la Unión Europea y su capital y ciudad más poblada es Madrid.",
+          "extract_html": "<p><b>España</b>, formalmente <b>Reino de España</b>, es un país soberano transcontinental situado principalmente en el suroeste de Europa, con territorios en el norte de África. Constituido en un Estado social y Estado de Derecho, su forma de gobierno es la monarquía parlamentaria. Es uno de los veintisiete Estados de la Unión Europea y su capital y ciudad más poblada es Madrid.</p>",
+          "normalizedtitle": "España"
+        },
+        {
+          "type": "standard",
+          "title": "Elecciones_generales_de_España_de_2011",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Elecciones generales de España de 2011</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q1059559",
+          "titles": {
+            "canonical": "Elecciones_generales_de_España_de_2011",
+            "normalized": "Elecciones generales de España de 2011",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Elecciones generales de España de 2011</span></span>"
+          },
+          "pageid": 4772737,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/2011_Spanish_general_election_map.svg/langes-330px-2011_Spanish_general_election_map.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 239
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/2011_Spanish_general_election_map.svg/langes-960px-2011_Spanish_general_election_map.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 536,
             "height": 389
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176369615",
-          "tid": "21a6ee3d-e41c-11f1-baf2-394655b79701",
-          "timestamp": "2026-11-19T13:21:30Z",
-          "description": "videojuego de 2026",
+          "revision": "176323331",
+          "tid": "cde698a0-e1b4-11f1-b12f-e07116b28767",
+          "timestamp": "2026-11-16T11:56:49Z",
+          "description": "elecciones al Congreso y al Senado celebradas el 20 noviembre 2011",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Grand_Theft_Auto_VI",
-              "revisions": "https://es.wikipedia.org/wiki/Grand_Theft_Auto_VI?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Grand_Theft_Auto_VI?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Grand_Theft_Auto_VI"
+              "page": "https://es.wikipedia.org/wiki/Elecciones_generales_de_Espa%C3%B1a_de_2011",
+              "revisions": "https://es.wikipedia.org/wiki/Elecciones_generales_de_Espa%C3%B1a_de_2011?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Elecciones_generales_de_Espa%C3%B1a_de_2011?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Elecciones_generales_de_Espa%C3%B1a_de_2011"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Grand_Theft_Auto_VI",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Grand_Theft_Auto_VI",
-              "edit": "https://es.wikipedia.org/wiki/Grand_Theft_Auto_VI?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Grand_Theft_Auto_VI"
+              "page": "https://es.wikipedia.org/wiki/Elecciones_generales_de_Espa%C3%B1a_de_2011",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Elecciones_generales_de_Espa%C3%B1a_de_2011",
+              "edit": "https://es.wikipedia.org/wiki/Elecciones_generales_de_Espa%C3%B1a_de_2011?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Elecciones_generales_de_Espa%C3%B1a_de_2011"
             }
           },
-          "extract": "Grand Theft Auto VI es un videojuego de acción y aventura desarrollado y publicado por Rockstar Games. Es el octavo juego principal de la serie Grand Theft Auto, después de Grand Theft Auto V (2013), y el decimosexto en total. Ambientado en el estado ficticio de Leonida, basado en Florida, la historia sigue a la pareja de criminales Jason Duval y Lucia Caminos. Los jugadores pueden explorar libremente el mundo abierto de Leonida, que incluye la ciudad ficticia de Vice City, inspirada en Miami.",
-          "extract_html": "<p><i><b>Grand Theft Auto VI</b></i> es un videojuego de acción y aventura desarrollado y publicado por Rockstar Games. Es el octavo juego principal de la serie <i>Grand Theft Auto</i>, después de <i>Grand Theft Auto V</i> (2013), y el decimosexto en total. Ambientado en el estado ficticio de Leonida, basado en Florida, la historia sigue a la pareja de criminales Jason Duval y Lucia Caminos. Los jugadores pueden explorar libremente el mundo abierto de Leonida, que incluye la ciudad ficticia de Vice City, inspirada en Miami.</p>",
-          "normalizedtitle": "Grand Theft Auto VI"
+          "extract": "El domingo 20 de noviembre de 2011 se celebraron elecciones generales en España. Fueron las undécimas desde la Transición y sirvieron para renovar los 350 escaños del Congreso de los Diputados y 208 de los 266 escaños del Senado. Dieron paso a la X legislatura del actual período democrático en España.",
+          "extract_html": "<p>El domingo 20 de noviembre de 2011 se celebraron <b>elecciones generales en España</b>. Fueron las undécimas desde la Transición y sirvieron para renovar los 350 escaños del Congreso de los Diputados y 208 de los 266 escaños del Senado. Dieron paso a la X legislatura del actual período democrático en España.</p>",
+          "normalizedtitle": "Elecciones generales de España de 2011"
         },
         {
           "type": "standard",
-          "title": "PlayStation_5",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">PlayStation 5</span></span>",
+          "title": "Partido_Popular",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Partido Popular</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q63184502",
+          "wikibase_item": "Q185088",
           "titles": {
-            "canonical": "PlayStation_5",
-            "normalized": "PlayStation 5",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">PlayStation 5</span></span>"
+            "canonical": "Partido_Popular",
+            "normalized": "Partido Popular",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Partido Popular</span></span>"
           },
-          "pageid": 9022222,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/PlayStation_5_and_DualSense_with_transparent_background.png/330px-PlayStation_5_and_DualSense_with_transparent_background.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 440
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/1/1b/PlayStation_5_and_DualSense_with_transparent_background.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 3024,
-            "height": 4032
-          },
+          "pageid": 198298,
           "lang": "es",
           "dir": "ltr",
-          "revision": "176215688",
-          "tid": "e15c9743-dbe9-11f1-9b8d-5e4869c67aea",
-          "timestamp": "2026-11-09T03:01:38Z",
-          "description": "videoconsola desarrollada por Sony Interactive Entertainment",
+          "revision": "176375368",
+          "tid": "1758115a-e45b-11f1-bf70-ebf8a6745083",
+          "timestamp": "2026-11-19T20:52:11Z",
+          "description": "partido político de España",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/PlayStation_5",
-              "revisions": "https://es.wikipedia.org/wiki/PlayStation_5?action=history",
-              "edit": "https://es.wikipedia.org/wiki/PlayStation_5?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:PlayStation_5"
+              "page": "https://es.wikipedia.org/wiki/Partido_Popular",
+              "revisions": "https://es.wikipedia.org/wiki/Partido_Popular?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Partido_Popular?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Partido_Popular"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/PlayStation_5",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/PlayStation_5",
-              "edit": "https://es.wikipedia.org/wiki/PlayStation_5?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:PlayStation_5"
+              "page": "https://es.wikipedia.org/wiki/Partido_Popular",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Partido_Popular",
+              "edit": "https://es.wikipedia.org/wiki/Partido_Popular?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Partido_Popular"
             }
           },
-          "extract": "PlayStation 5  es la quinta consola de videojuegos de sobremesa desarrollada por la empresa Sony Interactive Entertainment. Es la tercera consola de Sony en ser diseñada por Mark Cerny. Fue anunciada en diciembre de 2019 como la sucesora de la PlayStation 4. Se lanzó el 12 de noviembre de 2020 en Australia, Nueva Zelanda, Estados Unidos, México, Japón, Corea del Sur y Canadá, y en la semana siguiente en el resto del mundo. La PlayStation 5 junto con la Xbox Series X|S de Microsoft, lanzada el mismo mes, son parte de la novena generación de consolas de videojuegos.",
-          "extract_html": "<p><b>PlayStation 5</b><span style=\"font-weight:normal\"> </span> es la quinta consola de videojuegos de sobremesa desarrollada por la empresa Sony Interactive Entertainment. Es la tercera consola de Sony en ser diseñada por Mark Cerny. Fue anunciada en diciembre de 2019 como la sucesora de la PlayStation 4. Se lanzó el 12 de noviembre de 2020 en Australia, Nueva Zelanda, Estados Unidos, México, Japón, Corea del Sur y Canadá, y en la semana siguiente en el resto del mundo. La PlayStation 5 junto con la Xbox Series X|S de Microsoft, lanzada el mismo mes, son parte de la novena generación de consolas de videojuegos.</p>",
-          "normalizedtitle": "PlayStation 5"
+          "extract": "El Partido Popular (PP) es un partido político español situado entre el centroderecha y la derecha del espectro político. Su actual presidente es Alberto Núñez Feijóo, que accedió al cargo en abril del año 2022 tras la dimisión de su predecesor, Pablo Casado. Fue fundado el 20 de enero de 1989 en sustitución de la antigua Alianza Popular (AP). Entre los años 1996 y 2004, así como entre los años 2011 y hasta 2018, fue el partido que ocupó el Gobierno de España, bajo los mandatos de José María Aznar y Mariano Rajoy, respectivamente. Forma parte del Partido Popular Europeo y tiene representación en el Parlamento Europeo mediante el Grupo del PPE.",
+          "extract_html": "<p>El <b>Partido Popular</b> (<b>PP</b>) es un partido político español situado entre el centroderecha y la derecha del espectro político. Su actual presidente es Alberto Núñez Feijóo, que accedió al cargo en abril del año 2022 tras la dimisión de su predecesor, Pablo Casado. Fue fundado el 20 de enero de 1989 en sustitución de la antigua Alianza Popular (AP). Entre los años 1996 y 2004, así como entre los años 2011 y hasta 2018, fue el partido que ocupó el Gobierno de España, bajo los mandatos de José María Aznar y Mariano Rajoy, respectivamente. Forma parte del Partido Popular Europeo y tiene representación en el Parlamento Europeo mediante el Grupo del PPE.</p>",
+          "normalizedtitle": "Partido Popular"
         },
         {
           "type": "standard",
-          "title": "Xbox_Series_X_y_Series_S",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Xbox Series X y Series S</span></span>",
+          "title": "Mariano_Rajoy",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mariano Rajoy</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q98973368",
+          "wikibase_item": "Q10819",
           "titles": {
-            "canonical": "Xbox_Series_X_y_Series_S",
-            "normalized": "Xbox Series X y Series S",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Xbox Series X y Series S</span></span>"
+            "canonical": "Mariano_Rajoy",
+            "normalized": "Mariano Rajoy",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mariano Rajoy</span></span>"
           },
-          "pageid": 9210152,
+          "pageid": 36708,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Xbox_Series_X_S_color.svg/langes-330px-Xbox_Series_X_S_color.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Mariano_Rajoy_in_2018.jpg/330px-Mariano_Rajoy_in_2018.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 162
+            "height": 437
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Xbox_Series_X_S_color.svg/langes-120px-Xbox_Series_X_S_color.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 110,
-            "height": 54
+            "source": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Mariano_Rajoy_in_2018.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 944,
+            "height": 1249
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176174149",
-          "tid": "e08fef5e-d9b6-11f1-a639-30c4be1f9ee5",
-          "timestamp": "2026-11-06T07:51:30Z",
-          "description": "línea de videoconsolas domésticas",
+          "revision": "176324261",
+          "tid": "88c96169-e1c2-11f1-8582-bd3b6d96910a",
+          "timestamp": "2026-11-16T13:35:06Z",
+          "description": "político español",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Xbox_Series_X_y_Series_S",
-              "revisions": "https://es.wikipedia.org/wiki/Xbox_Series_X_y_Series_S?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Xbox_Series_X_y_Series_S?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Xbox_Series_X_y_Series_S"
+              "page": "https://es.wikipedia.org/wiki/Mariano_Rajoy",
+              "revisions": "https://es.wikipedia.org/wiki/Mariano_Rajoy?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Mariano_Rajoy?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Mariano_Rajoy"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Xbox_Series_X_y_Series_S",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Xbox_Series_X_y_Series_S",
-              "edit": "https://es.wikipedia.org/wiki/Xbox_Series_X_y_Series_S?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Xbox_Series_X_y_Series_S"
+              "page": "https://es.wikipedia.org/wiki/Mariano_Rajoy",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Mariano_Rajoy",
+              "edit": "https://es.wikipedia.org/wiki/Mariano_Rajoy?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Mariano_Rajoy"
             }
           },
-          "extract": "Las Xbox Series X y  Xbox Series S, son una línea de videoconsolas de sobremesa desarrolladas por Microsoft y la cuarta generación de la familia de consolas Xbox. La familia de consolas, conocida colectivamente como \"Project Scarlett\" y revelada por primera vez en el E3 2019, incluye la Xbox Series X de gama alta, revelada en The Game Awards 2019 y cuyo nombre en código es \"Project Anaconda\", y la Xbox Series S de menor costo, anunciada en septiembre de 2020 y cuyo nombre en código es \"Project Lockhart\". Ambas consolas se lanzaron el 10 de noviembre de 2020 y compiten actualmente con la PlayStation 5 de Sony, lanzada el mismo mes, y ambas son parte de la novena generación de consolas de videojuegos.",
-          "extract_html": "<p>Las <b>Xbox Series X</b> y <b> Xbox Series S</b>, son una línea de videoconsolas de sobremesa desarrolladas por Microsoft y la cuarta generación de la familia de consolas Xbox. La familia de consolas, conocida colectivamente como \"<b>Project Scarlett</b>\" y revelada por primera vez en el E3 2019, incluye la Xbox Series X de gama alta, revelada en The Game Awards 2019 y cuyo nombre en código es \"<b>Project Anaconda</b>\", y la Xbox Series S de menor costo, anunciada en septiembre de 2020 y cuyo nombre en código es \"<b>Project Lockhart</b>\". Ambas consolas se lanzaron el 10 de noviembre de 2020 y compiten actualmente con la PlayStation 5 de Sony, lanzada el mismo mes, y ambas son parte de la novena generación de consolas de videojuegos.</p>",
-          "normalizedtitle": "Xbox Series X y Series S"
+          "extract": "Mariano Rajoy Brey es un registrador de la propiedad y expolítico español, presidente del Gobierno de España entre 2011 y 2018. Miembro relevante del Partido Popular desde la década de 1980, también ejerció como vicepresidente primero, portavoz del Gobierno y ministro durante los gobiernos de José María Aznar.",
+          "extract_html": "<p><b>Mariano Rajoy Brey</b> es un registrador de la propiedad y expolítico español, presidente del Gobierno de España entre 2011 y 2018. Miembro relevante del Partido Popular desde la década de 1980, también ejerció como vicepresidente primero, portavoz del Gobierno y ministro durante los gobiernos de José María Aznar.</p>",
+          "normalizedtitle": "Mariano Rajoy"
+        },
+        {
+          "type": "standard",
+          "title": "Partido_Socialista_Obrero_Español",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Partido Socialista Obrero Español</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q138198",
+          "titles": {
+            "canonical": "Partido_Socialista_Obrero_Español",
+            "normalized": "Partido Socialista Obrero Español",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Partido Socialista Obrero Español</span></span>"
+          },
+          "pageid": 4256,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_PSOE_41_Congreso.svg/langes-330px-Logo_PSOE_41_Congreso.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 158
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_PSOE_41_Congreso.svg/langes-500px-Logo_PSOE_41_Congreso.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 351,
+            "height": 168
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176286593",
+          "tid": "c48adffd-dfac-11f1-b91b-5c950b0e062d",
+          "timestamp": "2026-11-13T21:54:15Z",
+          "description": "partido político español",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Partido_Socialista_Obrero_Espa%C3%B1ol",
+              "revisions": "https://es.wikipedia.org/wiki/Partido_Socialista_Obrero_Espa%C3%B1ol?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Partido_Socialista_Obrero_Espa%C3%B1ol?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Partido_Socialista_Obrero_Espa%C3%B1ol"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Partido_Socialista_Obrero_Espa%C3%B1ol",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Partido_Socialista_Obrero_Espa%C3%B1ol",
+              "edit": "https://es.wikipedia.org/wiki/Partido_Socialista_Obrero_Espa%C3%B1ol?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Partido_Socialista_Obrero_Espa%C3%B1ol"
+            }
+          },
+          "extract": "El Partido Socialista Obrero Español (PSOE), es un partido político español fundado el año 1879, situado ideológicamente en la socialdemocracia y en la centroizquierda del espectro político. Desde el 18 de junio de 2017 está dirigido por el secretario general Pedro Sánchez, proclamado durante la celebración del XXXIX Congreso del partido.",
+          "extract_html": "<p>El <b>Partido Socialista Obrero Español</b> (<b>PSOE</b>), es un partido político español fundado el año 1879, situado ideológicamente en la socialdemocracia y en la centroizquierda del espectro político. Desde el 18 de junio de 2017 está dirigido por el secretario general Pedro Sánchez, proclamado durante la celebración del XXXIX Congreso del partido.</p>",
+          "normalizedtitle": "Partido Socialista Obrero Español"
         }
       ],
-      "year": 2026
+      "year": 2011
     },
     {
-      "text": "Segunda vuelta de las elecciones presidenciales en Argentina. Javier Milei gana las elecciones.",
+      "text": "Se publican dos artículos en las revistas Science y Cell en donde dos grupos independientes anuncian que han logrado generar células madre a partir de fibroblastos humanos. Este es considerado uno de los avances más importantes en este campo de estudio.",
       "pages": [
         {
           "type": "standard",
-          "title": "Javier_Milei",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Javier Milei</span></span>",
+          "title": "Science",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Science</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q52395487",
+          "wikibase_item": "Q192864",
           "titles": {
-            "canonical": "Javier_Milei",
-            "normalized": "Javier Milei",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Javier Milei</span></span>"
+            "canonical": "Science",
+            "normalized": "Science",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Science</span></span>"
           },
-          "pageid": 8834241,
+          "pageid": 38721,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Retrato_oficial_Presidente_Milei.png/330px-Retrato_oficial_Presidente_Milei.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Science%2C_vol._1%2C_1883%2C_title_page.png/330px-Science%2C_vol._1%2C_1883%2C_title_page.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 473
+            "height": 461
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/2/25/Retrato_oficial_Presidente_Milei.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 788,
-            "height": 1130
+            "source": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Science%2C_vol._1%2C_1883%2C_title_page.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1020,
+            "height": 1425
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176118691",
-          "tid": "e4e5b178-d70d-11f1-a7b8-9a3218ec1eaa",
-          "timestamp": "2026-11-02T22:36:50Z",
-          "description": "presidente de Argentina desde 2023",
+          "revision": "172030512",
+          "tid": "fadcd645-083d-11f1-a24b-c3de6bf5546d",
+          "timestamp": "2026-02-12T18:09:32Z",
+          "description": "revista científica",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Javier_Milei",
-              "revisions": "https://es.wikipedia.org/wiki/Javier_Milei?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Javier_Milei?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Javier_Milei"
+              "page": "https://es.wikipedia.org/wiki/Science",
+              "revisions": "https://es.wikipedia.org/wiki/Science?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Science?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Science"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Javier_Milei",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Javier_Milei",
-              "edit": "https://es.wikipedia.org/wiki/Javier_Milei?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Javier_Milei"
+              "page": "https://es.wikipedia.org/wiki/Science",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Science",
+              "edit": "https://es.wikipedia.org/wiki/Science?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Science"
             }
           },
-          "extract": "Javier Gerardo Milei es un economista, escritor, político y docente argentino que ejerce como presidente de la Nación Argentina desde el 10 de diciembre de 2023. Anteriormente fue diputado nacional entre 2021 y 2023 representando a la Ciudad Autónoma de Buenos Aires, así como líder de su partido político La Libertad Avanza.",
-          "extract_html": "<p><b>Javier Gerardo Milei</b> es un economista, escritor, político y docente argentino que ejerce como presidente de la Nación Argentina desde el 10 de diciembre de 2023. Anteriormente fue diputado nacional entre 2021 y 2023 representando a la Ciudad Autónoma de Buenos Aires, así como líder de su partido político La Libertad Avanza.</p>",
-          "normalizedtitle": "Javier Milei"
-        }
-      ],
-      "year": 2023
-    },
-    {
-      "text": "Sale a la venta la PS5.",
-      "pages": [
+          "extract": "Science es una revista científica y órgano de expresión de la American Association for the Advancement of Science (AAAS), la Asociación Estadounidense para el Avance de la Ciencia.",
+          "extract_html": "<p><i><b>Science</b></i> es una revista científica y órgano de expresión de la American Association for the Advancement of Science (AAAS), la Asociación Estadounidense para el Avance de la Ciencia.</p>",
+          "normalizedtitle": "Science"
+        },
         {
           "type": "standard",
-          "title": "PlayStation_5",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">PlayStation 5</span></span>",
+          "title": "Cell_(revista)",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Cell (revista)</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q63184502",
+          "wikibase_item": "Q655814",
           "titles": {
-            "canonical": "PlayStation_5",
-            "normalized": "PlayStation 5",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">PlayStation 5</span></span>"
+            "canonical": "Cell_(revista)",
+            "normalized": "Cell (revista)",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Cell (revista)</span></span>"
           },
-          "pageid": 9022222,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/PlayStation_5_and_DualSense_with_transparent_background.png/330px-PlayStation_5_and_DualSense_with_transparent_background.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 440
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/1/1b/PlayStation_5_and_DualSense_with_transparent_background.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 3024,
-            "height": 4032
-          },
+          "pageid": 5317009,
           "lang": "es",
           "dir": "ltr",
-          "revision": "176215688",
-          "tid": "e15c98b3-dbe9-11f1-82a1-12a5793c2bb4",
-          "timestamp": "2026-11-09T03:01:38Z",
-          "description": "videoconsola desarrollada por Sony Interactive Entertainment",
+          "revision": "171728903",
+          "tid": "d3afa926-fad4-11f0-af9d-e3e2d5839db6",
+          "timestamp": "2026-01-26T16:34:04Z",
+          "description": "revista científica",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/PlayStation_5",
-              "revisions": "https://es.wikipedia.org/wiki/PlayStation_5?action=history",
-              "edit": "https://es.wikipedia.org/wiki/PlayStation_5?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:PlayStation_5"
+              "page": "https://es.wikipedia.org/wiki/Cell_(revista)",
+              "revisions": "https://es.wikipedia.org/wiki/Cell_(revista)?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Cell_(revista)?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Cell_(revista)"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/PlayStation_5",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/PlayStation_5",
-              "edit": "https://es.wikipedia.org/wiki/PlayStation_5?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:PlayStation_5"
+              "page": "https://es.wikipedia.org/wiki/Cell_(revista)",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Cell_(revista)",
+              "edit": "https://es.wikipedia.org/wiki/Cell_(revista)?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Cell_(revista)"
             }
           },
-          "extract": "PlayStation 5  es la quinta consola de videojuegos de sobremesa desarrollada por la empresa Sony Interactive Entertainment. Es la tercera consola de Sony en ser diseñada por Mark Cerny. Fue anunciada en diciembre de 2019 como la sucesora de la PlayStation 4. Se lanzó el 12 de noviembre de 2020 en Australia, Nueva Zelanda, Estados Unidos, México, Japón, Corea del Sur y Canadá, y en la semana siguiente en el resto del mundo. La PlayStation 5 junto con la Xbox Series X|S de Microsoft, lanzada el mismo mes, son parte de la novena generación de consolas de videojuegos.",
-          "extract_html": "<p><b>PlayStation 5</b><span style=\"font-weight:normal\"> </span> es la quinta consola de videojuegos de sobremesa desarrollada por la empresa Sony Interactive Entertainment. Es la tercera consola de Sony en ser diseñada por Mark Cerny. Fue anunciada en diciembre de 2019 como la sucesora de la PlayStation 4. Se lanzó el 12 de noviembre de 2020 en Australia, Nueva Zelanda, Estados Unidos, México, Japón, Corea del Sur y Canadá, y en la semana siguiente en el resto del mundo. La PlayStation 5 junto con la Xbox Series X|S de Microsoft, lanzada el mismo mes, son parte de la novena generación de consolas de videojuegos.</p>",
-          "normalizedtitle": "PlayStation 5"
+          "extract": "Cell es una revista científica de revisión por pares especializada en las ciencias de la vida, sobre todo en materias como la biología molecular.",
+          "extract_html": "<p><i><b>Cell</b></i> es una revista científica de revisión por pares especializada en las ciencias de la vida, sobre todo en materias como la biología molecular.</p>",
+          "normalizedtitle": "Cell (revista)"
+        },
+        {
+          "type": "standard",
+          "title": "Célula_madre",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Célula madre</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q48196",
+          "titles": {
+            "canonical": "Célula_madre",
+            "normalized": "Célula madre",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Célula madre</span></span>"
+          },
+          "pageid": 576,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Mouse_embryonic_stem_cells.jpg/330px-Mouse_embryonic_stem_cells.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 279
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Mouse_embryonic_stem_cells.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 600,
+            "height": 507
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "175615293",
+          "tid": "185fb0b2-bdcf-11f1-8e61-c3afecda1902",
+          "timestamp": "2026-10-01T19:34:19Z",
+          "description": "célula indiferenciada que puede dar lugar a otras células con funciones específicas",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/C%C3%A9lula_madre",
+              "revisions": "https://es.wikipedia.org/wiki/C%C3%A9lula_madre?action=history",
+              "edit": "https://es.wikipedia.org/wiki/C%C3%A9lula_madre?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:C%C3%A9lula_madre"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/C%C3%A9lula_madre",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/C%C3%A9lula_madre",
+              "edit": "https://es.wikipedia.org/wiki/C%C3%A9lula_madre?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:C%C3%A9lula_madre"
+            }
+          },
+          "extract": "Las células madre o células troncales son células que se encuentran en todos los organismos pluricelulares y que tienen la capacidad de dividirse y diferenciarse en diversos tipos de células especializadas, además de autorrenovarse para producir más células madre. En los mamíferos, existen diversos tipos de células madre que se pueden clasificar teniendo en cuenta su potencia celular, es decir, el número de diferentes tipos celulares en los que puede diferenciarse. En los organismos adultos, las células madre y las células progenitoras actúan en la regeneración o reparación de los tejidos del organismo.",
+          "extract_html": "<p>Las <b>células madre</b> o <b>células troncales</b> son células que se encuentran en todos los organismos pluricelulares y que tienen la capacidad de dividirse y diferenciarse en diversos tipos de células especializadas, además de autorrenovarse para producir más células madre. En los mamíferos, existen diversos tipos de células madre que se pueden clasificar teniendo en cuenta su potencia celular, es decir, el número de diferentes tipos celulares en los que puede diferenciarse. En los organismos adultos, las células madre y las células progenitoras actúan en la regeneración o reparación de los tejidos del organismo.</p>",
+          "normalizedtitle": "Célula madre"
+        },
+        {
+          "type": "standard",
+          "title": "Fibroblasto",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Fibroblasto</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q463418",
+          "titles": {
+            "canonical": "Fibroblasto",
+            "normalized": "Fibroblasto",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Fibroblasto</span></span>"
+          },
+          "pageid": 28625,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Fibroblast.jpg/330px-Fibroblast.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 248
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Fibroblast.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 600,
+            "height": 450
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "175206914",
+          "tid": "50391f74-a925-11f1-984f-c4441d7dd33a",
+          "timestamp": "2026-09-05T12:28:35Z",
+          "description": "tipo de célula en el tejido conectivo",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Fibroblasto",
+              "revisions": "https://es.wikipedia.org/wiki/Fibroblasto?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Fibroblasto?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Fibroblasto"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Fibroblasto",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Fibroblasto",
+              "edit": "https://es.wikipedia.org/wiki/Fibroblasto?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Fibroblasto"
+            }
+          },
+          "extract": "El fibroblasto es un tipo de célula residente del tejido conectivo propiamente dicho, ya que nace y muere ahí. Sintetiza fibras y mantiene la matriz extracelular del tejido de muchos animales. Estas células proporcionan una estructura en forma de entramado (estroma) a muy diversos tejidos y juegan un papel crucial en la curación de heridas, siendo las células más comunes del tejido conectivo. Se derivan de células primitivas mesenquimales y pluripotenciales. Las células estromales que potencialmente se pueden transformar en fibroblastos, osteoblastos, adipocitos y células musculares, se identifican en cultivos de médula ósea como células adherentes.",
+          "extract_html": "<p>El <b>fibroblasto</b> es un tipo de célula residente del tejido conectivo propiamente dicho, ya que nace y muere ahí. Sintetiza fibras y mantiene la matriz extracelular del tejido de muchos animales. Estas células proporcionan una estructura en forma de entramado (estroma) a muy diversos tejidos y juegan un papel crucial en la curación de heridas, siendo las células más comunes del tejido conectivo. Se derivan de células primitivas mesenquimales y pluripotenciales. Las células estromales que potencialmente se pueden transformar en fibroblastos, osteoblastos, adipocitos y células musculares, se identifican en cultivos de médula ósea como células adherentes.</p>",
+          "normalizedtitle": "Fibroblasto"
         }
       ],
-      "year": 2020
+      "year": 2007
     },
     {
-      "text": "en Chile se realizan elecciones presidenciales, que gana Sebastián Piñera.",
+      "text": "En Chile comienza la cumbre de la APEC.",
       "pages": [
         {
           "type": "standard",
@@ -380,274 +816,266 @@
         },
         {
           "type": "standard",
-          "title": "Sebastián_Piñera",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sebastián Piñera</span></span>",
+          "title": "Cooperación_Económica_Asia-Pacífico",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Cooperación Económica Asia-Pacífico</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q306",
+          "wikibase_item": "Q170481",
           "titles": {
-            "canonical": "Sebastián_Piñera",
-            "normalized": "Sebastián Piñera",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Sebastián Piñera</span></span>"
+            "canonical": "Cooperación_Económica_Asia-Pacífico",
+            "normalized": "Cooperación Económica Asia-Pacífico",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Cooperación Económica Asia-Pacífico</span></span>"
           },
-          "pageid": 133453,
+          "pageid": 9850,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Retrato_Oficial_Presidente_Pi%C3%B1era_2018.jpg/330px-Retrato_Oficial_Presidente_Pi%C3%B1era_2018.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Asia-Pacific_Economic_Cooperation_nations.svg/langes-330px-Asia-Pacific_Economic_Cooperation_nations.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 427
+            "height": 168
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Retrato_Oficial_Presidente_Pi%C3%B1era_2018.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 2008,
-            "height": 2598
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Asia-Pacific_Economic_Cooperation_nations.svg/langes-960px-Asia-Pacific_Economic_Cooperation_nations.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 853,
+            "height": 433
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176222459",
-          "tid": "0424931e-dc56-11f1-bee4-38bcbd6b5fd1",
-          "timestamp": "2026-11-09T15:55:42Z",
-          "description": "empresario y político chileno, presidente de Chile",
+          "revision": "176157812",
+          "tid": "b8dd515b-d8fe-11f1-bc34-ebbbd47e4e58",
+          "timestamp": "2026-11-05T09:53:16Z",
+          "description": "foro multilateral creado en 1989",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Sebasti%C3%A1n_Pi%C3%B1era",
-              "revisions": "https://es.wikipedia.org/wiki/Sebasti%C3%A1n_Pi%C3%B1era?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Sebasti%C3%A1n_Pi%C3%B1era?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Sebasti%C3%A1n_Pi%C3%B1era"
+              "page": "https://es.wikipedia.org/wiki/Cooperaci%C3%B3n_Econ%C3%B3mica_Asia-Pac%C3%ADfico",
+              "revisions": "https://es.wikipedia.org/wiki/Cooperaci%C3%B3n_Econ%C3%B3mica_Asia-Pac%C3%ADfico?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Cooperaci%C3%B3n_Econ%C3%B3mica_Asia-Pac%C3%ADfico?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Cooperaci%C3%B3n_Econ%C3%B3mica_Asia-Pac%C3%ADfico"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Sebasti%C3%A1n_Pi%C3%B1era",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Sebasti%C3%A1n_Pi%C3%B1era",
-              "edit": "https://es.wikipedia.org/wiki/Sebasti%C3%A1n_Pi%C3%B1era?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Sebasti%C3%A1n_Pi%C3%B1era"
+              "page": "https://es.wikipedia.org/wiki/Cooperaci%C3%B3n_Econ%C3%B3mica_Asia-Pac%C3%ADfico",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Cooperaci%C3%B3n_Econ%C3%B3mica_Asia-Pac%C3%ADfico",
+              "edit": "https://es.wikipedia.org/wiki/Cooperaci%C3%B3n_Econ%C3%B3mica_Asia-Pac%C3%ADfico?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Cooperaci%C3%B3n_Econ%C3%B3mica_Asia-Pac%C3%ADfico"
             }
           },
-          "extract": "Miguel Juan Sebastián Piñera Echenique fue un político, ingeniero comercial y empresario chileno. Ejerció como presidente de la República de Chile en dos períodos no consecutivos entre 2010-2014 y 2018-2022; además fue el primer Presidente pro tempore de la CELAC (2011-2013), primer Presidente pro tempore de la Alianza del Pacifico y el primer Presidente pro tempore del PROSUR (2019-2020).",
-          "extract_html": "<p><b>Miguel Juan Sebastián Piñera Echenique</b> fue un político, ingeniero comercial y empresario chileno. Ejerció como presidente de la República de Chile en dos períodos no consecutivos entre 2010-2014 y 2018-2022; además fue el primer <span>Presidente <i>pro tempore</i> de la CELAC</span> (2011-2013), primer Presidente pro tempore de la Alianza del Pacifico y el primer Presidente pro tempore del PROSUR (2019-2020).</p>",
-          "normalizedtitle": "Sebastián Piñera"
+          "extract": "La Cooperación Económica Asia-Pacífico, más conocida como APEC es un foro multilateral creado en 1989, con el fin de consolidar el crecimiento y la prosperidad de los países alrededor del océano Pacífico, que trata temas relacionados con el intercambio comercial, coordinación económica y cooperación entre sus integrantes.",
+          "extract_html": "<p>La <b>Cooperación Económica Asia-Pacífico</b>, más conocida como <b>APEC</b> es un foro multilateral creado en 1989, con el fin de consolidar el crecimiento y la prosperidad de los países alrededor del océano Pacífico, que trata temas relacionados con el intercambio comercial, coordinación económica y cooperación entre sus integrantes.</p>",
+          "normalizedtitle": "Cooperación Económica Asia-Pacífico"
         }
       ],
-      "year": 2017
+      "year": 2004
     },
     {
-      "text": "en la ciudad de Beirut (Líbano), dos suicidas musulmanes hacen explotar sendas bombas en la embajada iraní; mueren 23 personas y quedan heridas otras 160.",
+      "text": "En Estambul (Turquía) estallan varias bombas, destruyendo la sucursal del banco británico HSBC y el consulado británico.",
       "pages": [
         {
           "type": "standard",
-          "title": "Beirut",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Beirut</span></span>",
+          "title": "Estambul",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Estambul</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q3820",
+          "wikibase_item": "Q406",
           "titles": {
-            "canonical": "Beirut",
-            "normalized": "Beirut",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Beirut</span></span>"
+            "canonical": "Estambul",
+            "normalized": "Estambul",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Estambul</span></span>"
           },
-          "pageid": 36677,
+          "pageid": 40485,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Beirut_Central_District_Collage.jpg/330px-Beirut_Central_District_Collage.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/330px-Bosphorus_Bridge_%28235499411%29.jpeg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 440
+            "height": 170
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Beirut_Central_District_Collage.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 768,
-            "height": 1024
+            "source": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bosphorus_Bridge_%28235499411%29.jpeg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 2048,
+            "height": 1053
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "175399673",
-          "tid": "3d163f30-b293-11f1-ad97-b01411d6c2d3",
-          "timestamp": "2026-09-17T12:28:08Z",
-          "description": "capital del Líbano",
+          "revision": "176250665",
+          "tid": "a96178a7-ddcc-11f1-93be-1c3397f15a73",
+          "timestamp": "2026-11-11T12:37:31Z",
+          "description": "ciudad más poblada de Turquía",
           "description_source": "central",
           "coordinates": {
-            "lat": 33.88694444,
-            "lon": 35.51305556
+            "lat": 41.01,
+            "lon": 28.96027778
           },
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Beirut",
-              "revisions": "https://es.wikipedia.org/wiki/Beirut?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Beirut?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Beirut"
+              "page": "https://es.wikipedia.org/wiki/Estambul",
+              "revisions": "https://es.wikipedia.org/wiki/Estambul?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Estambul?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Estambul"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Beirut",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Beirut",
-              "edit": "https://es.wikipedia.org/wiki/Beirut?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Beirut"
+              "page": "https://es.wikipedia.org/wiki/Estambul",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Estambul",
+              "edit": "https://es.wikipedia.org/wiki/Estambul?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Estambul"
             }
           },
-          "extract": "Beirut es la capital y principal puerto marítimo del Líbano. Perteneciente a la gobernación de Beirut, en 2019 se estimaba que su población era de unos 3 300 000 habitantes.",
-          "extract_html": "<p><b>Beirut</b> es la capital y principal puerto marítimo del Líbano. Perteneciente a la gobernación de Beirut, en 2019 se estimaba que su población era de unos 3 300 000 habitantes.</p>",
-          "normalizedtitle": "Beirut"
+          "extract": "Estambul, históricamente conocida como Bizancio o Constantinopla, es la ciudad más poblada de Turquía y el centro histórico, cultural y económico del país. Es una ciudad transcontinental, ubicada en el estrecho del Bósforo, que separa Europa y Asia, entre el mar de Mármara y el mar Negro. Con más de 15 millones de habitantes, es una de las ciudades más pobladas del mundo y la más poblada de Europa. La mayor parte de la población es de religión musulmana, si bien existen minorías de cristianos (68 000) y judíos (22 000).[cita requerida]",
+          "extract_html": "<p><b>Estambul</b>, históricamente conocida como <b>Bizancio</b> o <b>Constantinopla</b>, es la ciudad más poblada de Turquía y el centro histórico, cultural y económico del país. Es una ciudad transcontinental, ubicada en el estrecho del Bósforo, que separa Europa y Asia, entre el mar de Mármara y el mar Negro. Con más de 15 millones de habitantes, es una de las ciudades más pobladas del mundo y la más poblada de Europa. La mayor parte de la población es de religión musulmana, si bien existen minorías de cristianos (68 000) y judíos (22 000).<sup>[<i>cita requerida</i>]</sup></p>",
+          "normalizedtitle": "Estambul"
         },
         {
           "type": "standard",
-          "title": "Líbano",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Líbano</span></span>",
+          "title": "Turquía",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Turquía</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q822",
+          "wikibase_item": "Q43",
           "titles": {
-            "canonical": "Líbano",
-            "normalized": "Líbano",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Líbano</span></span>"
+            "canonical": "Turquía",
+            "normalized": "Turquía",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Turquía</span></span>"
           },
-          "pageid": 20919,
+          "pageid": 11903,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/langes-330px-Flag_of_Lebanon.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/langes-330px-Flag_of_Turkey.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
             "height": 220
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Flag_of_Lebanon.svg/langes-3840px-Flag_of_Lebanon.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 2880,
-            "height": 1920
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/langes-1280px-Flag_of_Turkey.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 1200,
+            "height": 800
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176367988",
-          "tid": "31fe9a80-e403-11f1-be42-e4a0aa6c015f",
-          "timestamp": "2026-11-19T10:23:00Z",
-          "description": "país de Asia Occidental",
+          "revision": "176304778",
+          "tid": "9d1b3a11-e0ac-11f1-97a2-f5afdd6ced7d",
+          "timestamp": "2026-11-15T04:25:40Z",
+          "description": "país de Asia Occidental y Europa Sudoriental",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/L%C3%ADbano",
-              "revisions": "https://es.wikipedia.org/wiki/L%C3%ADbano?action=history",
-              "edit": "https://es.wikipedia.org/wiki/L%C3%ADbano?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:L%C3%ADbano"
+              "page": "https://es.wikipedia.org/wiki/Turqu%C3%ADa",
+              "revisions": "https://es.wikipedia.org/wiki/Turqu%C3%ADa?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Turqu%C3%ADa?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Turqu%C3%ADa"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/L%C3%ADbano",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/L%C3%ADbano",
-              "edit": "https://es.wikipedia.org/wiki/L%C3%ADbano?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:L%C3%ADbano"
+              "page": "https://es.wikipedia.org/wiki/Turqu%C3%ADa",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Turqu%C3%ADa",
+              "edit": "https://es.wikipedia.org/wiki/Turqu%C3%ADa?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Turqu%C3%ADa"
             }
           },
-          "extract": "El Líbano, oficialmente la República Libanesa, es un país árabe de Asia Occidental, localizado en el Levante mediterráneo. Limita al sur con Israel, al sur y al este con Siria, y al oeste con el mar Mediterráneo. El país se ubica entre la península arábiga y la cuenca del Mediterráneo. Su capital y ciudad más poblada es Beirut. Posee una extensión territorial de 10 450 km², siendo uno de los países más pequeños del mundo.",
-          "extract_html": "<p>El <b>Líbano</b>, oficialmente la <b>República Libanesa</b>, es un país árabe de Asia Occidental, localizado en el Levante mediterráneo. Limita al sur con Israel, al sur y al este con Siria, y al oeste con el mar Mediterráneo. El país se ubica entre la península arábiga y la cuenca del Mediterráneo. Su capital y ciudad más poblada es Beirut. Posee una extensión territorial de 10 450 km², siendo uno de los países más pequeños del mundo.</p>",
-          "normalizedtitle": "Líbano"
-        }
-      ],
-      "year": 2013
-    },
-    {
-      "text": "la Corte Internacional de Justicia de La Haya da a conocer su fallo sobre el litigio territorial entre Colombia y Nicaragua.",
-      "pages": [
-        {
-          "type": "standard",
-          "title": "Corte_Internacional_de_Justicia",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Corte Internacional de Justicia</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q7801",
-          "titles": {
-            "canonical": "Corte_Internacional_de_Justicia",
-            "normalized": "Corte Internacional de Justicia",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Corte Internacional de Justicia</span></span>"
-          },
-          "pageid": 13034,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/International_Court_of_Justice_Seal.svg/langes-330px-International_Court_of_Justice_Seal.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 330
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/International_Court_of_Justice_Seal.svg/langes-250px-International_Court_of_Justice_Seal.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 231,
-            "height": 231
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "175252818",
-          "tid": "1ebe8b32-ab85-11f1-9e84-24b2f6bd065c",
-          "timestamp": "2026-09-08T12:59:26Z",
-          "description": "órgano judicial de las Naciones Unidas",
-          "description_source": "central",
-          "coordinates": {
-            "lat": 52.08666667,
-            "lon": 4.29555556
-          },
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Corte_Internacional_de_Justicia",
-              "revisions": "https://es.wikipedia.org/wiki/Corte_Internacional_de_Justicia?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Corte_Internacional_de_Justicia?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Corte_Internacional_de_Justicia"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Corte_Internacional_de_Justicia",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Corte_Internacional_de_Justicia",
-              "edit": "https://es.wikipedia.org/wiki/Corte_Internacional_de_Justicia?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Corte_Internacional_de_Justicia"
-            }
-          },
-          "extract": "La Corte Internacional de Justicia (CIJ) o Tribunal Internacional de Justicia (TIJ) es el principal órgano judicial de las Naciones Unidas. Fue establecida en 1945 en La Haya, siendo la continuadora, a partir de 1946, de la Corte Permanente de Justicia Internacional.",
-          "extract_html": "<p>La <b>Corte Internacional de Justicia</b> (<b>CIJ</b>) o <b>Tribunal Internacional de Justicia</b> (<b>TIJ</b>) es el principal órgano judicial de las Naciones Unidas. Fue establecida en 1945 en La Haya, siendo la continuadora, a partir de 1946, de la Corte Permanente de Justicia Internacional.</p>",
-          "normalizedtitle": "Corte Internacional de Justicia"
+          "extract": "Turquía, formalmente República de Turquía, es un país transcontinental, con la mayor parte de su territorio situado en Asia Occidental y una menor en Europa Oriental, extendiéndose por toda la península de Anatolia, el centro del altiplano armenio y en Tracia Oriental por la zona de los Balcanes.",
+          "extract_html": "<p><b>Turquía</b>, formalmente <b>República de Turquía</b>, es un país transcontinental, con la mayor parte de su territorio situado en Asia Occidental y una menor en Europa Oriental, extendiéndose por toda la península de Anatolia, el centro del altiplano armenio y en Tracia Oriental por la zona de los Balcanes.</p>",
+          "normalizedtitle": "Turquía"
         },
         {
           "type": "standard",
-          "title": "Fallo_de_la_Corte_de_La_Haya_en_2012_sobre_el_litigio_entre_Colombia_y_Nicaragua",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Fallo de la Corte de La Haya en 2012 sobre el litigio entre Colombia y Nicaragua</span></span>",
+          "title": "HSBC",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">HSBC</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q5855540",
+          "wikibase_item": "Q190464",
           "titles": {
-            "canonical": "Fallo_de_la_Corte_de_La_Haya_en_2012_sobre_el_litigio_entre_Colombia_y_Nicaragua",
-            "normalized": "Fallo de la Corte de La Haya en 2012 sobre el litigio entre Colombia y Nicaragua",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Fallo de la Corte de La Haya en 2012 sobre el litigio entre Colombia y Nicaragua</span></span>"
+            "canonical": "HSBC",
+            "normalized": "HSBC",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">HSBC</span></span>"
           },
-          "pageid": 5496782,
+          "pageid": 81979,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/ICJ_Territorial_and_Maritime_Dispute_%28Nicaragua_v._Colombia%29_Course_of_the_maritime_boundary_%28es%29.svg/langes-330px-ICJ_Territorial_and_Maritime_Dispute_%28Nicaragua_v._Colombia%29_Course_of_the_maritime_boundary_%28es%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/8-Canada-Square_%28cropped%29.jpg/330px-8-Canada-Square_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 248
+            "height": 585
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/ICJ_Territorial_and_Maritime_Dispute_%28Nicaragua_v._Colombia%29_Course_of_the_maritime_boundary_%28es%29.svg/langes-960px-ICJ_Territorial_and_Maritime_Dispute_%28Nicaragua_v._Colombia%29_Course_of_the_maritime_boundary_%28es%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 923,
-            "height": 695
+            "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/8-Canada-Square_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 809,
+            "height": 1435
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176315064",
-          "tid": "09e11662-e143-11f1-8c66-3b15a77c5131",
-          "timestamp": "2026-11-15T22:22:27Z",
+          "revision": "175262181",
+          "tid": "e4d2a0a7-abe7-11f1-9f69-7b59f72697a2",
+          "timestamp": "2026-09-09T00:46:29Z",
+          "description": "empresa británica de servicios financieros multinacional.",
+          "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Fallo_de_la_Corte_de_La_Haya_en_2012_sobre_el_litigio_entre_Colombia_y_Nicaragua",
-              "revisions": "https://es.wikipedia.org/wiki/Fallo_de_la_Corte_de_La_Haya_en_2012_sobre_el_litigio_entre_Colombia_y_Nicaragua?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Fallo_de_la_Corte_de_La_Haya_en_2012_sobre_el_litigio_entre_Colombia_y_Nicaragua?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Fallo_de_la_Corte_de_La_Haya_en_2012_sobre_el_litigio_entre_Colombia_y_Nicaragua"
+              "page": "https://es.wikipedia.org/wiki/HSBC",
+              "revisions": "https://es.wikipedia.org/wiki/HSBC?action=history",
+              "edit": "https://es.wikipedia.org/wiki/HSBC?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:HSBC"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Fallo_de_la_Corte_de_La_Haya_en_2012_sobre_el_litigio_entre_Colombia_y_Nicaragua",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Fallo_de_la_Corte_de_La_Haya_en_2012_sobre_el_litigio_entre_Colombia_y_Nicaragua",
-              "edit": "https://es.wikipedia.org/wiki/Fallo_de_la_Corte_de_La_Haya_en_2012_sobre_el_litigio_entre_Colombia_y_Nicaragua?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Fallo_de_la_Corte_de_La_Haya_en_2012_sobre_el_litigio_entre_Colombia_y_Nicaragua"
+              "page": "https://es.wikipedia.org/wiki/HSBC",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/HSBC",
+              "edit": "https://es.wikipedia.org/wiki/HSBC?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:HSBC"
             }
           },
-          "extract": "El Fallo de la Corte de La Haya en 2012 sobre el litigio entre Colombia y Nicaragua fue una sentencia emitida por la Corte Internacional de Justicia el 19 de noviembre de 2012, mediante la cual se procedió a resolver la cuestión de fondo del caso sobre la disputa territorial y de delimitación marítima entre la República de Nicaragua y la República de Colombia en el mar Caribe sudoccidental, iniciado por la primera en el 2001.",
-          "extract_html": "<p>El <b>Fallo de la Corte de La Haya en 2012 sobre el litigio entre Colombia y Nicaragua</b> fue una sentencia emitida por la Corte Internacional de Justicia el 19 de noviembre de 2012, mediante la cual se procedió a resolver la cuestión de fondo del caso sobre la disputa territorial y de delimitación marítima entre la República de Nicaragua y la República de Colombia en el mar Caribe sudoccidental, iniciado por la primera en el 2001.</p>",
-          "normalizedtitle": "Fallo de la Corte de La Haya en 2012 sobre el litigio entre Colombia y Nicaragua"
+          "extract": "HSBC Holdings plc, más conocido como HSBC, es una empresa multinacional británica de banca y servicios financieros con sede en Londres, Reino Unido. Es el séptimo banco más grande del mundo por activos y el segundo de Europa, por detrás del BNP Paribas.",
+          "extract_html": "<p><b>HSBC Holdings plc</b>, más conocido como <b>HSBC</b>, es una empresa multinacional británica de banca y servicios financieros con sede en Londres, Reino Unido. Es el séptimo banco más grande del mundo por activos y el segundo de Europa, por detrás del BNP Paribas.</p>",
+          "normalizedtitle": "HSBC"
+        },
+        {
+          "type": "standard",
+          "title": "Reino_Unido",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Reino Unido</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q145",
+          "titles": {
+            "canonical": "Reino_Unido",
+            "normalized": "Reino Unido",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Reino Unido</span></span>"
+          },
+          "pageid": 5343,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/langes-330px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 198
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/langes-1280px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 1000,
+            "height": 600
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176361263",
+          "tid": "9e938150-e39e-11f1-aed3-89ce1c569898",
+          "timestamp": "2026-11-18T22:23:03Z",
+          "description": "país insular de Europa del Norte con territorios de ultramar en Europa, América, África, Asia y Oceanía",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Reino_Unido",
+              "revisions": "https://es.wikipedia.org/wiki/Reino_Unido?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Reino_Unido?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Reino_Unido"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Reino_Unido",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Reino_Unido",
+              "edit": "https://es.wikipedia.org/wiki/Reino_Unido?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Reino_Unido"
+            }
+          },
+          "extract": "El Reino Unido, oficialmente el Reino Unido de Gran Bretaña e Irlanda del Norte, es un país soberano e insular ubicado al noroeste de la Europa continental. Su territorio está formado geográficamente por la isla de Gran Bretaña, el noreste de la isla de Irlanda y pequeñas islas adyacentes. Su capital y ciudad más poblada es Londres. Desde la independencia de la República de Irlanda, Irlanda del Norte ha sido la única parte del país con una frontera terrestre, hasta la inauguración del Eurotúnel, que es conocido por unir por tierra a la isla de Gran Bretaña con Francia y las tierras continentales europeas. Gran Bretaña limita al norte y al oeste con el océano Atlántico, al este con el mar del Norte, al sur con el canal de la Mancha y al oeste con el mar de Irlanda. El inglés es el idioma de facto y como tal comprende una de las naciones centrales de la angloesfera.",
+          "extract_html": "<p>El <b>Reino Unido</b>, oficialmente el <b>Reino Unido de Gran Bretaña e Irlanda del Norte</b>, es un país soberano e insular ubicado al noroeste de la Europa continental. Su territorio está formado geográficamente por la isla de Gran Bretaña, el noreste de la isla de Irlanda y pequeñas islas adyacentes. Su capital y ciudad más poblada es Londres. Desde la independencia de la República de Irlanda, Irlanda del Norte ha sido la única parte del país con una frontera terrestre, hasta la inauguración del Eurotúnel, que es conocido por unir por tierra a la isla de Gran Bretaña con Francia y las tierras continentales europeas. Gran Bretaña limita al norte y al oeste con el océano Atlántico, al este con el mar del Norte, al sur con el canal de la Mancha y al oeste con el mar de Irlanda. El inglés es el idioma <i>de facto</i> y como tal comprende una de las naciones centrales de la angloesfera.</p>",
+          "normalizedtitle": "Reino Unido"
         }
       ],
-      "year": 2012
+      "year": 2003
     }
   ]
 }
