@@ -1,768 +1,254 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "source": "Wikimedia",
   "items": [
     {
-      "text": "En Catar se dio inicio la XXII versión de la Copa Mundial de Fútbol",
+      "text": "en el Estadio Maracaná, luego de una trifulca policial, por primera vez en su historia, la selección de fútbol de Brasil es derrotada en su tierra. A su vez, Argentina se convierte en la primera selección en ganar por Eliminatorias CONMEBOL en Brasil en calidad de visitante. En esta serie de rachas, por primera vez en su historia, Brasil es derrotado tres veces consecutivas.",
       "pages": [
         {
           "type": "standard",
-          "title": "Catar",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Catar</span></span>",
+          "title": "Estadio_de_Maracaná",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Estadio de Maracaná</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q846",
+          "wikibase_item": "Q155174",
           "titles": {
-            "canonical": "Catar",
-            "normalized": "Catar",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Catar</span></span>"
+            "canonical": "Estadio_de_Maracaná",
+            "normalized": "Estadio de Maracaná",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Estadio de Maracaná</span></span>"
           },
-          "pageid": 23572,
+          "pageid": 39735,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/langes-330px-Flag_of_Qatar.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 130
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Qatar.svg/langes-1920px-Flag_of_Qatar.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 1400,
-            "height": 550
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176140013",
-          "tid": "273aeb60-d7ff-11f1-afca-3633eea98182",
-          "timestamp": "2026-11-04T03:23:50Z",
-          "description": "país de Asia Occidental",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Catar",
-              "revisions": "https://es.wikipedia.org/wiki/Catar?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Catar?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Catar"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Catar",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Catar",
-              "edit": "https://es.wikipedia.org/wiki/Catar?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Catar"
-            }
-          },
-          "extract": "Catar, cuyo nombre oficial es Estado de Catar, es un Estado soberano árabe ubicado en el oeste de Asia que ocupa la pequeña península homónima en el este de la península arábiga. Tiene una única frontera terrestre, por el sur con Arabia Saudita, mientras que el resto del territorio lo bañan las aguas del golfo Pérsico. Un estrecho de agua separa esta península del Estado insular de Baréin.",
-          "extract_html": "<p><b>Catar</b>, cuyo nombre oficial es <b>Estado de Catar</b>, es un Estado soberano árabe ubicado en el oeste de Asia que ocupa la pequeña península homónima en el este de la península arábiga. Tiene una única frontera terrestre, por el sur con Arabia Saudita, mientras que el resto del territorio lo bañan las aguas del golfo Pérsico. Un estrecho de agua separa esta península del Estado insular de Baréin.</p>",
-          "normalizedtitle": "Catar"
-        },
-        {
-          "type": "standard",
-          "title": "Copa_Mundial_de_Fútbol_de_2022",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Copa Mundial de Fútbol de 2022</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q284163",
-          "titles": {
-            "canonical": "Copa_Mundial_de_Fútbol_de_2022",
-            "normalized": "Copa Mundial de Fútbol de 2022",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Copa Mundial de Fútbol de 2022</span></span>"
-          },
-          "pageid": 3180316,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Argentina_3-3_Francia_-_Copa_Mundial_2022_-_Argentina_campe%C3%B3n_%28cropped%29.jpg/330px-Argentina_3-3_Francia_-_Copa_Mundial_2022_-_Argentina_campe%C3%B3n_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 221
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/8/88/Argentina_3-3_Francia_-_Copa_Mundial_2022_-_Argentina_campe%C3%B3n_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 745,
-            "height": 498
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176120346",
-          "tid": "f7b4ae13-d71e-11f1-8216-a824a3995e0f",
-          "timestamp": "2026-11-03T00:39:03Z",
-          "description": "XXII edición de la Copa Mundial de la FIFA",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol_de_2022",
-              "revisions": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol_de_2022?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol_de_2022?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Copa_Mundial_de_F%C3%BAtbol_de_2022"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol_de_2022",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Copa_Mundial_de_F%C3%BAtbol_de_2022",
-              "edit": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol_de_2022?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Copa_Mundial_de_F%C3%BAtbol_de_2022"
-            }
-          },
-          "extract": "La Copa Mundial de la FIFA Catar 2022 fue la vigésima segunda edición de la Copa Mundial de Fútbol masculino organizada por la FIFA. Esta edición del evento se desarrolló del 20 de noviembre al 18 de diciembre en el otoño de Catar, que consiguió los derechos de organización el 2 de diciembre de 2010.",
-          "extract_html": "<p>La <b>Copa Mundial de la FIFA Catar 2022</b> fue la vigésima segunda edición de la Copa Mundial de Fútbol masculino organizada por la FIFA. Esta edición del evento se desarrolló del 20 de noviembre al 18 de diciembre en el otoño de Catar, que consiguió los derechos de organización el 2 de diciembre de 2010.</p>",
-          "normalizedtitle": "Copa Mundial de Fútbol de 2022"
-        },
-        {
-          "type": "standard",
-          "title": "Copa_Mundial_de_Fútbol",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Copa Mundial de Fútbol</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q19317",
-          "titles": {
-            "canonical": "Copa_Mundial_de_Fútbol",
-            "normalized": "Copa Mundial de Fútbol",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Copa Mundial de Fútbol</span></span>"
-          },
-          "pageid": 8915,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/FIFA_World_Cup_Trophy_photo_by_Djuradj_Vujcic.jpg/330px-FIFA_World_Cup_Trophy_photo_by_Djuradj_Vujcic.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 447
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/c/ce/FIFA_World_Cup_Trophy_photo_by_Djuradj_Vujcic.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 723,
-            "height": 980
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176064928",
-          "tid": "adc386ae-d411-11f1-b79d-f636d7b11654",
-          "timestamp": "2026-10-30T03:26:22Z",
-          "description": "torneo internacional de fútbol masculino a nivel de selecciones nacionales",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol",
-              "revisions": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Copa_Mundial_de_F%C3%BAtbol"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Copa_Mundial_de_F%C3%BAtbol",
-              "edit": "https://es.wikipedia.org/wiki/Copa_Mundial_de_F%C3%BAtbol?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Copa_Mundial_de_F%C3%BAtbol"
-            }
-          },
-          "extract": "La Copa Mundial de la FIFA, también conocida como Copa Mundial de Fútbol, Copa del Mundo o simplemente Mundial, es el principal torneo internacional oficial de fútbol masculino a nivel de selecciones nacionales en el mundo.",
-          "extract_html": "<p>La <b>Copa Mundial de la FIFA</b>, también conocida como <b>Copa Mundial de Fútbol</b>, <b>Copa del Mundo</b> o simplemente <b>Mundial</b>, es el principal torneo internacional oficial de fútbol masculino a nivel de selecciones nacionales en el mundo.</p>",
-          "normalizedtitle": "Copa Mundial de Fútbol"
-        }
-      ],
-      "year": 2022
-    },
-    {
-      "text": "En México y otros lugares del mundo se celebra el primer día de la «Acción Global por Ayotzinapa», en el que miles de mexicanos exigen la renuncia del presidente Enrique Peña Nieto debido a su responsabilidad en el asesinato de los estudiantes de Ayotzinapa.",
-      "pages": [
-        {
-          "type": "standard",
-          "title": "México",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">México</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q96",
-          "titles": {
-            "canonical": "México",
-            "normalized": "México",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">México</span></span>"
-          },
-          "pageid": 1830,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/langes-330px-Flag_of_Mexico.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 189
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/langes-1280px-Flag_of_Mexico.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 980,
-            "height": 560
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176376430",
-          "tid": "9d7a5683-e467-11f1-acbf-f7d44bb6c9ec",
-          "timestamp": "2026-11-19T22:21:50Z",
-          "description": "país de América del Norte",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/M%C3%A9xico",
-              "revisions": "https://es.wikipedia.org/wiki/M%C3%A9xico?action=history",
-              "edit": "https://es.wikipedia.org/wiki/M%C3%A9xico?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:M%C3%A9xico"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/M%C3%A9xico",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/M%C3%A9xico",
-              "edit": "https://es.wikipedia.org/wiki/M%C3%A9xico?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:M%C3%A9xico"
-            }
-          },
-          "extract": "México, oficialmente Estados Unidos Mexicanos, es un país soberano ubicado en la parte meridional de América del Norte; su capital y ciudad más poblada es la Ciudad de México. De acuerdo con la constitución vigente, su forma de gobierno consiste en una república representativa, democrática, laica y federal, compuesta por 32 entidades federativas.",
-          "extract_html": "<p><b>México</b>, oficialmente <b>Estados Unidos Mexicanos</b>, es un país soberano ubicado en la parte meridional de América del Norte; su capital y ciudad más poblada es la Ciudad de México. De acuerdo con la constitución vigente, su forma de gobierno consiste en una república representativa, democrática, laica y federal, compuesta por 32 entidades federativas.</p>",
-          "normalizedtitle": "México"
-        },
-        {
-          "type": "standard",
-          "title": "Enrique_Peña_Nieto",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Enrique Peña Nieto</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q296741",
-          "titles": {
-            "canonical": "Enrique_Peña_Nieto",
-            "normalized": "Enrique Peña Nieto",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Enrique Peña Nieto</span></span>"
-          },
-          "pageid": 227172,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Enrique_Pena_Nieto.jpg/330px-Enrique_Pena_Nieto.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 439
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/9/98/Enrique_Pena_Nieto.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 3028,
-            "height": 4029
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176334169",
-          "tid": "11311ce6-e22e-11f1-9618-25b6fd19ae18",
-          "timestamp": "2026-11-17T02:24:51Z",
-          "description": "político y abogado mexicano; 64.º presidente de México",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Enrique_Pe%C3%B1a_Nieto",
-              "revisions": "https://es.wikipedia.org/wiki/Enrique_Pe%C3%B1a_Nieto?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Enrique_Pe%C3%B1a_Nieto?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Enrique_Pe%C3%B1a_Nieto"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Enrique_Pe%C3%B1a_Nieto",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Enrique_Pe%C3%B1a_Nieto",
-              "edit": "https://es.wikipedia.org/wiki/Enrique_Pe%C3%B1a_Nieto?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Enrique_Pe%C3%B1a_Nieto"
-            }
-          },
-          "extract": "Enrique Peña Nieto es un expolítico y abogado mexicano que se desempeñó como presidente de México desde el 1 de diciembre de 2012 hasta el 30 de noviembre de 2018.",
-          "extract_html": "<p><b>Enrique Peña Nieto</b> es un expolítico y abogado mexicano que se desempeñó como presidente de México desde el 1 de diciembre de 2012 hasta el 30 de noviembre de 2018.</p>",
-          "normalizedtitle": "Enrique Peña Nieto"
-        },
-        {
-          "type": "standard",
-          "title": "Desaparición_forzada_de_Iguala_de_2014",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Desaparición forzada de Iguala de 2014</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q18327329",
-          "titles": {
-            "canonical": "Desaparición_forzada_de_Iguala_de_2014",
-            "normalized": "Desaparición forzada de Iguala de 2014",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Desaparición forzada de Iguala de 2014</span></span>"
-          },
-          "pageid": 6472015,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Ayotzinapa20150726_ohs059.jpg/330px-Ayotzinapa20150726_ohs059.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 219
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/2/23/Ayotzinapa20150726_ohs059.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 2288,
-            "height": 1520
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "175703087",
-          "tid": "3d1eb3fc-c22b-11f1-9536-a221e22ef22d",
-          "timestamp": "2026-10-07T08:43:59Z",
-          "description": "desaparición forzada de 44 estudiantes de la Escuela Normal de Ayotzinapa, Guerrero, México",
-          "description_source": "central",
-          "coordinates": {
-            "lat": 17.55361111,
-            "lon": -99.41027778
-          },
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Desaparici%C3%B3n_forzada_de_Iguala_de_2014",
-              "revisions": "https://es.wikipedia.org/wiki/Desaparici%C3%B3n_forzada_de_Iguala_de_2014?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Desaparici%C3%B3n_forzada_de_Iguala_de_2014?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Desaparici%C3%B3n_forzada_de_Iguala_de_2014"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Desaparici%C3%B3n_forzada_de_Iguala_de_2014",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Desaparici%C3%B3n_forzada_de_Iguala_de_2014",
-              "edit": "https://es.wikipedia.org/wiki/Desaparici%C3%B3n_forzada_de_Iguala_de_2014?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Desaparici%C3%B3n_forzada_de_Iguala_de_2014"
-            }
-          },
-          "extract": "Las desapariciones forzadas de Iguala de 2014, también conocidas como secuestro masivo de Iguala de 2014, caso Ayotzinapa, caso Iguala o los 43, fueron una serie de episodios de violencia ocurridos en la noche del 26 y madrugada del 27 de septiembre de 2014 en México, donde la policía municipal de Iguala, Huitzuco, Cocula, Tepecoacuilco, la policía estatal de Guerrero, elementos del Ejército Mexicano y la Marina Armada de México adscritos al 27.º Batallón de Infantería de Iguala participaron en la vigilancia, espionaje, seguimiento, persecución y ataque a estudiantes en la Escuela Normal Rural de Ayotzinapa ubicada a 257 kilómetros al sureste de Iguala, teniendo como resultado la desaparición forzada de 43 personas, 27 heridos y el asesinato de al menos 9 —entre ellos, periodistas y pobladores—. Todo ello con la vigilancia activa del Ejército Mexicano, el Centro de Investigación y Seguridad Nacional (CISEN) —ahora Centro Nacional de Inteligencia (CNI) y la Policía Federal (PF)— hoy integrada a la Guardia Nacional.",
-          "extract_html": "<p>Las <b>desapariciones forzadas de Iguala de 2014</b>, también conocidas como <b>secuestro masivo de Iguala de 2014</b>, <b>caso Ayotzinapa</b>, <b>caso Iguala</b> o <b>los 43</b>, fueron una serie de episodios de violencia ocurridos en la noche del 26 y madrugada del 27 de septiembre de 2014 en México, donde la policía municipal de Iguala, Huitzuco, Cocula, Tepecoacuilco, la policía estatal de Guerrero, elementos del Ejército Mexicano y la Marina Armada de México adscritos al 27.º Batallón de Infantería de Iguala participaron en la vigilancia, espionaje, seguimiento, persecución y ataque a estudiantes en la Escuela Normal Rural de Ayotzinapa ubicada a 257 kilómetros al sureste de Iguala, teniendo como resultado la desaparición forzada de 43 personas, 27 heridos y el asesinato de al menos 9 —entre ellos, periodistas y pobladores—. Todo ello con la vigilancia activa del Ejército Mexicano, el Centro de Investigación y Seguridad Nacional (CISEN) —ahora Centro Nacional de Inteligencia (CNI) y la Policía Federal (PF)— hoy integrada a la Guardia Nacional.</p>",
-          "normalizedtitle": "Desaparición forzada de Iguala de 2014"
-        }
-      ],
-      "year": 2014
-    },
-    {
-      "text": "En España se celebran las elecciones generales de España de 2011, ganándolas el Partido Popular con Mariano Rajoy a la cabeza por mayoría absoluta, mientras el PSOE sufre la mayor derrota electoral de su historia.",
-      "pages": [
-        {
-          "type": "standard",
-          "title": "España",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">España</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q29",
-          "titles": {
-            "canonical": "España",
-            "normalized": "España",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">España</span></span>"
-          },
-          "pageid": 972,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Flag_of_the_Kingdom_of_Spain.svg/langes-330px-Flag_of_the_Kingdom_of_Spain.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Maracana_2022.jpg/330px-Maracana_2022.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
             "height": 220
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Flag_of_the_Kingdom_of_Spain.svg/langes-960px-Flag_of_the_Kingdom_of_Spain.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 750,
-            "height": 500
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Maracana_2022.jpg/3840px-Maracana_2022.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 6432,
+            "height": 4290
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176360842",
-          "tid": "25def340-e39b-11f1-92a2-84ce1becde69",
-          "timestamp": "2026-11-18T21:58:12Z",
-          "description": "país del suroeste de Europa con territorios en África",
+          "revision": "176167324",
+          "tid": "63d32494-d962-11f1-927d-7a9fffbfa0f8",
+          "timestamp": "2026-11-05T21:46:43Z",
+          "description": "recinto deportivo en Río de Janeiro, Brasil",
           "description_source": "central",
+          "coordinates": {
+            "lat": -22.91222222,
+            "lon": -43.23027778
+          },
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Espa%C3%B1a",
-              "revisions": "https://es.wikipedia.org/wiki/Espa%C3%B1a?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Espa%C3%B1a?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Espa%C3%B1a"
+              "page": "https://es.wikipedia.org/wiki/Estadio_de_Maracan%C3%A1",
+              "revisions": "https://es.wikipedia.org/wiki/Estadio_de_Maracan%C3%A1?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Estadio_de_Maracan%C3%A1?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Estadio_de_Maracan%C3%A1"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Espa%C3%B1a",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Espa%C3%B1a",
-              "edit": "https://es.wikipedia.org/wiki/Espa%C3%B1a?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Espa%C3%B1a"
+              "page": "https://es.wikipedia.org/wiki/Estadio_de_Maracan%C3%A1",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Estadio_de_Maracan%C3%A1",
+              "edit": "https://es.wikipedia.org/wiki/Estadio_de_Maracan%C3%A1?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Estadio_de_Maracan%C3%A1"
             }
           },
-          "extract": "España, formalmente Reino de España, es un país soberano transcontinental situado principalmente en el suroeste de Europa, con territorios en el norte de África. Constituido en un Estado social y Estado de Derecho, su forma de gobierno es la monarquía parlamentaria. Es uno de los veintisiete Estados de la Unión Europea y su capital y ciudad más poblada es Madrid.",
-          "extract_html": "<p><b>España</b>, formalmente <b>Reino de España</b>, es un país soberano transcontinental situado principalmente en el suroeste de Europa, con territorios en el norte de África. Constituido en un Estado social y Estado de Derecho, su forma de gobierno es la monarquía parlamentaria. Es uno de los veintisiete Estados de la Unión Europea y su capital y ciudad más poblada es Madrid.</p>",
-          "normalizedtitle": "España"
+          "extract": "El Estádio Jornalista Mário Filho, conocido popularmente como Maracanã (Maracaná), es un recinto deportivo mundialista ubicado en la ciudad de Río de Janeiro, Brasil. Se sitúa en la avenida Presidente Castelo Branco, s/n Portão 2, en el barrio de Maracaná.",
+          "extract_html": "<p>El <b>Estádio Jornalista Mário Filho</b>, conocido popularmente como <b>Maracanã</b> (<i>Maracaná</i>), es un recinto deportivo mundialista ubicado en la ciudad de Río de Janeiro, Brasil. Se sitúa en la avenida Presidente Castelo Branco, s/n <i>Portão 2,</i> en el barrio de Maracaná.</p>",
+          "normalizedtitle": "Estadio de Maracaná"
         },
         {
           "type": "standard",
-          "title": "Elecciones_generales_de_España_de_2011",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Elecciones generales de España de 2011</span></span>",
+          "title": "Selección_de_fútbol_de_Brasil",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Selección de fútbol de Brasil</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q1059559",
+          "wikibase_item": "Q83459",
           "titles": {
-            "canonical": "Elecciones_generales_de_España_de_2011",
-            "normalized": "Elecciones generales de España de 2011",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Elecciones generales de España de 2011</span></span>"
+            "canonical": "Selección_de_fútbol_de_Brasil",
+            "normalized": "Selección de fútbol de Brasil",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Selección de fútbol de Brasil</span></span>"
           },
-          "pageid": 4772737,
+          "pageid": 115847,
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176365629",
+          "tid": "44161599-e3d6-11f1-af98-a1c0007f15be",
+          "timestamp": "2026-11-19T05:01:23Z",
+          "description": "equipo de fútbol que representa a Brasil en competiciones oficiales",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Brasil",
+              "revisions": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Brasil?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Brasil?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Selecci%C3%B3n_de_f%C3%BAtbol_de_Brasil"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Brasil",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Selecci%C3%B3n_de_f%C3%BAtbol_de_Brasil",
+              "edit": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Brasil?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Selecci%C3%B3n_de_f%C3%BAtbol_de_Brasil"
+            }
+          },
+          "extract": "La selección masculina de fútbol de Brasil es el equipo que representa a dicho país en las competiciones oficiales de fútbol masculino. Su organización está a cargo de la Confederación Brasileña de Fútbol (CBF), perteneciente a la Confederación Sudamericana de Fútbol (Conmebol).\nConocida como Scratch do Ouro, la Verdeamarela o la Canarinha, se encuentra afiliada a la FIFA desde 1923 y es miembro asociado y fundador de la Conmebol desde 1916.",
+          "extract_html": "<p>La <b>selección masculina de fútbol de Brasil</b> es el equipo que representa a dicho país en las competiciones oficiales de fútbol masculino. Su organización está a cargo de la Confederación Brasileña de Fútbol (CBF), perteneciente a la Confederación Sudamericana de Fútbol (Conmebol).\nConocida como <b>Scratch do Ouro</b>, <b>la Verdeamarela</b> o <b>la Canarinha</b>, se encuentra afiliada a la FIFA desde 1923 y es miembro asociado y fundador de la Conmebol desde 1916.</p>",
+          "normalizedtitle": "Selección de fútbol de Brasil"
+        },
+        {
+          "type": "standard",
+          "title": "Selección_de_fútbol_de_Argentina",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Selección de fútbol de Argentina</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q79800",
+          "titles": {
+            "canonical": "Selección_de_fútbol_de_Argentina",
+            "normalized": "Selección de fútbol de Argentina",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Selección de fútbol de Argentina</span></span>"
+          },
+          "pageid": 52935,
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176379756",
+          "tid": "cc0c24a0-e48f-11f1-b87c-2fa09ba840d2",
+          "timestamp": "2026-11-20T03:09:28Z",
+          "description": "equipo de fútbol que representa a Argentina en competiciones oficiales",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Argentina",
+              "revisions": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Argentina?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Argentina?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Selecci%C3%B3n_de_f%C3%BAtbol_de_Argentina"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Argentina",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Selecci%C3%B3n_de_f%C3%BAtbol_de_Argentina",
+              "edit": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Argentina?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Selecci%C3%B3n_de_f%C3%BAtbol_de_Argentina"
+            }
+          },
+          "extract": "La selección masculina de fútbol de Argentina es el equipo formado por jugadores de nacionalidad argentina que representa a la Asociación del Fútbol Argentino (AFA) en las competiciones oficiales organizadas por la Confederación Sudamericana de Fútbol (Conmebol), ente rector de ese deporte en América del Sur, y por la Federación Internacional de Fútbol Asociación (FIFA). Es campeona vigente a nivel confederativo e interconfederativo, así como subcampeona a nivel mundial.",
+          "extract_html": "<p>La <b>selección masculina de fútbol de Argentina</b> es el equipo formado por jugadores de nacionalidad argentina que representa a la Asociación del Fútbol Argentino (AFA) en las competiciones oficiales organizadas por la Confederación Sudamericana de Fútbol (Conmebol), ente rector de ese deporte en América del Sur, y por la Federación Internacional de Fútbol Asociación (FIFA). Es campeona vigente a nivel confederativo e interconfederativo, así como subcampeona a nivel mundial.</p>",
+          "normalizedtitle": "Selección de fútbol de Argentina"
+        },
+        {
+          "type": "standard",
+          "title": "Clasificación_de_Conmebol_para_la_Copa_Mundial_de_Fútbol_de_2010",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Clasificación de Conmebol para la Copa Mundial de Fútbol de 2010</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q511306",
+          "titles": {
+            "canonical": "Clasificación_de_Conmebol_para_la_Copa_Mundial_de_Fútbol_de_2010",
+            "normalized": "Clasificación de Conmebol para la Copa Mundial de Fútbol de 2010",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Clasificación de Conmebol para la Copa Mundial de Fútbol de 2010</span></span>"
+          },
+          "pageid": 1128993,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/2011_Spanish_general_election_map.svg/langes-330px-2011_Spanish_general_election_map.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Brazil_%26_Chile_match_at_World_Cup_2010-06-28_6.jpg/330px-Brazil_%26_Chile_match_at_World_Cup_2010-06-28_6.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 239
+            "height": 225
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/2011_Spanish_general_election_map.svg/langes-960px-2011_Spanish_general_election_map.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 536,
-            "height": 389
+            "source": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Brazil_%26_Chile_match_at_World_Cup_2010-06-28_6.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 3500,
+            "height": 2387
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176323331",
-          "tid": "cde698a0-e1b4-11f1-b12f-e07116b28767",
-          "timestamp": "2026-11-16T11:56:49Z",
-          "description": "elecciones al Congreso y al Senado celebradas el 20 noviembre 2011",
+          "revision": "176164110",
+          "tid": "1054dfa3-d94a-11f1-8042-6825e4b13174",
+          "timestamp": "2026-11-05T18:52:35Z",
+          "description": "Torneo de Fútbol",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Elecciones_generales_de_Espa%C3%B1a_de_2011",
-              "revisions": "https://es.wikipedia.org/wiki/Elecciones_generales_de_Espa%C3%B1a_de_2011?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Elecciones_generales_de_Espa%C3%B1a_de_2011?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Elecciones_generales_de_Espa%C3%B1a_de_2011"
+              "page": "https://es.wikipedia.org/wiki/Clasificaci%C3%B3n_de_Conmebol_para_la_Copa_Mundial_de_F%C3%BAtbol_de_2010",
+              "revisions": "https://es.wikipedia.org/wiki/Clasificaci%C3%B3n_de_Conmebol_para_la_Copa_Mundial_de_F%C3%BAtbol_de_2010?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Clasificaci%C3%B3n_de_Conmebol_para_la_Copa_Mundial_de_F%C3%BAtbol_de_2010?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Clasificaci%C3%B3n_de_Conmebol_para_la_Copa_Mundial_de_F%C3%BAtbol_de_2010"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Elecciones_generales_de_Espa%C3%B1a_de_2011",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Elecciones_generales_de_Espa%C3%B1a_de_2011",
-              "edit": "https://es.wikipedia.org/wiki/Elecciones_generales_de_Espa%C3%B1a_de_2011?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Elecciones_generales_de_Espa%C3%B1a_de_2011"
+              "page": "https://es.wikipedia.org/wiki/Clasificaci%C3%B3n_de_Conmebol_para_la_Copa_Mundial_de_F%C3%BAtbol_de_2010",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Clasificaci%C3%B3n_de_Conmebol_para_la_Copa_Mundial_de_F%C3%BAtbol_de_2010",
+              "edit": "https://es.wikipedia.org/wiki/Clasificaci%C3%B3n_de_Conmebol_para_la_Copa_Mundial_de_F%C3%BAtbol_de_2010?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Clasificaci%C3%B3n_de_Conmebol_para_la_Copa_Mundial_de_F%C3%BAtbol_de_2010"
             }
           },
-          "extract": "El domingo 20 de noviembre de 2011 se celebraron elecciones generales en España. Fueron las undécimas desde la Transición y sirvieron para renovar los 350 escaños del Congreso de los Diputados y 208 de los 266 escaños del Senado. Dieron paso a la X legislatura del actual período democrático en España.",
-          "extract_html": "<p>El domingo 20 de noviembre de 2011 se celebraron <b>elecciones generales en España</b>. Fueron las undécimas desde la Transición y sirvieron para renovar los 350 escaños del Congreso de los Diputados y 208 de los 266 escaños del Senado. Dieron paso a la X legislatura del actual período democrático en España.</p>",
-          "normalizedtitle": "Elecciones generales de España de 2011"
+          "extract": "La clasificación de Conmebol para la Copa Mundial de Fútbol de 2010 contó con cuatro cupos directos y un cupo para la repesca contra el cuarto lugar de la clasificatoria de la Confederación de Fútbol de Norte y Centroamérica.",
+          "extract_html": "<p>La <b>clasificación de Conmebol para la Copa Mundial de Fútbol de 2010</b> contó con cuatro cupos directos y un cupo para la repesca contra el cuarto lugar de la clasificatoria de la Confederación de Fútbol de Norte y Centroamérica.</p>",
+          "normalizedtitle": "Clasificación de Conmebol para la Copa Mundial de Fútbol de 2010"
         },
         {
           "type": "standard",
-          "title": "Partido_Popular",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Partido Popular</span></span>",
+          "title": "Brasil",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Brasil</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q185088",
+          "wikibase_item": "Q155",
           "titles": {
-            "canonical": "Partido_Popular",
-            "normalized": "Partido Popular",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Partido Popular</span></span>"
+            "canonical": "Brasil",
+            "normalized": "Brasil",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Brasil</span></span>"
           },
-          "pageid": 198298,
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176375368",
-          "tid": "1758115a-e45b-11f1-bf70-ebf8a6745083",
-          "timestamp": "2026-11-19T20:52:11Z",
-          "description": "partido político de España",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Partido_Popular",
-              "revisions": "https://es.wikipedia.org/wiki/Partido_Popular?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Partido_Popular?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Partido_Popular"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Partido_Popular",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Partido_Popular",
-              "edit": "https://es.wikipedia.org/wiki/Partido_Popular?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Partido_Popular"
-            }
-          },
-          "extract": "El Partido Popular (PP) es un partido político español situado entre el centroderecha y la derecha del espectro político. Su actual presidente es Alberto Núñez Feijóo, que accedió al cargo en abril del año 2022 tras la dimisión de su predecesor, Pablo Casado. Fue fundado el 20 de enero de 1989 en sustitución de la antigua Alianza Popular (AP). Entre los años 1996 y 2004, así como entre los años 2011 y hasta 2018, fue el partido que ocupó el Gobierno de España, bajo los mandatos de José María Aznar y Mariano Rajoy, respectivamente. Forma parte del Partido Popular Europeo y tiene representación en el Parlamento Europeo mediante el Grupo del PPE.",
-          "extract_html": "<p>El <b>Partido Popular</b> (<b>PP</b>) es un partido político español situado entre el centroderecha y la derecha del espectro político. Su actual presidente es Alberto Núñez Feijóo, que accedió al cargo en abril del año 2022 tras la dimisión de su predecesor, Pablo Casado. Fue fundado el 20 de enero de 1989 en sustitución de la antigua Alianza Popular (AP). Entre los años 1996 y 2004, así como entre los años 2011 y hasta 2018, fue el partido que ocupó el Gobierno de España, bajo los mandatos de José María Aznar y Mariano Rajoy, respectivamente. Forma parte del Partido Popular Europeo y tiene representación en el Parlamento Europeo mediante el Grupo del PPE.</p>",
-          "normalizedtitle": "Partido Popular"
-        },
-        {
-          "type": "standard",
-          "title": "Mariano_Rajoy",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mariano Rajoy</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q10819",
-          "titles": {
-            "canonical": "Mariano_Rajoy",
-            "normalized": "Mariano Rajoy",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mariano Rajoy</span></span>"
-          },
-          "pageid": 36708,
+          "pageid": 410,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Mariano_Rajoy_in_2018.jpg/330px-Mariano_Rajoy_in_2018.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/langes-330px-Flag_of_Brazil.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 437
+            "height": 231
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Mariano_Rajoy_in_2018.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 944,
-            "height": 1249
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/langes-1280px-Flag_of_Brazil.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 1000,
+            "height": 700
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176324261",
-          "tid": "88c96169-e1c2-11f1-8582-bd3b6d96910a",
-          "timestamp": "2026-11-16T13:35:06Z",
-          "description": "político español",
+          "revision": "176217980",
+          "tid": "542f36ac-dc15-11f1-a893-42cd6edb64a2",
+          "timestamp": "2026-11-09T08:12:39Z",
+          "description": "país de América del Sur",
           "description_source": "central",
+          "coordinates": {
+            "lat": -23.55,
+            "lon": -46.63333333
+          },
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Mariano_Rajoy",
-              "revisions": "https://es.wikipedia.org/wiki/Mariano_Rajoy?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Mariano_Rajoy?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Mariano_Rajoy"
+              "page": "https://es.wikipedia.org/wiki/Brasil",
+              "revisions": "https://es.wikipedia.org/wiki/Brasil?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Brasil?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Brasil"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Mariano_Rajoy",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Mariano_Rajoy",
-              "edit": "https://es.wikipedia.org/wiki/Mariano_Rajoy?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Mariano_Rajoy"
+              "page": "https://es.wikipedia.org/wiki/Brasil",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Brasil",
+              "edit": "https://es.wikipedia.org/wiki/Brasil?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Brasil"
             }
           },
-          "extract": "Mariano Rajoy Brey es un registrador de la propiedad y expolítico español, presidente del Gobierno de España entre 2011 y 2018. Miembro relevante del Partido Popular desde la década de 1980, también ejerció como vicepresidente primero, portavoz del Gobierno y ministro durante los gobiernos de José María Aznar.",
-          "extract_html": "<p><b>Mariano Rajoy Brey</b> es un registrador de la propiedad y expolítico español, presidente del Gobierno de España entre 2011 y 2018. Miembro relevante del Partido Popular desde la década de 1980, también ejerció como vicepresidente primero, portavoz del Gobierno y ministro durante los gobiernos de José María Aznar.</p>",
-          "normalizedtitle": "Mariano Rajoy"
-        },
-        {
-          "type": "standard",
-          "title": "Partido_Socialista_Obrero_Español",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Partido Socialista Obrero Español</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q138198",
-          "titles": {
-            "canonical": "Partido_Socialista_Obrero_Español",
-            "normalized": "Partido Socialista Obrero Español",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Partido Socialista Obrero Español</span></span>"
-          },
-          "pageid": 4256,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_PSOE_41_Congreso.svg/langes-330px-Logo_PSOE_41_Congreso.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 158
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Logo_PSOE_41_Congreso.svg/langes-500px-Logo_PSOE_41_Congreso.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 351,
-            "height": 168
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176286593",
-          "tid": "c48adffd-dfac-11f1-b91b-5c950b0e062d",
-          "timestamp": "2026-11-13T21:54:15Z",
-          "description": "partido político español",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Partido_Socialista_Obrero_Espa%C3%B1ol",
-              "revisions": "https://es.wikipedia.org/wiki/Partido_Socialista_Obrero_Espa%C3%B1ol?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Partido_Socialista_Obrero_Espa%C3%B1ol?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Partido_Socialista_Obrero_Espa%C3%B1ol"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Partido_Socialista_Obrero_Espa%C3%B1ol",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Partido_Socialista_Obrero_Espa%C3%B1ol",
-              "edit": "https://es.wikipedia.org/wiki/Partido_Socialista_Obrero_Espa%C3%B1ol?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Partido_Socialista_Obrero_Espa%C3%B1ol"
-            }
-          },
-          "extract": "El Partido Socialista Obrero Español (PSOE), es un partido político español fundado el año 1879, situado ideológicamente en la socialdemocracia y en la centroizquierda del espectro político. Desde el 18 de junio de 2017 está dirigido por el secretario general Pedro Sánchez, proclamado durante la celebración del XXXIX Congreso del partido.",
-          "extract_html": "<p>El <b>Partido Socialista Obrero Español</b> (<b>PSOE</b>), es un partido político español fundado el año 1879, situado ideológicamente en la socialdemocracia y en la centroizquierda del espectro político. Desde el 18 de junio de 2017 está dirigido por el secretario general Pedro Sánchez, proclamado durante la celebración del XXXIX Congreso del partido.</p>",
-          "normalizedtitle": "Partido Socialista Obrero Español"
+          "extract": "Brasil, oficialmente República Federativa de Brasil, es un país soberano de América del Sur que comprende la mitad oriental del subcontinente y algunos grupos de pequeñas islas en el océano Atlántico. Su capital es Brasilia y su ciudad más poblada, São Paulo. Con una superficie estimada en más de 8 500 000 km², es el tercer mayor país de América y el quinto mayor del mundo en área total.",
+          "extract_html": "<p><b>Brasil</b>, oficialmente <b>República Federativa de Brasil</b>, es un país soberano de América del Sur que comprende la mitad oriental del subcontinente y algunos grupos de pequeñas islas en el océano Atlántico. Su capital es Brasilia y su ciudad más poblada, São Paulo. Con una superficie estimada en más de 8 500 000 km², es el tercer mayor país de América y el quinto mayor del mundo en área total.</p>",
+          "normalizedtitle": "Brasil"
         }
       ],
-      "year": 2011
+      "year": 2023
     },
     {
-      "text": "Se publican dos artículos en las revistas Science y Cell en donde dos grupos independientes anuncian que han logrado generar células madre a partir de fibroblastos humanos. Este es considerado uno de los avances más importantes en este campo de estudio.",
-      "pages": [
-        {
-          "type": "standard",
-          "title": "Science",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Science</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q192864",
-          "titles": {
-            "canonical": "Science",
-            "normalized": "Science",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Science</span></span>"
-          },
-          "pageid": 38721,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Science%2C_vol._1%2C_1883%2C_title_page.png/330px-Science%2C_vol._1%2C_1883%2C_title_page.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 461
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Science%2C_vol._1%2C_1883%2C_title_page.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1020,
-            "height": 1425
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "172030512",
-          "tid": "fadcd645-083d-11f1-a24b-c3de6bf5546d",
-          "timestamp": "2026-02-12T18:09:32Z",
-          "description": "revista científica",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Science",
-              "revisions": "https://es.wikipedia.org/wiki/Science?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Science?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Science"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Science",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Science",
-              "edit": "https://es.wikipedia.org/wiki/Science?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Science"
-            }
-          },
-          "extract": "Science es una revista científica y órgano de expresión de la American Association for the Advancement of Science (AAAS), la Asociación Estadounidense para el Avance de la Ciencia.",
-          "extract_html": "<p><i><b>Science</b></i> es una revista científica y órgano de expresión de la American Association for the Advancement of Science (AAAS), la Asociación Estadounidense para el Avance de la Ciencia.</p>",
-          "normalizedtitle": "Science"
-        },
-        {
-          "type": "standard",
-          "title": "Cell_(revista)",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Cell (revista)</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q655814",
-          "titles": {
-            "canonical": "Cell_(revista)",
-            "normalized": "Cell (revista)",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Cell (revista)</span></span>"
-          },
-          "pageid": 5317009,
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "171728903",
-          "tid": "d3afa926-fad4-11f0-af9d-e3e2d5839db6",
-          "timestamp": "2026-01-26T16:34:04Z",
-          "description": "revista científica",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Cell_(revista)",
-              "revisions": "https://es.wikipedia.org/wiki/Cell_(revista)?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Cell_(revista)?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Cell_(revista)"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Cell_(revista)",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Cell_(revista)",
-              "edit": "https://es.wikipedia.org/wiki/Cell_(revista)?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Cell_(revista)"
-            }
-          },
-          "extract": "Cell es una revista científica de revisión por pares especializada en las ciencias de la vida, sobre todo en materias como la biología molecular.",
-          "extract_html": "<p><i><b>Cell</b></i> es una revista científica de revisión por pares especializada en las ciencias de la vida, sobre todo en materias como la biología molecular.</p>",
-          "normalizedtitle": "Cell (revista)"
-        },
-        {
-          "type": "standard",
-          "title": "Célula_madre",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Célula madre</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q48196",
-          "titles": {
-            "canonical": "Célula_madre",
-            "normalized": "Célula madre",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Célula madre</span></span>"
-          },
-          "pageid": 576,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Mouse_embryonic_stem_cells.jpg/330px-Mouse_embryonic_stem_cells.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 279
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Mouse_embryonic_stem_cells.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 600,
-            "height": 507
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "175615293",
-          "tid": "185fb0b2-bdcf-11f1-8e61-c3afecda1902",
-          "timestamp": "2026-10-01T19:34:19Z",
-          "description": "célula indiferenciada que puede dar lugar a otras células con funciones específicas",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/C%C3%A9lula_madre",
-              "revisions": "https://es.wikipedia.org/wiki/C%C3%A9lula_madre?action=history",
-              "edit": "https://es.wikipedia.org/wiki/C%C3%A9lula_madre?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:C%C3%A9lula_madre"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/C%C3%A9lula_madre",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/C%C3%A9lula_madre",
-              "edit": "https://es.wikipedia.org/wiki/C%C3%A9lula_madre?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:C%C3%A9lula_madre"
-            }
-          },
-          "extract": "Las células madre o células troncales son células que se encuentran en todos los organismos pluricelulares y que tienen la capacidad de dividirse y diferenciarse en diversos tipos de células especializadas, además de autorrenovarse para producir más células madre. En los mamíferos, existen diversos tipos de células madre que se pueden clasificar teniendo en cuenta su potencia celular, es decir, el número de diferentes tipos celulares en los que puede diferenciarse. En los organismos adultos, las células madre y las células progenitoras actúan en la regeneración o reparación de los tejidos del organismo.",
-          "extract_html": "<p>Las <b>células madre</b> o <b>células troncales</b> son células que se encuentran en todos los organismos pluricelulares y que tienen la capacidad de dividirse y diferenciarse en diversos tipos de células especializadas, además de autorrenovarse para producir más células madre. En los mamíferos, existen diversos tipos de células madre que se pueden clasificar teniendo en cuenta su potencia celular, es decir, el número de diferentes tipos celulares en los que puede diferenciarse. En los organismos adultos, las células madre y las células progenitoras actúan en la regeneración o reparación de los tejidos del organismo.</p>",
-          "normalizedtitle": "Célula madre"
-        },
-        {
-          "type": "standard",
-          "title": "Fibroblasto",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Fibroblasto</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q463418",
-          "titles": {
-            "canonical": "Fibroblasto",
-            "normalized": "Fibroblasto",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Fibroblasto</span></span>"
-          },
-          "pageid": 28625,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Fibroblast.jpg/330px-Fibroblast.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 248
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Fibroblast.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 600,
-            "height": 450
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "175206914",
-          "tid": "50391f74-a925-11f1-984f-c4441d7dd33a",
-          "timestamp": "2026-09-05T12:28:35Z",
-          "description": "tipo de célula en el tejido conectivo",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Fibroblasto",
-              "revisions": "https://es.wikipedia.org/wiki/Fibroblasto?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Fibroblasto?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Fibroblasto"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Fibroblasto",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Fibroblasto",
-              "edit": "https://es.wikipedia.org/wiki/Fibroblasto?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Fibroblasto"
-            }
-          },
-          "extract": "El fibroblasto es un tipo de célula residente del tejido conectivo propiamente dicho, ya que nace y muere ahí. Sintetiza fibras y mantiene la matriz extracelular del tejido de muchos animales. Estas células proporcionan una estructura en forma de entramado (estroma) a muy diversos tejidos y juegan un papel crucial en la curación de heridas, siendo las células más comunes del tejido conectivo. Se derivan de células primitivas mesenquimales y pluripotenciales. Las células estromales que potencialmente se pueden transformar en fibroblastos, osteoblastos, adipocitos y células musculares, se identifican en cultivos de médula ósea como células adherentes.",
-          "extract_html": "<p>El <b>fibroblasto</b> es un tipo de célula residente del tejido conectivo propiamente dicho, ya que nace y muere ahí. Sintetiza fibras y mantiene la matriz extracelular del tejido de muchos animales. Estas células proporcionan una estructura en forma de entramado (estroma) a muy diversos tejidos y juegan un papel crucial en la curación de heridas, siendo las células más comunes del tejido conectivo. Se derivan de células primitivas mesenquimales y pluripotenciales. Las células estromales que potencialmente se pueden transformar en fibroblastos, osteoblastos, adipocitos y células musculares, se identifican en cultivos de médula ósea como células adherentes.</p>",
-          "normalizedtitle": "Fibroblasto"
-        }
-      ],
-      "year": 2007
-    },
-    {
-      "text": "En Chile comienza la cumbre de la APEC.",
+      "text": "en Chile son las elecciones presidenciales.",
       "pages": [
         {
           "type": "standard",
@@ -791,9 +277,9 @@
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176384288",
-          "tid": "76ad33e0-e4e2-11f1-9e88-bb5edd280015",
-          "timestamp": "2026-11-20T13:01:13Z",
+          "revision": "176389868",
+          "tid": "b9d9ca3e-e51f-11f1-b9fb-b17e7420d2a6",
+          "timestamp": "2026-11-20T20:19:45Z",
           "description": "país de América del Sur",
           "description_source": "central",
           "content_urls": {
@@ -813,269 +299,541 @@
           "extract": "Chile, oficialmente República de Chile, es un país soberano ubicado en el extremo sudoeste de América del Sur. Adopta la forma de gobierno republicana, democrática, presidencialista y unitaria. Su capital y ciudad más poblada es Santiago.",
           "extract_html": "<p><b>Chile</b>, oficialmente <b>República de Chile</b>, es un país soberano ubicado en el extremo sudoeste de América del Sur. Adopta la forma de gobierno republicana, democrática, presidencialista y unitaria. Su capital y ciudad más poblada es Santiago.</p>",
           "normalizedtitle": "Chile"
-        },
-        {
-          "type": "standard",
-          "title": "Cooperación_Económica_Asia-Pacífico",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Cooperación Económica Asia-Pacífico</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q170481",
-          "titles": {
-            "canonical": "Cooperación_Económica_Asia-Pacífico",
-            "normalized": "Cooperación Económica Asia-Pacífico",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Cooperación Económica Asia-Pacífico</span></span>"
-          },
-          "pageid": 9850,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Asia-Pacific_Economic_Cooperation_nations.svg/langes-330px-Asia-Pacific_Economic_Cooperation_nations.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 168
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Asia-Pacific_Economic_Cooperation_nations.svg/langes-960px-Asia-Pacific_Economic_Cooperation_nations.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 853,
-            "height": 433
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176157812",
-          "tid": "b8dd515b-d8fe-11f1-bc34-ebbbd47e4e58",
-          "timestamp": "2026-11-05T09:53:16Z",
-          "description": "foro multilateral creado en 1989",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Cooperaci%C3%B3n_Econ%C3%B3mica_Asia-Pac%C3%ADfico",
-              "revisions": "https://es.wikipedia.org/wiki/Cooperaci%C3%B3n_Econ%C3%B3mica_Asia-Pac%C3%ADfico?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Cooperaci%C3%B3n_Econ%C3%B3mica_Asia-Pac%C3%ADfico?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Cooperaci%C3%B3n_Econ%C3%B3mica_Asia-Pac%C3%ADfico"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Cooperaci%C3%B3n_Econ%C3%B3mica_Asia-Pac%C3%ADfico",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Cooperaci%C3%B3n_Econ%C3%B3mica_Asia-Pac%C3%ADfico",
-              "edit": "https://es.wikipedia.org/wiki/Cooperaci%C3%B3n_Econ%C3%B3mica_Asia-Pac%C3%ADfico?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Cooperaci%C3%B3n_Econ%C3%B3mica_Asia-Pac%C3%ADfico"
-            }
-          },
-          "extract": "La Cooperación Económica Asia-Pacífico, más conocida como APEC es un foro multilateral creado en 1989, con el fin de consolidar el crecimiento y la prosperidad de los países alrededor del océano Pacífico, que trata temas relacionados con el intercambio comercial, coordinación económica y cooperación entre sus integrantes.",
-          "extract_html": "<p>La <b>Cooperación Económica Asia-Pacífico</b>, más conocida como <b>APEC</b> es un foro multilateral creado en 1989, con el fin de consolidar el crecimiento y la prosperidad de los países alrededor del océano Pacífico, que trata temas relacionados con el intercambio comercial, coordinación económica y cooperación entre sus integrantes.</p>",
-          "normalizedtitle": "Cooperación Económica Asia-Pacífico"
         }
       ],
-      "year": 2004
+      "year": 2021
     },
     {
-      "text": "En Estambul (Turquía) estallan varias bombas, destruyendo la sucursal del banco británico HSBC y el consulado británico.",
+      "text": "en toda Colombia se lleva a cabo el movimiento 21N un paro nacional en el que el país se manifiesta en contra de las políticas de gobierno del presidente de Colombia Iván Duque.",
       "pages": [
         {
           "type": "standard",
-          "title": "Estambul",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Estambul</span></span>",
+          "title": "Colombia",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Colombia</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q406",
+          "wikibase_item": "Q739",
           "titles": {
-            "canonical": "Estambul",
-            "normalized": "Estambul",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Estambul</span></span>"
+            "canonical": "Colombia",
+            "normalized": "Colombia",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Colombia</span></span>"
           },
-          "pageid": 40485,
+          "pageid": 456,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Bosphorus_Bridge_%28235499411%29.jpeg/330px-Bosphorus_Bridge_%28235499411%29.jpeg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 170
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/5/53/Bosphorus_Bridge_%28235499411%29.jpeg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 2048,
-            "height": 1053
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176250665",
-          "tid": "a96178a7-ddcc-11f1-93be-1c3397f15a73",
-          "timestamp": "2026-11-11T12:37:31Z",
-          "description": "ciudad más poblada de Turquía",
-          "description_source": "central",
-          "coordinates": {
-            "lat": 41.01,
-            "lon": 28.96027778
-          },
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Estambul",
-              "revisions": "https://es.wikipedia.org/wiki/Estambul?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Estambul?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Estambul"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Estambul",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Estambul",
-              "edit": "https://es.wikipedia.org/wiki/Estambul?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Estambul"
-            }
-          },
-          "extract": "Estambul, históricamente conocida como Bizancio o Constantinopla, es la ciudad más poblada de Turquía y el centro histórico, cultural y económico del país. Es una ciudad transcontinental, ubicada en el estrecho del Bósforo, que separa Europa y Asia, entre el mar de Mármara y el mar Negro. Con más de 15 millones de habitantes, es una de las ciudades más pobladas del mundo y la más poblada de Europa. La mayor parte de la población es de religión musulmana, si bien existen minorías de cristianos (68 000) y judíos (22 000).[cita requerida]",
-          "extract_html": "<p><b>Estambul</b>, históricamente conocida como <b>Bizancio</b> o <b>Constantinopla</b>, es la ciudad más poblada de Turquía y el centro histórico, cultural y económico del país. Es una ciudad transcontinental, ubicada en el estrecho del Bósforo, que separa Europa y Asia, entre el mar de Mármara y el mar Negro. Con más de 15 millones de habitantes, es una de las ciudades más pobladas del mundo y la más poblada de Europa. La mayor parte de la población es de religión musulmana, si bien existen minorías de cristianos (68 000) y judíos (22 000).<sup>[<i>cita requerida</i>]</sup></p>",
-          "normalizedtitle": "Estambul"
-        },
-        {
-          "type": "standard",
-          "title": "Turquía",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Turquía</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q43",
-          "titles": {
-            "canonical": "Turquía",
-            "normalized": "Turquía",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Turquía</span></span>"
-          },
-          "pageid": 11903,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/langes-330px-Flag_of_Turkey.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/langes-330px-Flag_of_Colombia.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
             "height": 220
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/langes-1280px-Flag_of_Turkey.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 1200,
-            "height": 800
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176304778",
-          "tid": "9d1b3a11-e0ac-11f1-97a2-f5afdd6ced7d",
-          "timestamp": "2026-11-15T04:25:40Z",
-          "description": "país de Asia Occidental y Europa Sudoriental",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Turqu%C3%ADa",
-              "revisions": "https://es.wikipedia.org/wiki/Turqu%C3%ADa?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Turqu%C3%ADa?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Turqu%C3%ADa"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Turqu%C3%ADa",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Turqu%C3%ADa",
-              "edit": "https://es.wikipedia.org/wiki/Turqu%C3%ADa?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Turqu%C3%ADa"
-            }
-          },
-          "extract": "Turquía, formalmente República de Turquía, es un país transcontinental, con la mayor parte de su territorio situado en Asia Occidental y una menor en Europa Oriental, extendiéndose por toda la península de Anatolia, el centro del altiplano armenio y en Tracia Oriental por la zona de los Balcanes.",
-          "extract_html": "<p><b>Turquía</b>, formalmente <b>República de Turquía</b>, es un país transcontinental, con la mayor parte de su territorio situado en Asia Occidental y una menor en Europa Oriental, extendiéndose por toda la península de Anatolia, el centro del altiplano armenio y en Tracia Oriental por la zona de los Balcanes.</p>",
-          "normalizedtitle": "Turquía"
-        },
-        {
-          "type": "standard",
-          "title": "HSBC",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">HSBC</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q190464",
-          "titles": {
-            "canonical": "HSBC",
-            "normalized": "HSBC",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">HSBC</span></span>"
-          },
-          "pageid": 81979,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/8-Canada-Square_%28cropped%29.jpg/330px-8-Canada-Square_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 585
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/8-Canada-Square_%28cropped%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 809,
-            "height": 1435
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "175262181",
-          "tid": "e4d2a0a7-abe7-11f1-9f69-7b59f72697a2",
-          "timestamp": "2026-09-09T00:46:29Z",
-          "description": "empresa británica de servicios financieros multinacional.",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/HSBC",
-              "revisions": "https://es.wikipedia.org/wiki/HSBC?action=history",
-              "edit": "https://es.wikipedia.org/wiki/HSBC?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:HSBC"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/HSBC",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/HSBC",
-              "edit": "https://es.wikipedia.org/wiki/HSBC?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:HSBC"
-            }
-          },
-          "extract": "HSBC Holdings plc, más conocido como HSBC, es una empresa multinacional británica de banca y servicios financieros con sede en Londres, Reino Unido. Es el séptimo banco más grande del mundo por activos y el segundo de Europa, por detrás del BNP Paribas.",
-          "extract_html": "<p><b>HSBC Holdings plc</b>, más conocido como <b>HSBC</b>, es una empresa multinacional británica de banca y servicios financieros con sede en Londres, Reino Unido. Es el séptimo banco más grande del mundo por activos y el segundo de Europa, por detrás del BNP Paribas.</p>",
-          "normalizedtitle": "HSBC"
-        },
-        {
-          "type": "standard",
-          "title": "Reino_Unido",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Reino Unido</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q145",
-          "titles": {
-            "canonical": "Reino_Unido",
-            "normalized": "Reino Unido",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Reino Unido</span></span>"
-          },
-          "pageid": 5343,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/langes-330px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 198
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/langes-1280px-Flag_of_the_United_Kingdom_%283-5%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 1000,
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/langes-960px-Flag_of_Colombia.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 900,
             "height": 600
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176361263",
-          "tid": "9e937efd-e39e-11f1-b243-24667ce87b57",
-          "timestamp": "2026-11-18T22:23:03Z",
-          "description": "país insular de Europa del Norte con territorios de ultramar en Europa, América, África, Asia y Oceanía",
+          "revision": "176342051",
+          "tid": "04e8a53d-e2a6-11f1-a687-7783d0fd13de",
+          "timestamp": "2026-11-17T16:43:30Z",
+          "description": "país de América del Sur",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Reino_Unido",
-              "revisions": "https://es.wikipedia.org/wiki/Reino_Unido?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Reino_Unido?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Reino_Unido"
+              "page": "https://es.wikipedia.org/wiki/Colombia",
+              "revisions": "https://es.wikipedia.org/wiki/Colombia?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Colombia?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Colombia"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Reino_Unido",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Reino_Unido",
-              "edit": "https://es.wikipedia.org/wiki/Reino_Unido?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Reino_Unido"
+              "page": "https://es.wikipedia.org/wiki/Colombia",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Colombia",
+              "edit": "https://es.wikipedia.org/wiki/Colombia?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Colombia"
             }
           },
-          "extract": "El Reino Unido, oficialmente el Reino Unido de Gran Bretaña e Irlanda del Norte, es un país soberano e insular ubicado al noroeste de la Europa continental. Su territorio está formado geográficamente por la isla de Gran Bretaña, el noreste de la isla de Irlanda y pequeñas islas adyacentes. Su capital y ciudad más poblada es Londres. Desde la independencia de la República de Irlanda, Irlanda del Norte ha sido la única parte del país con una frontera terrestre, hasta la inauguración del Eurotúnel, que es conocido por unir por tierra a la isla de Gran Bretaña con Francia y las tierras continentales europeas. Gran Bretaña limita al norte y al oeste con el océano Atlántico, al este con el mar del Norte, al sur con el canal de la Mancha y al oeste con el mar de Irlanda. El inglés es el idioma de facto y como tal comprende una de las naciones centrales de la angloesfera.",
-          "extract_html": "<p>El <b>Reino Unido</b>, oficialmente el <b>Reino Unido de Gran Bretaña e Irlanda del Norte</b>, es un país soberano e insular ubicado al noroeste de la Europa continental. Su territorio está formado geográficamente por la isla de Gran Bretaña, el noreste de la isla de Irlanda y pequeñas islas adyacentes. Su capital y ciudad más poblada es Londres. Desde la independencia de la República de Irlanda, Irlanda del Norte ha sido la única parte del país con una frontera terrestre, hasta la inauguración del Eurotúnel, que es conocido por unir por tierra a la isla de Gran Bretaña con Francia y las tierras continentales europeas. Gran Bretaña limita al norte y al oeste con el océano Atlántico, al este con el mar del Norte, al sur con el canal de la Mancha y al oeste con el mar de Irlanda. El inglés es el idioma <i>de facto</i> y como tal comprende una de las naciones centrales de la angloesfera.</p>",
-          "normalizedtitle": "Reino Unido"
+          "extract": "Colombia, oficialmente la República de Colombia, es un país soberano situado en la región noroccidental de América del Sur. Se constituye en un Estado unitario, democrático y social de derecho, organizado en 32 departamentos y el distrito Capital de Bogotá. Es el único país de América del Sur con costas tanto en el océano Pacífico como en el océano Atlántico.",
+          "extract_html": "<p><b>Colombia</b>, oficialmente la <b>República de Colombia</b>, es un país soberano situado en la región noroccidental de América del Sur. Se constituye en un Estado unitario, democrático y social de derecho, organizado en 32 departamentos y el distrito Capital de Bogotá. Es el único país de América del Sur con costas tanto en el océano Pacífico como en el océano Atlántico.</p>",
+          "normalizedtitle": "Colombia"
+        },
+        {
+          "type": "standard",
+          "title": "Protestas_en_Colombia_de_2019-2020",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Protestas en Colombia de 2019-2020</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q75230417",
+          "titles": {
+            "canonical": "Protestas_en_Colombia_de_2019-2020",
+            "normalized": "Protestas en Colombia de 2019-2020",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Protestas en Colombia de 2019-2020</span></span>"
+          },
+          "pageid": 9175149,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Protestas_en_Colombia_de_2019-2020.jpg/330px-Protestas_en_Colombia_de_2019-2020.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 383
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Protestas_en_Colombia_de_2019-2020.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 796,
+            "height": 924
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "175935518",
+          "tid": "d349f138-cd72-11f1-aa0e-11946449e3d7",
+          "timestamp": "2026-10-21T17:14:08Z",
+          "description": "manifestaciones en contra del gobierno colombiano",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Protestas_en_Colombia_de_2019-2020",
+              "revisions": "https://es.wikipedia.org/wiki/Protestas_en_Colombia_de_2019-2020?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Protestas_en_Colombia_de_2019-2020?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Protestas_en_Colombia_de_2019-2020"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Protestas_en_Colombia_de_2019-2020",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Protestas_en_Colombia_de_2019-2020",
+              "edit": "https://es.wikipedia.org/wiki/Protestas_en_Colombia_de_2019-2020?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Protestas_en_Colombia_de_2019-2020"
+            }
+          },
+          "extract": "Las protestas en Colombia, también denominadas como «Paro Nacional #21N» fueron una serie de manifestaciones realizadas en Colombia, de manera no consecutiva, las cuales se desarrollaron en varias ciudades del país a partir del 21 de noviembre de 2019 al 21 de febrero de 2020, y que fueron convocadas el 4 de noviembre por distintos sectores de oposición, luego agrupados en el denominado Comité Nacional de Paro.",
+          "extract_html": "<p>Las <b>protestas en Colombia</b>, también denominadas como «<b>Paro Nacional #21N</b>» fueron una serie de manifestaciones realizadas en Colombia, de manera no consecutiva, las cuales se desarrollaron en varias ciudades del país a partir del 21 de noviembre de 2019 al 21 de febrero de 2020, y que fueron convocadas el 4 de noviembre por distintos sectores de oposición, luego agrupados en el denominado Comité Nacional de Paro.</p>",
+          "normalizedtitle": "Protestas en Colombia de 2019-2020"
+        },
+        {
+          "type": "standard",
+          "title": "Iván_Duque",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Iván Duque</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q17478000",
+          "titles": {
+            "canonical": "Iván_Duque",
+            "normalized": "Iván Duque",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Iván Duque</span></span>"
+          },
+          "pageid": 6373561,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Iv%C3%A1n_Duque%2C_oct_2021_1.1.jpg/330px-Iv%C3%A1n_Duque%2C_oct_2021_1.1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 417
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Iv%C3%A1n_Duque%2C_oct_2021_1.1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1445,
+            "height": 1825
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "174765250",
+          "tid": "0727967e-938a-11f1-88ab-6f8a91613676",
+          "timestamp": "2026-08-09T00:34:06Z",
+          "description": "41.° presidente de la República de Colombia",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Iv%C3%A1n_Duque",
+              "revisions": "https://es.wikipedia.org/wiki/Iv%C3%A1n_Duque?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Iv%C3%A1n_Duque?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Iv%C3%A1n_Duque"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Iv%C3%A1n_Duque",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Iv%C3%A1n_Duque",
+              "edit": "https://es.wikipedia.org/wiki/Iv%C3%A1n_Duque?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Iv%C3%A1n_Duque"
+            }
+          },
+          "extract": "Iván Duque Márquez es un abogado, catedrático, escritor y político colombiano que se desempeñó como presidente de Colombia desde el 7 de agosto de 2018 hasta el 7 de agosto de 2022. Es miembro del partido de derecha Centro Democrático.",
+          "extract_html": "<p><b>Iván Duque Márquez</b> es un abogado, catedrático, escritor y político colombiano que se desempeñó como presidente de Colombia desde el 7 de agosto de 2018 hasta el 7 de agosto de 2022. Es miembro del partido de derecha Centro Democrático.</p>",
+          "normalizedtitle": "Iván Duque"
         }
       ],
-      "year": 2003
+      "year": 2019
+    },
+    {
+      "text": "en Xiutetelco, Puebla, México sucede una explosión con al menos 4 muertos",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Xiutetelco",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Xiutetelco</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q20144243",
+          "titles": {
+            "canonical": "Xiutetelco",
+            "normalized": "Xiutetelco",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Xiutetelco</span></span>"
+          },
+          "pageid": 10994113,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Parque_de_San_Juan_Xiutetelco.jpg/330px-Parque_de_San_Juan_Xiutetelco.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 219
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Parque_de_San_Juan_Xiutetelco.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 2048,
+            "height": 1360
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "172312805",
+          "tid": "5a6f1a13-1663-11f1-b45e-9fabeaa5e0c9",
+          "timestamp": "2026-03-02T18:12:20Z",
+          "description": "cabecera del municipio de Xiutetelco, Puebla, México",
+          "description_source": "central",
+          "coordinates": {
+            "lat": 19.79562,
+            "lon": -97.32578
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Xiutetelco",
+              "revisions": "https://es.wikipedia.org/wiki/Xiutetelco?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Xiutetelco?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Xiutetelco"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Xiutetelco",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Xiutetelco",
+              "edit": "https://es.wikipedia.org/wiki/Xiutetelco?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Xiutetelco"
+            }
+          },
+          "extract": "San Juan Xiutetelco es una localidad del estado mexicano de Puebla. Es cabecera del municipio de Xiutetelco.Y es parte de la zona metropolitana de Teziutlán.",
+          "extract_html": "<p><b>San Juan Xiutetelco</b> es una localidad del estado mexicano de Puebla. Es cabecera del municipio de Xiutetelco.Y es parte de la zona metropolitana de Teziutlán.</p>",
+          "normalizedtitle": "Xiutetelco"
+        },
+        {
+          "type": "standard",
+          "title": "Puebla",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Puebla</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q79923",
+          "titles": {
+            "canonical": "Puebla",
+            "normalized": "Puebla",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Puebla</span></span>"
+          },
+          "pageid": 27090,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Mexico-Popocatepetl.jpg/330px-Mexico-Popocatepetl.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 219
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Mexico-Popocatepetl.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 3072,
+            "height": 2040
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176247357",
+          "tid": "aeec9d81-dd8f-11f1-a7d3-7d0257f31f8a",
+          "timestamp": "2026-11-11T05:21:01Z",
+          "description": "estado de México",
+          "description_source": "central",
+          "coordinates": {
+            "lat": 19.00361111,
+            "lon": -97.88833333
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Puebla",
+              "revisions": "https://es.wikipedia.org/wiki/Puebla?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Puebla?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Puebla"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Puebla",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Puebla",
+              "edit": "https://es.wikipedia.org/wiki/Puebla?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Puebla"
+            }
+          },
+          "extract": "Puebla, oficialmente el Estado Libre y Soberano de Puebla, es uno de los treinta y un estados que, junto con la Ciudad de México, conforman México; ubicado en el altiplano central de México, su capital y ciudad más poblada es Puebla de Zaragoza. Políticamente es un estado autónomo, democrático y laico, compuesto por 217 municipios, agrupados en 22 regiones.",
+          "extract_html": "<p><b>Puebla</b>, oficialmente el <b>Estado Libre y Soberano de Puebla</b>, es uno de los treinta y un estados que, junto con la Ciudad de México, conforman México; ubicado en el altiplano central de México, su capital y ciudad más poblada es Puebla de Zaragoza. Políticamente es un estado autónomo, democrático y laico, compuesto por 217 municipios, agrupados en 22 regiones.</p>",
+          "normalizedtitle": "Puebla"
+        },
+        {
+          "type": "standard",
+          "title": "México",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">México</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q96",
+          "titles": {
+            "canonical": "México",
+            "normalized": "México",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">México</span></span>"
+          },
+          "pageid": 1830,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/langes-330px-Flag_of_Mexico.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 189
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/langes-1280px-Flag_of_Mexico.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 980,
+            "height": 560
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176390856",
+          "tid": "a2eca1c0-e52a-11f1-84da-a2566f45c512",
+          "timestamp": "2026-11-20T21:37:51Z",
+          "description": "país de América del Norte",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/M%C3%A9xico",
+              "revisions": "https://es.wikipedia.org/wiki/M%C3%A9xico?action=history",
+              "edit": "https://es.wikipedia.org/wiki/M%C3%A9xico?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:M%C3%A9xico"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/M%C3%A9xico",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/M%C3%A9xico",
+              "edit": "https://es.wikipedia.org/wiki/M%C3%A9xico?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:M%C3%A9xico"
+            }
+          },
+          "extract": "México, oficialmente Estados Unidos Mexicanos, es un país soberano ubicado en la parte meridional de América del Norte; su capital y ciudad más poblada es la Ciudad de México. De acuerdo con la constitución vigente, su forma de gobierno consiste en una república representativa, democrática, laica y federal, compuesta por 32 entidades federativas.",
+          "extract_html": "<p><b>México</b>, oficialmente <b>Estados Unidos Mexicanos</b>, es un país soberano ubicado en la parte meridional de América del Norte; su capital y ciudad más poblada es la Ciudad de México. De acuerdo con la constitución vigente, su forma de gobierno consiste en una república representativa, democrática, laica y federal, compuesta por 32 entidades federativas.</p>",
+          "normalizedtitle": "México"
+        }
+      ],
+      "year": 2018
+    },
+    {
+      "text": "Robert Mugabe renuncia a la presidencia de Zimbabue, después de permanecer 37 años en el poder ininterrumpidamente.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Robert_Mugabe",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Robert Mugabe</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q10707",
+          "titles": {
+            "canonical": "Robert_Mugabe",
+            "normalized": "Robert Mugabe",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Robert Mugabe</span></span>"
+          },
+          "pageid": 119521,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Robert_Mugabe_Official_Portrait.jpg/330px-Robert_Mugabe_Official_Portrait.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 456
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/5/55/Robert_Mugabe_Official_Portrait.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1891,
+            "height": 2611
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176118356",
+          "tid": "997dd1cf-d70a-11f1-a787-e9a251bf905f",
+          "timestamp": "2026-11-02T22:13:15Z",
+          "description": "dictador de Zimbabwe (1987-2017)",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Robert_Mugabe",
+              "revisions": "https://es.wikipedia.org/wiki/Robert_Mugabe?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Robert_Mugabe?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Robert_Mugabe"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Robert_Mugabe",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Robert_Mugabe",
+              "edit": "https://es.wikipedia.org/wiki/Robert_Mugabe?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Robert_Mugabe"
+            }
+          },
+          "extract": "Robert Gabriel Mugabe fue un militar y político zimbabuense que se desempeñó como primer ministro de Zimbabue de 1980 a 1987 y posteriormente como presidente de 1987 a 2017. Fue líder de la Unión Nacional Africana de Zimbabue (ZANU) de 1975 a 1980 y dirigió su partido político sucesor, el ZANU – Frente Patriótico (ZANU-PF), de 1980 a 2017. Ideológicamente nacionalista africano, durante las décadas de 1970 y 1980 se identificó como marxista-leninista, y como socialista durante las décadas de 1990 y el resto de su carrera.",
+          "extract_html": "<p><b>Robert Gabriel Mugabe</b> fue un militar y político zimbabuense que se desempeñó como primer ministro de Zimbabue de 1980 a 1987 y posteriormente como presidente de 1987 a 2017. Fue líder de la Unión Nacional Africana de Zimbabue (ZANU) de 1975 a 1980 y dirigió su partido político sucesor, el ZANU – Frente Patriótico (ZANU-PF), de 1980 a 2017. Ideológicamente nacionalista africano, durante las décadas de 1970 y 1980 se identificó como marxista-leninista, y como socialista durante las décadas de 1990 y el resto de su carrera.</p>",
+          "normalizedtitle": "Robert Mugabe"
+        },
+        {
+          "type": "standard",
+          "title": "Zimbabue",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Zimbabue</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q954",
+          "titles": {
+            "canonical": "Zimbabue",
+            "normalized": "Zimbabue",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Zimbabue</span></span>"
+          },
+          "pageid": 889179,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/langes-330px-Flag_of_Zimbabwe.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 165
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/langes-1280px-Flag_of_Zimbabwe.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 1200,
+            "height": 600
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176171054",
+          "tid": "c8e94480-d97f-11f1-b337-faa8ad76f81c",
+          "timestamp": "2026-11-06T01:17:08Z",
+          "description": "país de África Oriental",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Zimbabue",
+              "revisions": "https://es.wikipedia.org/wiki/Zimbabue?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Zimbabue?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Zimbabue"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Zimbabue",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Zimbabue",
+              "edit": "https://es.wikipedia.org/wiki/Zimbabue?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Zimbabue"
+            }
+          },
+          "extract": "Zimbabue, oficialmente República de Zimbabue ,\nes un país sin litoral situado en el sudeste de África, entre el río Zambeze, las cataratas Victoria y el río Limpopo. Limita al oeste con Botsuana, al norte con Zambia, al sur con Sudáfrica y al este con Mozambique.",
+          "extract_html": "<p><b>Zimbabue</b>, oficialmente <b>República de Zimbabue</b> ,\nes un país sin litoral situado en el sudeste de África, entre el río Zambeze, las cataratas Victoria y el río Limpopo. Limita al oeste con Botsuana, al norte con Zambia, al sur con Sudáfrica y al este con Mozambique.</p>",
+          "normalizedtitle": "Zimbabue"
+        }
+      ],
+      "year": 2017
+    },
+    {
+      "text": "en el norte de Japón se produce un terremoto de magnitud 7,3 en la escala de Richter.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Japón",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Japón</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q17",
+          "titles": {
+            "canonical": "Japón",
+            "normalized": "Japón",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Japón</span></span>"
+          },
+          "pageid": 1575,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/langes-330px-Flag_of_Japan.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 220
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/langes-960px-Flag_of_Japan.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 900,
+            "height": 600
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176284964",
+          "tid": "f0e92fb2-df99-11f1-8d3d-3aa0c22d427a",
+          "timestamp": "2026-11-13T19:39:29Z",
+          "description": "país insular de Asia Oriental",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Jap%C3%B3n",
+              "revisions": "https://es.wikipedia.org/wiki/Jap%C3%B3n?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Jap%C3%B3n?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Jap%C3%B3n"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Jap%C3%B3n",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Jap%C3%B3n",
+              "edit": "https://es.wikipedia.org/wiki/Jap%C3%B3n?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Jap%C3%B3n"
+            }
+          },
+          "extract": "Japón es un país insular en Asia Oriental ubicado en el noroeste del océano Pacífico. Limita con el mar del Japón al oeste y se extiende desde el mar de Ojotsk en el norte hasta el mar de la China Oriental y Taiwán en el sur. Su territorio comprende un archipiélago de 14 125 islas que cubren 377 978 km² sobre el denominado Anillo de Fuego del Pacífico. Las cinco islas principales del país, de norte a sur, son Hokkaidō, Honshū, Shikoku, Kyūshū y Okinawa.",
+          "extract_html": "<p><b>Japón</b> es un país insular en Asia Oriental ubicado en el noroeste del océano Pacífico. Limita con el mar del Japón al oeste y se extiende desde el mar de Ojotsk en el norte hasta el mar de la China Oriental y Taiwán en el sur. Su territorio comprende un archipiélago de 14 125 islas que cubren 377 978 km² sobre el denominado Anillo de Fuego del Pacífico. Las cinco islas principales del país, de norte a sur, son Hokkaidō, Honshū, Shikoku, Kyūshū y Okinawa.</p>",
+          "normalizedtitle": "Japón"
+        },
+        {
+          "type": "standard",
+          "title": "Escala_sismológica_de_Richter",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Escala sismológica de Richter</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q38768",
+          "titles": {
+            "canonical": "Escala_sismológica_de_Richter",
+            "normalized": "Escala sismológica de Richter",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Escala sismológica de Richter</span></span>"
+          },
+          "pageid": 21127,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Ondas_s%C3%ADsmicas_s_p.svg/langes-330px-Ondas_s%C3%ADsmicas_s_p.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 264
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Ondas_s%C3%ADsmicas_s_p.svg/langes-250px-Ondas_s%C3%ADsmicas_s_p.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 250,
+            "height": 200
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176166133",
+          "tid": "933162ea-d959-11f1-8d0f-a9b5e4060328",
+          "timestamp": "2026-11-05T20:43:37Z",
+          "description": "escala logarítmica arbitraria que asigna un número para cuantificar la energía que libera un terremoto",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter",
+              "revisions": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Escala_sismol%C3%B3gica_de_Richter"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Escala_sismol%C3%B3gica_de_Richter",
+              "edit": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Escala_sismol%C3%B3gica_de_Richter"
+            }
+          },
+          "extract": "La escala sismológica de Richter, también conocida como escala de magnitud local (ML), es una escala logarítmica que asigna un número para cuantificar la energía que libera un terremoto, denominada así en honor del sismólogo estadounidense Charles Francis Richter.",
+          "extract_html": "<p>La <b>escala sismológica de Richter</b>, también conocida como <b>escala de magnitud local</b> (<b><i>M</i><sub>L</sub></b>), es una escala logarítmica que asigna un número para cuantificar la energía que libera un terremoto, denominada así en honor del sismólogo estadounidense Charles Francis Richter.</p>",
+          "normalizedtitle": "Escala sismológica de Richter"
+        }
+      ],
+      "year": 2016
     }
   ]
 }
