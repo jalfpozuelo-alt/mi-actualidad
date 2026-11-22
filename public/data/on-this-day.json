@@ -1,104 +1,50 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "source": "Wikimedia",
   "items": [
     {
-      "text": "en el Estadio Maracaná, luego de una trifulca policial, por primera vez en su historia, la selección de fútbol de Brasil es derrotada en su tierra. A su vez, Argentina se convierte en la primera selección en ganar por Eliminatorias CONMEBOL en Brasil en calidad de visitante. En esta serie de rachas, por primera vez en su historia, Brasil es derrotado tres veces consecutivas.",
+      "text": "la selección de fútbol de Arabia Saudita da la sorpresa del mundial tras vencer 2 a 1 a Argentina en su primer encuentro del mundial.",
       "pages": [
         {
           "type": "standard",
-          "title": "Estadio_de_Maracaná",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Estadio de Maracaná</span></span>",
+          "title": "Selección_de_fútbol_de_Arabia_Saudita",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Selección de fútbol de Arabia Saudita</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q155174",
+          "wikibase_item": "Q189723",
           "titles": {
-            "canonical": "Estadio_de_Maracaná",
-            "normalized": "Estadio de Maracaná",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Estadio de Maracaná</span></span>"
+            "canonical": "Selección_de_fútbol_de_Arabia_Saudita",
+            "normalized": "Selección de fútbol de Arabia Saudita",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Selección de fútbol de Arabia Saudita</span></span>"
           },
-          "pageid": 39735,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Maracana_2022.jpg/330px-Maracana_2022.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 220
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Maracana_2022.jpg/3840px-Maracana_2022.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 6432,
-            "height": 4290
-          },
+          "pageid": 182785,
           "lang": "es",
           "dir": "ltr",
-          "revision": "176167324",
-          "tid": "63d32494-d962-11f1-927d-7a9fffbfa0f8",
-          "timestamp": "2026-11-05T21:46:43Z",
-          "description": "recinto deportivo en Río de Janeiro, Brasil",
-          "description_source": "central",
-          "coordinates": {
-            "lat": -22.91222222,
-            "lon": -43.23027778
-          },
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Estadio_de_Maracan%C3%A1",
-              "revisions": "https://es.wikipedia.org/wiki/Estadio_de_Maracan%C3%A1?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Estadio_de_Maracan%C3%A1?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Estadio_de_Maracan%C3%A1"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Estadio_de_Maracan%C3%A1",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Estadio_de_Maracan%C3%A1",
-              "edit": "https://es.wikipedia.org/wiki/Estadio_de_Maracan%C3%A1?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Estadio_de_Maracan%C3%A1"
-            }
-          },
-          "extract": "El Estádio Jornalista Mário Filho, conocido popularmente como Maracanã (Maracaná), es un recinto deportivo mundialista ubicado en la ciudad de Río de Janeiro, Brasil. Se sitúa en la avenida Presidente Castelo Branco, s/n Portão 2, en el barrio de Maracaná.",
-          "extract_html": "<p>El <b>Estádio Jornalista Mário Filho</b>, conocido popularmente como <b>Maracanã</b> (<i>Maracaná</i>), es un recinto deportivo mundialista ubicado en la ciudad de Río de Janeiro, Brasil. Se sitúa en la avenida Presidente Castelo Branco, s/n <i>Portão 2,</i> en el barrio de Maracaná.</p>",
-          "normalizedtitle": "Estadio de Maracaná"
-        },
-        {
-          "type": "standard",
-          "title": "Selección_de_fútbol_de_Brasil",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Selección de fútbol de Brasil</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q83459",
-          "titles": {
-            "canonical": "Selección_de_fútbol_de_Brasil",
-            "normalized": "Selección de fútbol de Brasil",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Selección de fútbol de Brasil</span></span>"
-          },
-          "pageid": 115847,
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176365629",
-          "tid": "44161599-e3d6-11f1-af98-a1c0007f15be",
-          "timestamp": "2026-11-19T05:01:23Z",
-          "description": "equipo de fútbol que representa a Brasil en competiciones oficiales",
+          "revision": "176366037",
+          "tid": "fe5c4a28-e3db-11f1-a94c-9d7a1fb40cf9",
+          "timestamp": "2026-11-19T05:42:23Z",
+          "description": "Equipo representativo de Arabia Saudita",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Brasil",
-              "revisions": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Brasil?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Brasil?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Selecci%C3%B3n_de_f%C3%BAtbol_de_Brasil"
+              "page": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Arabia_Saudita",
+              "revisions": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Arabia_Saudita?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Arabia_Saudita?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Selecci%C3%B3n_de_f%C3%BAtbol_de_Arabia_Saudita"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Brasil",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Selecci%C3%B3n_de_f%C3%BAtbol_de_Brasil",
-              "edit": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Brasil?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Selecci%C3%B3n_de_f%C3%BAtbol_de_Brasil"
+              "page": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Arabia_Saudita",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Selecci%C3%B3n_de_f%C3%BAtbol_de_Arabia_Saudita",
+              "edit": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Arabia_Saudita?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Selecci%C3%B3n_de_f%C3%BAtbol_de_Arabia_Saudita"
             }
           },
-          "extract": "La selección masculina de fútbol de Brasil es el equipo que representa a dicho país en las competiciones oficiales de fútbol masculino. Su organización está a cargo de la Confederación Brasileña de Fútbol (CBF), perteneciente a la Confederación Sudamericana de Fútbol (Conmebol).\nConocida como Scratch do Ouro, la Verdeamarela o la Canarinha, se encuentra afiliada a la FIFA desde 1923 y es miembro asociado y fundador de la Conmebol desde 1916.",
-          "extract_html": "<p>La <b>selección masculina de fútbol de Brasil</b> es el equipo que representa a dicho país en las competiciones oficiales de fútbol masculino. Su organización está a cargo de la Confederación Brasileña de Fútbol (CBF), perteneciente a la Confederación Sudamericana de Fútbol (Conmebol).\nConocida como <b>Scratch do Ouro</b>, <b>la Verdeamarela</b> o <b>la Canarinha</b>, se encuentra afiliada a la FIFA desde 1923 y es miembro asociado y fundador de la Conmebol desde 1916.</p>",
-          "normalizedtitle": "Selección de fútbol de Brasil"
+          "extract": "La selección de fútbol de Arabia Saudita es el equipo representativo del país en las competiciones oficiales. Su organización está a cargo de la Federación de Fútbol de Arabia Saudita, perteneciente a la AFC.",
+          "extract_html": "<p>La <b>selección de fútbol de Arabia Saudita</b> es el equipo representativo del país en las competiciones oficiales. Su organización está a cargo de la Federación de Fútbol de Arabia Saudita, perteneciente a la AFC.</p>",
+          "normalizedtitle": "Selección de fútbol de Arabia Saudita"
         },
         {
           "type": "standard",
@@ -139,701 +85,467 @@
           "extract": "La selección masculina de fútbol de Argentina es el equipo formado por jugadores de nacionalidad argentina que representa a la Asociación del Fútbol Argentino (AFA) en las competiciones oficiales organizadas por la Confederación Sudamericana de Fútbol (Conmebol), ente rector de ese deporte en América del Sur, y por la Federación Internacional de Fútbol Asociación (FIFA). Es campeona vigente a nivel confederativo e interconfederativo, así como subcampeona a nivel mundial.",
           "extract_html": "<p>La <b>selección masculina de fútbol de Argentina</b> es el equipo formado por jugadores de nacionalidad argentina que representa a la Asociación del Fútbol Argentino (AFA) en las competiciones oficiales organizadas por la Confederación Sudamericana de Fútbol (Conmebol), ente rector de ese deporte en América del Sur, y por la Federación Internacional de Fútbol Asociación (FIFA). Es campeona vigente a nivel confederativo e interconfederativo, así como subcampeona a nivel mundial.</p>",
           "normalizedtitle": "Selección de fútbol de Argentina"
-        },
-        {
-          "type": "standard",
-          "title": "Clasificación_de_Conmebol_para_la_Copa_Mundial_de_Fútbol_de_2010",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Clasificación de Conmebol para la Copa Mundial de Fútbol de 2010</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q511306",
-          "titles": {
-            "canonical": "Clasificación_de_Conmebol_para_la_Copa_Mundial_de_Fútbol_de_2010",
-            "normalized": "Clasificación de Conmebol para la Copa Mundial de Fútbol de 2010",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Clasificación de Conmebol para la Copa Mundial de Fútbol de 2010</span></span>"
-          },
-          "pageid": 1128993,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Brazil_%26_Chile_match_at_World_Cup_2010-06-28_6.jpg/330px-Brazil_%26_Chile_match_at_World_Cup_2010-06-28_6.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 225
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Brazil_%26_Chile_match_at_World_Cup_2010-06-28_6.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 3500,
-            "height": 2387
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176164110",
-          "tid": "1054dfa3-d94a-11f1-8042-6825e4b13174",
-          "timestamp": "2026-11-05T18:52:35Z",
-          "description": "Torneo de Fútbol",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Clasificaci%C3%B3n_de_Conmebol_para_la_Copa_Mundial_de_F%C3%BAtbol_de_2010",
-              "revisions": "https://es.wikipedia.org/wiki/Clasificaci%C3%B3n_de_Conmebol_para_la_Copa_Mundial_de_F%C3%BAtbol_de_2010?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Clasificaci%C3%B3n_de_Conmebol_para_la_Copa_Mundial_de_F%C3%BAtbol_de_2010?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Clasificaci%C3%B3n_de_Conmebol_para_la_Copa_Mundial_de_F%C3%BAtbol_de_2010"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Clasificaci%C3%B3n_de_Conmebol_para_la_Copa_Mundial_de_F%C3%BAtbol_de_2010",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Clasificaci%C3%B3n_de_Conmebol_para_la_Copa_Mundial_de_F%C3%BAtbol_de_2010",
-              "edit": "https://es.wikipedia.org/wiki/Clasificaci%C3%B3n_de_Conmebol_para_la_Copa_Mundial_de_F%C3%BAtbol_de_2010?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Clasificaci%C3%B3n_de_Conmebol_para_la_Copa_Mundial_de_F%C3%BAtbol_de_2010"
-            }
-          },
-          "extract": "La clasificación de Conmebol para la Copa Mundial de Fútbol de 2010 contó con cuatro cupos directos y un cupo para la repesca contra el cuarto lugar de la clasificatoria de la Confederación de Fútbol de Norte y Centroamérica.",
-          "extract_html": "<p>La <b>clasificación de Conmebol para la Copa Mundial de Fútbol de 2010</b> contó con cuatro cupos directos y un cupo para la repesca contra el cuarto lugar de la clasificatoria de la Confederación de Fútbol de Norte y Centroamérica.</p>",
-          "normalizedtitle": "Clasificación de Conmebol para la Copa Mundial de Fútbol de 2010"
-        },
-        {
-          "type": "standard",
-          "title": "Brasil",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Brasil</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q155",
-          "titles": {
-            "canonical": "Brasil",
-            "normalized": "Brasil",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Brasil</span></span>"
-          },
-          "pageid": 410,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/langes-330px-Flag_of_Brazil.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 231
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/langes-1280px-Flag_of_Brazil.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 1000,
-            "height": 700
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176217980",
-          "tid": "542f36ac-dc15-11f1-a893-42cd6edb64a2",
-          "timestamp": "2026-11-09T08:12:39Z",
-          "description": "país de América del Sur",
-          "description_source": "central",
-          "coordinates": {
-            "lat": -23.55,
-            "lon": -46.63333333
-          },
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Brasil",
-              "revisions": "https://es.wikipedia.org/wiki/Brasil?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Brasil?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Brasil"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Brasil",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Brasil",
-              "edit": "https://es.wikipedia.org/wiki/Brasil?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Brasil"
-            }
-          },
-          "extract": "Brasil, oficialmente República Federativa de Brasil, es un país soberano de América del Sur que comprende la mitad oriental del subcontinente y algunos grupos de pequeñas islas en el océano Atlántico. Su capital es Brasilia y su ciudad más poblada, São Paulo. Con una superficie estimada en más de 8 500 000 km², es el tercer mayor país de América y el quinto mayor del mundo en área total.",
-          "extract_html": "<p><b>Brasil</b>, oficialmente <b>República Federativa de Brasil</b>, es un país soberano de América del Sur que comprende la mitad oriental del subcontinente y algunos grupos de pequeñas islas en el océano Atlántico. Su capital es Brasilia y su ciudad más poblada, São Paulo. Con una superficie estimada en más de 8 500 000 km², es el tercer mayor país de América y el quinto mayor del mundo en área total.</p>",
-          "normalizedtitle": "Brasil"
         }
       ],
-      "year": 2023
+      "year": 2022
     },
     {
-      "text": "en Chile son las elecciones presidenciales.",
+      "text": "en Bogotá (Colombia) el estilista y maquillador Mauricio Leal es encontrado muerto junto a su madre en su casa.",
       "pages": [
         {
           "type": "standard",
-          "title": "Chile",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Chile</span></span>",
+          "title": "Mauricio_Leal",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mauricio Leal</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q298",
+          "wikibase_item": "Q110617007",
           "titles": {
-            "canonical": "Chile",
-            "normalized": "Chile",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Chile</span></span>"
+            "canonical": "Mauricio_Leal",
+            "normalized": "Mauricio Leal",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mauricio Leal</span></span>"
           },
-          "pageid": 276780,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/langes-330px-Flag_of_Chile.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 220
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Flag_of_Chile.svg/langes-960px-Flag_of_Chile.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 900,
-            "height": 600
-          },
+          "pageid": 10134854,
           "lang": "es",
           "dir": "ltr",
-          "revision": "176389868",
-          "tid": "b9d9ca3e-e51f-11f1-b9fb-b17e7420d2a6",
-          "timestamp": "2026-11-20T20:19:45Z",
-          "description": "país de América del Sur",
+          "revision": "165945075",
+          "tid": "7dc2e161-fc3a-11ef-ab49-77c24007e8f5",
+          "timestamp": "2025-03-08T16:29:22Z",
+          "description": "estilista y maquillador colombiano",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Chile",
-              "revisions": "https://es.wikipedia.org/wiki/Chile?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Chile?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Chile"
+              "page": "https://es.wikipedia.org/wiki/Mauricio_Leal",
+              "revisions": "https://es.wikipedia.org/wiki/Mauricio_Leal?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Mauricio_Leal?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Mauricio_Leal"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Chile",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Chile",
-              "edit": "https://es.wikipedia.org/wiki/Chile?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Chile"
+              "page": "https://es.wikipedia.org/wiki/Mauricio_Leal",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Mauricio_Leal",
+              "edit": "https://es.wikipedia.org/wiki/Mauricio_Leal?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Mauricio_Leal"
             }
           },
-          "extract": "Chile, oficialmente República de Chile, es un país soberano ubicado en el extremo sudoeste de América del Sur. Adopta la forma de gobierno republicana, democrática, presidencialista y unitaria. Su capital y ciudad más poblada es Santiago.",
-          "extract_html": "<p><b>Chile</b>, oficialmente <b>República de Chile</b>, es un país soberano ubicado en el extremo sudoeste de América del Sur. Adopta la forma de gobierno republicana, democrática, presidencialista y unitaria. Su capital y ciudad más poblada es Santiago.</p>",
-          "normalizedtitle": "Chile"
+          "extract": "Mauricio Leal Hernández fue un estilista colombiano. Mauricio Leal se desempeñaba como un estilista reconocido a nivel nacional por su trabajo a personalidades importantes de Colombia, entre las que se destacaban varias modelos, actrices, cantantes, presentadoras de televisión y reinas de belleza. Sin embargo, Mauricio fue asesinado a manos de su hermano junto a su madre la noche del 22 de noviembre de 2021, a tan solo dos días antes de cumplir 47 años.\nSu asesinato generó una gran conmoción dentro del país.",
+          "extract_html": "<p><b>Mauricio Leal Hernández</b> fue un estilista colombiano. Mauricio Leal se desempeñaba como un estilista reconocido a nivel nacional por su trabajo a personalidades importantes de Colombia, entre las que se destacaban varias modelos, actrices, cantantes, presentadoras de televisión y reinas de belleza. Sin embargo, Mauricio fue asesinado a manos de su hermano junto a su madre la noche del 22 de noviembre de 2021, a tan solo dos días antes de cumplir 47 años.\nSu asesinato generó una gran conmoción dentro del país.</p>",
+          "normalizedtitle": "Mauricio Leal"
         }
       ],
       "year": 2021
     },
     {
-      "text": "en toda Colombia se lleva a cabo el movimiento 21N un paro nacional en el que el país se manifiesta en contra de las políticas de gobierno del presidente de Colombia Iván Duque.",
+      "text": "el legendario luchador The Undertaker celebra su trigésimo aniversario de su debut en WWE y se retira oficialmente de la lucha libre profesional en el evento Survivor Series.",
       "pages": [
         {
           "type": "standard",
-          "title": "Colombia",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Colombia</span></span>",
+          "title": "The_Undertaker",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">The Undertaker</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q739",
+          "wikibase_item": "Q44304",
           "titles": {
-            "canonical": "Colombia",
-            "normalized": "Colombia",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Colombia</span></span>"
+            "canonical": "The_Undertaker",
+            "normalized": "The Undertaker",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">The Undertaker</span></span>"
           },
-          "pageid": 456,
+          "pageid": 1187265,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/langes-330px-Flag_of_Colombia.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/The_Undertaker_US_Marine_Visit_2019_%28cropped%292.jpg/330px-The_Undertaker_US_Marine_Visit_2019_%28cropped%292.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 220
+            "height": 454
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/langes-960px-Flag_of_Colombia.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 900,
-            "height": 600
+            "source": "https://upload.wikimedia.org/wikipedia/commons/0/07/The_Undertaker_US_Marine_Visit_2019_%28cropped%292.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 994,
+            "height": 1369
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176342051",
-          "tid": "04e8a53d-e2a6-11f1-a687-7783d0fd13de",
-          "timestamp": "2026-11-17T16:43:30Z",
-          "description": "país de América del Sur",
+          "revision": "176331087",
+          "tid": "678b6428-e208-11f1-aa4e-a738db2f81a1",
+          "timestamp": "2026-11-16T21:55:15Z",
+          "description": "luchador profesional estadounidense",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Colombia",
-              "revisions": "https://es.wikipedia.org/wiki/Colombia?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Colombia?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Colombia"
+              "page": "https://es.wikipedia.org/wiki/The_Undertaker",
+              "revisions": "https://es.wikipedia.org/wiki/The_Undertaker?action=history",
+              "edit": "https://es.wikipedia.org/wiki/The_Undertaker?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:The_Undertaker"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Colombia",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Colombia",
-              "edit": "https://es.wikipedia.org/wiki/Colombia?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Colombia"
+              "page": "https://es.wikipedia.org/wiki/The_Undertaker",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/The_Undertaker",
+              "edit": "https://es.wikipedia.org/wiki/The_Undertaker?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:The_Undertaker"
             }
           },
-          "extract": "Colombia, oficialmente la República de Colombia, es un país soberano situado en la región noroccidental de América del Sur. Se constituye en un Estado unitario, democrático y social de derecho, organizado en 32 departamentos y el distrito Capital de Bogotá. Es el único país de América del Sur con costas tanto en el océano Pacífico como en el océano Atlántico.",
-          "extract_html": "<p><b>Colombia</b>, oficialmente la <b>República de Colombia</b>, es un país soberano situado en la región noroccidental de América del Sur. Se constituye en un Estado unitario, democrático y social de derecho, organizado en 32 departamentos y el distrito Capital de Bogotá. Es el único país de América del Sur con costas tanto en el océano Pacífico como en el océano Atlántico.</p>",
-          "normalizedtitle": "Colombia"
+          "extract": "Mark William Calaway, conocido como The Undertaker, es un luchador profesional retirado y actor estadounidense. Actualmente trabaja como embajador para la empresa WWE y Productor Ejecutivo de Lucha Libre AAA Worldwide (AAA).",
+          "extract_html": "<p><b>Mark William Calaway</b>, conocido como <b>The Undertaker</b>, es un luchador profesional retirado y actor estadounidense. Actualmente trabaja como embajador para la empresa WWE y Productor Ejecutivo de Lucha Libre AAA Worldwide (AAA).</p>",
+          "normalizedtitle": "The Undertaker"
         },
         {
           "type": "standard",
-          "title": "Protestas_en_Colombia_de_2019-2020",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Protestas en Colombia de 2019-2020</span></span>",
+          "title": "WWE",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">WWE</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q75230417",
+          "wikibase_item": "Q35339",
           "titles": {
-            "canonical": "Protestas_en_Colombia_de_2019-2020",
-            "normalized": "Protestas en Colombia de 2019-2020",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Protestas en Colombia de 2019-2020</span></span>"
+            "canonical": "WWE",
+            "normalized": "WWE",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">WWE</span></span>"
           },
-          "pageid": 9175149,
+          "pageid": 126816,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Protestas_en_Colombia_de_2019-2020.jpg/330px-Protestas_en_Colombia_de_2019-2020.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/langes-330px-WWE_official_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 383
+            "height": 310
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Protestas_en_Colombia_de_2019-2020.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 796,
-            "height": 924
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/langes-500px-WWE_official_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 420,
+            "height": 395
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "175935518",
-          "tid": "d349f138-cd72-11f1-aa0e-11946449e3d7",
-          "timestamp": "2026-10-21T17:14:08Z",
-          "description": "manifestaciones en contra del gobierno colombiano",
+          "revision": "176194041",
+          "tid": "7cb71386-dae3-11f1-9a45-120c076201ed",
+          "timestamp": "2026-11-07T19:43:21Z",
+          "description": "empresa estadounidense de lucha libre profesional y entretenimiento",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Protestas_en_Colombia_de_2019-2020",
-              "revisions": "https://es.wikipedia.org/wiki/Protestas_en_Colombia_de_2019-2020?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Protestas_en_Colombia_de_2019-2020?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Protestas_en_Colombia_de_2019-2020"
+              "page": "https://es.wikipedia.org/wiki/WWE",
+              "revisions": "https://es.wikipedia.org/wiki/WWE?action=history",
+              "edit": "https://es.wikipedia.org/wiki/WWE?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:WWE"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Protestas_en_Colombia_de_2019-2020",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Protestas_en_Colombia_de_2019-2020",
-              "edit": "https://es.wikipedia.org/wiki/Protestas_en_Colombia_de_2019-2020?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Protestas_en_Colombia_de_2019-2020"
+              "page": "https://es.wikipedia.org/wiki/WWE",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/WWE",
+              "edit": "https://es.wikipedia.org/wiki/WWE?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:WWE"
             }
           },
-          "extract": "Las protestas en Colombia, también denominadas como «Paro Nacional #21N» fueron una serie de manifestaciones realizadas en Colombia, de manera no consecutiva, las cuales se desarrollaron en varias ciudades del país a partir del 21 de noviembre de 2019 al 21 de febrero de 2020, y que fueron convocadas el 4 de noviembre por distintos sectores de oposición, luego agrupados en el denominado Comité Nacional de Paro.",
-          "extract_html": "<p>Las <b>protestas en Colombia</b>, también denominadas como «<b>Paro Nacional #21N</b>» fueron una serie de manifestaciones realizadas en Colombia, de manera no consecutiva, las cuales se desarrollaron en varias ciudades del país a partir del 21 de noviembre de 2019 al 21 de febrero de 2020, y que fueron convocadas el 4 de noviembre por distintos sectores de oposición, luego agrupados en el denominado Comité Nacional de Paro.</p>",
-          "normalizedtitle": "Protestas en Colombia de 2019-2020"
+          "extract": "World Wrestling Entertainment (WWE) es una empresa estadounidense de medios y/o entretenimiento, integrada principalmente por el área de la lucha libre profesional. WWE también se ha diversificado en otros campos, incluidos el cine y fútbol americano, entre otros varios negocios.",
+          "extract_html": "<p><b>World Wrestling Entertainment</b> (<b>WWE</b>) es una empresa estadounidense de medios y/o entretenimiento, integrada principalmente por el área de la lucha libre profesional. WWE también se ha diversificado en otros campos, incluidos el cine y fútbol americano, <span class=\"mw-selflink-fragment\">entre otros varios negocios</span>.</p>",
+          "normalizedtitle": "WWE"
         },
         {
           "type": "standard",
-          "title": "Iván_Duque",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Iván Duque</span></span>",
+          "title": "Survivor_Series_(2020)",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Survivor Series (2020)</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q17478000",
+          "wikibase_item": "Q100280765",
           "titles": {
-            "canonical": "Iván_Duque",
-            "normalized": "Iván Duque",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Iván Duque</span></span>"
+            "canonical": "Survivor_Series_(2020)",
+            "normalized": "Survivor Series (2020)",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Survivor Series (2020)</span></span>"
           },
-          "pageid": 6373561,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Iv%C3%A1n_Duque%2C_oct_2021_1.1.jpg/330px-Iv%C3%A1n_Duque%2C_oct_2021_1.1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 417
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Iv%C3%A1n_Duque%2C_oct_2021_1.1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1445,
-            "height": 1825
-          },
+          "pageid": 9643760,
           "lang": "es",
           "dir": "ltr",
-          "revision": "174765250",
-          "tid": "0727967e-938a-11f1-88ab-6f8a91613676",
-          "timestamp": "2026-08-09T00:34:06Z",
-          "description": "41.° presidente de la República de Colombia",
+          "revision": "175111154",
+          "tid": "6f502d98-a48f-11f1-a12b-5c13722fb997",
+          "timestamp": "2026-08-30T16:25:38Z",
+          "description": "34° edición del evento de lucha libre profesional WWE Survivor Series",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Iv%C3%A1n_Duque",
-              "revisions": "https://es.wikipedia.org/wiki/Iv%C3%A1n_Duque?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Iv%C3%A1n_Duque?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Iv%C3%A1n_Duque"
+              "page": "https://es.wikipedia.org/wiki/Survivor_Series_(2020)",
+              "revisions": "https://es.wikipedia.org/wiki/Survivor_Series_(2020)?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Survivor_Series_(2020)?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Survivor_Series_(2020)"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Iv%C3%A1n_Duque",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Iv%C3%A1n_Duque",
-              "edit": "https://es.wikipedia.org/wiki/Iv%C3%A1n_Duque?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Iv%C3%A1n_Duque"
+              "page": "https://es.wikipedia.org/wiki/Survivor_Series_(2020)",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Survivor_Series_(2020)",
+              "edit": "https://es.wikipedia.org/wiki/Survivor_Series_(2020)?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Survivor_Series_(2020)"
             }
           },
-          "extract": "Iván Duque Márquez es un abogado, catedrático, escritor y político colombiano que se desempeñó como presidente de Colombia desde el 7 de agosto de 2018 hasta el 7 de agosto de 2022. Es miembro del partido de derecha Centro Democrático.",
-          "extract_html": "<p><b>Iván Duque Márquez</b> es un abogado, catedrático, escritor y político colombiano que se desempeñó como presidente de Colombia desde el 7 de agosto de 2018 hasta el 7 de agosto de 2022. Es miembro del partido de derecha Centro Democrático.</p>",
-          "normalizedtitle": "Iván Duque"
+          "extract": "Survivor Series 2020 fue la trigésima cuarta edición de Survivor Series, un evento pago por visión de lucha libre profesional realizado por la WWE el 22 de noviembre de 2020 desde el Amway Center en Orlando, Florida, y contó con la asistencia de público virtual a través del ThunderDome. El evento celebró el 30 aniversario del debut de The Undertaker en la WWE, con el anuncio oficial de su retirada tras tres décadas en la compañía, cerrando el evento.",
+          "extract_html": "<p><b>Survivor Series 2020</b> fue la trigésima cuarta edición de Survivor Series, un evento pago por visión de lucha libre profesional realizado por la WWE el 22 de noviembre de 2020 desde el Amway Center en Orlando, Florida, y contó con la asistencia de público virtual a través del ThunderDome. El evento celebró el 30 aniversario del debut de The Undertaker en la WWE, con el anuncio oficial de su retirada tras tres décadas en la compañía, cerrando el evento.</p>",
+          "normalizedtitle": "Survivor Series (2020)"
+        }
+      ],
+      "year": 2020
+    },
+    {
+      "text": "en Bogotá (Colombia) se produce un toque de queda en tres localidades desde las 8:00 p. m. a 6:00 a. m.del 23 de noviembre y en toda la capital desde las 09:00 p. m. a 6:00 a. m. del mismo 23 de noviembre. Esta medida no se implementaba en el país desde hace 42 años.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Bogotá",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Bogotá</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q2841",
+          "titles": {
+            "canonical": "Bogotá",
+            "normalized": "Bogotá",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Bogotá</span></span>"
+          },
+          "pageid": 5131,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Museo-del-Oro-Fachada_%2827842494739%29.jpg/330px-Museo-del-Oro-Fachada_%2827842494739%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 221
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Museo-del-Oro-Fachada_%2827842494739%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 3360,
+            "height": 2248
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176218957",
+          "tid": "6d8eb139-dc2a-11f1-9213-c5ffdbf81bb5",
+          "timestamp": "2026-11-09T10:43:41Z",
+          "description": "capital de Colombia",
+          "description_source": "central",
+          "coordinates": {
+            "lat": 4.60971,
+            "lon": -74.08175
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Bogot%C3%A1",
+              "revisions": "https://es.wikipedia.org/wiki/Bogot%C3%A1?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Bogot%C3%A1?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Bogot%C3%A1"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Bogot%C3%A1",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Bogot%C3%A1",
+              "edit": "https://es.wikipedia.org/wiki/Bogot%C3%A1?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Bogot%C3%A1"
+            }
+          },
+          "extract": "Bogotá, oficialmente Bogotá, Distrito Capital, es la capital de la República de Colombia y del departamento de Cundinamarca. Está administrada como distrito capital, y goza de autonomía para la gestión de sus intereses dentro de los límites de la Constitución y la ley. A diferencia de los demás distritos de Colombia, Bogotá es una entidad territorial de primer orden, con las atribuciones administrativas que la ley confiere a los departamentos. Está constituida por 20 localidades, cada una con su propio alcalde local y una Junta Administradora Local (JAL). Es el epicentro político, económico, administrativo, industrial, artístico, cultural, deportivo y turístico del país.",
+          "extract_html": "<p><b>Bogotá</b>, oficialmente <b>Bogotá, Distrito Capital</b>, es la capital de la República de Colombia y del departamento de Cundinamarca. Está administrada como distrito capital, y goza de autonomía para la gestión de sus intereses dentro de los límites de la Constitución y la ley. A diferencia de los demás distritos de Colombia, Bogotá es una entidad territorial de primer orden, con las atribuciones administrativas que la ley confiere a los departamentos. Está constituida por 20 localidades, cada una con su propio alcalde local y una Junta Administradora Local (JAL). Es el epicentro político, económico, administrativo, industrial, artístico, cultural, deportivo y turístico del país.</p>",
+          "normalizedtitle": "Bogotá"
+        },
+        {
+          "type": "standard",
+          "title": "Toque_de_queda",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Toque de queda</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q223625",
+          "titles": {
+            "canonical": "Toque_de_queda",
+            "normalized": "Toque de queda",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Toque de queda</span></span>"
+          },
+          "pageid": 226805,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Curfew_in_Tel_Aviv_H_ih_039.JPG/330px-Curfew_in_Tel_Aviv_H_ih_039.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 236
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Curfew_in_Tel_Aviv_H_ih_039.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 3442,
+            "height": 2464
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "175405671",
+          "tid": "a5870f72-b2d7-11f1-a3e6-d3da68636ca1",
+          "timestamp": "2026-09-17T20:37:49Z",
+          "description": "prohibición parcial o total de circular libremente en una ciudad o país",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Toque_de_queda",
+              "revisions": "https://es.wikipedia.org/wiki/Toque_de_queda?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Toque_de_queda?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Toque_de_queda"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Toque_de_queda",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Toque_de_queda",
+              "edit": "https://es.wikipedia.org/wiki/Toque_de_queda?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Toque_de_queda"
+            }
+          },
+          "extract": "El toque de queda se refiere a la prohibición o restricción, establecida por instituciones gubernamentales, de circular libremente por las calles de una ciudad o permanecer en lugares públicos, permaneciendo los habitantes únicamente en sus hogares salvo excepciones de necesidad o urgencia. Puede abarcar horarios nocturnos, así como el resto del día, dependiendo de las circunstancias. Es, por tanto, una limitación o restricción legal de la libertad de circulación, considerada internacionalmente un derecho humano y por muchas legislaciones como un derecho constitucional.",
+          "extract_html": "<p>El <b>toque de queda</b> se refiere a la prohibición o restricción, establecida por instituciones gubernamentales, de circular libremente por las calles de una ciudad o permanecer en lugares públicos, permaneciendo los habitantes únicamente en sus hogares salvo excepciones de necesidad o urgencia. Puede abarcar horarios nocturnos, así como el resto del día, dependiendo de las circunstancias. Es, por tanto, una limitación o restricción legal de la libertad de circulación, considerada internacionalmente un derecho humano y por muchas legislaciones como un derecho constitucional.</p>",
+          "normalizedtitle": "Toque de queda"
         }
       ],
       "year": 2019
     },
     {
-      "text": "en Xiutetelco, Puebla, México sucede una explosión con al menos 4 muertos",
+      "text": "en Japón se produce un terremoto de magnitud 7,4 a 37 km de la costa este.",
       "pages": [
         {
           "type": "standard",
-          "title": "Xiutetelco",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Xiutetelco</span></span>",
+          "title": "Terremoto_de_Fukushima_de_2016",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Terremoto de Fukushima de 2016</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q20144243",
+          "wikibase_item": "Q27901768",
           "titles": {
-            "canonical": "Xiutetelco",
-            "normalized": "Xiutetelco",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Xiutetelco</span></span>"
+            "canonical": "Terremoto_de_Fukushima_de_2016",
+            "normalized": "Terremoto de Fukushima de 2016",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Terremoto de Fukushima de 2016</span></span>"
           },
-          "pageid": 10994113,
+          "pageid": 7673061,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Parque_de_San_Juan_Xiutetelco.jpg/330px-Parque_de_San_Juan_Xiutetelco.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg/langes-330px-Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 219
+            "height": 298
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Parque_de_San_Juan_Xiutetelco.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 2048,
-            "height": 1360
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg/langes-500px-Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 413,
+            "height": 373
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "172312805",
-          "tid": "5a6f1a13-1663-11f1-b45e-9fabeaa5e0c9",
-          "timestamp": "2026-03-02T18:12:20Z",
-          "description": "cabecera del municipio de Xiutetelco, Puebla, México",
+          "revision": "160127910",
+          "tid": "8e1f5ba4-12a8-11ef-8e25-01756be1d1c7",
+          "timestamp": "2024-05-15T10:47:42Z",
+          "description": "Terremoto en Japón",
           "description_source": "central",
           "coordinates": {
-            "lat": 19.79562,
-            "lon": -97.32578
+            "lat": 37.35333333,
+            "lon": 141.60333333
           },
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Xiutetelco",
-              "revisions": "https://es.wikipedia.org/wiki/Xiutetelco?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Xiutetelco?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Xiutetelco"
+              "page": "https://es.wikipedia.org/wiki/Terremoto_de_Fukushima_de_2016",
+              "revisions": "https://es.wikipedia.org/wiki/Terremoto_de_Fukushima_de_2016?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Terremoto_de_Fukushima_de_2016?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Terremoto_de_Fukushima_de_2016"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Xiutetelco",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Xiutetelco",
-              "edit": "https://es.wikipedia.org/wiki/Xiutetelco?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Xiutetelco"
+              "page": "https://es.wikipedia.org/wiki/Terremoto_de_Fukushima_de_2016",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Terremoto_de_Fukushima_de_2016",
+              "edit": "https://es.wikipedia.org/wiki/Terremoto_de_Fukushima_de_2016?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Terremoto_de_Fukushima_de_2016"
             }
           },
-          "extract": "San Juan Xiutetelco es una localidad del estado mexicano de Puebla. Es cabecera del municipio de Xiutetelco.Y es parte de la zona metropolitana de Teziutlán.",
-          "extract_html": "<p><b>San Juan Xiutetelco</b> es una localidad del estado mexicano de Puebla. Es cabecera del municipio de Xiutetelco.Y es parte de la zona metropolitana de Teziutlán.</p>",
-          "normalizedtitle": "Xiutetelco"
-        },
-        {
-          "type": "standard",
-          "title": "Puebla",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Puebla</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q79923",
-          "titles": {
-            "canonical": "Puebla",
-            "normalized": "Puebla",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Puebla</span></span>"
-          },
-          "pageid": 27090,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Mexico-Popocatepetl.jpg/330px-Mexico-Popocatepetl.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 219
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Mexico-Popocatepetl.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 3072,
-            "height": 2040
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176247357",
-          "tid": "aeec9d81-dd8f-11f1-a7d3-7d0257f31f8a",
-          "timestamp": "2026-11-11T05:21:01Z",
-          "description": "estado de México",
-          "description_source": "central",
-          "coordinates": {
-            "lat": 19.00361111,
-            "lon": -97.88833333
-          },
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Puebla",
-              "revisions": "https://es.wikipedia.org/wiki/Puebla?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Puebla?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Puebla"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Puebla",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Puebla",
-              "edit": "https://es.wikipedia.org/wiki/Puebla?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Puebla"
-            }
-          },
-          "extract": "Puebla, oficialmente el Estado Libre y Soberano de Puebla, es uno de los treinta y un estados que, junto con la Ciudad de México, conforman México; ubicado en el altiplano central de México, su capital y ciudad más poblada es Puebla de Zaragoza. Políticamente es un estado autónomo, democrático y laico, compuesto por 217 municipios, agrupados en 22 regiones.",
-          "extract_html": "<p><b>Puebla</b>, oficialmente el <b>Estado Libre y Soberano de Puebla</b>, es uno de los treinta y un estados que, junto con la Ciudad de México, conforman México; ubicado en el altiplano central de México, su capital y ciudad más poblada es Puebla de Zaragoza. Políticamente es un estado autónomo, democrático y laico, compuesto por 217 municipios, agrupados en 22 regiones.</p>",
-          "normalizedtitle": "Puebla"
-        },
-        {
-          "type": "standard",
-          "title": "México",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">México</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q96",
-          "titles": {
-            "canonical": "México",
-            "normalized": "México",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">México</span></span>"
-          },
-          "pageid": 1830,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/langes-330px-Flag_of_Mexico.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 189
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/langes-1280px-Flag_of_Mexico.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 980,
-            "height": 560
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176390856",
-          "tid": "a2eca1c0-e52a-11f1-84da-a2566f45c512",
-          "timestamp": "2026-11-20T21:37:51Z",
-          "description": "país de América del Norte",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/M%C3%A9xico",
-              "revisions": "https://es.wikipedia.org/wiki/M%C3%A9xico?action=history",
-              "edit": "https://es.wikipedia.org/wiki/M%C3%A9xico?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:M%C3%A9xico"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/M%C3%A9xico",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/M%C3%A9xico",
-              "edit": "https://es.wikipedia.org/wiki/M%C3%A9xico?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:M%C3%A9xico"
-            }
-          },
-          "extract": "México, oficialmente Estados Unidos Mexicanos, es un país soberano ubicado en la parte meridional de América del Norte; su capital y ciudad más poblada es la Ciudad de México. De acuerdo con la constitución vigente, su forma de gobierno consiste en una república representativa, democrática, laica y federal, compuesta por 32 entidades federativas.",
-          "extract_html": "<p><b>México</b>, oficialmente <b>Estados Unidos Mexicanos</b>, es un país soberano ubicado en la parte meridional de América del Norte; su capital y ciudad más poblada es la Ciudad de México. De acuerdo con la constitución vigente, su forma de gobierno consiste en una república representativa, democrática, laica y federal, compuesta por 32 entidades federativas.</p>",
-          "normalizedtitle": "México"
-        }
-      ],
-      "year": 2018
-    },
-    {
-      "text": "Robert Mugabe renuncia a la presidencia de Zimbabue, después de permanecer 37 años en el poder ininterrumpidamente.",
-      "pages": [
-        {
-          "type": "standard",
-          "title": "Robert_Mugabe",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Robert Mugabe</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q10707",
-          "titles": {
-            "canonical": "Robert_Mugabe",
-            "normalized": "Robert Mugabe",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Robert Mugabe</span></span>"
-          },
-          "pageid": 119521,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Robert_Mugabe_Official_Portrait.jpg/330px-Robert_Mugabe_Official_Portrait.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 456
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/5/55/Robert_Mugabe_Official_Portrait.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1891,
-            "height": 2611
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176118356",
-          "tid": "997dd1cf-d70a-11f1-a787-e9a251bf905f",
-          "timestamp": "2026-11-02T22:13:15Z",
-          "description": "dictador de Zimbabwe (1987-2017)",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Robert_Mugabe",
-              "revisions": "https://es.wikipedia.org/wiki/Robert_Mugabe?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Robert_Mugabe?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Robert_Mugabe"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Robert_Mugabe",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Robert_Mugabe",
-              "edit": "https://es.wikipedia.org/wiki/Robert_Mugabe?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Robert_Mugabe"
-            }
-          },
-          "extract": "Robert Gabriel Mugabe fue un militar y político zimbabuense que se desempeñó como primer ministro de Zimbabue de 1980 a 1987 y posteriormente como presidente de 1987 a 2017. Fue líder de la Unión Nacional Africana de Zimbabue (ZANU) de 1975 a 1980 y dirigió su partido político sucesor, el ZANU – Frente Patriótico (ZANU-PF), de 1980 a 2017. Ideológicamente nacionalista africano, durante las décadas de 1970 y 1980 se identificó como marxista-leninista, y como socialista durante las décadas de 1990 y el resto de su carrera.",
-          "extract_html": "<p><b>Robert Gabriel Mugabe</b> fue un militar y político zimbabuense que se desempeñó como primer ministro de Zimbabue de 1980 a 1987 y posteriormente como presidente de 1987 a 2017. Fue líder de la Unión Nacional Africana de Zimbabue (ZANU) de 1975 a 1980 y dirigió su partido político sucesor, el ZANU – Frente Patriótico (ZANU-PF), de 1980 a 2017. Ideológicamente nacionalista africano, durante las décadas de 1970 y 1980 se identificó como marxista-leninista, y como socialista durante las décadas de 1990 y el resto de su carrera.</p>",
-          "normalizedtitle": "Robert Mugabe"
-        },
-        {
-          "type": "standard",
-          "title": "Zimbabue",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Zimbabue</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q954",
-          "titles": {
-            "canonical": "Zimbabue",
-            "normalized": "Zimbabue",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Zimbabue</span></span>"
-          },
-          "pageid": 889179,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/langes-330px-Flag_of_Zimbabwe.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 165
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Flag_of_Zimbabwe.svg/langes-1280px-Flag_of_Zimbabwe.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 1200,
-            "height": 600
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176171054",
-          "tid": "c8e94480-d97f-11f1-b337-faa8ad76f81c",
-          "timestamp": "2026-11-06T01:17:08Z",
-          "description": "país de África Oriental",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Zimbabue",
-              "revisions": "https://es.wikipedia.org/wiki/Zimbabue?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Zimbabue?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Zimbabue"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Zimbabue",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Zimbabue",
-              "edit": "https://es.wikipedia.org/wiki/Zimbabue?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Zimbabue"
-            }
-          },
-          "extract": "Zimbabue, oficialmente República de Zimbabue ,\nes un país sin litoral situado en el sudeste de África, entre el río Zambeze, las cataratas Victoria y el río Limpopo. Limita al oeste con Botsuana, al norte con Zambia, al sur con Sudáfrica y al este con Mozambique.",
-          "extract_html": "<p><b>Zimbabue</b>, oficialmente <b>República de Zimbabue</b> ,\nes un país sin litoral situado en el sudeste de África, entre el río Zambeze, las cataratas Victoria y el río Limpopo. Limita al oeste con Botsuana, al norte con Zambia, al sur con Sudáfrica y al este con Mozambique.</p>",
-          "normalizedtitle": "Zimbabue"
-        }
-      ],
-      "year": 2017
-    },
-    {
-      "text": "en el norte de Japón se produce un terremoto de magnitud 7,3 en la escala de Richter.",
-      "pages": [
-        {
-          "type": "standard",
-          "title": "Japón",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Japón</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q17",
-          "titles": {
-            "canonical": "Japón",
-            "normalized": "Japón",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Japón</span></span>"
-          },
-          "pageid": 1575,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/langes-330px-Flag_of_Japan.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 220
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9e/Flag_of_Japan.svg/langes-960px-Flag_of_Japan.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 900,
-            "height": 600
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176284964",
-          "tid": "f0e92fb2-df99-11f1-8d3d-3aa0c22d427a",
-          "timestamp": "2026-11-13T19:39:29Z",
-          "description": "país insular de Asia Oriental",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Jap%C3%B3n",
-              "revisions": "https://es.wikipedia.org/wiki/Jap%C3%B3n?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Jap%C3%B3n?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Jap%C3%B3n"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Jap%C3%B3n",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Jap%C3%B3n",
-              "edit": "https://es.wikipedia.org/wiki/Jap%C3%B3n?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Jap%C3%B3n"
-            }
-          },
-          "extract": "Japón es un país insular en Asia Oriental ubicado en el noroeste del océano Pacífico. Limita con el mar del Japón al oeste y se extiende desde el mar de Ojotsk en el norte hasta el mar de la China Oriental y Taiwán en el sur. Su territorio comprende un archipiélago de 14 125 islas que cubren 377 978 km² sobre el denominado Anillo de Fuego del Pacífico. Las cinco islas principales del país, de norte a sur, son Hokkaidō, Honshū, Shikoku, Kyūshū y Okinawa.",
-          "extract_html": "<p><b>Japón</b> es un país insular en Asia Oriental ubicado en el noroeste del océano Pacífico. Limita con el mar del Japón al oeste y se extiende desde el mar de Ojotsk en el norte hasta el mar de la China Oriental y Taiwán en el sur. Su territorio comprende un archipiélago de 14 125 islas que cubren 377 978 km² sobre el denominado Anillo de Fuego del Pacífico. Las cinco islas principales del país, de norte a sur, son Hokkaidō, Honshū, Shikoku, Kyūshū y Okinawa.</p>",
-          "normalizedtitle": "Japón"
-        },
-        {
-          "type": "standard",
-          "title": "Escala_sismológica_de_Richter",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Escala sismológica de Richter</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q38768",
-          "titles": {
-            "canonical": "Escala_sismológica_de_Richter",
-            "normalized": "Escala sismológica de Richter",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Escala sismológica de Richter</span></span>"
-          },
-          "pageid": 21127,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Ondas_s%C3%ADsmicas_s_p.svg/langes-330px-Ondas_s%C3%ADsmicas_s_p.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 264
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Ondas_s%C3%ADsmicas_s_p.svg/langes-250px-Ondas_s%C3%ADsmicas_s_p.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 250,
-            "height": 200
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176166133",
-          "tid": "933162ea-d959-11f1-8d0f-a9b5e4060328",
-          "timestamp": "2026-11-05T20:43:37Z",
-          "description": "escala logarítmica arbitraria que asigna un número para cuantificar la energía que libera un terremoto",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter",
-              "revisions": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Escala_sismol%C3%B3gica_de_Richter"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Escala_sismol%C3%B3gica_de_Richter",
-              "edit": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Escala_sismol%C3%B3gica_de_Richter"
-            }
-          },
-          "extract": "La escala sismológica de Richter, también conocida como escala de magnitud local (ML), es una escala logarítmica que asigna un número para cuantificar la energía que libera un terremoto, denominada así en honor del sismólogo estadounidense Charles Francis Richter.",
-          "extract_html": "<p>La <b>escala sismológica de Richter</b>, también conocida como <b>escala de magnitud local</b> (<b><i>M</i><sub>L</sub></b>), es una escala logarítmica que asigna un número para cuantificar la energía que libera un terremoto, denominada así en honor del sismólogo estadounidense Charles Francis Richter.</p>",
-          "normalizedtitle": "Escala sismológica de Richter"
+          "extract": "El terremoto de Fukushima de 2016 del 22 de noviembre fue un terremoto de magnitud 6.9 Mw que creó olas de maremoto de hasta 1,4 metros. El terremoto ocurrió a las 5:59 JST del martes 22 de noviembre de 2016. El epicentro del terremoto se ubicó en el mar a una profundidad de 30 kilómetros según la AMJ, frente a la costa de Honshū, 37 km al este de Namie, en la prefectura de Fukushima (Japón). Se reportaron ocho réplicas de entre 4,4 y 5,4 de magnitud. El terremoto fue reportado inicialmente con 7,3 Mw de magnitud, el USGS lo rebajó más tarde a 6,9 Mw y la AMJ lo subió a 7,4 Mw.",
+          "extract_html": "<p>El <b>terremoto de Fukushima de 2016</b> del 22 de noviembre fue un terremoto de magnitud 6.9 <span>M<sub>w</sub></span> que creó olas de maremoto de hasta 1,4 metros. El terremoto ocurrió a las 5:59 <i>JST</i> del martes 22 de noviembre de 2016. El epicentro del terremoto se ubicó en el mar a una profundidad de 30 kilómetros según la AMJ, frente a la costa de Honshū, 37 km al este de Namie, en la prefectura de Fukushima (Japón). Se reportaron ocho réplicas de entre 4,4 y 5,4 de magnitud. El terremoto fue reportado inicialmente con 7,3 M<sub>w</sub> de magnitud, el USGS lo rebajó más tarde a 6,9 M<sub>w</sub> y la AMJ lo subió a 7,4 M<sub>w</sub>.</p>",
+          "normalizedtitle": "Terremoto de Fukushima de 2016"
         }
       ],
       "year": 2016
+    },
+    {
+      "text": "en Argentina se realiza por primera vez una segunda vuelta electoral para la presidencia, en la que Mauricio Macri resulta ganador con el 51,45 %, con una participación del 80,92 % del padrón electoral y un número altísimo de abstencionismo.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Segunda_vuelta_electoral",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Segunda vuelta electoral</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q615255",
+          "titles": {
+            "canonical": "Segunda_vuelta_electoral",
+            "normalized": "Segunda vuelta electoral",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Segunda vuelta electoral</span></span>"
+          },
+          "pageid": 347887,
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176260015",
+          "tid": "92a43d12-de37-11f1-b118-5a748c8bfda5",
+          "timestamp": "2026-11-12T01:22:49Z",
+          "description": "sistema de votación utilizado para elegir a un único ganador donde se utiliza una segunda ronda de votación si ningún candidato obtiene la mayoría absoluta en la primera ronda",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Segunda_vuelta_electoral",
+              "revisions": "https://es.wikipedia.org/wiki/Segunda_vuelta_electoral?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Segunda_vuelta_electoral?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Segunda_vuelta_electoral"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Segunda_vuelta_electoral",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Segunda_vuelta_electoral",
+              "edit": "https://es.wikipedia.org/wiki/Segunda_vuelta_electoral?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Segunda_vuelta_electoral"
+            }
+          },
+          "extract": "La segunda vuelta electoral o balotaje es un mecanismo presente en algunos sistemas electorales que consiste en realizar una segunda elección limitada a los candidatos que más votos obtuvieron en la primera elección —habitualmente los dos primeros—, en caso de que ningún candidato haya obtenido un mínimo de votos preestablecido. Entre las finalidades del mecanismo se encuentra la intención de dotar al candidato ganador de una mayor representatividad y legitimidad, así como dificultar el triunfo de ciertos candidatos o partidos políticos, promoviendo la regla de «unirse contra el mal mayor» y la noción de «voto útil».",
+          "extract_html": "<p>La <b>segunda vuelta electoral</b> o <b>balotaje</b> es un mecanismo presente en algunos sistemas electorales que consiste en realizar una segunda elección limitada a los candidatos que más votos obtuvieron en la primera elección —habitualmente los dos primeros—, en caso de que ningún candidato haya obtenido un mínimo de votos preestablecido. Entre las finalidades del mecanismo se encuentra la intención de dotar al candidato ganador de una mayor representatividad y legitimidad, así como dificultar el triunfo de ciertos candidatos o partidos políticos, promoviendo la regla de «unirse contra el mal mayor» y la noción de «voto útil».</p>",
+          "normalizedtitle": "Segunda vuelta electoral"
+        },
+        {
+          "type": "standard",
+          "title": "Mauricio_Macri",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mauricio Macri</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q561837",
+          "titles": {
+            "canonical": "Mauricio_Macri",
+            "normalized": "Mauricio Macri",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mauricio Macri</span></span>"
+          },
+          "pageid": 229299,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Retrato_oficial_del_Presidente_Mauricio_Macri.jpg/330px-Retrato_oficial_del_Presidente_Mauricio_Macri.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 440
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/4/44/Retrato_oficial_del_Presidente_Mauricio_Macri.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 720,
+            "height": 960
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176376758",
+          "tid": "627a214f-e46b-11f1-bd77-38caa26705b8",
+          "timestamp": "2026-11-19T22:48:49Z",
+          "description": "presidente de Argentina de 2015 a 2019",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Mauricio_Macri",
+              "revisions": "https://es.wikipedia.org/wiki/Mauricio_Macri?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Mauricio_Macri?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Mauricio_Macri"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Mauricio_Macri",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Mauricio_Macri",
+              "edit": "https://es.wikipedia.org/wiki/Mauricio_Macri?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Mauricio_Macri"
+            }
+          },
+          "extract": "Mauricio Macri es un político, ingeniero civil, empresario y dirigente deportivo argentino, que ejerció como presidente de la Nación Argentina entre 2015 y 2019, como jefe de Gobierno de la Ciudad de Buenos Aires entre 2007 y 2015, y como presidente del Club Atlético Boca Juniors entre 1995 y 2007. Desde 2020 se desempeña como presidente ejecutivo de la Fundación FIFA.",
+          "extract_html": "<p><b>Mauricio Macri</b> es un político, ingeniero civil, empresario y dirigente deportivo argentino, que ejerció como presidente de la Nación Argentina entre 2015 y 2019, como jefe de Gobierno de la Ciudad de Buenos Aires entre 2007 y 2015, y como presidente del Club Atlético Boca Juniors entre 1995 y 2007. Desde 2020 se desempeña como presidente ejecutivo de la Fundación FIFA.</p>",
+          "normalizedtitle": "Mauricio Macri"
+        }
+      ],
+      "year": 2015
     }
   ]
 }

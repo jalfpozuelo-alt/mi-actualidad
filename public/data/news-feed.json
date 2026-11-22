@@ -1,686 +1,726 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-21T13:53:22.448Z",
+  "generatedAt": "2026-11-22T13:47:28.844Z",
   "isEditoriallyValidated": false,
   "summaryStatus": "pending-editorial-review",
   "stories": [
     {
-      "id": "ria-ru-b17339f4f83c8985",
-      "title": "El viceprimer ministro Nikitin habló sobre el desarrollo del Polígono Oriental",
+      "id": "nyt-us-3af773db5cb2395b",
+      "title": "Un capitán de barco fluvial recuerda un accidente en el Misisipi",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-21T13:49:21.000Z",
-      "updatedAt": "2026-11-21T13:53:08.131Z",
-      "country": "Rusia",
-      "countryCode": "RU",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.87381611111111,
-      "source": {
-        "name": "RIA Novosti",
-        "url": "https://ria.ru/20261121/nikitin-2133145410.html"
-      },
-      "topicKey": "desarrollo|hablo|ministro|nikitin|oriental|poligono|viceprimer",
-      "image": "https://cdnn21.imgria.ru/images/07ea/06/02/2096185604_0:107:2970:1778_650x0_80_0_0_ff1ca0a469787b5ed0687f62f62f4ad0.jpg",
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "ria-ru-01d86fe7f5cd3ee0",
-      "title": "Grossi nombra al especialista ruso Ferapontov como subdirector del OIEA",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-21T13:46:19.000Z",
-      "updatedAt": "2026-11-21T13:53:08.926Z",
-      "country": "Rusia",
-      "countryCode": "RU",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.77226333333333,
-      "source": {
-        "name": "RIA Novosti",
-        "url": "https://ria.ru/20261121/magate-2133144664.html"
-      },
-      "topicKey": "especialista|ferapontov|grossi|nombra|oiea|ruso|subdirector",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "lanacion-ar-2a62662f3aa5bea6",
-      "title": "Explosión y muerte: fallecieron otras dos personas por el escape de gas en Remedios de Escalada y ya son cuatro las víctimas",
-      "summary": "Se trataría de dos operarios tercerizados que estaban trabajando en el lugar cuando se produjo la rotura del caño",
-      "publishedAt": "2026-11-21T13:44:59.000Z",
-      "updatedAt": "2026-11-21T13:52:53.688Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.73628444444445,
-      "source": {
-        "name": "La Nación",
-        "url": "https://www.lanacion.com.ar/sociedad/explosion-y-muerte-fallecieron-otras-dos-personas-por-el-escape-de-gas-en-remedios-de-escalada-y-ya-nid21112026/"
-      },
-      "topicKey": "escalada|escape|explosion|fallecieron|muerte|otras|personas|remedios",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "ria-ru-d0c8b47d28c39a1f",
-      "title": "Drozdenko habló sobre la situación a bordo del buque atacado en el golfo de Finlandia",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-21T13:44:54.000Z",
-      "updatedAt": "2026-11-21T13:53:10.400Z",
-      "country": "Rusia",
-      "countryCode": "RU",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.72422222222222,
-      "source": {
-        "name": "RIA Novosti",
-        "url": "https://ria.ru/20261121/drozdenko-2133144354.html"
-      },
-      "topicKey": "atacado|bordo|buque|drozdenko|finlandia|golfo|hablo|situacion",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "ria-ru-cd5f6b04d2826123",
-      "title": "Un buque de rescate se ha acercado al carguero atacado en el golfo de Finlandia",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-21T13:44:20.000Z",
-      "updatedAt": "2026-11-21T13:53:11.082Z",
-      "country": "Rusia",
-      "countryCode": "RU",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.70495444444444,
-      "source": {
-        "name": "RIA Novosti",
-        "url": "https://ria.ru/20261121/sudno-2133144270.html"
-      },
-      "topicKey": "acercado|atacado|buque|carguero|finlandia|golfo|rescate",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "lanacion-ar-38d367b326d019a0",
-      "title": "Chocaron dos autos y un colectivo en Panamericana en el comienzo del fin de semana largo: tres muertos",
-      "summary": "Ocurrió este sábado por la mañana; uno de los vehículos se incendió",
-      "publishedAt": "2026-11-21T13:32:24.000Z",
-      "updatedAt": "2026-11-21T13:52:53.688Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.31684,
-      "source": {
-        "name": "La Nación",
-        "url": "https://www.lanacion.com.ar/sociedad/chocaron-dos-autos-y-un-colectivo-en-panamericana-en-el-comienzo-del-fin-de-semana-largo-tres-nid21112026/"
-      },
-      "topicKey": "autos|chocaron|colectivo|comienzo|largo|panamericana|semana|tres",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "lanacion-ar-c220d6b3bfae74a7",
-      "title": "Transformaron una turbina eólica en una casa sustentable con cocina, baño y energía solar",
-      "summary": "Una empresa sueca reutilizó una estructura que durante casi dos décadas produjo electricidad en Austria y la convirtió en una pequeña vivienda equipada con todas las comodidades",
-      "publishedAt": "2026-11-21T13:32:00.000Z",
-      "updatedAt": "2026-11-21T13:52:53.688Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.30350666666666,
-      "source": {
-        "name": "La Nación",
-        "url": "https://www.lanacion.com.ar/lifestyle/transformaron-una-turbina-eolica-en-una-casa-sustentable-con-cocina-bano-y-energia-solar-nid21112026/"
-      },
-      "topicKey": "bano|casa|cocina|energia|eolica|sustentable|transformaron|turbina",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "lanacion-ar-1201e01fc1da3e9a",
-      "title": "Video: un hombre mató a tiros a un vecino en Santa Fe tras una discusión por el volumen de la música",
-      "summary": "Tal como se ve en el video grabado por un testigo, el agresor le disparó cuatro veces a la víctima, que murió en el lugar",
-      "publishedAt": "2026-11-21T13:31:18.000Z",
-      "updatedAt": "2026-11-21T13:52:53.688Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.28017333333334,
-      "source": {
-        "name": "La Nación",
-        "url": "https://www.lanacion.com.ar/seguridad/video-un-hombre-mato-a-tiros-a-un-vecino-en-santa-fe-tras-una-discusion-por-el-volumen-de-la-musica-nid21112026/"
-      },
-      "topicKey": "discusion|hombre|mato|santa|tiros|vecino|video|volumen",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "lanacion-ar-88b87ae97e0b4b59",
-      "title": "México capturó a uno de los narcos más buscados por el FBI y se desató caos en Sinaloa",
-      "summary": "Su detención, junto con otros dos cabecillas de su grupo criminal, provocó un violento enfrentamiento entre bandas criminales",
-      "publishedAt": "2026-11-21T13:21:16.000Z",
-      "updatedAt": "2026-11-21T13:52:53.688Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 110.9457288888889,
-      "source": {
-        "name": "La Nación",
-        "url": "https://www.lanacion.com.ar/el-mundo/mexico-capturo-a-uno-de-los-narcos-mas-buscados-por-el-fbi-y-se-desato-caos-en-sinaloa-nid21112026/"
-      },
-      "topicKey": "buscados|caos|capturo|desato|mexico|narcos|sinaloa",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "deutschlandfunk-de-7df904ec9ba981e3",
-      "title": "Presidente del Consejo - Costa propone un impuesto digital para las empresas tecnológicas con el fin de financiar el presupuesto de la UE",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-21T13:15:46.000Z",
-      "updatedAt": "2026-11-21T13:53:01.544Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 110.75803111111111,
-      "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/costa-schlaegt-digitalsteuer-fuer-tech-konzerne-zur-finanzierung-des-eu-haushalts-vor-100.html"
-      },
-      "topicKey": "consejo|costa|digital|empresas|impuesto|presidente|propone|tecnologicas",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "deutschlandfunk-de-1dbfd65a99c74ee2",
-      "title": "Guerra de Ucrania - Abraham, enviado de Polonia: La caída de objetos voladores rusos es una provocación de Rusia",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-21T13:15:46.000Z",
-      "updatedAt": "2026-11-21T13:53:02.225Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 110.75765277777778,
-      "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/polen-beauftragter-abraham-absturz-russischer-flugobjekte-ist-provokation-russlands-100.html"
-      },
-      "topicKey": "abraham|caida|enviado|guerra|objetos|polonia|ucrania|voladores",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "deutschlandfunk-de-b472d32ef257188d",
-      "title": "Guerra de Ucrania - Rusia: Drones atacan un buque en el golfo de Finlandia - Zelenski: El puente de Crimea no se mantendrá en pie",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-21T13:15:46.000Z",
-      "updatedAt": "2026-11-21T13:53:03.246Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 110.75708555555556,
-      "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/russland-drohnen-greifen-schiff-im-finnischen-meerbusen-an-selenskyj-krimbruecke-wird-nicht-stehen-b-100.html"
-      },
-      "topicKey": "atacan|buque|drones|finlandia|golfo|guerra|rusia|ucrania",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "deutschlandfunk-de-55c889dec44cf7e2",
-      "title": "Política regional: la AfD y el SPD eligen nuevos líderes en sus congresos regionales en Turingia",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-21T13:15:46.000Z",
-      "updatedAt": "2026-11-21T13:53:05.009Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 110.75610611111111,
-      "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/parteitage-von-afd-und-spd-in-thueringen-waehlen-fuehrung-neu-102.html"
-      },
-      "topicKey": "congresos|eligen|lideres|nuevos|politica|regional|regionales|turingia",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "deutschlandfunk-de-032e32aa8084b1d4",
-      "title": "Coste del combustible: Reiche quiere eximir a las gasolineras de autopista de la limitación de precios",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-21T13:15:46.000Z",
-      "updatedAt": "2026-11-21T13:53:05.739Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 110.75570055555555,
-      "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/reiche-will-autobahntankstellen-von-preisdeckel-ausnehmen-100.html"
-      },
-      "topicKey": "autopista|combustible|coste|eximir|gasolineras|limitacion|quiere|reiche",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "chinanews-cn-697d901a6f6b1cb5",
-      "title": "Li Qiang se reúne con el primer ministro de Singapur, Lawrence Wong",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-21T13:10:24.000Z",
-      "updatedAt": "2026-11-21T13:53:16.761Z",
-      "country": "China",
-      "countryCode": "CN",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 110.57068833333334,
-      "source": {
-        "name": "China News Service",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735896.shtml"
-      },
-      "topicKey": "lawrence|ministro|primer|qiang|reune|singapur|wong",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "chinanews-cn-4a93872b5ca5306c",
-      "title": "«No es por la cumbre de APEC, siempre ha sido bonito»: ¿Por qué se ha hecho viral esta frase?",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-21T13:05:05.000Z",
-      "updatedAt": "2026-11-21T13:53:17.671Z",
-      "country": "China",
-      "countryCode": "CN",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 110.39296055555556,
-      "source": {
-        "name": "China News Service",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735910.shtml"
-      },
-      "topicKey": "apec|bonito|cumbre|frase|hecho|sido|siempre|viral",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "chinanews-cn-ed8ab9902fbfe4a3",
-      "title": "Un vínculo genuino con China: entrevista con Le Clézio, ganador del Premio Orquídea",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-21T13:02:25.000Z",
-      "updatedAt": "2026-11-21T13:53:18.923Z",
-      "country": "China",
-      "countryCode": "CN",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 110.3033761111111,
-      "source": {
-        "name": "China News Service",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735908.shtml"
-      },
-      "topicKey": "china|clezio|entrevista|ganador|genuino|orquidea|premio|vinculo",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "chinanews-cn-983cac615be04dc7",
-      "title": "La visión de los periodistas extranjeros sobre Shenzhen: una «ciudad APEC» que hace honor a su nombre",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-21T12:59:23.000Z",
-      "updatedAt": "2026-11-21T13:53:19.687Z",
-      "country": "China",
-      "countryCode": "CN",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 110.20184055555555,
-      "source": {
-        "name": "China News Service",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735905.shtml"
-      },
-      "topicKey": "apec|ciudad|extranjeros|hace|honor|periodistas|shenzhen|vision",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "chinanews-cn-e78d2a98f2c64dce",
-      "title": "¿Qué logros se han alcanzado durante el «Año de China» en el marco de APEC?",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-21T12:51:29.000Z",
-      "updatedAt": "2026-11-21T13:53:20.366Z",
-      "country": "China",
-      "countryCode": "CN",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 109.93813,
-      "source": {
-        "name": "China News Service",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-21/10735894.shtml"
-      },
-      "topicKey": "alcanzado|apec|china|durante|logros|marco",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "nyt-us-1c57349e02028093",
-      "title": "Sarah McBride, a quien se le prohibió acceder a los baños del Capitolio, consigue un puesto de alto rango",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-21T10:02:28.000Z",
-      "updatedAt": "2026-11-21T13:52:54.800Z",
+      "publishedAt": "2026-11-22T13:03:09.000Z",
+      "updatedAt": "2026-11-22T13:46:57.991Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 108.31844444444444,
+      "importance": 114.53944944444444,
       "source": {
         "name": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/21/us/politics/sarah-mcbride-barred-from-capitol-bathrooms-wins-top-post.html"
+        "url": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-captain.html"
       },
-      "topicKey": "acceder|banos|capitolio|consigue|mcbride|prohibio|quien|sarah",
+      "topicKey": "accidente|barco|capitan|fluvial|misisipi|recuerda",
       "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "nyt-us-0b7c0617bccbbe2e",
-      "title": "Un parque de Chicago está infestado de ratas. ¿Es culpa de una pareja adinerada?",
+      "id": "nyt-us-13d0956c05dc92ec",
+      "title": "Cómo un choque contra un crucero en Nueva Orleans se convirtió en el «Milagro del Misisipi»",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-21T10:01:59.000Z",
-      "updatedAt": "2026-11-21T13:52:55.418Z",
+      "publishedAt": "2026-11-22T13:02:42.000Z",
+      "updatedAt": "2026-11-22T13:47:00.357Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 108.30199,
+      "importance": 114.523135,
       "source": {
         "name": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/21/us/chicago-lincoln-park-rats.html"
+        "url": "https://www.nytimes.com/2026/11/22/us/new-orleans-riverboat-crash-tanker-tick-tock.html"
       },
-      "topicKey": "adinerada|chicago|culpa|infestado|pareja|parque|ratas",
+      "topicKey": "choque|contra|convirtio|crucero|milagro|misisipi|nueva|orleans",
       "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "nyt-us-458542d24569bcd4",
-      "title": "Unos abuelos de California acusados de matar a Jonathan McKinsey, su yerno",
+      "id": "nyt-us-3e4850050840ac42",
+      "title": "Los republicanos debaten por qué perdieron las elecciones de mitad de mandato y si la culpa es de Trump",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-21T10:01:06.000Z",
-      "updatedAt": "2026-11-21T13:52:56.029Z",
+      "publishedAt": "2026-11-22T12:30:24.000Z",
+      "updatedAt": "2026-11-22T13:47:01.089Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 108.27220611111112,
+      "importance": 113.44606166666667,
       "source": {
         "name": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/21/us/jonathan-mckinsey-shooting-in-laws.html"
+        "url": "https://www.nytimes.com/2026/11/22/us/politics/republican-midterm-loss-debate-trump.html"
       },
-      "topicKey": "abuelos|acusados|california|jonathan|matar|mckinsey|yerno",
+      "topicKey": "culpa|debaten|elecciones|mandato|mitad|perdieron|republicanos|trump",
       "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "nyt-us-5a1aea9d0bb362a0",
-      "title": "La matriculación de estudiantes internacionales se desplomó. Los centros educativos se preparan para sufrir más pérdidas.",
+      "id": "nyt-us-3dfa14d555d1f73c",
+      "title": "¿Qué es legal según la nueva ley antidiversidad, equidad e inclusión de Florida? Nadie lo sabe.",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-21T10:00:31.000Z",
-      "updatedAt": "2026-11-21T13:52:56.699Z",
+      "publishedAt": "2026-11-22T12:24:11.000Z",
+      "updatedAt": "2026-11-22T13:46:57.262Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 108.25238944444445,
+      "importance": 113.24096555555556,
       "source": {
         "name": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/21/us/politics/international-student-enrollment-plunged.html"
+        "url": "https://www.nytimes.com/2026/11/22/us/florida-anti-dei-law-consequences.html"
       },
-      "topicKey": "centros|desplomo|educativos|estudiantes|internacionales|matriculacion|preparan|sufrir",
+      "topicKey": "antidiversidad|equidad|florida|inclusion|legal|nadie|nueva|segun",
       "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "xataka-51667f5b2d0d3f0a",
-      "title": "Escribir un libro con IA es más fácil que nunca. Por eso las editoriales están tomando medidas antes de publicar",
-      "summary": "¿Quién nos asegura que un libro está escrito por una persona? El debate sobre autoría ha dado un vuelco en los últimos años, o por lo menos convive con una incertidumbre más. Si antes la duda giraba en torno a si quien firmaba un libro era realmente su escritor o si había otra persona en la sombra, ahora vamos un paso más allá. No sabemos ni siquiera si quien lo ha escrito es humano. El uso de la IA en la literatura ya no solo preocupa en el ámbito educativo, donde su uso indiscriminado para el resumen de textos o realizar trabajos ha generado una continua y gran controversia. Ahora las editor",
-      "publishedAt": "2026-11-21T12:20:24.000Z",
-      "updatedAt": "2026-11-21T13:52:47.883Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 106.920065,
-      "source": {
-        "name": "Xataka",
-        "url": "https://www.xataka.com/literatura-comics-y-juegos/escribir-libro-ia-facil-que-nunca-eso-editoriales-estan-tomando-medidas-antes-publicar"
-      },
-      "topicKey": "editoriales|escribir|estan|facil|libro|medidas|nunca|tomando",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "elmundo-es-a3114dd562d309e9",
-      "title": "Yolanda Díaz entra en la campaña del Frente Amplio: \"El PSOE se equivoca si cree que el 29-N va de quedar primero y que gobiernen PP y Vox\"",
-      "summary": "La vicepresidenta segunda del Gobierno y Ada Colau reprochan \"la resignación\" de Pedro Sánchez en el debate cara a cara con Alberto Núñez Feijóo Leer",
-      "publishedAt": "2026-11-21T13:31:55.000Z",
-      "updatedAt": "2026-11-21T13:52:48.248Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "España",
-      "category": "España",
-      "importance": 106.30375111111111,
-      "source": {
-        "name": "EL MUNDO",
-        "url": "https://www.elmundo.es/cataluna/2026/11/21/6b015da4e4d4d8bb7e8b4591.html"
-      },
-      "topicKey": "amplio|campana|diaz|entra|equivoca|frente|psoe|yolanda",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "20min-es-a14fff0f661f64d2",
-      "title": "Colau acusa a Sánchez de \"resignarse\" ante un posible gobierno de PP y Vox tras las elecciones del 29-N",
-      "summary": "La candidata del Frente Amplio no ve \"aceptable\" que \"un partido que quiera liderar un gobierno progresista en este país baje los brazos\".",
-      "publishedAt": "2026-11-21T13:30:21.000Z",
-      "updatedAt": "2026-11-21T13:53:05.937Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "España",
-      "category": "España",
-      "importance": 106.24170166666667,
-      "source": {
-        "name": "20minutos",
-        "url": "https://www.20minutos.es/nacional/colau-acusa-sanchez-resignarse-ante-un-posible-gobierno-pp-vox-tras-las-elecciones-29-n_7064054_0.html"
-      },
-      "topicKey": "acusa|ante|colau|elecciones|gobierno|posible|resignarse|sanchez",
-      "image": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/11/21/6b0197d8854751-12698651.r_d.1036-321-0.jpeg",
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "lemonde-fr-d601e03839250b4c",
-      "title": "Elecciones presidenciales francesas de 2027: consulta lo que dicen las encuestas con nuestro agregador",
+      "id": "ria-ru-66c176ee5ef6c66c",
+      "title": "En San Petersburgo, dos adolescentes fueron detenidos bajo sospecha de haber golpeado a un conductor",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-21T11:00:09.000Z",
-      "updatedAt": "2026-11-21T13:53:00.077Z",
+      "publishedAt": "2026-11-22T13:41:36.000Z",
+      "updatedAt": "2026-11-22T13:47:17.790Z",
+      "country": "Rusia",
+      "countryCode": "RU",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 111.81011666666667,
+      "source": {
+        "name": "RIA Novosti",
+        "url": "https://ria.ru/20261122/peterburg-2133264898.html"
+      },
+      "topicKey": "adolescentes|bajo|detenidos|fueron|golpeado|haber|petersburgo|sospecha",
+      "image": "https://cdnn21.imgria.ru/images/07e9/05/17/2018690913_0:137:2470:1526_650x0_80_0_0_ad93e3f59172faac05203350239e3d92.jpg",
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "ria-ru-db8bc36be61aea37",
+      "title": "Los medios de comunicación han informado sobre un riesgo crítico para la UE en 2027",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-22T13:33:13.000Z",
+      "updatedAt": "2026-11-22T13:47:20.137Z",
+      "country": "Rusia",
+      "countryCode": "RU",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 111.52936833333334,
+      "source": {
+        "name": "RIA Novosti",
+        "url": "https://ria.ru/20261122/evropa-2133264084.html"
+      },
+      "topicKey": "2027|comunicacion|critico|informado|medios|riesgo",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "deutschlandfunk-de-1c79e2c56ab128e2",
+      "title": "Antalya - Conferencia sobre el clima: no hay declaración final conjunta, la UE se niega a dar su aprobación",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-22T13:31:19.000Z",
+      "updatedAt": "2026-11-22T13:47:10.295Z",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 111.47150277777777,
+      "source": {
+        "name": "Deutschlandfunk",
+        "url": "https://www.deutschlandfunk.de/klimakonferenz-keine-gemeinsame-abschlusserklaerung-eu-verweigert-zustimmung-100.html"
+      },
+      "topicKey": "antalya|aprobacion|clima|conferencia|conjunta|declaracion|final|niega",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "deutschlandfunk-de-e6dad8a174698df8",
+      "title": "«Ideología nazi»: tras el artículo del FAZ sobre Tillschneider, Prien ejerce presión para prohibir la AfD",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-22T13:31:19.000Z",
+      "updatedAt": "2026-11-22T13:47:11.304Z",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 111.47094222222222,
+      "source": {
+        "name": "Deutschlandfunk",
+        "url": "https://www.deutschlandfunk.de/nach-faz-beitrag-zu-tillschneider-prien-macht-druck-fuer-afd-verbot-100.html"
+      },
+      "topicKey": "articulo|ejerce|ideologia|nazi|presion|prien|prohibir|tillschneider",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "deutschlandfunk-de-f80461eee4e90d16",
+      "title": "Proyecto de ley - Ministra de Justicia Hubig: Los feminicidios deben considerarse claramente como asesinatos",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-22T13:31:19.000Z",
+      "updatedAt": "2026-11-22T13:47:12.254Z",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 111.47041444444444,
+      "source": {
+        "name": "Deutschlandfunk",
+        "url": "https://www.deutschlandfunk.de/justizministerin-hubig-femizide-sollen-eindeutig-als-mord-gelten-100.html"
+      },
+      "topicKey": "claramente|considerarse|deben|feminicidios|hubig|justicia|ministra|proyecto",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "deutschlandfunk-de-2b700f783656b13a",
+      "title": "Costa de Marfil, Ghana, Kenia: entre «call centers» y «Más allá de África», Steinmeier inicia su último gran viaje",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-22T13:31:19.000Z",
+      "updatedAt": "2026-11-22T13:47:13.264Z",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 111.46985333333333,
+      "source": {
+        "name": "Deutschlandfunk",
+        "url": "https://www.deutschlandfunk.de/zwischen-callcentern-und-jenseits-von-afrika-steinmeier-beginnt-eine-letzte-groessere-reise-102.html"
+      },
+      "topicKey": "africa|alla|call|centers|costa|ghana|kenia|marfil",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "deutschlandfunk-de-247afdb2e5317fce",
+      "title": "Religión - Los cristianos evangélicos celebran el Domingo de los Difuntos o Domingo de la Eternidad",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-22T13:31:19.000Z",
+      "updatedAt": "2026-11-22T13:47:14.210Z",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 111.46932777777778,
+      "source": {
+        "name": "Deutschlandfunk",
+        "url": "https://www.deutschlandfunk.de/evangelische-christen-begehen-ewigkeits-oder-totensonntag-102.html"
+      },
+      "topicKey": "celebran|cristianos|difuntos|domingo|domingo|eternidad|evangelicos|religion",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "ria-ru-8a855b5f6e01adb1",
+      "title": "Se ha producido una explosión en la región de Járkov",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-22T13:28:56.000Z",
+      "updatedAt": "2026-11-22T13:47:20.865Z",
+      "country": "Rusia",
+      "countryCode": "RU",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 111.38618611111112,
+      "source": {
+        "name": "RIA Novosti",
+        "url": "https://ria.ru/20261122/vzryv-2133263747.html"
+      },
+      "topicKey": "explosion|jarkov|producido|region",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "ria-ru-0090d753305c0672",
+      "title": "En Tomsk, una niña de cuatro años fue hospitalizada tras un incidente en un circo",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-22T13:28:06.000Z",
+      "updatedAt": "2026-11-22T13:47:21.658Z",
+      "country": "Rusia",
+      "countryCode": "RU",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 111.35796777777777,
+      "source": {
+        "name": "RIA Novosti",
+        "url": "https://ria.ru/20261122/tomsk-2133263416.html"
+      },
+      "topicKey": "anos|circo|cuatro|hospitalizada|incidente|nina|tomsk",
+      "image": "https://cdnn21.imgria.ru/images/07ea/0a/06/2122500908_0:132:3148:1903_650x0_80_0_0_b9c73fa01af786a8153c5682a9adb533.jpg",
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "lanacion-ar-ef538e53905a981b",
+      "title": "La frase de Chechu Bonelli que generó intriga sobre su situación sentimental: “Alguien llegó a mi vida”",
+      "summary": "La periodista deportiva y modelo bromeó acerca de si está o no en pareja y evitó referirse a Facundo Pieres, con quien se la vinculó en las últimas semanas",
+      "publishedAt": "2026-11-22T13:13:36.000Z",
+      "updatedAt": "2026-11-22T13:46:51.181Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 110.89156611111112,
+      "source": {
+        "name": "La Nación",
+        "url": "https://www.lanacion.com.ar/espectaculos/la-frase-de-chechu-bonelli-que-genero-intriga-sobre-su-situacion-sentimental-alguien-llego-a-mi-vida-nid22112026/"
+      },
+      "topicKey": "alguien|bonelli|chechu|frase|genero|intriga|sentimental|situacion",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "lanacion-ar-2745d6eabe49fb6e",
+      "title": "Santa Cecilia: cuál es su historia y qué oración rezar para pedir su ayuda",
+      "summary": "Es una mártir del catolicismo, que es también venerada como patrona de la música y los músicos",
+      "publishedAt": "2026-11-22T13:13:30.000Z",
+      "updatedAt": "2026-11-22T13:46:51.181Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 110.88823277777777,
+      "source": {
+        "name": "La Nación",
+        "url": "https://www.lanacion.com.ar/sociedad/santa-cecilia-cual-es-su-historia-y-que-oracion-rezar-para-pedir-su-ayuda-nid22112026/"
+      },
+      "topicKey": "ayuda|cecilia|cual|historia|oracion|pedir|rezar|santa",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "lanacion-ar-bb53a521bc66be57",
+      "title": "Una vivencia difícil de encasillar dentro de lo conocido: el poder de sentir la vibración de los cuencos tibetanos y de cuarzo en el cuerpo",
+      "summary": "Cuando el cuenco vibra apoyado sobre uno mismo, el sonido deja de entrar únicamente por los oídos para convertirse en una sensación física, palpable, que recorre los tejidos por dentro",
+      "publishedAt": "2026-11-22T13:07:51.000Z",
+      "updatedAt": "2026-11-22T13:46:51.181Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 110.69989944444444,
+      "source": {
+        "name": "La Nación",
+        "url": "https://www.lanacion.com.ar/salud/una-vivencia-dificil-de-encasillar-dentro-de-lo-conocido-el-poder-de-sentir-la-vibracion-de-los-nid23112026/"
+      },
+      "topicKey": "conocido|dentro|dificil|encasillar|poder|sentir|vibracion|vivencia",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "lanacion-ar-594abf5103baf61d",
+      "title": "Agentes del ICE detuvieron violentamente a dos mexicanos en una manga de embarque del aeropuerto de Seattle",
+      "summary": "Un video del incidente mostraba a agentes arrastrando por lo menos a una persona en el Aeropuerto Internacional Seattle-Tacoma mientras una mujer grita que se estaban llevando a su hija y que ella tiene un permiso de trabajo",
+      "publishedAt": "2026-11-22T13:06:16.000Z",
+      "updatedAt": "2026-11-22T13:46:51.181Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 110.64712166666666,
+      "source": {
+        "name": "La Nación",
+        "url": "https://www.lanacion.com.ar/el-mundo/agentes-del-ice-detuvieron-violentamente-a-dos-mexicanos-en-una-sala-de-embarque-del-aeropuerto-de-nid22112026/"
+      },
+      "topicKey": "aeropuerto|agentes|detuvieron|embarque|manga|mexicanos|seattle|violentamente",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "lanacion-ar-0336ebe768b3a2f5",
+      "title": "Los expertos en psicología coinciden: hablarle a las mascotas como a personas revela una lectura fina del mundo que nos rodea",
+      "summary": "Esta costumbre cotidiana fortalece el vínculo afectivo entre seres humanos y animales e impacta de manera directa y decisiva en el bienestar emocional de ambos",
+      "publishedAt": "2026-11-22T13:04:49.000Z",
+      "updatedAt": "2026-11-22T13:46:51.181Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 110.59878833333333,
+      "source": {
+        "name": "La Nación",
+        "url": "https://www.lanacion.com.ar/lifestyle/los-expertos-en-psicologia-coinciden-hablarle-a-las-mascotas-como-a-personas-revela-una-lectura-fina-nid21112026/"
+      },
+      "topicKey": "coinciden|expertos|hablarle|lectura|mascotas|personas|psicologia|revela",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "chinanews-cn-496e71a9d2d09dd6",
+      "title": "Zhao Yunshan, exsecretario del Comité del Partido de la Universidad de Medicina de Mongolia Interior, es expulsado del Partido y de su cargo público",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-22T12:46:17.000Z",
+      "updatedAt": "2026-11-22T13:47:24.912Z",
+      "country": "China",
+      "countryCode": "CN",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 109.96227111111111,
+      "source": {
+        "name": "China News Service",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736192.shtml"
+      },
+      "topicKey": "comite|exsecretario|medicina|mongolia|partido|universidad|yunshan|zhao",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "chinanews-cn-9b3ef16f7d5753a4",
+      "title": "¿A dónde fueron desde Shenzhen?",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-22T12:39:20.000Z",
+      "updatedAt": "2026-11-22T13:47:25.788Z",
+      "country": "China",
+      "countryCode": "CN",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 109.73011777777778,
+      "source": {
+        "name": "China News Service",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736188.shtml"
+      },
+      "topicKey": "donde|fueron|shenzhen",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "chinanews-cn-7ce35e712a084f49",
+      "title": "Yin Hong es elegido secretario del Comité Provincial del Partido Comunista de China en Jiangxi",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-22T12:22:43.000Z",
+      "updatedAt": "2026-11-22T13:47:26.650Z",
+      "country": "China",
+      "countryCode": "CN",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 109.17575,
+      "source": {
+        "name": "China News Service",
+        "url": "https://www.chinanews.com.cn/gn/2026/11-22/10736179.shtml"
+      },
+      "topicKey": "china|comite|comunista|elegido|hong|partido|provincial|secretario",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "franceinfo-7b6cb3e07cf57651",
+      "title": "Désiré Doué souffre d'une rupture du ligament croisé antérieur du genou droit et devra être opéré \"d'ici la fin du mois\"",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-22T12:14:52.000Z",
+      "updatedAt": "2026-11-22T13:47:02.588Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 106.23829055555555,
-      "source": {
-        "name": "Le Monde",
-        "url": "https://www.lemonde.fr/en/les-decodeurs/article/2026/11/21/2027-french-presidential-election-see-what-the-polls-say-with-our-aggregator_6786034_8.html"
-      },
-      "topicKey": "2027|consulta|dicen|elecciones|encuestas|francesas|nuestro|presidenciales",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "20min-es-6d65a7bf60a4f032",
-      "title": "Feijóo logra 'reventar' la plaza de toros de Valencia con 12.000 asistentes y pide no confiarse: \"Heridos son más peligrosos\"",
-      "summary": "\"No os fiéis de las encuestas. Los conocemos, son capaces de todo\", advirtió el líder de los populares, que dice que a partir de este lunes \"empieza lo importante\" de la campaña.",
-      "publishedAt": "2026-11-21T13:29:26.000Z",
-      "updatedAt": "2026-11-21T13:53:05.937Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "España",
-      "category": "España",
-      "importance": 106.2111461111111,
-      "source": {
-        "name": "20minutos",
-        "url": "https://www.20minutos.es/nacional/feijoo-logra-reventar-plaza-toros-valencia-asistentes-pide-pp-no-confiarse-heridos-son-mas-peligrosos_7064043_0.html"
-      },
-      "topicKey": "asistentes|feijoo|logra|pide|plaza|reventar|toros|valencia",
-      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/21/6b0190e3170d66-74179768.jpeg",
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "elmundo-es-a8cf803bd2bdf9ce",
-      "title": "Aznar y Ayuso responden a Sánchez: \"El que pueda votar que vote, sí... Pero para echarle\"",
-      "summary": "\"Estamos en un momento vital. Si no cambiamos las cosas el domingo que viene, España se va a suicidar como nación\", fija la presidenta madrileña Leer",
-      "publishedAt": "2026-11-21T12:59:21.000Z",
-      "updatedAt": "2026-11-21T13:52:48.248Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "España",
-      "category": "España",
-      "importance": 105.21819555555555,
-      "source": {
-        "name": "EL MUNDO",
-        "url": "https://www.elmundo.es/madrid/2026/11/21/6b0186a3e4d4d8030c8b45d3.html"
-      },
-      "topicKey": "ayuso|aznar|pero|pueda|responden|sanchez|votar|vote",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "20min-es-775761fecef9747f",
-      "title": "Díaz entra en campaña con un aviso a Sánchez: \"Las elecciones no van de ser el primero, sino de sumar\"",
-      "summary": "La vicepresidenta segunda del Gobierno también le ha recriminado a Sánchez que en el cara a cara \"tenía que haber salido alguien a pararle los pies\" a Feijóo cuando mentía.",
-      "publishedAt": "2026-11-21T12:56:15.000Z",
-      "updatedAt": "2026-11-21T13:53:05.937Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "España",
-      "category": "España",
-      "importance": 105.105035,
-      "source": {
-        "name": "20minutos",
-        "url": "https://www.20minutos.es/nacional/yolanda-diaz-entra-campana-con-un-aviso-pedro-sanchez-las-elecciones-no-van-ser-primero-sino-sumar-para-gobernar_7064046_0.html"
-      },
-      "topicKey": "aviso|campana|diaz|elecciones|entra|primero|sanchez|sino",
-      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/21/6b019090956c62-58024932.jpeg",
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "xataka-b03bdd88f99abf39",
-      "title": "Sin cabeza y con 500 millones más: el robot de Genesis AI con el que Europa quiere dar un puñetazo en la robótica",
-      "summary": "No es la primera vez que hablamos de Genesis AI, la startup de robótica creada en 2024 por Zhou Xian y Théophile Gervet, pero el pasado martes 17 de noviembre dio un paso de gigante cerrando una ronda de financiación de 500 millones de dólares con la que desde ya, su empresa vale 3.500 millones. Que una startup consiga dinero no es noticia, que haya una empresa europea, tampoco (aunque seamos sinceras, es rara avis y es a medias), lo verdaderamente llamativo es su planteamiento: cuando todo el sector apuesta por lo humanoide, aparece un robot sin silueta humana, ni piernas ni cabeza. Se lo jue",
-      "publishedAt": "2026-11-21T11:00:25.000Z",
-      "updatedAt": "2026-11-21T13:52:47.883Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 104.25395388888889,
-      "source": {
-        "name": "Xataka",
-        "url": "https://www.xataka.com/robotica-e-ia/cabeza-500-millones-robot-genesis-ai-que-europa-quiere-dar-punetazo-robotica"
-      },
-      "topicKey": "cabeza|europa|genesis|millones|punetazo|quiere|robot|robotica",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "npr-us-82ffb684477a84ac",
-      "title": "Anthropic afirma que antepondrá a la humanidad. ¿Cambiará eso su salida a bolsa?",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-21T10:00:00.000Z",
-      "updatedAt": "2026-11-21T13:52:47.064Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 102.24052,
-      "source": {
-        "name": "NPR",
-        "url": "https://www.npr.org/2026/11/21/nx-s1-6048678/anthropic-ipo-mission-ai-safety"
-      },
-      "topicKey": "afirma|antepondra|anthropic|bolsa|cambiara|humanidad|salida",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "genbeta-d92e5db3d1f1d98b",
-      "title": "En Japón, un hombre se encuentra con un Toshiba Libretto 50 con Windows 95 que era un ordenador portátil de lujo a su salida en 1997",
-      "summary": "En una tienda de electrónica de segunda mano de Akihabara (uno de los barrios más conocidos de Tokio) un hombre encontró un Toshiba Libretto 50, un clásico con Windows 95 instalado que estaba a la venta por unos 140 euros. Lo curioso es que este pequeño portátil no era precisamente barato cuando llegó al mercado en 1997, ya que su versión más cara costaba 248.000 yenes o lo que es lo mismo: 1.730 euros. Según recoge Les Numériques, aunque el PC fue localizado en septiembre de 2026, su historia comenzó el 7 de enero de 1997 cuando Toshiba lo presentó en Japón. Por aquel entonces, los portátiles",
-      "publishedAt": "2026-11-21T08:00:26.000Z",
-      "updatedAt": "2026-11-21T13:53:21.989Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 98.23556166666667,
-      "source": {
-        "name": "Genbeta",
-        "url": "https://www.genbeta.com/windows/japon-hombre-se-encuentra-toshiba-libretto-50-windows-95-que-era-ordenador-portatil-lujo-a-su-salida-1997-1"
-      },
-      "topicKey": "encuentra|hombre|japon|libretto|ordenador|portatil|toshiba|windows",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "franceinfo-106bb388f65cf696",
-      "title": "Black Week, Cyber Monday, Black Month… ¿Por qué los comerciantes ya no esperan al Black Friday para bajar los precios?",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-21T06:17:38.000Z",
-      "updatedAt": "2026-11-21T13:52:58.621Z",
-      "country": "Francia",
-      "countryCode": "FR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 96.82187722222223,
+      "importance": 108.92745111111111,
       "source": {
         "name": "Franceinfo",
-        "url": "https://www.franceinfo.fr/economie/black-week-cyber-monday-black-month-pourquoi-les-commercants-n-attendent-ils-plus-le-black-friday-pour-casser-les-prix_8284550.html#xtor=RSS-3-[lestitres]"
+        "url": "https://www.franceinfo.fr/sports/foot/psg/desire-doue-souffre-d-une-rupture-du-ligament-croise-anterieur-du-genou-droit-et-devra-etre-opere-d-ici-la-fin-du-mois_8294843.html#xtor=RSS-3-[lestitres]"
       },
-      "topicKey": "black|black|comerciantes|cyber|esperan|monday|month|week",
-      "image": "https://www.franceinfo.fr/pictures/ENZybprQDeU-FnZK9xX7hXBSh7s/0x25:1024x601/432x243/filters:format(jpg)/2026/11/16/6afacea77e59f790738942.jpg",
+      "topicKey": "anterieur|croise|desire|doue|genou|ligament|rupture|souffre",
+      "image": "https://www.franceinfo.fr/pictures/pEzDMalwJuy-M-Ve0V3ZZLx7PSE/0x0:4801x2700/432x243/filters:format(jpg)/2026/11/22/6b02daa356424539370190.jpg",
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "nyt-us-b6df141d7093d78d",
+      "title": "Verificación de datos sobre Stephen Miller, el nuevo jefe de gabinete de la Casa Blanca",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-22T10:02:17.000Z",
+      "updatedAt": "2026-11-22T13:46:58.739Z",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 108.510145,
+      "source": {
+        "name": "The New York Times",
+        "url": "https://www.nytimes.com/2026/11/22/us/politics/stephen-miller-fact-check.html"
+      },
+      "topicKey": "casa|datos|gabinete|jefe|miller|nuevo|stephen|verificacion",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "xataka-b836d6d9e102f9d3",
+      "title": "Google ha convertido Gemini en una tabla periódica. El problema es que ahora hay dos modelos de programación y ninguna pista de cuál elegir",
+      "summary": "Seguirle la pista a los modelos de IA, sus diferentes versiones y las compañías que están detrás es prácticamente imposible. Salimos a LLM casi semanal. No solo eso, después viene Google y renueva por completo su catálogo con incorporaciones que no se esperaban: cuatro modelos Gemini 4 en siete semanas. Porque ¿para qué necesita Gemini 4 tener cuatro ramas diferentes? La elección de Google. OpenAI optó por nombres de astros (Sol, Terra, Luna y Astra) para sus modelos de IA, Anthropic por formas literarias (Haiku, Sonnet, Fable…). Mientras empresas como xAI o DeepSeek mantienen las versiones co",
+      "publishedAt": "2026-11-22T13:00:29.000Z",
+      "updatedAt": "2026-11-22T13:46:42.637Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "Tecnología",
+      "category": "Tecnología",
+      "importance": 108.45909055555556,
+      "source": {
+        "name": "Xataka",
+        "url": "https://www.xataka.com/robotica-e-ia/google-ha-convertido-gemini-tabla-periodica-problema-que-ahora-hay-dos-modelos-programacion-ninguna-pista-cual-elegir"
+      },
+      "topicKey": "ahora|convertido|gemini|google|modelos|periodica|problema|tabla",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "xataka-1a3d3651c9149e6e",
+      "title": "¿Es GTA VI el último juego a gran escala desarrollado sin usar IA?",
+      "summary": "GTA VI, el nuevo mastodóntico título de Rockstar Games, ya está disponible para PS5 y Xbox Series X|S en tiendas, y llega para convertirse en la producción más cara y ambiciosa que la industria haya visto jamás. También aterriza en un momento muy particular, pues la IA generativa sigue en su carrera por conquistar nuestras vidas y cada vez está más presente en el desarrollo de videojuegos. Al tratarse de una industria muy atada al impulso creativo de sus autores, el melón del uso de la IA en videojuegos está más vigente que nunca, y GTA VI, como es lógico, también entra en esta conversación. U",
+      "publishedAt": "2026-11-22T12:30:27.000Z",
+      "updatedAt": "2026-11-22T13:46:42.637Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "Tecnología",
+      "category": "Tecnología",
+      "importance": 107.45797944444445,
+      "source": {
+        "name": "Xataka",
+        "url": "https://www.xataka.com/videojuegos/gta-vi-ultimo-gran-juego-desarrollado-usar-ia"
+      },
+      "topicKey": "desarrollado|escala|gran|juego|ultimo|usar",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "elmundo-es-46dd495a2c6d4248",
+      "title": "Feijoó apela al voto contra el miedo en Murcia y aspira a un país \"que vuelva a funcionar\"  : \"No quiero una España a bofetadas\"",
+      "summary": "El líder del PP congrega más de 7.000 personas en la capital murciana e insiste en que \"nadie se relaje\" hasta el final: \"España no puede permitirse lo que ocurrió en 2023\" Leer",
+      "publishedAt": "2026-11-22T13:21:06.000Z",
+      "updatedAt": "2026-11-22T13:46:43.057Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "España",
+      "category": "España",
+      "importance": 106.14607944444444,
+      "source": {
+        "name": "EL MUNDO",
+        "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/22/6b02bd62fdddffa56f8b4576.html"
+      },
+      "topicKey": "apela|aspira|contra|feijoo|miedo|murcia|pais|voto",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "xataka-8dd3bcbfe0d1ad5a",
+      "title": "Todos conocemos a Samsung por sus móviles y sus televisores. La gran \"tapada\" es su división de empresas",
+      "summary": "¿Quién no tiene o conoce a alguien que no tenga algún dispositivo Samsung? En mi casa, por ejemplo, hay una lavadora y una Smart TV del fabricante surcoreano, pero multitud de amigos y familiares tiene un smartphone o una tablet Samsung. De ahí que, a pesar del auge de las marcas chinas y la caída del mercado de los móviles a nivel global, Samsung siga liderándolo. Pero lo que mucha gente no sabe es que uno de cada cuatro dispositivos que vende la compañía en España son adquiridos por empresas. El negocio B2B de Samsung ha facturado un 5% más en el último año y, no contentos con eso, se han pr",
+      "publishedAt": "2026-11-22T11:30:26.000Z",
+      "updatedAt": "2026-11-22T13:46:42.637Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "Tecnología",
+      "category": "Tecnología",
+      "importance": 105.45742388888888,
+      "source": {
+        "name": "Xataka",
+        "url": "https://www.xataka.com/empresas-y-economia/todos-conocemos-a-samsung-sus-moviles-sus-televisores-gran-tapada-su-division-empresas"
+      },
+      "topicKey": "conocemos|division|gran|moviles|samsung|tapada|televisores|todos",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "lemonde-fr-3482c58c624c53d1",
+      "title": "A medida que la ciencia demuestra cada vez más el papel que desempeñan las sustancias químicas en las «enfermedades relacionadas con el estilo de vida», Europa relaja su normativa",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-22T10:26:07.000Z",
+      "updatedAt": "2026-11-22T13:47:04.523Z",
+      "country": "Francia",
+      "countryCode": "FR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 105.30137666666667,
+      "source": {
+        "name": "Le Monde",
+        "url": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html"
+      },
+      "topicKey": "cada|ciencia|demuestra|desempenan|medida|papel|quimicas|sustancias",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "elmundo-es-854ba4544af4ea50",
+      "title": "Los profetas de la remontada de  Pedro Sánchez",
+      "summary": "Tezanos, Redondo y Becerra, son los tres expertos que, contra el resto, pronostican que \"hay partido\" o, directamente, que PP y Vox no van a obtener mayoría absoluta. Buscan movilizar a la izquierda. Sus detractores les acusan de ser \"intoxicadores natos\". Leer",
+      "publishedAt": "2026-11-22T12:45:08.000Z",
+      "updatedAt": "2026-11-22T13:46:43.057Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "España",
+      "category": "España",
+      "importance": 104.94719055555555,
+      "source": {
+        "name": "EL MUNDO",
+        "url": "https://www.elmundo.es/cronica/2026/11/21/6b015b0221efa0930c8b4597.html"
+      },
+      "topicKey": "pedro|profetas|remontada|sanchez",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "20min-es-4d3c1fe484b404dd",
+      "title": "Marc Márquez busca su décimo mundial: el español, al límite tras perder posiciones",
+      "summary": "El piloto español puede ser campeón del mundo este domingo en la carrera del GP de Portugal.",
+      "publishedAt": "2026-11-22T12:39:19.000Z",
+      "updatedAt": "2026-11-22T13:47:15.457Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "España",
+      "category": "España",
+      "importance": 104.73530166666667,
+      "source": {
+        "name": "20minutos",
+        "url": "https://www.20minutos.es/deportes/deportes_motor/motogp/carrera-motogp-gp-portugal-directo-ultima-hora-marc-marquez-jorge-martin-portimao_7064211_6.html"
+      },
+      "topicKey": "busca|decimo|espanol|limite|marc|marquez|mundial|perder",
+      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/22/6b02cc03b27966-08220158.png",
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "elmundo-es-a76edd085c7c6f2a",
+      "title": "Sánchez alienta el 'sí se puede' del PSOE en el ecuador de la campaña: \"Nos queda una semana de remontada\"",
+      "summary": "El líder socialista apela a la épica y al voto oculto en Murcia, bastión de la derecha, frente a unas encuestas que le niegan opciones de gobernar Leer",
+      "publishedAt": "2026-11-22T12:25:07.000Z",
+      "updatedAt": "2026-11-22T13:46:43.058Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "España",
+      "category": "España",
+      "importance": 104.27996833333333,
+      "source": {
+        "name": "EL MUNDO",
+        "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/22/6b02d70be4d4d8693e8b457a.html"
+      },
+      "topicKey": "alienta|campana|ecuador|psoe|puede|queda|sanchez|semana",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "20min-es-6b1da1d09acfdd46",
+      "title": "De la jornada de 32 horas al cheque para formarse en IA, propuestas de empleo de los partidos para el 29N",
+      "summary": "Todos los partidos incluyen distintas propuestas para el empleo, desde la reducción de jornada del Frente Amplio o el cheque para formarse en inteligencia artificial del PP.",
+      "publishedAt": "2026-11-22T12:20:36.000Z",
+      "updatedAt": "2026-11-22T13:47:15.457Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "España",
+      "category": "España",
+      "importance": 104.11141277777777,
+      "source": {
+        "name": "20minutos",
+        "url": "https://www.20minutos.es/nacional/elecciones-generales-2026-jornada-32-horas-cheque-para-formarse-ia-propuestas-empleo-para-29n_7064058_0.html"
+      },
+      "topicKey": "cheque|empleo|formarse|horas|jornada|partidos|propuestas",
+      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2024/10/08/archivo-imagen-de-archivo-de-una-persona-en-el-trabajo.jpeg",
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "lemonde-fr-c22ac01cdcb1ebde",
+      "title": "Paris's Musée de l'Homme takes a nuanced look at drugs",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-22T09:28:37.000Z",
+      "updatedAt": "2026-11-22T13:47:04.523Z",
+      "country": "Francia",
+      "countryCode": "FR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 103.38470944444444,
+      "source": {
+        "name": "Le Monde",
+        "url": "https://www.lemonde.fr/en/science/article/2026/11/22/paris-s-musee-de-l-homme-takes-a-nuanced-look-at-drugs_6786562_10.html"
+      },
+      "topicKey": "drugs|homme|look|musee|nuanced|paris|takes",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "lemonde-fr-47dfc5056444f31b",
+      "title": "Irène Sapir escapó del Holocausto. Los concejales de extrema derecha se opusieron a que se pusiera su nombre a una escuela.",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-22T04:00:04.000Z",
+      "updatedAt": "2026-11-22T13:47:05.634Z",
+      "country": "Francia",
+      "countryCode": "FR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 92.43242555555555,
+      "source": {
+        "name": "Le Monde",
+        "url": "https://www.lemonde.fr/en/politics/article/2026/11/22/irene-sapir-escaped-the-holocaust-far-right-councilors-opposed-naming-a-school-after-her_6786463_5.html"
+      },
+      "topicKey": "concejales|derecha|escapo|extrema|holocausto|irene|opusieron|sapir",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "lemonde-fr-c66f2b5bb613c298",
+      "title": "Un veterano periodista investiga la infancia de Macron en un nuevo libro",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-22T01:12:11.000Z",
+      "updatedAt": "2026-11-22T13:47:06.565Z",
+      "country": "Francia",
+      "countryCode": "FR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 86.83579722222223,
+      "source": {
+        "name": "Le Monde",
+        "url": "https://www.lemonde.fr/en/politics/article/2026/11/22/veteran-french-reporter-probes-macron-s-childhood-in-new-book_6786430_5.html"
+      },
+      "topicKey": "infancia|investiga|libro|macron|nuevo|periodista|veterano",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "npr-us-1add95be92a81fc8",
+      "title": "Empleados de Google protestan contra la política de IA en las escuelas",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-21T22:01:40.000Z",
+      "updatedAt": "2026-11-22T13:46:41.731Z",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "section": "Tecnología",
+      "category": "Tecnología",
+      "importance": 78.49903833333333,
+      "source": {
+        "name": "NPR",
+        "url": "https://www.npr.org/2026/11/21/nx-s1-6048599/google-employees-protest-ai-in-schools-policy"
+      },
+      "topicKey": "contra|empleados|escuelas|google|politica|protestan",
+      "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
     }
