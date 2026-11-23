@@ -1,551 +1,953 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "source": "Wikimedia",
   "items": [
     {
-      "text": "la selección de fútbol de Arabia Saudita da la sorpresa del mundial tras vencer 2 a 1 a Argentina en su primer encuentro del mundial.",
+      "text": "en Asunción (Paraguay), Racing Club de Argentina vence 3–1 a Cruzeiro de Brasil en el Estadio General Pablo Rojas, y se consagra campeón de la Copa Sudamericana 2024.",
       "pages": [
         {
           "type": "standard",
-          "title": "Selección_de_fútbol_de_Arabia_Saudita",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Selección de fútbol de Arabia Saudita</span></span>",
+          "title": "Asunción",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Asunción</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q189723",
+          "wikibase_item": "Q2933",
           "titles": {
-            "canonical": "Selección_de_fútbol_de_Arabia_Saudita",
-            "normalized": "Selección de fútbol de Arabia Saudita",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Selección de fútbol de Arabia Saudita</span></span>"
+            "canonical": "Asunción",
+            "normalized": "Asunción",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Asunción</span></span>"
           },
-          "pageid": 182785,
+          "pageid": 2586895,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Palacio_de_Gobierno2.jpg/330px-Palacio_de_Gobierno2.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 248
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Palacio_de_Gobierno2.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1024,
+            "height": 768
+          },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176366037",
-          "tid": "fe5c4a28-e3db-11f1-a94c-9d7a1fb40cf9",
-          "timestamp": "2026-11-19T05:42:23Z",
-          "description": "Equipo representativo de Arabia Saudita",
+          "revision": "176122837",
+          "tid": "217bce85-d73b-11f1-a794-99e63d6de8c7",
+          "timestamp": "2026-11-03T04:00:39Z",
+          "description": "capital de Paraguay",
           "description_source": "central",
+          "coordinates": {
+            "lat": -25.28,
+            "lon": -57.63444444
+          },
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Arabia_Saudita",
-              "revisions": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Arabia_Saudita?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Arabia_Saudita?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Selecci%C3%B3n_de_f%C3%BAtbol_de_Arabia_Saudita"
+              "page": "https://es.wikipedia.org/wiki/Asunci%C3%B3n",
+              "revisions": "https://es.wikipedia.org/wiki/Asunci%C3%B3n?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Asunci%C3%B3n?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Asunci%C3%B3n"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Arabia_Saudita",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Selecci%C3%B3n_de_f%C3%BAtbol_de_Arabia_Saudita",
-              "edit": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Arabia_Saudita?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Selecci%C3%B3n_de_f%C3%BAtbol_de_Arabia_Saudita"
+              "page": "https://es.wikipedia.org/wiki/Asunci%C3%B3n",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Asunci%C3%B3n",
+              "edit": "https://es.wikipedia.org/wiki/Asunci%C3%B3n?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Asunci%C3%B3n"
             }
           },
-          "extract": "La selección de fútbol de Arabia Saudita es el equipo representativo del país en las competiciones oficiales. Su organización está a cargo de la Federación de Fútbol de Arabia Saudita, perteneciente a la AFC.",
-          "extract_html": "<p>La <b>selección de fútbol de Arabia Saudita</b> es el equipo representativo del país en las competiciones oficiales. Su organización está a cargo de la Federación de Fútbol de Arabia Saudita, perteneciente a la AFC.</p>",
-          "normalizedtitle": "Selección de fútbol de Arabia Saudita"
+          "extract": "Asunción, oficialmente llamada Ciudad de la Asunción,es la capital y ciudad más poblada del Paraguay, ubicada en el centro-oeste de la Región Oriental. Es un municipio de primer orden administrado como distrito capital y no está integrado en ningún departamento. Limita al norte con el río Paraguay que la separa del departamento Presidente Hayes y de la Región Occidental; al este y sur con el departamento Central; y al oeste con el río Paraguay, que la separa de la República Argentina, concretamente del departamento Pilcomayo perteneciente a la provincia de Formosa, por lo que es una ciudad fronteriza. Fue fundada como Nuestra Señora de la Asunción el 15 de agosto de 1537 por Juan de Salazar y Espinosa, lo que la hace una de las ciudades más antiguas de América.",
+          "extract_html": "<p><b>Asunción</b>, oficialmente llamada <b>Ciudad de la Asunción</b>,es la capital y ciudad más poblada del Paraguay, ubicada en el centro-oeste de la Región Oriental. Es un municipio de primer orden administrado como distrito capital y no está integrado en ningún departamento. Limita al norte con el río Paraguay que la separa del departamento Presidente Hayes y de la Región Occidental; al este y sur con el departamento Central; y al oeste con el río Paraguay, que la separa de la República Argentina, concretamente del departamento Pilcomayo perteneciente a la provincia de Formosa, por lo que es una ciudad fronteriza. Fue fundada como <b>Nuestra Señora de la Asunción</b> el 15 de agosto de 1537 por Juan de Salazar y Espinosa, lo que la hace una de las ciudades más antiguas de América.</p>",
+          "normalizedtitle": "Asunción"
         },
         {
           "type": "standard",
-          "title": "Selección_de_fútbol_de_Argentina",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Selección de fútbol de Argentina</span></span>",
+          "title": "Paraguay",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Paraguay</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q79800",
+          "wikibase_item": "Q733",
           "titles": {
-            "canonical": "Selección_de_fútbol_de_Argentina",
-            "normalized": "Selección de fútbol de Argentina",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Selección de fútbol de Argentina</span></span>"
+            "canonical": "Paraguay",
+            "normalized": "Paraguay",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Paraguay</span></span>"
           },
-          "pageid": 52935,
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176379756",
-          "tid": "cc0c24a0-e48f-11f1-b87c-2fa09ba840d2",
-          "timestamp": "2026-11-20T03:09:28Z",
-          "description": "equipo de fútbol que representa a Argentina en competiciones oficiales",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Argentina",
-              "revisions": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Argentina?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Argentina?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Selecci%C3%B3n_de_f%C3%BAtbol_de_Argentina"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Argentina",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Selecci%C3%B3n_de_f%C3%BAtbol_de_Argentina",
-              "edit": "https://es.wikipedia.org/wiki/Selecci%C3%B3n_de_f%C3%BAtbol_de_Argentina?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Selecci%C3%B3n_de_f%C3%BAtbol_de_Argentina"
-            }
-          },
-          "extract": "La selección masculina de fútbol de Argentina es el equipo formado por jugadores de nacionalidad argentina que representa a la Asociación del Fútbol Argentino (AFA) en las competiciones oficiales organizadas por la Confederación Sudamericana de Fútbol (Conmebol), ente rector de ese deporte en América del Sur, y por la Federación Internacional de Fútbol Asociación (FIFA). Es campeona vigente a nivel confederativo e interconfederativo, así como subcampeona a nivel mundial.",
-          "extract_html": "<p>La <b>selección masculina de fútbol de Argentina</b> es el equipo formado por jugadores de nacionalidad argentina que representa a la Asociación del Fútbol Argentino (AFA) en las competiciones oficiales organizadas por la Confederación Sudamericana de Fútbol (Conmebol), ente rector de ese deporte en América del Sur, y por la Federación Internacional de Fútbol Asociación (FIFA). Es campeona vigente a nivel confederativo e interconfederativo, así como subcampeona a nivel mundial.</p>",
-          "normalizedtitle": "Selección de fútbol de Argentina"
-        }
-      ],
-      "year": 2022
-    },
-    {
-      "text": "en Bogotá (Colombia) el estilista y maquillador Mauricio Leal es encontrado muerto junto a su madre en su casa.",
-      "pages": [
-        {
-          "type": "standard",
-          "title": "Mauricio_Leal",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mauricio Leal</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q110617007",
-          "titles": {
-            "canonical": "Mauricio_Leal",
-            "normalized": "Mauricio Leal",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mauricio Leal</span></span>"
-          },
-          "pageid": 10134854,
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "165945075",
-          "tid": "7dc2e161-fc3a-11ef-ab49-77c24007e8f5",
-          "timestamp": "2025-03-08T16:29:22Z",
-          "description": "estilista y maquillador colombiano",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Mauricio_Leal",
-              "revisions": "https://es.wikipedia.org/wiki/Mauricio_Leal?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Mauricio_Leal?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Mauricio_Leal"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Mauricio_Leal",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Mauricio_Leal",
-              "edit": "https://es.wikipedia.org/wiki/Mauricio_Leal?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Mauricio_Leal"
-            }
-          },
-          "extract": "Mauricio Leal Hernández fue un estilista colombiano. Mauricio Leal se desempeñaba como un estilista reconocido a nivel nacional por su trabajo a personalidades importantes de Colombia, entre las que se destacaban varias modelos, actrices, cantantes, presentadoras de televisión y reinas de belleza. Sin embargo, Mauricio fue asesinado a manos de su hermano junto a su madre la noche del 22 de noviembre de 2021, a tan solo dos días antes de cumplir 47 años.\nSu asesinato generó una gran conmoción dentro del país.",
-          "extract_html": "<p><b>Mauricio Leal Hernández</b> fue un estilista colombiano. Mauricio Leal se desempeñaba como un estilista reconocido a nivel nacional por su trabajo a personalidades importantes de Colombia, entre las que se destacaban varias modelos, actrices, cantantes, presentadoras de televisión y reinas de belleza. Sin embargo, Mauricio fue asesinado a manos de su hermano junto a su madre la noche del 22 de noviembre de 2021, a tan solo dos días antes de cumplir 47 años.\nSu asesinato generó una gran conmoción dentro del país.</p>",
-          "normalizedtitle": "Mauricio Leal"
-        }
-      ],
-      "year": 2021
-    },
-    {
-      "text": "el legendario luchador The Undertaker celebra su trigésimo aniversario de su debut en WWE y se retira oficialmente de la lucha libre profesional en el evento Survivor Series.",
-      "pages": [
-        {
-          "type": "standard",
-          "title": "The_Undertaker",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">The Undertaker</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q44304",
-          "titles": {
-            "canonical": "The_Undertaker",
-            "normalized": "The Undertaker",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">The Undertaker</span></span>"
-          },
-          "pageid": 1187265,
+          "pageid": 7804,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/The_Undertaker_US_Marine_Visit_2019_%28cropped%292.jpg/330px-The_Undertaker_US_Marine_Visit_2019_%28cropped%292.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/langes-330px-Flag_of_Paraguay.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 182
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/langes-1280px-Flag_of_Paraguay.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 1200,
+            "height": 660
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176258831",
+          "tid": "646b3211-de28-11f1-9e51-97d7d55cd208",
+          "timestamp": "2026-11-11T23:34:09Z",
+          "description": "país de América del Sur",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Paraguay",
+              "revisions": "https://es.wikipedia.org/wiki/Paraguay?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Paraguay?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Paraguay"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Paraguay",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Paraguay",
+              "edit": "https://es.wikipedia.org/wiki/Paraguay?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Paraguay"
+            }
+          },
+          "extract": "Paraguay, oficialmente República del Paraguay, es un país soberano situado en el centro de Sudamérica con grandes extensiones de bosques, cataratas y humedales.Está organizado como un estado unitario, compuesto por una capital y diecisiete departamentos. Su capital es Asunción, una de las ciudades más antiguas de América. Su forma de gobierno es de república que se rige por el sistema presidencial y se organiza como un estado de derecho. Es miembro fundador de la ONU, la OEA, la OIM y el MERCOSUR.",
+          "extract_html": "<p><b>Paraguay</b>, oficialmente <b>República del Paraguay</b>, es un país soberano situado en el centro de Sudamérica con grandes extensiones de bosques, cataratas y humedales.Está organizado como un estado unitario, compuesto por una capital y diecisiete departamentos. Su capital es Asunción, una de las ciudades más antiguas de América. Su forma de gobierno es de república que se rige por el sistema presidencial y se organiza como un estado de derecho. Es miembro fundador de la ONU, la OEA, la OIM y el MERCOSUR.</p>",
+          "normalizedtitle": "Paraguay"
+        },
+        {
+          "type": "standard",
+          "title": "Racing_Club",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Racing Club</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q276533",
+          "titles": {
+            "canonical": "Racing_Club",
+            "normalized": "Racing Club",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Racing Club</span></span>"
+          },
+          "pageid": 94529,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Escudo_de_Racing_Club_%282014%29.svg/langes-330px-Escudo_de_Racing_Club_%282014%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 401
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Escudo_de_Racing_Club_%282014%29.svg/langes-250px-Escudo_de_Racing_Club_%282014%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 247,
+            "height": 300
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176425037",
+          "tid": "c6f9dfd9-e6f0-11f1-a63d-db59bc5d1da0",
+          "timestamp": "2026-11-23T03:48:43Z",
+          "description": "club deportivo de Avellaneda, Argentina",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Racing_Club",
+              "revisions": "https://es.wikipedia.org/wiki/Racing_Club?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Racing_Club?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Racing_Club"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Racing_Club",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Racing_Club",
+              "edit": "https://es.wikipedia.org/wiki/Racing_Club?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Racing_Club"
+            }
+          },
+          "extract": "El Racing Club es una entidad polideportiva con sede en la ciudad de Avellaneda, Argentina. Fue fundado como club de fútbol el 25 de marzo de 1903, constituyéndose el primero de su país creado íntegramente por criollos. Su principal actividad es el fútbol masculino profesional, el cual participa en la Primera División de Argentina.",
+          "extract_html": "<p>El <b>Racing Club</b> es una entidad polideportiva con sede en la ciudad de Avellaneda, Argentina. Fue fundado como club de fútbol el 25 de marzo de 1903, constituyéndose el primero de su país creado íntegramente por criollos. Su principal actividad es el fútbol masculino profesional, el cual participa en la Primera División de Argentina.</p>",
+          "normalizedtitle": "Racing Club"
+        },
+        {
+          "type": "standard",
+          "title": "Cruzeiro_Esporte_Clube",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Cruzeiro Esporte Clube</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q188277",
+          "titles": {
+            "canonical": "Cruzeiro_Esporte_Clube",
+            "normalized": "Cruzeiro Esporte Clube",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Cruzeiro Esporte Clube</span></span>"
+          },
+          "pageid": 288862,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg/langes-330px-Cruzeiro_Esporte_Clube_%28logo%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 330
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg/langes-330px-Cruzeiro_Esporte_Clube_%28logo%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 316,
+            "height": 316
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176403579",
+          "tid": "9aa07000-e5db-11f1-af68-e19fbeb94318",
+          "timestamp": "2026-11-21T18:44:38Z",
+          "description": "club de fútbol brasileño",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Cruzeiro_Esporte_Clube",
+              "revisions": "https://es.wikipedia.org/wiki/Cruzeiro_Esporte_Clube?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Cruzeiro_Esporte_Clube?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Cruzeiro_Esporte_Clube"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Cruzeiro_Esporte_Clube",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Cruzeiro_Esporte_Clube",
+              "edit": "https://es.wikipedia.org/wiki/Cruzeiro_Esporte_Clube?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Cruzeiro_Esporte_Clube"
+            }
+          },
+          "extract": "El Cruzeiro Esporte Clube es una asociación multideportiva brasileña ubicada en la ciudad de Belo Horizonte, capital del Estado de Minas Gerais. Aunque compiten en varios deportes diferentes, Cruzeiro es conocido principalmente por su equipo de fútbol de asociación. Participa en el Campeonato Brasileño de Serie A y es el máximo ganador de la Copa de Brasil.",
+          "extract_html": "<p>El <b>Cruzeiro Esporte Clube</b> es una asociación multideportiva brasileña ubicada en la ciudad de Belo Horizonte, capital del Estado de Minas Gerais. Aunque compiten en varios deportes diferentes, Cruzeiro es conocido principalmente por su equipo de fútbol de asociación. Participa en el Campeonato Brasileño de Serie A y es el máximo ganador de la Copa de Brasil.</p>",
+          "normalizedtitle": "Cruzeiro Esporte Clube"
+        },
+        {
+          "type": "standard",
+          "title": "Estadio_General_Pablo_Rojas",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Estadio General Pablo Rojas</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q1369223",
+          "titles": {
+            "canonical": "Estadio_General_Pablo_Rojas",
+            "normalized": "Estadio General Pablo Rojas",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Estadio General Pablo Rojas</span></span>"
+          },
+          "pageid": 968982,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Estadio_General_Pablo_Rojas.jpg/330px-Estadio_General_Pablo_Rojas.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 213
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Estadio_General_Pablo_Rojas.jpg/3840px-Estadio_General_Pablo_Rojas.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 4864,
+            "height": 3136
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176333700",
+          "tid": "1b04507e-e229-11f1-8309-6f6d20e7684e",
+          "timestamp": "2026-11-17T01:49:20Z",
+          "description": "estadio de fútbol del Club Cerro Porteño de Paraguay",
+          "description_source": "central",
+          "coordinates": {
+            "lat": -25.3,
+            "lon": -57.6375
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Estadio_General_Pablo_Rojas",
+              "revisions": "https://es.wikipedia.org/wiki/Estadio_General_Pablo_Rojas?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Estadio_General_Pablo_Rojas?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Estadio_General_Pablo_Rojas"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Estadio_General_Pablo_Rojas",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Estadio_General_Pablo_Rojas",
+              "edit": "https://es.wikipedia.org/wiki/Estadio_General_Pablo_Rojas?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Estadio_General_Pablo_Rojas"
+            }
+          },
+          "extract": "El Estadio General Pablo Rojas, Conocido como La Nueva Olla, es un recinto deportivo propiedad del Club Cerro Porteño, ubicado en la ciudad de Asunción, Paraguay. Situado en la intersección de la avenida Acuña de Figueroa y la calle Parapití, en el barrio Obrero, fue inaugurado el 24 de mayo de 1970 con un partido entre Cerro Porteño y Silvio Pettirossi por el Campeonato Paraguayo de Fútbol, que finalizó 2–1 a favor del equipo local.",
+          "extract_html": "<p>El <b>Estadio General Pablo Rojas</b>, Conocido como <b>La Nueva Olla,</b> es un recinto deportivo propiedad del Club Cerro Porteño, ubicado en la ciudad de Asunción, Paraguay. Situado en la intersección de la avenida Acuña de Figueroa y la calle Parapití, en el barrio Obrero, fue inaugurado el 24 de mayo de 1970 con un partido entre Cerro Porteño y Silvio Pettirossi por el Campeonato Paraguayo de Fútbol, que finalizó 2–1 a favor del equipo local.</p>",
+          "normalizedtitle": "Estadio General Pablo Rojas"
+        },
+        {
+          "type": "standard",
+          "title": "Copa_Sudamericana_2024",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Copa Sudamericana 2024</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q122199499",
+          "titles": {
+            "canonical": "Copa_Sudamericana_2024",
+            "normalized": "Copa Sudamericana 2024",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Copa Sudamericana 2024</span></span>"
+          },
+          "pageid": 10653760,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Estadio_General_Pablo_Rojas.jpg/330px-Estadio_General_Pablo_Rojas.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 213
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Estadio_General_Pablo_Rojas.jpg/3840px-Estadio_General_Pablo_Rojas.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 4864,
+            "height": 3136
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "174767270",
+          "tid": "77dbab98-93a4-11f1-b14c-89a4d18f7d47",
+          "timestamp": "2026-08-09T03:43:22Z",
+          "description": "23.ª edición de la Copa Conmebol Sudamericana",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Copa_Sudamericana_2024",
+              "revisions": "https://es.wikipedia.org/wiki/Copa_Sudamericana_2024?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Copa_Sudamericana_2024?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Copa_Sudamericana_2024"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Copa_Sudamericana_2024",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Copa_Sudamericana_2024",
+              "edit": "https://es.wikipedia.org/wiki/Copa_Sudamericana_2024?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Copa_Sudamericana_2024"
+            }
+          },
+          "extract": "La Copa Sudamericana 2024, denominada oficialmente Copa Conmebol Sudamericana 2024, fue la vigésima tercera edición del torneo organizado por la Conmebol, en la que participaron equipos de los diez países afiliados a la confederación: Argentina, Bolivia, Brasil, Chile, Colombia, Ecuador, Paraguay, Perú, Uruguay y Venezuela.",
+          "extract_html": "<p>La <b>Copa Sudamericana 2024</b>, denominada oficialmente <b>Copa Conmebol Sudamericana 2024</b>, fue la vigésima tercera edición del torneo organizado por la Conmebol, en la que participaron equipos de los diez países afiliados a la confederación: Argentina, Bolivia, Brasil, Chile, Colombia, Ecuador, Paraguay, Perú, Uruguay y Venezuela.</p>",
+          "normalizedtitle": "Copa Sudamericana 2024"
+        }
+      ],
+      "year": 2024
+    },
+    {
+      "text": "Daniel Noboa Azín es posesionado como el 48° presidente del Ecuador, siendo el primer mandatario que asume el poder tras la activación del artículo 148 de la Constitución, conocido como \"muerte cruzada\", por parte de su antecesor Guillermo Lasso, que convocaba a elecciones presidenciales y legislativas para completar el período para el que fue electo (2021-2025).",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Daniel_Noboa",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Daniel Noboa</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q112075625",
+          "titles": {
+            "canonical": "Daniel_Noboa",
+            "normalized": "Daniel Noboa",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Daniel Noboa</span></span>"
+          },
+          "pageid": 10238507,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Noboa_en_24_mayo_de_2026.jpg/330px-Noboa_en_24_mayo_de_2026.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
             "height": 454
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/0/07/The_Undertaker_US_Marine_Visit_2019_%28cropped%292.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 994,
-            "height": 1369
+            "source": "https://upload.wikimedia.org/wikipedia/commons/4/44/Noboa_en_24_mayo_de_2026.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 2557,
+            "height": 3520
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176331087",
-          "tid": "678b6428-e208-11f1-aa4e-a738db2f81a1",
-          "timestamp": "2026-11-16T21:55:15Z",
-          "description": "luchador profesional estadounidense",
+          "revision": "176429731",
+          "tid": "6a73e501-e743-11f1-8df7-fcf5b4e8ebdb",
+          "timestamp": "2026-11-23T13:40:16Z",
+          "description": "presidente de Ecuador",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/The_Undertaker",
-              "revisions": "https://es.wikipedia.org/wiki/The_Undertaker?action=history",
-              "edit": "https://es.wikipedia.org/wiki/The_Undertaker?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:The_Undertaker"
+              "page": "https://es.wikipedia.org/wiki/Daniel_Noboa",
+              "revisions": "https://es.wikipedia.org/wiki/Daniel_Noboa?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Daniel_Noboa?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Daniel_Noboa"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/The_Undertaker",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/The_Undertaker",
-              "edit": "https://es.wikipedia.org/wiki/The_Undertaker?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:The_Undertaker"
+              "page": "https://es.wikipedia.org/wiki/Daniel_Noboa",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Daniel_Noboa",
+              "edit": "https://es.wikipedia.org/wiki/Daniel_Noboa?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Daniel_Noboa"
             }
           },
-          "extract": "Mark William Calaway, conocido como The Undertaker, es un luchador profesional retirado y actor estadounidense. Actualmente trabaja como embajador para la empresa WWE y Productor Ejecutivo de Lucha Libre AAA Worldwide (AAA).",
-          "extract_html": "<p><b>Mark William Calaway</b>, conocido como <b>The Undertaker</b>, es un luchador profesional retirado y actor estadounidense. Actualmente trabaja como embajador para la empresa WWE y Productor Ejecutivo de Lucha Libre AAA Worldwide (AAA).</p>",
-          "normalizedtitle": "The Undertaker"
+          "extract": "Daniel Roy Gilchrist Noboa Azín es un administrador, empresario y político ecuatoriano-estadounidense, presidente de la República del Ecuador desde el 23 de noviembre de 2023. Asumió el cargo a la edad de 35 años, resultando el más joven presidente elegido democráticamente.",
+          "extract_html": "<p><b>Daniel Roy Gilchrist Noboa Azín</b> es un administrador, empresario y político ecuatoriano-estadounidense, presidente de la República del Ecuador desde el 23 de noviembre de 2023. Asumió el cargo a la edad de 35 años, resultando el más joven presidente elegido democráticamente.</p>",
+          "normalizedtitle": "Daniel Noboa"
         },
         {
           "type": "standard",
-          "title": "WWE",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">WWE</span></span>",
+          "title": "Presidente_del_Ecuador",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Presidente del Ecuador</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q35339",
+          "wikibase_item": "Q732562",
           "titles": {
-            "canonical": "WWE",
-            "normalized": "WWE",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">WWE</span></span>"
+            "canonical": "Presidente_del_Ecuador",
+            "normalized": "Presidente del Ecuador",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Presidente del Ecuador</span></span>"
           },
-          "pageid": 126816,
+          "pageid": 112325,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/langes-330px-WWE_official_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Daniel_Noboa_Informe_a_la_Nacion_2026.jpg/330px-Daniel_Noboa_Informe_a_la_Nacion_2026.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 310
+            "height": 495
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/langes-500px-WWE_official_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 420,
-            "height": 395
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Daniel_Noboa_Informe_a_la_Nacion_2026.jpg/3840px-Daniel_Noboa_Informe_a_la_Nacion_2026.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 4000,
+            "height": 6000
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176194041",
-          "tid": "7cb71386-dae3-11f1-9a45-120c076201ed",
-          "timestamp": "2026-11-07T19:43:21Z",
-          "description": "empresa estadounidense de lucha libre profesional y entretenimiento",
+          "revision": "176120955",
+          "tid": "96dba433-d723-11f1-a7f0-b5e4291efbaa",
+          "timestamp": "2026-11-03T01:12:08Z",
+          "description": "jefe de Estado y Gobierno de Ecuador",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/WWE",
-              "revisions": "https://es.wikipedia.org/wiki/WWE?action=history",
-              "edit": "https://es.wikipedia.org/wiki/WWE?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:WWE"
+              "page": "https://es.wikipedia.org/wiki/Presidente_del_Ecuador",
+              "revisions": "https://es.wikipedia.org/wiki/Presidente_del_Ecuador?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Presidente_del_Ecuador?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Presidente_del_Ecuador"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/WWE",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/WWE",
-              "edit": "https://es.wikipedia.org/wiki/WWE?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:WWE"
+              "page": "https://es.wikipedia.org/wiki/Presidente_del_Ecuador",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Presidente_del_Ecuador",
+              "edit": "https://es.wikipedia.org/wiki/Presidente_del_Ecuador?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Presidente_del_Ecuador"
             }
           },
-          "extract": "World Wrestling Entertainment (WWE) es una empresa estadounidense de medios y/o entretenimiento, integrada principalmente por el área de la lucha libre profesional. WWE también se ha diversificado en otros campos, incluidos el cine y fútbol americano, entre otros varios negocios.",
-          "extract_html": "<p><b>World Wrestling Entertainment</b> (<b>WWE</b>) es una empresa estadounidense de medios y/o entretenimiento, integrada principalmente por el área de la lucha libre profesional. WWE también se ha diversificado en otros campos, incluidos el cine y fútbol americano, <span class=\"mw-selflink-fragment\">entre otros varios negocios</span>.</p>",
-          "normalizedtitle": "WWE"
+          "extract": "El presidente de Ecuador, también denominado presidente constitucional de la República del Ecuador, es el jefe de Estado y gobierno del país sudamericano, ejerciendo la Función Ejecutiva. Es asistido por un vicepresidente y un equipo de colaboradores agrupados en el Gabinete de Ministros, a su vez es el comandante supremo de las Fuerzas Armadas. Su lema es «Mi Poder en la Constitución», frase que aparece desde 1830 en la Banda Presidencial.",
+          "extract_html": "<p>El <b>presidente de Ecuador</b>, también denominado <b>presidente constitucional de la República del Ecuador</b>, es el jefe de Estado y gobierno del país sudamericano, ejerciendo la Función Ejecutiva. Es asistido por un vicepresidente y un equipo de colaboradores agrupados en el Gabinete de Ministros, a su vez es el comandante supremo de las Fuerzas Armadas. Su lema es «Mi Poder en la Constitución», frase que aparece desde 1830 en la Banda Presidencial.</p>",
+          "normalizedtitle": "Presidente del Ecuador"
         },
         {
           "type": "standard",
-          "title": "Survivor_Series_(2020)",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Survivor Series (2020)</span></span>",
+          "title": "Muerte_cruzada",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Muerte cruzada</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q100280765",
+          "wikibase_item": "Q6025827",
           "titles": {
-            "canonical": "Survivor_Series_(2020)",
-            "normalized": "Survivor Series (2020)",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Survivor Series (2020)</span></span>"
+            "canonical": "Muerte_cruzada",
+            "normalized": "Muerte cruzada",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Muerte cruzada</span></span>"
           },
-          "pageid": 9643760,
+          "pageid": 4235062,
           "lang": "es",
           "dir": "ltr",
-          "revision": "175111154",
-          "tid": "6f502d98-a48f-11f1-a12b-5c13722fb997",
-          "timestamp": "2026-08-30T16:25:38Z",
-          "description": "34° edición del evento de lucha libre profesional WWE Survivor Series",
+          "revision": "165267657",
+          "tid": "6d5221f7-e608-11ef-8afe-74ce2e02b7d7",
+          "timestamp": "2025-02-08T10:35:34Z",
+          "description": "mecanismo constitucional de Ecuador",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Survivor_Series_(2020)",
-              "revisions": "https://es.wikipedia.org/wiki/Survivor_Series_(2020)?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Survivor_Series_(2020)?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Survivor_Series_(2020)"
+              "page": "https://es.wikipedia.org/wiki/Muerte_cruzada",
+              "revisions": "https://es.wikipedia.org/wiki/Muerte_cruzada?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Muerte_cruzada?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Muerte_cruzada"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Survivor_Series_(2020)",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Survivor_Series_(2020)",
-              "edit": "https://es.wikipedia.org/wiki/Survivor_Series_(2020)?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Survivor_Series_(2020)"
+              "page": "https://es.wikipedia.org/wiki/Muerte_cruzada",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Muerte_cruzada",
+              "edit": "https://es.wikipedia.org/wiki/Muerte_cruzada?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Muerte_cruzada"
             }
           },
-          "extract": "Survivor Series 2020 fue la trigésima cuarta edición de Survivor Series, un evento pago por visión de lucha libre profesional realizado por la WWE el 22 de noviembre de 2020 desde el Amway Center en Orlando, Florida, y contó con la asistencia de público virtual a través del ThunderDome. El evento celebró el 30 aniversario del debut de The Undertaker en la WWE, con el anuncio oficial de su retirada tras tres décadas en la compañía, cerrando el evento.",
-          "extract_html": "<p><b>Survivor Series 2020</b> fue la trigésima cuarta edición de Survivor Series, un evento pago por visión de lucha libre profesional realizado por la WWE el 22 de noviembre de 2020 desde el Amway Center en Orlando, Florida, y contó con la asistencia de público virtual a través del ThunderDome. El evento celebró el 30 aniversario del debut de The Undertaker en la WWE, con el anuncio oficial de su retirada tras tres décadas en la compañía, cerrando el evento.</p>",
-          "normalizedtitle": "Survivor Series (2020)"
+          "extract": "En la política de Ecuador, «muerte cruzada» es el nombre comúnmente dado a un mecanismo que rige el proceso de destitución al presidente del Ecuador y la disolución de la Asamblea Nacional previsto en los artículos 130 y 148 de la Constitución de 2008.",
+          "extract_html": "<p>En la política de Ecuador, «<b>muerte cruzada</b>» es el nombre comúnmente dado a un mecanismo que rige el proceso de destitución al presidente del Ecuador y la disolución de la Asamblea Nacional previsto en los artículos 130 y 148 de la Constitución de 2008.</p>",
+          "normalizedtitle": "Muerte cruzada"
+        },
+        {
+          "type": "standard",
+          "title": "Guillermo_Lasso",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Guillermo Lasso</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q4414537",
+          "titles": {
+            "canonical": "Guillermo_Lasso",
+            "normalized": "Guillermo Lasso",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Guillermo Lasso</span></span>"
+          },
+          "pageid": 5186098,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/President_Guillermo_Lasso_2022.jpg/330px-President_Guillermo_Lasso_2022.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 422
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/cf/President_Guillermo_Lasso_2022.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1288,
+            "height": 1646
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176201688",
+          "tid": "2976aba6-db47-11f1-a6b3-23829cd3c156",
+          "timestamp": "2026-11-08T07:36:51Z",
+          "description": "Presidente de la República del Ecuador (2021 - 2023)",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Guillermo_Lasso",
+              "revisions": "https://es.wikipedia.org/wiki/Guillermo_Lasso?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Guillermo_Lasso?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Guillermo_Lasso"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Guillermo_Lasso",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Guillermo_Lasso",
+              "edit": "https://es.wikipedia.org/wiki/Guillermo_Lasso?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Guillermo_Lasso"
+            }
+          },
+          "extract": "Guillermo Alberto Santiago Lasso Mendoza es un político, diplomático, empresario, exejecutivo y banquero ecuatoriano que fue presidente de la República del Ecuador desde el 24 de mayo de 2021 hasta el 23 de noviembre de 2023.",
+          "extract_html": "<p><b>Guillermo Alberto Santiago Lasso Mendoza</b> es un político, diplomático, empresario, exejecutivo y banquero ecuatoriano que fue presidente de la República del Ecuador desde el 24 de mayo de 2021 hasta el 23 de noviembre de 2023.</p>",
+          "normalizedtitle": "Guillermo Lasso"
         }
       ],
-      "year": 2020
+      "year": 2023
     },
     {
-      "text": "en Bogotá (Colombia) se produce un toque de queda en tres localidades desde las 8:00 p. m. a 6:00 a. m.del 23 de noviembre y en toda la capital desde las 09:00 p. m. a 6:00 a. m. del mismo 23 de noviembre. Esta medida no se implementaba en el país desde hace 42 años.",
+      "text": "En la final de la Conmebol Libertadores, el Flamengo derrota a River Plate por 2 - 1 en el Estadio Monumental de Lima, Perú, tras una remontada histórica en 3 minutos con 2 goles de Gabriel Barbosa - Gabigol -, consagrándose como el campeón de América tras 38 años.",
       "pages": [
         {
           "type": "standard",
-          "title": "Bogotá",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Bogotá</span></span>",
+          "title": "Copa_Libertadores_de_América",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Copa Libertadores de América</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q2841",
+          "wikibase_item": "Q184795",
           "titles": {
-            "canonical": "Bogotá",
-            "normalized": "Bogotá",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Bogotá</span></span>"
+            "canonical": "Copa_Libertadores_de_América",
+            "normalized": "Copa Libertadores de América",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Copa Libertadores de América</span></span>"
           },
-          "pageid": 5131,
+          "pageid": 4449701,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Museo-del-Oro-Fachada_%2827842494739%29.jpg/330px-Museo-del-Oro-Fachada_%2827842494739%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/328-3287452_copa-libertadores-primer-trofeo-hd-png-download.png/330px-328-3287452_copa-libertadores-primer-trofeo-hd-png-download.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 221
+            "height": 793
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Museo-del-Oro-Fachada_%2827842494739%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 3360,
-            "height": 2248
+            "source": "https://upload.wikimedia.org/wikipedia/commons/7/7a/328-3287452_copa-libertadores-primer-trofeo-hd-png-download.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 500,
+            "height": 1202
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176218957",
-          "tid": "6d8eb139-dc2a-11f1-9213-c5ffdbf81bb5",
-          "timestamp": "2026-11-09T10:43:41Z",
-          "description": "capital de Colombia",
+          "revision": "176343967",
+          "tid": "f5745750-e2bb-11f1-9017-51024d3193f9",
+          "timestamp": "2026-11-17T19:20:33Z",
+          "description": "campeonato sudamericano de fútbol a nivel de clubes",
           "description_source": "central",
-          "coordinates": {
-            "lat": 4.60971,
-            "lon": -74.08175
-          },
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Bogot%C3%A1",
-              "revisions": "https://es.wikipedia.org/wiki/Bogot%C3%A1?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Bogot%C3%A1?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Bogot%C3%A1"
+              "page": "https://es.wikipedia.org/wiki/Copa_Libertadores_de_Am%C3%A9rica",
+              "revisions": "https://es.wikipedia.org/wiki/Copa_Libertadores_de_Am%C3%A9rica?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Copa_Libertadores_de_Am%C3%A9rica?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Copa_Libertadores_de_Am%C3%A9rica"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Bogot%C3%A1",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Bogot%C3%A1",
-              "edit": "https://es.wikipedia.org/wiki/Bogot%C3%A1?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Bogot%C3%A1"
+              "page": "https://es.wikipedia.org/wiki/Copa_Libertadores_de_Am%C3%A9rica",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Copa_Libertadores_de_Am%C3%A9rica",
+              "edit": "https://es.wikipedia.org/wiki/Copa_Libertadores_de_Am%C3%A9rica?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Copa_Libertadores_de_Am%C3%A9rica"
             }
           },
-          "extract": "Bogotá, oficialmente Bogotá, Distrito Capital, es la capital de la República de Colombia y del departamento de Cundinamarca. Está administrada como distrito capital, y goza de autonomía para la gestión de sus intereses dentro de los límites de la Constitución y la ley. A diferencia de los demás distritos de Colombia, Bogotá es una entidad territorial de primer orden, con las atribuciones administrativas que la ley confiere a los departamentos. Está constituida por 20 localidades, cada una con su propio alcalde local y una Junta Administradora Local (JAL). Es el epicentro político, económico, administrativo, industrial, artístico, cultural, deportivo y turístico del país.",
-          "extract_html": "<p><b>Bogotá</b>, oficialmente <b>Bogotá, Distrito Capital</b>, es la capital de la República de Colombia y del departamento de Cundinamarca. Está administrada como distrito capital, y goza de autonomía para la gestión de sus intereses dentro de los límites de la Constitución y la ley. A diferencia de los demás distritos de Colombia, Bogotá es una entidad territorial de primer orden, con las atribuciones administrativas que la ley confiere a los departamentos. Está constituida por 20 localidades, cada una con su propio alcalde local y una Junta Administradora Local (JAL). Es el epicentro político, económico, administrativo, industrial, artístico, cultural, deportivo y turístico del país.</p>",
-          "normalizedtitle": "Bogotá"
+          "extract": "La Copa Libertadores de América, denominada oficialmente Conmebol Libertadores desde 2017, y llamada simplemente Copa Libertadores; es un torneo anual internacional oficial de fútbol organizado por la Confederación Sudamericana de Fútbol, creado en 1960 bajo la denominación de Copa de Campeones de América. En 1965 el torneo adoptó el nombre «Libertadores» en honor a los líderes de las guerras de independencia hispanoamericanas y brasileña de América del Sur. Es uno de los más prestigiosos torneos en el mundo y la más prestigiosa competición a nivel de clubes de fútbol en América.",
+          "extract_html": "<p>La <b>Copa Libertadores de América</b>, denominada oficialmente <b>Conmebol Libertadores</b> desde 2017, y llamada simplemente <b>Copa Libertadores</b>; es un torneo anual internacional oficial de fútbol organizado por la Confederación Sudamericana de Fútbol, creado en 1960 bajo la denominación de <b>Copa de Campeones de América</b>. En 1965 el torneo adoptó el nombre «Libertadores» en honor a los líderes de las guerras de independencia hispanoamericanas y brasileña de América del Sur. Es uno de los más prestigiosos torneos en el mundo y la más prestigiosa competición a nivel de clubes de fútbol en América.</p>",
+          "normalizedtitle": "Copa Libertadores de América"
         },
         {
           "type": "standard",
-          "title": "Toque_de_queda",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Toque de queda</span></span>",
+          "title": "Clube_de_Regatas_do_Flamengo",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Clube de Regatas do Flamengo</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q223625",
+          "wikibase_item": "Q17479",
           "titles": {
-            "canonical": "Toque_de_queda",
-            "normalized": "Toque de queda",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Toque de queda</span></span>"
+            "canonical": "Clube_de_Regatas_do_Flamengo",
+            "normalized": "Clube de Regatas do Flamengo",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Clube de Regatas do Flamengo</span></span>"
           },
-          "pageid": 226805,
+          "pageid": 291236,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Curfew_in_Tel_Aviv_H_ih_039.JPG/330px-Curfew_in_Tel_Aviv_H_ih_039.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Clube_de_Regatas_do_Flamengo_logo.svg/langes-330px-Clube_de_Regatas_do_Flamengo_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 236
+            "height": 408
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Curfew_in_Tel_Aviv_H_ih_039.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 3442,
-            "height": 2464
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Clube_de_Regatas_do_Flamengo_logo.svg/langes-500px-Clube_de_Regatas_do_Flamengo_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 400,
+            "height": 494
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "175405671",
-          "tid": "a5870f72-b2d7-11f1-a3e6-d3da68636ca1",
-          "timestamp": "2026-09-17T20:37:49Z",
-          "description": "prohibición parcial o total de circular libremente en una ciudad o país",
+          "revision": "176405774",
+          "tid": "fa574431-e5f4-11f1-ba8c-65531637ee73",
+          "timestamp": "2026-11-21T21:46:16Z",
+          "description": "club deportivo de Río de Janeiro, Brasil",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Toque_de_queda",
-              "revisions": "https://es.wikipedia.org/wiki/Toque_de_queda?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Toque_de_queda?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Toque_de_queda"
+              "page": "https://es.wikipedia.org/wiki/Clube_de_Regatas_do_Flamengo",
+              "revisions": "https://es.wikipedia.org/wiki/Clube_de_Regatas_do_Flamengo?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Clube_de_Regatas_do_Flamengo?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Clube_de_Regatas_do_Flamengo"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Toque_de_queda",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Toque_de_queda",
-              "edit": "https://es.wikipedia.org/wiki/Toque_de_queda?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Toque_de_queda"
+              "page": "https://es.wikipedia.org/wiki/Clube_de_Regatas_do_Flamengo",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Clube_de_Regatas_do_Flamengo",
+              "edit": "https://es.wikipedia.org/wiki/Clube_de_Regatas_do_Flamengo?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Clube_de_Regatas_do_Flamengo"
             }
           },
-          "extract": "El toque de queda se refiere a la prohibición o restricción, establecida por instituciones gubernamentales, de circular libremente por las calles de una ciudad o permanecer en lugares públicos, permaneciendo los habitantes únicamente en sus hogares salvo excepciones de necesidad o urgencia. Puede abarcar horarios nocturnos, así como el resto del día, dependiendo de las circunstancias. Es, por tanto, una limitación o restricción legal de la libertad de circulación, considerada internacionalmente un derecho humano y por muchas legislaciones como un derecho constitucional.",
-          "extract_html": "<p>El <b>toque de queda</b> se refiere a la prohibición o restricción, establecida por instituciones gubernamentales, de circular libremente por las calles de una ciudad o permanecer en lugares públicos, permaneciendo los habitantes únicamente en sus hogares salvo excepciones de necesidad o urgencia. Puede abarcar horarios nocturnos, así como el resto del día, dependiendo de las circunstancias. Es, por tanto, una limitación o restricción legal de la libertad de circulación, considerada internacionalmente un derecho humano y por muchas legislaciones como un derecho constitucional.</p>",
-          "normalizedtitle": "Toque de queda"
+          "extract": "El Clube de Regatas do Flamengo es un club deportivo creado en el barrio de Flamengo en la ciudad de Río de Janeiro, Brasil. Fue fundado el 15 de noviembre de 1895 siendo el club más antiguo del país con el mismo nombre y segmento sin haberse fusionado. Actúa de local en el estadio de Maracaná y su uniforme se compone de una camiseta de franjas horizontales rojas y negras, pantalón blanco y medias rojas y negras. Flamengo es uno de los dos clubes brasileños que nunca ha abandonado la Primera División brasileña, siendo el otro São Paulo.",
+          "extract_html": "<p>El <b>Clube de Regatas do Flamengo</b> es un club deportivo creado en el barrio de Flamengo en la ciudad de Río de Janeiro, Brasil. Fue fundado el 15 de noviembre de 1895 siendo el <i>club</i> más antiguo del país con el mismo nombre y segmento sin haberse fusionado. Actúa de local en el estadio de Maracaná y su uniforme se compone de una camiseta de franjas horizontales rojas y negras, pantalón blanco y medias rojas y negras. Flamengo es uno de los dos clubes brasileños que nunca ha abandonado la Primera División brasileña, siendo el otro São Paulo.</p>",
+          "normalizedtitle": "Clube de Regatas do Flamengo"
+        },
+        {
+          "type": "standard",
+          "title": "Club_Atlético_River_Plate",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Club Atlético River Plate</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q15799",
+          "titles": {
+            "canonical": "Club_Atlético_River_Plate",
+            "normalized": "Club Atlético River Plate",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Club Atlético River Plate</span></span>"
+          },
+          "pageid": 48495,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Club_Atl%C3%A9tico_River_Plate_logo.svg/langes-330px-Club_Atl%C3%A9tico_River_Plate_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 409
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Club_Atl%C3%A9tico_River_Plate_logo.svg/langes-960px-Club_Atl%C3%A9tico_River_Plate_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 565,
+            "height": 700
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176141997",
+          "tid": "5dcf2d33-d814-11f1-8638-0d842c0ea7d8",
+          "timestamp": "2026-11-04T05:55:41Z",
+          "description": "club deportivo de Buenos Aires, Argentina",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_River_Plate",
+              "revisions": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_River_Plate?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_River_Plate?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Club_Atl%C3%A9tico_River_Plate"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_River_Plate",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Club_Atl%C3%A9tico_River_Plate",
+              "edit": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_River_Plate?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Club_Atl%C3%A9tico_River_Plate"
+            }
+          },
+          "extract": "El Club Atlético River Plate es una entidad polideportiva de Argentina. Fue fundado el 25 de mayo de 1901 en el barrio de La Boca, tras la fusión de los clubes Santa Rosa y La Rosales, y su nombre proviene de la antigua denominación que se le daba en el inglés británico al Río de la Plata. Su principal actividad es el fútbol masculino profesional, el cual participa en la Primera División de Argentina. Disputa sus partidos en el estadio Mâs Monumental, el de mayor capacidad del continente con un aforo para 85 018 espectadores.",
+          "extract_html": "<p>El <b>Club Atlético River Plate</b> es una entidad polideportiva de Argentina. Fue fundado el 25 de mayo de 1901 en el barrio de La Boca, tras la fusión de los clubes Santa Rosa y La Rosales, y su nombre proviene de la antigua denominación que se le daba en el inglés británico al Río de la Plata. Su principal actividad es el fútbol masculino profesional, el cual participa en la Primera División de Argentina. Disputa sus partidos en el estadio Mâs Monumental, el de mayor capacidad del continente con un aforo para 85 018 espectadores.</p>",
+          "normalizedtitle": "Club Atlético River Plate"
+        },
+        {
+          "type": "standard",
+          "title": "Estadio_Monumental_(Perú)",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Estadio Monumental (Perú)</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q1369426",
+          "titles": {
+            "canonical": "Estadio_Monumental_(Perú)",
+            "normalized": "Estadio Monumental (Perú)",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Estadio Monumental (Perú)</span></span>"
+          },
+          "pageid": 2200889,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Monu2023_u.jpg/330px-Monu2023_u.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 176
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Monu2023_u.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1727,
+            "height": 922
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176244987",
+          "tid": "75ed0591-dd68-11f1-a999-470ab53a9037",
+          "timestamp": "2026-11-11T00:40:15Z",
+          "description": "recinto deportivo en Lima, Perú",
+          "description_source": "central",
+          "coordinates": {
+            "lat": -12.055694,
+            "lon": -76.935972
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Estadio_Monumental_(Per%C3%BA)",
+              "revisions": "https://es.wikipedia.org/wiki/Estadio_Monumental_(Per%C3%BA)?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Estadio_Monumental_(Per%C3%BA)?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Estadio_Monumental_(Per%C3%BA)"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Estadio_Monumental_(Per%C3%BA)",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Estadio_Monumental_(Per%C3%BA)",
+              "edit": "https://es.wikipedia.org/wiki/Estadio_Monumental_(Per%C3%BA)?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Estadio_Monumental_(Per%C3%BA)"
+            }
+          },
+          "extract": "El Estadio Monumental U, conocido popularmente como Monumental de Lima o Monumental de Ate y por motivos de patrocinio Estadio Monumental U Marathon, es el estadio principal de Universitario de la Primera División del Perú. Está ubicado en la avenida Javier Prado Este 7596 del distrito de Ate, en la zona este de la ciudad de Lima. Fue diseñado por el arquitecto uruguayo Walter Lavalleja, que participó en la construcción de otros siete estadios en América.",
+          "extract_html": "<p>El <b>Estadio Monumental U</b>, conocido popularmente como <b>Monumental de Lima</b> o <b>Monumental de Ate</b> y por motivos de patrocinio <b>Estadio Monumental U Marathon</b>, es el estadio principal de Universitario de la Primera División del Perú. Está ubicado en la avenida Javier Prado Este 7596 del distrito de Ate, en la zona este de la ciudad de Lima. Fue diseñado por el arquitecto uruguayo Walter Lavalleja, que participó en la construcción de otros siete estadios en América.</p>",
+          "normalizedtitle": "Estadio Monumental (Perú)"
+        },
+        {
+          "type": "standard",
+          "title": "Gabriel_Barbosa",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Gabriel Barbosa</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q13646572",
+          "titles": {
+            "canonical": "Gabriel_Barbosa",
+            "normalized": "Gabriel Barbosa",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Gabriel Barbosa</span></span>"
+          },
+          "pageid": 6522044,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Gabriel_2020.jpg/330px-Gabriel_2020.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 440
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Gabriel_2020.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1385,
+            "height": 1848
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176079284",
+          "tid": "f302b7e7-d4e0-11f1-9c96-cc8f9715b41b",
+          "timestamp": "2026-10-31T04:10:04Z",
+          "description": "futbolista brasileño",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Gabriel_Barbosa",
+              "revisions": "https://es.wikipedia.org/wiki/Gabriel_Barbosa?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Gabriel_Barbosa?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Gabriel_Barbosa"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Gabriel_Barbosa",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Gabriel_Barbosa",
+              "edit": "https://es.wikipedia.org/wiki/Gabriel_Barbosa?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Gabriel_Barbosa"
+            }
+          },
+          "extract": "Gabriel Barbosa Almeida, más conocido como Gabigol, es un futbolista brasileño que juega como delantero en el Santos del Campeonato brasileño de Serie A. Fue internacional absoluto con la selección de fútbol de Brasil.",
+          "extract_html": "<p><b>Gabriel Barbosa Almeida</b>, más conocido como <b>Gabigol</b>, es un futbolista brasileño que juega como delantero en el Santos del Campeonato brasileño de Serie A. Fue internacional absoluto con la selección de fútbol de Brasil.</p>",
+          "normalizedtitle": "Gabriel Barbosa"
         }
       ],
       "year": 2019
     },
     {
-      "text": "en Japón se produce un terremoto de magnitud 7,4 a 37 km de la costa este.",
+      "text": "se celebra en Atenas el día internacional de las etimologías griegas.",
       "pages": [
         {
           "type": "standard",
-          "title": "Terremoto_de_Fukushima_de_2016",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Terremoto de Fukushima de 2016</span></span>",
+          "title": "Atenas",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Atenas</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q27901768",
+          "wikibase_item": "Q1524",
           "titles": {
-            "canonical": "Terremoto_de_Fukushima_de_2016",
-            "normalized": "Terremoto de Fukushima de 2016",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Terremoto de Fukushima de 2016</span></span>"
+            "canonical": "Atenas",
+            "normalized": "Atenas",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Atenas</span></span>"
           },
-          "pageid": 7673061,
+          "pageid": 7530,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg/langes-330px-Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Greece_location_map.svg/langes-330px-Greece_location_map.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 298
+            "height": 271
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg/langes-500px-Japan_location_map_with_side_map_of_the_Ryukyu_Islands.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 413,
-            "height": 373
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Greece_location_map.svg/langes-1280px-Greece_location_map.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 1003,
+            "height": 825
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "160127910",
-          "tid": "8e1f5ba4-12a8-11ef-8e25-01756be1d1c7",
-          "timestamp": "2024-05-15T10:47:42Z",
-          "description": "Terremoto en Japón",
+          "revision": "175678182",
+          "tid": "be275da4-c0f4-11f1-8110-7ef0bc1b0ce3",
+          "timestamp": "2026-10-05T19:41:22Z",
+          "description": "capital de Grecia",
           "description_source": "central",
           "coordinates": {
-            "lat": 37.35333333,
-            "lon": 141.60333333
+            "lat": 37.98416667,
+            "lon": 23.72805556
           },
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Terremoto_de_Fukushima_de_2016",
-              "revisions": "https://es.wikipedia.org/wiki/Terremoto_de_Fukushima_de_2016?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Terremoto_de_Fukushima_de_2016?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Terremoto_de_Fukushima_de_2016"
+              "page": "https://es.wikipedia.org/wiki/Atenas",
+              "revisions": "https://es.wikipedia.org/wiki/Atenas?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Atenas?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Atenas"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Terremoto_de_Fukushima_de_2016",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Terremoto_de_Fukushima_de_2016",
-              "edit": "https://es.wikipedia.org/wiki/Terremoto_de_Fukushima_de_2016?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Terremoto_de_Fukushima_de_2016"
+              "page": "https://es.wikipedia.org/wiki/Atenas",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Atenas",
+              "edit": "https://es.wikipedia.org/wiki/Atenas?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Atenas"
             }
           },
-          "extract": "El terremoto de Fukushima de 2016 del 22 de noviembre fue un terremoto de magnitud 6.9 Mw que creó olas de maremoto de hasta 1,4 metros. El terremoto ocurrió a las 5:59 JST del martes 22 de noviembre de 2016. El epicentro del terremoto se ubicó en el mar a una profundidad de 30 kilómetros según la AMJ, frente a la costa de Honshū, 37 km al este de Namie, en la prefectura de Fukushima (Japón). Se reportaron ocho réplicas de entre 4,4 y 5,4 de magnitud. El terremoto fue reportado inicialmente con 7,3 Mw de magnitud, el USGS lo rebajó más tarde a 6,9 Mw y la AMJ lo subió a 7,4 Mw.",
-          "extract_html": "<p>El <b>terremoto de Fukushima de 2016</b> del 22 de noviembre fue un terremoto de magnitud 6.9 <span>M<sub>w</sub></span> que creó olas de maremoto de hasta 1,4 metros. El terremoto ocurrió a las 5:59 <i>JST</i> del martes 22 de noviembre de 2016. El epicentro del terremoto se ubicó en el mar a una profundidad de 30 kilómetros según la AMJ, frente a la costa de Honshū, 37 km al este de Namie, en la prefectura de Fukushima (Japón). Se reportaron ocho réplicas de entre 4,4 y 5,4 de magnitud. El terremoto fue reportado inicialmente con 7,3 M<sub>w</sub> de magnitud, el USGS lo rebajó más tarde a 6,9 M<sub>w</sub> y la AMJ lo subió a 7,4 M<sub>w</sub>.</p>",
-          "normalizedtitle": "Terremoto de Fukushima de 2016"
+          "extract": "Atenas es la capital de Grecia y actualmente la ciudad más grande, importante y poblada del país. La población del municipio de Atenas era de 643,452 (2021), y su área metropolitana comprende una población de 3,6 millones. Es el centro principal de la vida económica, cultural y política griega.",
+          "extract_html": "<p><b>Atenas</b> es la capital de Grecia y actualmente la ciudad más grande, importante y poblada del país. La población del municipio de Atenas era de 643,452 (2021), y su área metropolitana comprende una población de 3,6 millones. Es el centro principal de la vida económica, cultural y política griega.</p>",
+          "normalizedtitle": "Atenas"
         }
       ],
       "year": 2016
     },
     {
-      "text": "en Argentina se realiza por primera vez una segunda vuelta electoral para la presidencia, en la que Mauricio Macri resulta ganador con el 51,45 %, con una participación del 80,92 % del padrón electoral y un número altísimo de abstencionismo.",
+      "text": "se produce el 50 aniversario de la serie de televisión británica Doctor Who.",
       "pages": [
         {
           "type": "standard",
-          "title": "Segunda_vuelta_electoral",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Segunda vuelta electoral</span></span>",
+          "title": "Doctor_Who",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Doctor Who</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q615255",
+          "wikibase_item": "Q34316",
           "titles": {
-            "canonical": "Segunda_vuelta_electoral",
-            "normalized": "Segunda vuelta electoral",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Segunda vuelta electoral</span></span>"
+            "canonical": "Doctor_Who",
+            "normalized": "Doctor Who",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Doctor Who</span></span>"
           },
-          "pageid": 347887,
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176260015",
-          "tid": "92a43d12-de37-11f1-b118-5a748c8bfda5",
-          "timestamp": "2026-11-12T01:22:49Z",
-          "description": "sistema de votación utilizado para elegir a un único ganador donde se utiliza una segunda ronda de votación si ningún candidato obtiene la mayoría absoluta en la primera ronda",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Segunda_vuelta_electoral",
-              "revisions": "https://es.wikipedia.org/wiki/Segunda_vuelta_electoral?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Segunda_vuelta_electoral?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Segunda_vuelta_electoral"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Segunda_vuelta_electoral",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Segunda_vuelta_electoral",
-              "edit": "https://es.wikipedia.org/wiki/Segunda_vuelta_electoral?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Segunda_vuelta_electoral"
-            }
-          },
-          "extract": "La segunda vuelta electoral o balotaje es un mecanismo presente en algunos sistemas electorales que consiste en realizar una segunda elección limitada a los candidatos que más votos obtuvieron en la primera elección —habitualmente los dos primeros—, en caso de que ningún candidato haya obtenido un mínimo de votos preestablecido. Entre las finalidades del mecanismo se encuentra la intención de dotar al candidato ganador de una mayor representatividad y legitimidad, así como dificultar el triunfo de ciertos candidatos o partidos políticos, promoviendo la regla de «unirse contra el mal mayor» y la noción de «voto útil».",
-          "extract_html": "<p>La <b>segunda vuelta electoral</b> o <b>balotaje</b> es un mecanismo presente en algunos sistemas electorales que consiste en realizar una segunda elección limitada a los candidatos que más votos obtuvieron en la primera elección —habitualmente los dos primeros—, en caso de que ningún candidato haya obtenido un mínimo de votos preestablecido. Entre las finalidades del mecanismo se encuentra la intención de dotar al candidato ganador de una mayor representatividad y legitimidad, así como dificultar el triunfo de ciertos candidatos o partidos políticos, promoviendo la regla de «unirse contra el mal mayor» y la noción de «voto útil».</p>",
-          "normalizedtitle": "Segunda vuelta electoral"
-        },
-        {
-          "type": "standard",
-          "title": "Mauricio_Macri",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mauricio Macri</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q561837",
-          "titles": {
-            "canonical": "Mauricio_Macri",
-            "normalized": "Mauricio Macri",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mauricio Macri</span></span>"
-          },
-          "pageid": 229299,
+          "pageid": 471611,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Retrato_oficial_del_Presidente_Mauricio_Macri.jpg/330px-Retrato_oficial_del_Presidente_Mauricio_Macri.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Doctor_Who_logo_1963-1967path.svg/langes-330px-Doctor_Who_logo_1963-1967path.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 440
+            "height": 247
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/4/44/Retrato_oficial_del_Presidente_Mauricio_Macri.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 720,
-            "height": 960
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Doctor_Who_logo_1963-1967path.svg/langes-960px-Doctor_Who_logo_1963-1967path.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 512,
+            "height": 383
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176376758",
-          "tid": "627a214f-e46b-11f1-bd77-38caa26705b8",
-          "timestamp": "2026-11-19T22:48:49Z",
-          "description": "presidente de Argentina de 2015 a 2019",
+          "revision": "175851758",
+          "tid": "2ae5f70b-c940-11f1-9e95-cde93ca8850d",
+          "timestamp": "2026-10-16T09:01:26Z",
+          "description": "serie de televisión británica de ciencia ficción",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Mauricio_Macri",
-              "revisions": "https://es.wikipedia.org/wiki/Mauricio_Macri?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Mauricio_Macri?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Mauricio_Macri"
+              "page": "https://es.wikipedia.org/wiki/Doctor_Who",
+              "revisions": "https://es.wikipedia.org/wiki/Doctor_Who?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Doctor_Who?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Doctor_Who"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Mauricio_Macri",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Mauricio_Macri",
-              "edit": "https://es.wikipedia.org/wiki/Mauricio_Macri?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Mauricio_Macri"
+              "page": "https://es.wikipedia.org/wiki/Doctor_Who",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Doctor_Who",
+              "edit": "https://es.wikipedia.org/wiki/Doctor_Who?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Doctor_Who"
             }
           },
-          "extract": "Mauricio Macri es un político, ingeniero civil, empresario y dirigente deportivo argentino, que ejerció como presidente de la Nación Argentina entre 2015 y 2019, como jefe de Gobierno de la Ciudad de Buenos Aires entre 2007 y 2015, y como presidente del Club Atlético Boca Juniors entre 1995 y 2007. Desde 2020 se desempeña como presidente ejecutivo de la Fundación FIFA.",
-          "extract_html": "<p><b>Mauricio Macri</b> es un político, ingeniero civil, empresario y dirigente deportivo argentino, que ejerció como presidente de la Nación Argentina entre 2015 y 2019, como jefe de Gobierno de la Ciudad de Buenos Aires entre 2007 y 2015, y como presidente del Club Atlético Boca Juniors entre 1995 y 2007. Desde 2020 se desempeña como presidente ejecutivo de la Fundación FIFA.</p>",
-          "normalizedtitle": "Mauricio Macri"
+          "extract": "Doctor Who es una serie de televisión británica de ciencia ficción producida por la BBC. Está dividida en dos etapas: la denominada serie clásica, emitida entre 1963 y 1989, y la serie moderna, iniciada en 2005 y que continúa emitiéndose en la actualidad. Forma parte también de la serie oficial una película para televisión emitida en 1996 titulada Doctor Who: La película producida entre Reino Unido, Estados Unidos y Canadá.",
+          "extract_html": "<p><i><b>Doctor Who</b></i> es una serie de televisión británica de ciencia ficción producida por la BBC. Está dividida en dos etapas: la denominada <i>serie clásica</i>, emitida entre 1963 y 1989, y la <i>serie moderna</i>, iniciada en 2005 y que continúa emitiéndose en la actualidad. Forma parte también de la serie oficial una película para televisión emitida en 1996 titulada <i>Doctor Who: La película</i> producida entre Reino Unido, Estados Unidos y Canadá.</p>",
+          "normalizedtitle": "Doctor Who"
         }
       ],
-      "year": 2015
+      "year": 2013
+    },
+    {
+      "text": "se celebra en Barcelona un acto de presentación nacional de la plataforma civil Movimiento Ciudadano.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Barcelona",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Barcelona</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q1492",
+          "titles": {
+            "canonical": "Barcelona",
+            "normalized": "Barcelona",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Barcelona</span></span>"
+          },
+          "pageid": 387,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Barcelona.svg/langes-330px-Flag_of_Barcelona.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 220
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Barcelona.svg/langes-3840px-Flag_of_Barcelona.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 3000,
+            "height": 2000
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176175030",
+          "tid": "2658b243-d9cf-11f1-801a-b12a7a08fd33",
+          "timestamp": "2026-11-06T10:45:15Z",
+          "description": "capital de Cataluña, España",
+          "description_source": "central",
+          "coordinates": {
+            "lat": 41.3825,
+            "lon": 2.17694444
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Barcelona",
+              "revisions": "https://es.wikipedia.org/wiki/Barcelona?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Barcelona?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Barcelona"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Barcelona",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Barcelona",
+              "edit": "https://es.wikipedia.org/wiki/Barcelona?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Barcelona"
+            }
+          },
+          "extract": "Barcelona es una ciudad de España, capital de Cataluña, de la provincia de Barcelona y de la comarca del Barcelonés. Con una población de 1 731 649 habitantes, es la segunda ciudad más poblada de España y de la península ibérica después de Madrid, y la décima de la Unión Europea. Su ámbito metropolitano cuenta con una población de 5 797 356 habitantes según Eurostat, siendo así la tercera aglomeración urbana de mayor población y la más densamente poblada de la Unión Europea.",
+          "extract_html": "<p><b>Barcelona</b> es una ciudad de España, capital de Cataluña, de la provincia de Barcelona y de la comarca del Barcelonés. Con una población de <span>1 731 649 habitantes</span>, es la segunda ciudad más poblada de España y de la península ibérica después de Madrid, y la décima de la Unión Europea. Su ámbito metropolitano cuenta con una población de 5 797 356 habitantes según Eurostat, siendo así la tercera aglomeración urbana de mayor población y la más densamente poblada de la Unión Europea.</p>",
+          "normalizedtitle": "Barcelona"
+        }
+      ],
+      "year": 2013
     }
   ]
 }
