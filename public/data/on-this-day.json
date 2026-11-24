@@ -1,953 +1,989 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "source": "Wikimedia",
   "items": [
     {
-      "text": "en Asunción (Paraguay), Racing Club de Argentina vence 3–1 a Cruzeiro de Brasil en el Estadio General Pablo Rojas, y se consagra campeón de la Copa Sudamericana 2024.",
+      "text": "El equipo informático de Alibaba Group informa en privado a la organización de soporte de software Apache sobre una vulnerabilidad en una librería de Java conocida como Log4j, que permite la ejecución de código arbitrario y que es catalogada de severa gravedad.",
       "pages": [
         {
           "type": "standard",
-          "title": "Asunción",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Asunción</span></span>",
+          "title": "Alibaba_Group",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alibaba Group</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q2933",
+          "wikibase_item": "Q1359568",
           "titles": {
-            "canonical": "Asunción",
-            "normalized": "Asunción",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Asunción</span></span>"
+            "canonical": "Alibaba_Group",
+            "normalized": "Alibaba Group",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alibaba Group</span></span>"
           },
-          "pageid": 2586895,
+          "pageid": 6380674,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Palacio_de_Gobierno2.jpg/330px-Palacio_de_Gobierno2.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/TaobaoCity_Alibaba_Xixi_Park.jpg/330px-TaobaoCity_Alibaba_Xixi_Park.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 248
+            "height": 186
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Palacio_de_Gobierno2.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1024,
-            "height": 768
+            "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/TaobaoCity_Alibaba_Xixi_Park.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 3552,
+            "height": 2000
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176122837",
-          "tid": "217bce85-d73b-11f1-a794-99e63d6de8c7",
-          "timestamp": "2026-11-03T04:00:39Z",
-          "description": "capital de Paraguay",
+          "revision": "176429545",
+          "tid": "63e46ab9-e741-11f1-b649-39f8f8171405",
+          "timestamp": "2026-11-23T13:25:46Z",
+          "description": "Consorcio Privado Chino",
           "description_source": "central",
           "coordinates": {
-            "lat": -25.28,
-            "lon": -57.63444444
+            "lat": 30.19197778,
+            "lon": 120.18605278
           },
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Asunci%C3%B3n",
-              "revisions": "https://es.wikipedia.org/wiki/Asunci%C3%B3n?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Asunci%C3%B3n?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Asunci%C3%B3n"
+              "page": "https://es.wikipedia.org/wiki/Alibaba_Group",
+              "revisions": "https://es.wikipedia.org/wiki/Alibaba_Group?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Alibaba_Group?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Alibaba_Group"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Asunci%C3%B3n",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Asunci%C3%B3n",
-              "edit": "https://es.wikipedia.org/wiki/Asunci%C3%B3n?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Asunci%C3%B3n"
+              "page": "https://es.wikipedia.org/wiki/Alibaba_Group",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Alibaba_Group",
+              "edit": "https://es.wikipedia.org/wiki/Alibaba_Group?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Alibaba_Group"
             }
           },
-          "extract": "Asunción, oficialmente llamada Ciudad de la Asunción,es la capital y ciudad más poblada del Paraguay, ubicada en el centro-oeste de la Región Oriental. Es un municipio de primer orden administrado como distrito capital y no está integrado en ningún departamento. Limita al norte con el río Paraguay que la separa del departamento Presidente Hayes y de la Región Occidental; al este y sur con el departamento Central; y al oeste con el río Paraguay, que la separa de la República Argentina, concretamente del departamento Pilcomayo perteneciente a la provincia de Formosa, por lo que es una ciudad fronteriza. Fue fundada como Nuestra Señora de la Asunción el 15 de agosto de 1537 por Juan de Salazar y Espinosa, lo que la hace una de las ciudades más antiguas de América.",
-          "extract_html": "<p><b>Asunción</b>, oficialmente llamada <b>Ciudad de la Asunción</b>,es la capital y ciudad más poblada del Paraguay, ubicada en el centro-oeste de la Región Oriental. Es un municipio de primer orden administrado como distrito capital y no está integrado en ningún departamento. Limita al norte con el río Paraguay que la separa del departamento Presidente Hayes y de la Región Occidental; al este y sur con el departamento Central; y al oeste con el río Paraguay, que la separa de la República Argentina, concretamente del departamento Pilcomayo perteneciente a la provincia de Formosa, por lo que es una ciudad fronteriza. Fue fundada como <b>Nuestra Señora de la Asunción</b> el 15 de agosto de 1537 por Juan de Salazar y Espinosa, lo que la hace una de las ciudades más antiguas de América.</p>",
-          "normalizedtitle": "Asunción"
+          "extract": "Alibaba Group es un consorcio privado chino que posee 18 subsidiarias con sede en Hangzhou dedicado al comercio electrónico en Internet, incluyendo portales de ventas business-to-business, de venta al por menor, y de venta entre consumidores; también ofrece servicios de pago en línea, un motor de búsqueda de comparación de precios y servicios de almacenamiento de datos en la nube. En 2012, dos de los portales de Alibaba juntos manejaron 1,1 billones de yuanes en ventas, más que sus competidores eBay y Amazon.com combinados. La compañía opera principalmente en la República Popular China, y en marzo de 2013 la revista The Economist estimó que el consorcio podría tener una valoración de entre 55 000 y 120 000 millones de dólares. Durante 2013 consiguió unos ingresos aproximados de 7500 millones de dólares y poseía unos 22 000 empleados en marzo de 2014.",
+          "extract_html": "<p><b>Alibaba Group</b> es un consorcio privado chino que posee 18 subsidiarias con sede en Hangzhou dedicado al comercio electrónico en Internet, incluyendo portales de ventas business-to-business, de venta al por menor, y de venta entre consumidores; también ofrece servicios de pago en línea, un motor de búsqueda de comparación de precios y servicios de almacenamiento de datos en la nube. En 2012, dos de los portales de Alibaba juntos manejaron 1,1 billones de yuanes en ventas, más que sus competidores eBay y Amazon.com combinados. La compañía opera principalmente en la República Popular China, y en marzo de 2013 la revista <i>The Economist</i> estimó que el consorcio podría tener una valoración de entre 55 000 y 120 000 millones de dólares. Durante 2013 consiguió unos ingresos aproximados de 7500 millones de dólares y poseía unos 22 000 empleados en marzo de 2014.</p>",
+          "normalizedtitle": "Alibaba Group"
         },
         {
           "type": "standard",
-          "title": "Paraguay",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Paraguay</span></span>",
+          "title": "Apache_Software_Foundation",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Apache Software Foundation</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q733",
+          "wikibase_item": "Q489709",
           "titles": {
-            "canonical": "Paraguay",
-            "normalized": "Paraguay",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Paraguay</span></span>"
+            "canonical": "Apache_Software_Foundation",
+            "normalized": "Apache Software Foundation",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Apache Software Foundation</span></span>"
           },
-          "pageid": 7804,
+          "pageid": 97828,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/langes-330px-Flag_of_Paraguay.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/The_ASF_Logo_%282025%29.svg/langes-330px-The_ASF_Logo_%282025%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 182
+            "height": 173
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Flag_of_Paraguay.svg/langes-1280px-Flag_of_Paraguay.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 1200,
-            "height": 660
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/The_ASF_Logo_%282025%29.svg/langes-960px-The_ASF_Logo_%282025%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 512,
+            "height": 269
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176258831",
-          "tid": "646b3211-de28-11f1-9e51-97d7d55cd208",
-          "timestamp": "2026-11-11T23:34:09Z",
-          "description": "país de América del Sur",
+          "revision": "172479381",
+          "tid": "c04b758f-1e9f-11f1-bdf7-4bd16c132527",
+          "timestamp": "2026-03-13T05:44:50Z",
+          "description": "comunidad estadounidense de software de código abierto sin fines de lucro",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Paraguay",
-              "revisions": "https://es.wikipedia.org/wiki/Paraguay?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Paraguay?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Paraguay"
+              "page": "https://es.wikipedia.org/wiki/Apache_Software_Foundation",
+              "revisions": "https://es.wikipedia.org/wiki/Apache_Software_Foundation?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Apache_Software_Foundation?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Apache_Software_Foundation"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Paraguay",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Paraguay",
-              "edit": "https://es.wikipedia.org/wiki/Paraguay?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Paraguay"
+              "page": "https://es.wikipedia.org/wiki/Apache_Software_Foundation",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Apache_Software_Foundation",
+              "edit": "https://es.wikipedia.org/wiki/Apache_Software_Foundation?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Apache_Software_Foundation"
             }
           },
-          "extract": "Paraguay, oficialmente República del Paraguay, es un país soberano situado en el centro de Sudamérica con grandes extensiones de bosques, cataratas y humedales.Está organizado como un estado unitario, compuesto por una capital y diecisiete departamentos. Su capital es Asunción, una de las ciudades más antiguas de América. Su forma de gobierno es de república que se rige por el sistema presidencial y se organiza como un estado de derecho. Es miembro fundador de la ONU, la OEA, la OIM y el MERCOSUR.",
-          "extract_html": "<p><b>Paraguay</b>, oficialmente <b>República del Paraguay</b>, es un país soberano situado en el centro de Sudamérica con grandes extensiones de bosques, cataratas y humedales.Está organizado como un estado unitario, compuesto por una capital y diecisiete departamentos. Su capital es Asunción, una de las ciudades más antiguas de América. Su forma de gobierno es de república que se rige por el sistema presidencial y se organiza como un estado de derecho. Es miembro fundador de la ONU, la OEA, la OIM y el MERCOSUR.</p>",
-          "normalizedtitle": "Paraguay"
+          "extract": "Apache Software Foundation (ASF) es una organización sin fines de lucro creada para dar soporte a los proyectos de software bajo la denominación Apache, incluyendo el popular servidor HTTP Apache. La ASF se formó a partir del llamado Grupo Apache y fue registrada en Delaware, en marzo de 1996.",
+          "extract_html": "<p><b>Apache Software Foundation</b> (ASF) es una organización sin fines de lucro creada para dar soporte a los proyectos de software bajo la denominación <i>Apache</i>, incluyendo el popular servidor HTTP Apache. La ASF se formó a partir del llamado <i>Grupo Apache</i> y fue registrada en Delaware, en marzo de 1996.</p>",
+          "normalizedtitle": "Apache Software Foundation"
         },
         {
           "type": "standard",
-          "title": "Racing_Club",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Racing Club</span></span>",
+          "title": "Agujero_de_seguridad",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Agujero de seguridad</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q276533",
+          "wikibase_item": "Q631425",
           "titles": {
-            "canonical": "Racing_Club",
-            "normalized": "Racing Club",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Racing Club</span></span>"
+            "canonical": "Agujero_de_seguridad",
+            "normalized": "Agujero de seguridad",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Agujero de seguridad</span></span>"
           },
-          "pageid": 94529,
+          "pageid": 19134,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Escudo_de_Racing_Club_%282014%29.svg/langes-330px-Escudo_de_Racing_Club_%282014%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Vulnerability_timeline.png/330px-Vulnerability_timeline.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 401
+            "height": 181
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Escudo_de_Racing_Club_%282014%29.svg/langes-250px-Escudo_de_Racing_Club_%282014%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 247,
-            "height": 300
+            "source": "https://upload.wikimedia.org/wikipedia/commons/5/58/Vulnerability_timeline.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 2558,
+            "height": 1400
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176425037",
-          "tid": "c6f9dfd9-e6f0-11f1-a63d-db59bc5d1da0",
-          "timestamp": "2026-11-23T03:48:43Z",
-          "description": "club deportivo de Avellaneda, Argentina",
+          "revision": "174472569",
+          "tid": "5f672a1a-84ad-11f1-9f1f-633589c6eda8",
+          "timestamp": "2026-07-21T02:39:19Z",
+          "description": "vulnerabilidad de un sistema de información",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Racing_Club",
-              "revisions": "https://es.wikipedia.org/wiki/Racing_Club?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Racing_Club?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Racing_Club"
+              "page": "https://es.wikipedia.org/wiki/Agujero_de_seguridad",
+              "revisions": "https://es.wikipedia.org/wiki/Agujero_de_seguridad?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Agujero_de_seguridad?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Agujero_de_seguridad"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Racing_Club",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Racing_Club",
-              "edit": "https://es.wikipedia.org/wiki/Racing_Club?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Racing_Club"
+              "page": "https://es.wikipedia.org/wiki/Agujero_de_seguridad",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Agujero_de_seguridad",
+              "edit": "https://es.wikipedia.org/wiki/Agujero_de_seguridad?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Agujero_de_seguridad"
             }
           },
-          "extract": "El Racing Club es una entidad polideportiva con sede en la ciudad de Avellaneda, Argentina. Fue fundado como club de fútbol el 25 de marzo de 1903, constituyéndose el primero de su país creado íntegramente por criollos. Su principal actividad es el fútbol masculino profesional, el cual participa en la Primera División de Argentina.",
-          "extract_html": "<p>El <b>Racing Club</b> es una entidad polideportiva con sede en la ciudad de Avellaneda, Argentina. Fue fundado como club de fútbol el 25 de marzo de 1903, constituyéndose el primero de su país creado íntegramente por criollos. Su principal actividad es el fútbol masculino profesional, el cual participa en la Primera División de Argentina.</p>",
-          "normalizedtitle": "Racing Club"
+          "extract": "Un agujero de seguridad o vulnerabilidad es un fallo en un sistema de información que se puede explotar para violar la seguridad del sistema.",
+          "extract_html": "<p>Un <b>agujero de seguridad</b> o <b>vulnerabilidad</b> es un fallo en un sistema de información que se puede explotar para violar la seguridad del sistema.</p>",
+          "normalizedtitle": "Agujero de seguridad"
         },
         {
           "type": "standard",
-          "title": "Cruzeiro_Esporte_Clube",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Cruzeiro Esporte Clube</span></span>",
+          "title": "Biblioteca_(informática)",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Biblioteca (informática)</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q188277",
+          "wikibase_item": "Q188860",
           "titles": {
-            "canonical": "Cruzeiro_Esporte_Clube",
-            "normalized": "Cruzeiro Esporte Clube",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Cruzeiro Esporte Clube</span></span>"
+            "canonical": "Biblioteca_(informática)",
+            "normalized": "Biblioteca (informática)",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Biblioteca (informática)</span></span>"
           },
-          "pageid": 288862,
+          "pageid": 9220,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg/langes-330px-Cruzeiro_Esporte_Clube_%28logo%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 330
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Cruzeiro_Esporte_Clube_%28logo%29.svg/langes-330px-Cruzeiro_Esporte_Clube_%28logo%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 316,
-            "height": 316
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176403579",
-          "tid": "9aa07000-e5db-11f1-af68-e19fbeb94318",
-          "timestamp": "2026-11-21T18:44:38Z",
-          "description": "club de fútbol brasileño",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Cruzeiro_Esporte_Clube",
-              "revisions": "https://es.wikipedia.org/wiki/Cruzeiro_Esporte_Clube?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Cruzeiro_Esporte_Clube?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Cruzeiro_Esporte_Clube"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Cruzeiro_Esporte_Clube",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Cruzeiro_Esporte_Clube",
-              "edit": "https://es.wikipedia.org/wiki/Cruzeiro_Esporte_Clube?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Cruzeiro_Esporte_Clube"
-            }
-          },
-          "extract": "El Cruzeiro Esporte Clube es una asociación multideportiva brasileña ubicada en la ciudad de Belo Horizonte, capital del Estado de Minas Gerais. Aunque compiten en varios deportes diferentes, Cruzeiro es conocido principalmente por su equipo de fútbol de asociación. Participa en el Campeonato Brasileño de Serie A y es el máximo ganador de la Copa de Brasil.",
-          "extract_html": "<p>El <b>Cruzeiro Esporte Clube</b> es una asociación multideportiva brasileña ubicada en la ciudad de Belo Horizonte, capital del Estado de Minas Gerais. Aunque compiten en varios deportes diferentes, Cruzeiro es conocido principalmente por su equipo de fútbol de asociación. Participa en el Campeonato Brasileño de Serie A y es el máximo ganador de la Copa de Brasil.</p>",
-          "normalizedtitle": "Cruzeiro Esporte Clube"
-        },
-        {
-          "type": "standard",
-          "title": "Estadio_General_Pablo_Rojas",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Estadio General Pablo Rojas</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q1369223",
-          "titles": {
-            "canonical": "Estadio_General_Pablo_Rojas",
-            "normalized": "Estadio General Pablo Rojas",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Estadio General Pablo Rojas</span></span>"
-          },
-          "pageid": 968982,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Estadio_General_Pablo_Rojas.jpg/330px-Estadio_General_Pablo_Rojas.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 213
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Estadio_General_Pablo_Rojas.jpg/3840px-Estadio_General_Pablo_Rojas.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 4864,
-            "height": 3136
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176333700",
-          "tid": "1b04507e-e229-11f1-8309-6f6d20e7684e",
-          "timestamp": "2026-11-17T01:49:20Z",
-          "description": "estadio de fútbol del Club Cerro Porteño de Paraguay",
-          "description_source": "central",
-          "coordinates": {
-            "lat": -25.3,
-            "lon": -57.6375
-          },
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Estadio_General_Pablo_Rojas",
-              "revisions": "https://es.wikipedia.org/wiki/Estadio_General_Pablo_Rojas?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Estadio_General_Pablo_Rojas?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Estadio_General_Pablo_Rojas"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Estadio_General_Pablo_Rojas",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Estadio_General_Pablo_Rojas",
-              "edit": "https://es.wikipedia.org/wiki/Estadio_General_Pablo_Rojas?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Estadio_General_Pablo_Rojas"
-            }
-          },
-          "extract": "El Estadio General Pablo Rojas, Conocido como La Nueva Olla, es un recinto deportivo propiedad del Club Cerro Porteño, ubicado en la ciudad de Asunción, Paraguay. Situado en la intersección de la avenida Acuña de Figueroa y la calle Parapití, en el barrio Obrero, fue inaugurado el 24 de mayo de 1970 con un partido entre Cerro Porteño y Silvio Pettirossi por el Campeonato Paraguayo de Fútbol, que finalizó 2–1 a favor del equipo local.",
-          "extract_html": "<p>El <b>Estadio General Pablo Rojas</b>, Conocido como <b>La Nueva Olla,</b> es un recinto deportivo propiedad del Club Cerro Porteño, ubicado en la ciudad de Asunción, Paraguay. Situado en la intersección de la avenida Acuña de Figueroa y la calle Parapití, en el barrio Obrero, fue inaugurado el 24 de mayo de 1970 con un partido entre Cerro Porteño y Silvio Pettirossi por el Campeonato Paraguayo de Fútbol, que finalizó 2–1 a favor del equipo local.</p>",
-          "normalizedtitle": "Estadio General Pablo Rojas"
-        },
-        {
-          "type": "standard",
-          "title": "Copa_Sudamericana_2024",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Copa Sudamericana 2024</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q122199499",
-          "titles": {
-            "canonical": "Copa_Sudamericana_2024",
-            "normalized": "Copa Sudamericana 2024",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Copa Sudamericana 2024</span></span>"
-          },
-          "pageid": 10653760,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Estadio_General_Pablo_Rojas.jpg/330px-Estadio_General_Pablo_Rojas.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 213
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Estadio_General_Pablo_Rojas.jpg/3840px-Estadio_General_Pablo_Rojas.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 4864,
-            "height": 3136
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "174767270",
-          "tid": "77dbab98-93a4-11f1-b14c-89a4d18f7d47",
-          "timestamp": "2026-08-09T03:43:22Z",
-          "description": "23.ª edición de la Copa Conmebol Sudamericana",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Copa_Sudamericana_2024",
-              "revisions": "https://es.wikipedia.org/wiki/Copa_Sudamericana_2024?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Copa_Sudamericana_2024?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Copa_Sudamericana_2024"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Copa_Sudamericana_2024",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Copa_Sudamericana_2024",
-              "edit": "https://es.wikipedia.org/wiki/Copa_Sudamericana_2024?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Copa_Sudamericana_2024"
-            }
-          },
-          "extract": "La Copa Sudamericana 2024, denominada oficialmente Copa Conmebol Sudamericana 2024, fue la vigésima tercera edición del torneo organizado por la Conmebol, en la que participaron equipos de los diez países afiliados a la confederación: Argentina, Bolivia, Brasil, Chile, Colombia, Ecuador, Paraguay, Perú, Uruguay y Venezuela.",
-          "extract_html": "<p>La <b>Copa Sudamericana 2024</b>, denominada oficialmente <b>Copa Conmebol Sudamericana 2024</b>, fue la vigésima tercera edición del torneo organizado por la Conmebol, en la que participaron equipos de los diez países afiliados a la confederación: Argentina, Bolivia, Brasil, Chile, Colombia, Ecuador, Paraguay, Perú, Uruguay y Venezuela.</p>",
-          "normalizedtitle": "Copa Sudamericana 2024"
-        }
-      ],
-      "year": 2024
-    },
-    {
-      "text": "Daniel Noboa Azín es posesionado como el 48° presidente del Ecuador, siendo el primer mandatario que asume el poder tras la activación del artículo 148 de la Constitución, conocido como \"muerte cruzada\", por parte de su antecesor Guillermo Lasso, que convocaba a elecciones presidenciales y legislativas para completar el período para el que fue electo (2021-2025).",
-      "pages": [
-        {
-          "type": "standard",
-          "title": "Daniel_Noboa",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Daniel Noboa</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q112075625",
-          "titles": {
-            "canonical": "Daniel_Noboa",
-            "normalized": "Daniel Noboa",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Daniel Noboa</span></span>"
-          },
-          "pageid": 10238507,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Noboa_en_24_mayo_de_2026.jpg/330px-Noboa_en_24_mayo_de_2026.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 454
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/4/44/Noboa_en_24_mayo_de_2026.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 2557,
-            "height": 3520
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176429731",
-          "tid": "6a73e501-e743-11f1-8df7-fcf5b4e8ebdb",
-          "timestamp": "2026-11-23T13:40:16Z",
-          "description": "presidente de Ecuador",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Daniel_Noboa",
-              "revisions": "https://es.wikipedia.org/wiki/Daniel_Noboa?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Daniel_Noboa?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Daniel_Noboa"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Daniel_Noboa",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Daniel_Noboa",
-              "edit": "https://es.wikipedia.org/wiki/Daniel_Noboa?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Daniel_Noboa"
-            }
-          },
-          "extract": "Daniel Roy Gilchrist Noboa Azín es un administrador, empresario y político ecuatoriano-estadounidense, presidente de la República del Ecuador desde el 23 de noviembre de 2023. Asumió el cargo a la edad de 35 años, resultando el más joven presidente elegido democráticamente.",
-          "extract_html": "<p><b>Daniel Roy Gilchrist Noboa Azín</b> es un administrador, empresario y político ecuatoriano-estadounidense, presidente de la República del Ecuador desde el 23 de noviembre de 2023. Asumió el cargo a la edad de 35 años, resultando el más joven presidente elegido democráticamente.</p>",
-          "normalizedtitle": "Daniel Noboa"
-        },
-        {
-          "type": "standard",
-          "title": "Presidente_del_Ecuador",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Presidente del Ecuador</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q732562",
-          "titles": {
-            "canonical": "Presidente_del_Ecuador",
-            "normalized": "Presidente del Ecuador",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Presidente del Ecuador</span></span>"
-          },
-          "pageid": 112325,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Daniel_Noboa_Informe_a_la_Nacion_2026.jpg/330px-Daniel_Noboa_Informe_a_la_Nacion_2026.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 495
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Daniel_Noboa_Informe_a_la_Nacion_2026.jpg/3840px-Daniel_Noboa_Informe_a_la_Nacion_2026.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 4000,
-            "height": 6000
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176120955",
-          "tid": "96dba433-d723-11f1-a7f0-b5e4291efbaa",
-          "timestamp": "2026-11-03T01:12:08Z",
-          "description": "jefe de Estado y Gobierno de Ecuador",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Presidente_del_Ecuador",
-              "revisions": "https://es.wikipedia.org/wiki/Presidente_del_Ecuador?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Presidente_del_Ecuador?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Presidente_del_Ecuador"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Presidente_del_Ecuador",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Presidente_del_Ecuador",
-              "edit": "https://es.wikipedia.org/wiki/Presidente_del_Ecuador?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Presidente_del_Ecuador"
-            }
-          },
-          "extract": "El presidente de Ecuador, también denominado presidente constitucional de la República del Ecuador, es el jefe de Estado y gobierno del país sudamericano, ejerciendo la Función Ejecutiva. Es asistido por un vicepresidente y un equipo de colaboradores agrupados en el Gabinete de Ministros, a su vez es el comandante supremo de las Fuerzas Armadas. Su lema es «Mi Poder en la Constitución», frase que aparece desde 1830 en la Banda Presidencial.",
-          "extract_html": "<p>El <b>presidente de Ecuador</b>, también denominado <b>presidente constitucional de la República del Ecuador</b>, es el jefe de Estado y gobierno del país sudamericano, ejerciendo la Función Ejecutiva. Es asistido por un vicepresidente y un equipo de colaboradores agrupados en el Gabinete de Ministros, a su vez es el comandante supremo de las Fuerzas Armadas. Su lema es «Mi Poder en la Constitución», frase que aparece desde 1830 en la Banda Presidencial.</p>",
-          "normalizedtitle": "Presidente del Ecuador"
-        },
-        {
-          "type": "standard",
-          "title": "Muerte_cruzada",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Muerte cruzada</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q6025827",
-          "titles": {
-            "canonical": "Muerte_cruzada",
-            "normalized": "Muerte cruzada",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Muerte cruzada</span></span>"
-          },
-          "pageid": 4235062,
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "165267657",
-          "tid": "6d5221f7-e608-11ef-8afe-74ce2e02b7d7",
-          "timestamp": "2025-02-08T10:35:34Z",
-          "description": "mecanismo constitucional de Ecuador",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Muerte_cruzada",
-              "revisions": "https://es.wikipedia.org/wiki/Muerte_cruzada?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Muerte_cruzada?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Muerte_cruzada"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Muerte_cruzada",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Muerte_cruzada",
-              "edit": "https://es.wikipedia.org/wiki/Muerte_cruzada?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Muerte_cruzada"
-            }
-          },
-          "extract": "En la política de Ecuador, «muerte cruzada» es el nombre comúnmente dado a un mecanismo que rige el proceso de destitución al presidente del Ecuador y la disolución de la Asamblea Nacional previsto en los artículos 130 y 148 de la Constitución de 2008.",
-          "extract_html": "<p>En la política de Ecuador, «<b>muerte cruzada</b>» es el nombre comúnmente dado a un mecanismo que rige el proceso de destitución al presidente del Ecuador y la disolución de la Asamblea Nacional previsto en los artículos 130 y 148 de la Constitución de 2008.</p>",
-          "normalizedtitle": "Muerte cruzada"
-        },
-        {
-          "type": "standard",
-          "title": "Guillermo_Lasso",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Guillermo Lasso</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q4414537",
-          "titles": {
-            "canonical": "Guillermo_Lasso",
-            "normalized": "Guillermo Lasso",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Guillermo Lasso</span></span>"
-          },
-          "pageid": 5186098,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/President_Guillermo_Lasso_2022.jpg/330px-President_Guillermo_Lasso_2022.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 422
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/c/cf/President_Guillermo_Lasso_2022.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1288,
-            "height": 1646
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176201688",
-          "tid": "2976aba6-db47-11f1-a6b3-23829cd3c156",
-          "timestamp": "2026-11-08T07:36:51Z",
-          "description": "Presidente de la República del Ecuador (2021 - 2023)",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Guillermo_Lasso",
-              "revisions": "https://es.wikipedia.org/wiki/Guillermo_Lasso?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Guillermo_Lasso?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Guillermo_Lasso"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Guillermo_Lasso",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Guillermo_Lasso",
-              "edit": "https://es.wikipedia.org/wiki/Guillermo_Lasso?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Guillermo_Lasso"
-            }
-          },
-          "extract": "Guillermo Alberto Santiago Lasso Mendoza es un político, diplomático, empresario, exejecutivo y banquero ecuatoriano que fue presidente de la República del Ecuador desde el 24 de mayo de 2021 hasta el 23 de noviembre de 2023.",
-          "extract_html": "<p><b>Guillermo Alberto Santiago Lasso Mendoza</b> es un político, diplomático, empresario, exejecutivo y banquero ecuatoriano que fue presidente de la República del Ecuador desde el 24 de mayo de 2021 hasta el 23 de noviembre de 2023.</p>",
-          "normalizedtitle": "Guillermo Lasso"
-        }
-      ],
-      "year": 2023
-    },
-    {
-      "text": "En la final de la Conmebol Libertadores, el Flamengo derrota a River Plate por 2 - 1 en el Estadio Monumental de Lima, Perú, tras una remontada histórica en 3 minutos con 2 goles de Gabriel Barbosa - Gabigol -, consagrándose como el campeón de América tras 38 años.",
-      "pages": [
-        {
-          "type": "standard",
-          "title": "Copa_Libertadores_de_América",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Copa Libertadores de América</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q184795",
-          "titles": {
-            "canonical": "Copa_Libertadores_de_América",
-            "normalized": "Copa Libertadores de América",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Copa Libertadores de América</span></span>"
-          },
-          "pageid": 4449701,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/328-3287452_copa-libertadores-primer-trofeo-hd-png-download.png/330px-328-3287452_copa-libertadores-primer-trofeo-hd-png-download.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 793
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/7/7a/328-3287452_copa-libertadores-primer-trofeo-hd-png-download.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 500,
-            "height": 1202
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176343967",
-          "tid": "f5745750-e2bb-11f1-9017-51024d3193f9",
-          "timestamp": "2026-11-17T19:20:33Z",
-          "description": "campeonato sudamericano de fútbol a nivel de clubes",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Copa_Libertadores_de_Am%C3%A9rica",
-              "revisions": "https://es.wikipedia.org/wiki/Copa_Libertadores_de_Am%C3%A9rica?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Copa_Libertadores_de_Am%C3%A9rica?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Copa_Libertadores_de_Am%C3%A9rica"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Copa_Libertadores_de_Am%C3%A9rica",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Copa_Libertadores_de_Am%C3%A9rica",
-              "edit": "https://es.wikipedia.org/wiki/Copa_Libertadores_de_Am%C3%A9rica?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Copa_Libertadores_de_Am%C3%A9rica"
-            }
-          },
-          "extract": "La Copa Libertadores de América, denominada oficialmente Conmebol Libertadores desde 2017, y llamada simplemente Copa Libertadores; es un torneo anual internacional oficial de fútbol organizado por la Confederación Sudamericana de Fútbol, creado en 1960 bajo la denominación de Copa de Campeones de América. En 1965 el torneo adoptó el nombre «Libertadores» en honor a los líderes de las guerras de independencia hispanoamericanas y brasileña de América del Sur. Es uno de los más prestigiosos torneos en el mundo y la más prestigiosa competición a nivel de clubes de fútbol en América.",
-          "extract_html": "<p>La <b>Copa Libertadores de América</b>, denominada oficialmente <b>Conmebol Libertadores</b> desde 2017, y llamada simplemente <b>Copa Libertadores</b>; es un torneo anual internacional oficial de fútbol organizado por la Confederación Sudamericana de Fútbol, creado en 1960 bajo la denominación de <b>Copa de Campeones de América</b>. En 1965 el torneo adoptó el nombre «Libertadores» en honor a los líderes de las guerras de independencia hispanoamericanas y brasileña de América del Sur. Es uno de los más prestigiosos torneos en el mundo y la más prestigiosa competición a nivel de clubes de fútbol en América.</p>",
-          "normalizedtitle": "Copa Libertadores de América"
-        },
-        {
-          "type": "standard",
-          "title": "Clube_de_Regatas_do_Flamengo",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Clube de Regatas do Flamengo</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q17479",
-          "titles": {
-            "canonical": "Clube_de_Regatas_do_Flamengo",
-            "normalized": "Clube de Regatas do Flamengo",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Clube de Regatas do Flamengo</span></span>"
-          },
-          "pageid": 291236,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Clube_de_Regatas_do_Flamengo_logo.svg/langes-330px-Clube_de_Regatas_do_Flamengo_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 408
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Clube_de_Regatas_do_Flamengo_logo.svg/langes-500px-Clube_de_Regatas_do_Flamengo_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 400,
-            "height": 494
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176405774",
-          "tid": "fa574431-e5f4-11f1-ba8c-65531637ee73",
-          "timestamp": "2026-11-21T21:46:16Z",
-          "description": "club deportivo de Río de Janeiro, Brasil",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Clube_de_Regatas_do_Flamengo",
-              "revisions": "https://es.wikipedia.org/wiki/Clube_de_Regatas_do_Flamengo?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Clube_de_Regatas_do_Flamengo?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Clube_de_Regatas_do_Flamengo"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Clube_de_Regatas_do_Flamengo",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Clube_de_Regatas_do_Flamengo",
-              "edit": "https://es.wikipedia.org/wiki/Clube_de_Regatas_do_Flamengo?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Clube_de_Regatas_do_Flamengo"
-            }
-          },
-          "extract": "El Clube de Regatas do Flamengo es un club deportivo creado en el barrio de Flamengo en la ciudad de Río de Janeiro, Brasil. Fue fundado el 15 de noviembre de 1895 siendo el club más antiguo del país con el mismo nombre y segmento sin haberse fusionado. Actúa de local en el estadio de Maracaná y su uniforme se compone de una camiseta de franjas horizontales rojas y negras, pantalón blanco y medias rojas y negras. Flamengo es uno de los dos clubes brasileños que nunca ha abandonado la Primera División brasileña, siendo el otro São Paulo.",
-          "extract_html": "<p>El <b>Clube de Regatas do Flamengo</b> es un club deportivo creado en el barrio de Flamengo en la ciudad de Río de Janeiro, Brasil. Fue fundado el 15 de noviembre de 1895 siendo el <i>club</i> más antiguo del país con el mismo nombre y segmento sin haberse fusionado. Actúa de local en el estadio de Maracaná y su uniforme se compone de una camiseta de franjas horizontales rojas y negras, pantalón blanco y medias rojas y negras. Flamengo es uno de los dos clubes brasileños que nunca ha abandonado la Primera División brasileña, siendo el otro São Paulo.</p>",
-          "normalizedtitle": "Clube de Regatas do Flamengo"
-        },
-        {
-          "type": "standard",
-          "title": "Club_Atlético_River_Plate",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Club Atlético River Plate</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q15799",
-          "titles": {
-            "canonical": "Club_Atlético_River_Plate",
-            "normalized": "Club Atlético River Plate",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Club Atlético River Plate</span></span>"
-          },
-          "pageid": 48495,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Club_Atl%C3%A9tico_River_Plate_logo.svg/langes-330px-Club_Atl%C3%A9tico_River_Plate_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 409
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Club_Atl%C3%A9tico_River_Plate_logo.svg/langes-960px-Club_Atl%C3%A9tico_River_Plate_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 565,
-            "height": 700
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176141997",
-          "tid": "5dcf2d33-d814-11f1-8638-0d842c0ea7d8",
-          "timestamp": "2026-11-04T05:55:41Z",
-          "description": "club deportivo de Buenos Aires, Argentina",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_River_Plate",
-              "revisions": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_River_Plate?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_River_Plate?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Club_Atl%C3%A9tico_River_Plate"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_River_Plate",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Club_Atl%C3%A9tico_River_Plate",
-              "edit": "https://es.wikipedia.org/wiki/Club_Atl%C3%A9tico_River_Plate?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Club_Atl%C3%A9tico_River_Plate"
-            }
-          },
-          "extract": "El Club Atlético River Plate es una entidad polideportiva de Argentina. Fue fundado el 25 de mayo de 1901 en el barrio de La Boca, tras la fusión de los clubes Santa Rosa y La Rosales, y su nombre proviene de la antigua denominación que se le daba en el inglés británico al Río de la Plata. Su principal actividad es el fútbol masculino profesional, el cual participa en la Primera División de Argentina. Disputa sus partidos en el estadio Mâs Monumental, el de mayor capacidad del continente con un aforo para 85 018 espectadores.",
-          "extract_html": "<p>El <b>Club Atlético River Plate</b> es una entidad polideportiva de Argentina. Fue fundado el 25 de mayo de 1901 en el barrio de La Boca, tras la fusión de los clubes Santa Rosa y La Rosales, y su nombre proviene de la antigua denominación que se le daba en el inglés británico al Río de la Plata. Su principal actividad es el fútbol masculino profesional, el cual participa en la Primera División de Argentina. Disputa sus partidos en el estadio Mâs Monumental, el de mayor capacidad del continente con un aforo para 85 018 espectadores.</p>",
-          "normalizedtitle": "Club Atlético River Plate"
-        },
-        {
-          "type": "standard",
-          "title": "Estadio_Monumental_(Perú)",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Estadio Monumental (Perú)</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q1369426",
-          "titles": {
-            "canonical": "Estadio_Monumental_(Perú)",
-            "normalized": "Estadio Monumental (Perú)",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Estadio Monumental (Perú)</span></span>"
-          },
-          "pageid": 2200889,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Monu2023_u.jpg/330px-Monu2023_u.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Ogg_vorbis_libs_and_application_dia.svg/langes-330px-Ogg_vorbis_libs_and_application_dia.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
             "height": 176
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Monu2023_u.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1727,
-            "height": 922
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Ogg_vorbis_libs_and_application_dia.svg/langes-500px-Ogg_vorbis_libs_and_application_dia.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 450,
+            "height": 240
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176244987",
-          "tid": "75ed0591-dd68-11f1-a999-470ab53a9037",
-          "timestamp": "2026-11-11T00:40:15Z",
-          "description": "recinto deportivo en Lima, Perú",
+          "revision": "172650500",
+          "tid": "b9d2bf27-2727-11f1-af77-94552ec0278a",
+          "timestamp": "2026-03-24T02:18:20Z",
+          "description": "conjunto de implementaciones funcionales, codificadas en un lenguaje de programación",
           "description_source": "central",
-          "coordinates": {
-            "lat": -12.055694,
-            "lon": -76.935972
-          },
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Estadio_Monumental_(Per%C3%BA)",
-              "revisions": "https://es.wikipedia.org/wiki/Estadio_Monumental_(Per%C3%BA)?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Estadio_Monumental_(Per%C3%BA)?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Estadio_Monumental_(Per%C3%BA)"
+              "page": "https://es.wikipedia.org/wiki/Biblioteca_(inform%C3%A1tica)",
+              "revisions": "https://es.wikipedia.org/wiki/Biblioteca_(inform%C3%A1tica)?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Biblioteca_(inform%C3%A1tica)?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Biblioteca_(inform%C3%A1tica)"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Estadio_Monumental_(Per%C3%BA)",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Estadio_Monumental_(Per%C3%BA)",
-              "edit": "https://es.wikipedia.org/wiki/Estadio_Monumental_(Per%C3%BA)?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Estadio_Monumental_(Per%C3%BA)"
+              "page": "https://es.wikipedia.org/wiki/Biblioteca_(inform%C3%A1tica)",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Biblioteca_(inform%C3%A1tica)",
+              "edit": "https://es.wikipedia.org/wiki/Biblioteca_(inform%C3%A1tica)?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Biblioteca_(inform%C3%A1tica)"
             }
           },
-          "extract": "El Estadio Monumental U, conocido popularmente como Monumental de Lima o Monumental de Ate y por motivos de patrocinio Estadio Monumental U Marathon, es el estadio principal de Universitario de la Primera División del Perú. Está ubicado en la avenida Javier Prado Este 7596 del distrito de Ate, en la zona este de la ciudad de Lima. Fue diseñado por el arquitecto uruguayo Walter Lavalleja, que participó en la construcción de otros siete estadios en América.",
-          "extract_html": "<p>El <b>Estadio Monumental U</b>, conocido popularmente como <b>Monumental de Lima</b> o <b>Monumental de Ate</b> y por motivos de patrocinio <b>Estadio Monumental U Marathon</b>, es el estadio principal de Universitario de la Primera División del Perú. Está ubicado en la avenida Javier Prado Este 7596 del distrito de Ate, en la zona este de la ciudad de Lima. Fue diseñado por el arquitecto uruguayo Walter Lavalleja, que participó en la construcción de otros siete estadios en América.</p>",
-          "normalizedtitle": "Estadio Monumental (Perú)"
+          "extract": "En informática, una biblioteca o, llamada por vicio del lenguaje, librería es un conjunto de implementaciones funcionales, codificadas en un lenguaje de programación, que ofrece una interfaz bien definida para la funcionalidad que se invoca.",
+          "extract_html": "<p>En informática, una <b>biblioteca</b> o, llamada por vicio del lenguaje, <b>librería</b> es un conjunto de implementaciones funcionales, codificadas en un lenguaje de programación, que ofrece una interfaz bien definida para la funcionalidad que se invoca.</p>",
+          "normalizedtitle": "Biblioteca (informática)"
         },
         {
           "type": "standard",
-          "title": "Gabriel_Barbosa",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Gabriel Barbosa</span></span>",
+          "title": "Plataforma_Java",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Plataforma Java</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q13646572",
+          "wikibase_item": "Q1713118",
           "titles": {
-            "canonical": "Gabriel_Barbosa",
-            "normalized": "Gabriel Barbosa",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Gabriel Barbosa</span></span>"
+            "canonical": "Plataforma_Java",
+            "normalized": "Plataforma Java",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Plataforma Java</span></span>"
           },
-          "pageid": 6522044,
+          "pageid": 120276,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Gabriel_2020.jpg/330px-Gabriel_2020.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Java_Platforms.PNG/330px-Java_Platforms.PNG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 440
+            "height": 294
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Gabriel_2020.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1385,
-            "height": 1848
+            "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Java_Platforms.PNG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 370,
+            "height": 330
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176079284",
-          "tid": "f302b7e7-d4e0-11f1-9c96-cc8f9715b41b",
-          "timestamp": "2026-10-31T04:10:04Z",
-          "description": "futbolista brasileño",
+          "revision": "176272748",
+          "tid": "9d69da5a-dee6-11f1-b31d-4ac0fc513d4f",
+          "timestamp": "2026-11-12T22:15:49Z",
+          "description": "entorno o plataforma de computación",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Gabriel_Barbosa",
-              "revisions": "https://es.wikipedia.org/wiki/Gabriel_Barbosa?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Gabriel_Barbosa?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Gabriel_Barbosa"
+              "page": "https://es.wikipedia.org/wiki/Plataforma_Java",
+              "revisions": "https://es.wikipedia.org/wiki/Plataforma_Java?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Plataforma_Java?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Plataforma_Java"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Gabriel_Barbosa",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Gabriel_Barbosa",
-              "edit": "https://es.wikipedia.org/wiki/Gabriel_Barbosa?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Gabriel_Barbosa"
+              "page": "https://es.wikipedia.org/wiki/Plataforma_Java",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Plataforma_Java",
+              "edit": "https://es.wikipedia.org/wiki/Plataforma_Java?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Plataforma_Java"
             }
           },
-          "extract": "Gabriel Barbosa Almeida, más conocido como Gabigol, es un futbolista brasileño que juega como delantero en el Santos del Campeonato brasileño de Serie A. Fue internacional absoluto con la selección de fútbol de Brasil.",
-          "extract_html": "<p><b>Gabriel Barbosa Almeida</b>, más conocido como <b>Gabigol</b>, es un futbolista brasileño que juega como delantero en el Santos del Campeonato brasileño de Serie A. Fue internacional absoluto con la selección de fútbol de Brasil.</p>",
-          "normalizedtitle": "Gabriel Barbosa"
+          "extract": "La plataforma Java es el nombre de un entorno o plataforma de computación originaria de Sun Microsystems, capaz de ejecutar aplicaciones desarrolladas usando el lenguaje de programación Java u otros lenguajes que compilen a bytecode y un conjunto de herramientas de desarrollo. En este caso, la plataforma no es un hardware específico o un sistema operativo, sino más bien una máquina virtual encargada de la ejecución de las aplicaciones y un conjunto de bibliotecas estándar que ofrecen una funcionalidad común.",
+          "extract_html": "<p>La <b>plataforma Java</b> es el nombre de un entorno o plataforma de computación originaria de Sun Microsystems, capaz de ejecutar aplicaciones desarrolladas usando el lenguaje de programación Java u otros lenguajes que compilen a bytecode y un conjunto de herramientas de desarrollo. En este caso, la plataforma no es un hardware específico o un sistema operativo, sino más bien una máquina virtual encargada de la ejecución de las aplicaciones y un conjunto de bibliotecas estándar que ofrecen una funcionalidad común.</p>",
+          "normalizedtitle": "Plataforma Java"
+        },
+        {
+          "type": "standard",
+          "title": "Log4j",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Log4j</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q286923",
+          "titles": {
+            "canonical": "Log4j",
+            "normalized": "Log4j",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Log4j</span></span>"
+          },
+          "pageid": 734194,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Apache_Log4j_Logo.png/330px-Apache_Log4j_Logo.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 136
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Apache_Log4j_Logo.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1990,
+            "height": 823
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "174709460",
+          "tid": "0c60b997-90de-11f1-a9d1-40ddeba35cea",
+          "timestamp": "2026-08-05T14:57:59Z",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Log4j",
+              "revisions": "https://es.wikipedia.org/wiki/Log4j?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Log4j?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Log4j"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Log4j",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Log4j",
+              "edit": "https://es.wikipedia.org/wiki/Log4j?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Log4j"
+            }
+          },
+          "extract": "Log4j es una biblioteca de código abierto desarrollada en Java por la Apache Software Foundation que permite a los desarrolladores de software escribir mensajes de registro, cuyo propósito es dejar constancia de una determinada transacción en tiempo de ejecución. Log4j permite filtrar los mensajes en función de su importancia. La configuración de salida y granularidad de los mensajes es realizada en tiempo de ejecución mediante el uso de archivos de configuración externos. Log4J ha sido implementado en otros lenguajes como C, C++, C#, Perl, Python, Ruby y Eiffel.",
+          "extract_html": "<p><b>Log4j</b> es una biblioteca de código abierto desarrollada en Java por la Apache Software Foundation que permite a los desarrolladores de <i>software</i> escribir mensajes de registro, cuyo propósito es dejar constancia de una determinada transacción en tiempo de ejecución. Log4j permite filtrar los mensajes en función de su importancia. La configuración de salida y granularidad de los mensajes es realizada en tiempo de ejecución mediante el uso de archivos de configuración externos. Log4J ha sido implementado en otros lenguajes como C, C++, C#, Perl, Python, Ruby y Eiffel.</p>",
+          "normalizedtitle": "Log4j"
+        }
+      ],
+      "year": 2021
+    },
+    {
+      "text": "en Los Ángeles (California) se lleva a cabo la 47.ª edición de los American Music Awards.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Los_Ángeles",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Los Ángeles</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q65",
+          "titles": {
+            "canonical": "Los_Ángeles",
+            "normalized": "Los Ángeles",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Los Ángeles</span></span>"
+          },
+          "pageid": 12923,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/330px-Hollywood_sign_%288485145044%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 220
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/3840px-Hollywood_sign_%288485145044%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 3888,
+            "height": 2592
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176333400",
+          "tid": "c1e6f0dd-e225-11f1-b027-39bae2834c29",
+          "timestamp": "2026-11-17T01:25:22Z",
+          "description": "ciudad más poblada del estado de California, Estados Unidos",
+          "description_source": "central",
+          "coordinates": {
+            "lat": 34.05223,
+            "lon": -118.24368
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Los_%C3%81ngeles",
+              "revisions": "https://es.wikipedia.org/wiki/Los_%C3%81ngeles?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Los_%C3%81ngeles?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Los_%C3%81ngeles"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Los_%C3%81ngeles",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Los_%C3%81ngeles",
+              "edit": "https://es.wikipedia.org/wiki/Los_%C3%81ngeles?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Los_%C3%81ngeles"
+            }
+          },
+          "extract": "Los Ángeles oficialmente Ciudad de Los Ángeles y abreviado LA, es la ciudad más poblada del estado de California y la segunda ciudad más poblada de Estados Unidos, tras Nueva York. Tiene, según el censo de 2020, una población de 3 983 540 habitantes, experimentando un crecimiento de un 4.9 % en diez años. Está ubicada en el sur de California y abarca una superficie de 1215 km².",
+          "extract_html": "<p><b>Los Ángeles</b> oficialmente <b>Ciudad de Los Ángeles</b> y abreviado <b>LA</b>, es la ciudad más poblada del estado de California y la segunda ciudad más poblada de Estados Unidos, tras Nueva York. Tiene, según el censo de 2020, una población de 3 983 540 habitantes, experimentando un crecimiento de un 4.9 % en diez años. Está ubicada en el sur de California y abarca una superficie de 1215 km².</p>",
+          "normalizedtitle": "Los Ángeles"
+        },
+        {
+          "type": "standard",
+          "title": "Premios_American_Music",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Premios American Music</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q207601",
+          "titles": {
+            "canonical": "Premios_American_Music",
+            "normalized": "Premios American Music",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Premios American Music</span></span>"
+          },
+          "pageid": 2100070,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/American_Music_Awards_logo.svg/langes-330px-American_Music_Awards_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 329
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/American_Music_Awards_logo.svg/langes-1920px-American_Music_Awards_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 1707,
+            "height": 1704
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "173641714",
+          "tid": "6dce024d-58ad-11f1-a646-718b21b4e971",
+          "timestamp": "2026-05-26T02:48:52Z",
+          "description": "espectáculo anual de premios de música estadounidense",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Premios_American_Music",
+              "revisions": "https://es.wikipedia.org/wiki/Premios_American_Music?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Premios_American_Music?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Premios_American_Music"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Premios_American_Music",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Premios_American_Music",
+              "edit": "https://es.wikipedia.org/wiki/Premios_American_Music?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Premios_American_Music"
+            }
+          },
+          "extract": "Los Premios de la Música Estadounidense son premios entregados a lo mejor de la música estadounidense, reconocen a los artistas más populares. Fueron creados por el presentador de televisión Dick Clark en 1973 para competir con los premios Grammy, luego de que la ceremonia de ese año se mudara a Nashville, Tennessee. Michael Jackson y Donny Osmond animaron la primera entrega junto a Rodney Allen Rippy y Ricky Segall en 1974.",
+          "extract_html": "<p>Los <b>Premios de la Música Estadounidense</b> son premios entregados a lo mejor de la música estadounidense, reconocen a los artistas más populares. Fueron creados por el presentador de televisión Dick Clark en 1973 para competir con los premios Grammy, luego de que la ceremonia de ese año se mudara a Nashville, Tennessee. Michael Jackson y Donny Osmond animaron la primera entrega junto a Rodney Allen Rippy y Ricky Segall en 1974.</p>",
+          "normalizedtitle": "Premios American Music"
         }
       ],
       "year": 2019
     },
     {
-      "text": "se celebra en Atenas el día internacional de las etimologías griegas.",
+      "text": "en Gliwice (Polonia) se lleva a cabo el Festival de la Canción de Eurovisión Júnior.",
       "pages": [
         {
           "type": "standard",
-          "title": "Atenas",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Atenas</span></span>",
+          "title": "Gliwice",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Gliwice</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q1524",
+          "wikibase_item": "Q105084",
           "titles": {
-            "canonical": "Atenas",
-            "normalized": "Atenas",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Atenas</span></span>"
+            "canonical": "Gliwice",
+            "normalized": "Gliwice",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Gliwice</span></span>"
           },
-          "pageid": 7530,
+          "pageid": 1797519,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Greece_location_map.svg/langes-330px-Greece_location_map.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Gliwice_old_town.jpg/330px-Gliwice_old_town.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 271
+            "height": 248
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Greece_location_map.svg/langes-1280px-Greece_location_map.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 1003,
-            "height": 825
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Gliwice_old_town.jpg/3840px-Gliwice_old_town.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 4032,
+            "height": 3024
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "175678182",
-          "tid": "be275da4-c0f4-11f1-8110-7ef0bc1b0ce3",
-          "timestamp": "2026-10-05T19:41:22Z",
-          "description": "capital de Grecia",
+          "revision": "167782936",
+          "tid": "9458d369-4160-11f0-949d-eb4f7055f734",
+          "timestamp": "2025-06-04T16:25:51Z",
+          "description": "ciudad actualmente en Polonia",
           "description_source": "central",
           "coordinates": {
-            "lat": 37.98416667,
-            "lon": 23.72805556
+            "lat": 50.29416667,
+            "lon": 18.66583333
           },
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Atenas",
-              "revisions": "https://es.wikipedia.org/wiki/Atenas?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Atenas?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Atenas"
+              "page": "https://es.wikipedia.org/wiki/Gliwice",
+              "revisions": "https://es.wikipedia.org/wiki/Gliwice?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Gliwice?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Gliwice"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Atenas",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Atenas",
-              "edit": "https://es.wikipedia.org/wiki/Atenas?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Atenas"
+              "page": "https://es.wikipedia.org/wiki/Gliwice",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Gliwice",
+              "edit": "https://es.wikipedia.org/wiki/Gliwice?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Gliwice"
             }
           },
-          "extract": "Atenas es la capital de Grecia y actualmente la ciudad más grande, importante y poblada del país. La población del municipio de Atenas era de 643,452 (2021), y su área metropolitana comprende una población de 3,6 millones. Es el centro principal de la vida económica, cultural y política griega.",
-          "extract_html": "<p><b>Atenas</b> es la capital de Grecia y actualmente la ciudad más grande, importante y poblada del país. La población del municipio de Atenas era de 643,452 (2021), y su área metropolitana comprende una población de 3,6 millones. Es el centro principal de la vida económica, cultural y política griega.</p>",
-          "normalizedtitle": "Atenas"
+          "extract": "Gliwice es una importante ciudad del voivodato de Silesia, en la República de Polonia. Se asienta en las orillas del río Kłodnica, a unos 20 km al oeste de Katowice. En 2004 contaba con 200 361 habitantes.",
+          "extract_html": "<p><b>Gliwice</b> es una importante ciudad del voivodato de Silesia, en la República de Polonia. Se asienta en las orillas del río Kłodnica, a unos 20 km al oeste de Katowice. En 2004 contaba con <span>200 361 habitantes</span>.</p>",
+          "normalizedtitle": "Gliwice"
+        },
+        {
+          "type": "standard",
+          "title": "Festival_de_la_Canción_de_Eurovisión_Junior",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Festival de la Canción de Eurovisión Junior</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q103665",
+          "titles": {
+            "canonical": "Festival_de_la_Canción_de_Eurovisión_Junior",
+            "normalized": "Festival de la Canción de Eurovisión Junior",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Festival de la Canción de Eurovisión Junior</span></span>"
+          },
+          "pageid": 99722,
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176411871",
+          "tid": "7b8df645-e64c-11f1-82aa-1a45abc4f727",
+          "timestamp": "2026-11-22T08:12:39Z",
+          "description": "Concurso televisivo europeo de música para niños de entre 9 y 14 años",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Festival_de_la_Canci%C3%B3n_de_Eurovisi%C3%B3n_Junior",
+              "revisions": "https://es.wikipedia.org/wiki/Festival_de_la_Canci%C3%B3n_de_Eurovisi%C3%B3n_Junior?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Festival_de_la_Canci%C3%B3n_de_Eurovisi%C3%B3n_Junior?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Festival_de_la_Canci%C3%B3n_de_Eurovisi%C3%B3n_Junior"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Festival_de_la_Canci%C3%B3n_de_Eurovisi%C3%B3n_Junior",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Festival_de_la_Canci%C3%B3n_de_Eurovisi%C3%B3n_Junior",
+              "edit": "https://es.wikipedia.org/wiki/Festival_de_la_Canci%C3%B3n_de_Eurovisi%C3%B3n_Junior?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Festival_de_la_Canci%C3%B3n_de_Eurovisi%C3%B3n_Junior"
+            }
+          },
+          "extract": "El Festival de la Canción de Eurovisión Junior es un concurso televisivo de carácter anual, en el que participan intérpretes representantes de las televisiones, cuyos países son miembros de la Unión Europea de Radiodifusión. El festival ha sido transmitido cada año desde 2003 y en él participan niños.",
+          "extract_html": "<p>El <b>Festival de la Canción de Eurovisión Junior</b> es un concurso televisivo de carácter anual, en el que participan intérpretes representantes de las televisiones, cuyos países son miembros de la Unión Europea de Radiodifusión. El festival ha sido transmitido cada año desde 2003 y en él participan niños.</p>",
+          "normalizedtitle": "Festival de la Canción de Eurovisión Junior"
+        }
+      ],
+      "year": 2019
+    },
+    {
+      "text": "el huracán Otto, de categoría 2, toca tierra al sureste de Nicaragua con vientos de 178 km/h.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Huracán_Otto",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Huracán Otto</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q27906759",
+          "titles": {
+            "canonical": "Huracán_Otto",
+            "normalized": "Huracán Otto",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Huracán Otto</span></span>"
+          },
+          "pageid": 7674129,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Otto_2016-11-24_1415Z.png/330px-Otto_2016-11-24_1415Z.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 330
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Otto_2016-11-24_1415Z.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1600,
+            "height": 1600
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "170496579",
+          "tid": "4c4adb1c-c1e9-11f0-aeb6-f67ea29de7f4",
+          "timestamp": "2025-11-15T06:07:00Z",
+          "description": "huracán del Atlántico-Pacífico de categoría 3, en 2016; afectó a América Central e islas cercanas",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Hurac%C3%A1n_Otto",
+              "revisions": "https://es.wikipedia.org/wiki/Hurac%C3%A1n_Otto?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Hurac%C3%A1n_Otto?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Hurac%C3%A1n_Otto"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Hurac%C3%A1n_Otto",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Hurac%C3%A1n_Otto",
+              "edit": "https://es.wikipedia.org/wiki/Hurac%C3%A1n_Otto?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Hurac%C3%A1n_Otto"
+            }
+          },
+          "extract": "El huracán Otto fue el decimosexto ciclón tropical, la decimoquinta tormenta nombrada y el séptimo huracán de la temporada de huracanes del Atlántico de 2016. Se formó el día 21 de noviembre en la zona suroeste del Mar Caribe, frente a las costas de Panamá. Cruzó hacia el Pacífico tal como lo hizo el huracán Cesar-Douglas en 1996.",
+          "extract_html": "<p>El <b>huracán Otto</b> fue el decimosexto ciclón tropical, la decimoquinta tormenta nombrada y el séptimo huracán de la temporada de huracanes del Atlántico de 2016. Se formó el día 21 de noviembre en la zona suroeste del Mar Caribe, frente a las costas de Panamá. Cruzó hacia el Pacífico tal como lo hizo el huracán Cesar-Douglas en 1996.</p>",
+          "normalizedtitle": "Huracán Otto"
+        },
+        {
+          "type": "standard",
+          "title": "Escala_de_huracanes_de_Saffir-Simpson",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Escala de huracanes de Saffir-Simpson</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q205801",
+          "titles": {
+            "canonical": "Escala_de_huracanes_de_Saffir-Simpson",
+            "normalized": "Escala de huracanes de Saffir-Simpson",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Escala de huracanes de Saffir-Simpson</span></span>"
+          },
+          "pageid": 66559,
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "170270719",
+          "tid": "6e564fc9-b74d-11f0-b07f-f0a593d38033",
+          "timestamp": "2025-11-01T18:06:04Z",
+          "description": "medición de los ciclones tropicales en cinco categorías",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Escala_de_huracanes_de_Saffir-Simpson",
+              "revisions": "https://es.wikipedia.org/wiki/Escala_de_huracanes_de_Saffir-Simpson?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Escala_de_huracanes_de_Saffir-Simpson?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Escala_de_huracanes_de_Saffir-Simpson"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Escala_de_huracanes_de_Saffir-Simpson",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Escala_de_huracanes_de_Saffir-Simpson",
+              "edit": "https://es.wikipedia.org/wiki/Escala_de_huracanes_de_Saffir-Simpson?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Escala_de_huracanes_de_Saffir-Simpson"
+            }
+          },
+          "extract": "La escala de huracanes de Saffir-Simpson es una escala que clasifica los ciclones tropicales según la intensidad del viento, desarrollada en 1969 por el ingeniero civil Herbert Saffir y el director del Centro Nacional de Huracanes (NHC) de Estados Unidos, Robert «Bob» Simpson.",
+          "extract_html": "<p>La <b>escala de huracanes de Saffir-Simpson</b> es una escala que clasifica los ciclones tropicales según la intensidad del viento, desarrollada en 1969 por el ingeniero civil Herbert Saffir y el director del Centro Nacional de Huracanes (NHC) de Estados Unidos, Robert «Bob» Simpson.</p>",
+          "normalizedtitle": "Escala de huracanes de Saffir-Simpson"
+        },
+        {
+          "type": "standard",
+          "title": "Nicaragua",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nicaragua</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q811",
+          "titles": {
+            "canonical": "Nicaragua",
+            "normalized": "Nicaragua",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nicaragua</span></span>"
+          },
+          "pageid": 1982,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/langes-330px-Flag_of_Nicaragua.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 198
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/langes-1280px-Flag_of_Nicaragua.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 1000,
+            "height": 600
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176419526",
+          "tid": "803bc714-e6b7-11f1-a52d-62d5e55bb806",
+          "timestamp": "2026-11-22T20:58:43Z",
+          "description": "país en América Central",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Nicaragua",
+              "revisions": "https://es.wikipedia.org/wiki/Nicaragua?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Nicaragua?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Nicaragua"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Nicaragua",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Nicaragua",
+              "edit": "https://es.wikipedia.org/wiki/Nicaragua?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Nicaragua"
+            }
+          },
+          "extract": "Nicaragua, oficialmente República de Nicaragua, es un país ubicado en América Central. Su capital y ciudad más poblada es Managua. Está compuesta por quince departamentos y dos regiones autónomas: Costa Caribe Norte y Costa Caribe Sur. Se ubica en el hemisferio norte, entre la línea ecuatorial y el trópico de Cáncer, aproximadamente entre los 11° y los 15° de latitud norte y respecto al meridiano de Greenwich, entre los 83° y los 88° de longitud oeste.",
+          "extract_html": "<p><b>Nicaragua</b>, oficialmente <b>República de Nicaragua</b>, es un país ubicado en América Central. Su capital y ciudad más poblada es Managua. Está compuesta por quince departamentos y dos regiones autónomas: Costa Caribe Norte y Costa Caribe Sur. Se ubica en el hemisferio norte, entre la línea ecuatorial y el trópico de Cáncer, aproximadamente entre los 11° y los 15° de latitud norte y respecto al meridiano de Greenwich, entre los 83° y los 88° de longitud oeste.</p>",
+          "normalizedtitle": "Nicaragua"
+        },
+        {
+          "type": "standard",
+          "title": "Kilómetro_por_hora",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Kilómetro por hora</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q180154",
+          "titles": {
+            "canonical": "Kilómetro_por_hora",
+            "normalized": "Kilómetro por hora",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Kilómetro por hora</span></span>"
+          },
+          "pageid": 40430,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/MX_road_sign_SR-9_%2850%29.svg/langes-330px-MX_road_sign_SR-9_%2850%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 330
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/MX_road_sign_SR-9_%2850%29.svg/langes-960px-MX_road_sign_SR-9_%2850%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 550,
+            "height": 550
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "172500017",
+          "tid": "58da1a81-1fc2-11f1-80ad-62654c425def",
+          "timestamp": "2026-03-14T16:25:00Z",
+          "description": "unidad derivada del SI de velocidad",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Kil%C3%B3metro_por_hora",
+              "revisions": "https://es.wikipedia.org/wiki/Kil%C3%B3metro_por_hora?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Kil%C3%B3metro_por_hora?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Kil%C3%B3metro_por_hora"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Kil%C3%B3metro_por_hora",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Kil%C3%B3metro_por_hora",
+              "edit": "https://es.wikipedia.org/wiki/Kil%C3%B3metro_por_hora?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Kil%C3%B3metro_por_hora"
+            }
+          },
+          "extract": "El kilómetro por hora es una unidad de medida de velocidad, tanto escalar como vectorial. Un objeto viaja a una velocidad media de 1 km/h si se desplaza 1 kilómetro en una hora.",
+          "extract_html": "<p>El <b>kilómetro por hora</b> es una unidad de medida de velocidad, tanto escalar como vectorial. Un objeto viaja a una velocidad media de 1 km/h si se desplaza 1 kilómetro en una hora.</p>",
+          "normalizedtitle": "Kilómetro por hora"
         }
       ],
       "year": 2016
     },
     {
-      "text": "se produce el 50 aniversario de la serie de televisión británica Doctor Who.",
+      "text": "en El Salvador se registra un terremoto de 7,2 grados en la escala de Richter.",
       "pages": [
         {
           "type": "standard",
-          "title": "Doctor_Who",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Doctor Who</span></span>",
+          "title": "El_Salvador",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">El Salvador</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q34316",
+          "wikibase_item": "Q792",
           "titles": {
-            "canonical": "Doctor_Who",
-            "normalized": "Doctor Who",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Doctor Who</span></span>"
+            "canonical": "El_Salvador",
+            "normalized": "El Salvador",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">El Salvador</span></span>"
           },
-          "pageid": 471611,
+          "pageid": 1149,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Doctor_Who_logo_1963-1967path.svg/langes-330px-Doctor_Who_logo_1963-1967path.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/langes-330px-Flag_of_El_Salvador.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 247
+            "height": 186
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Doctor_Who_logo_1963-1967path.svg/langes-960px-Doctor_Who_logo_1963-1967path.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 512,
-            "height": 383
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/langes-1280px-Flag_of_El_Salvador.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 1005,
+            "height": 567
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "175851758",
-          "tid": "2ae5f70b-c940-11f1-9e95-cde93ca8850d",
-          "timestamp": "2026-10-16T09:01:26Z",
-          "description": "serie de televisión británica de ciencia ficción",
+          "revision": "176229172",
+          "tid": "f3e3d990-dc9c-11f1-8d9a-7912b3afc14e",
+          "timestamp": "2026-11-10T00:23:29Z",
+          "description": "país de América Central",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Doctor_Who",
-              "revisions": "https://es.wikipedia.org/wiki/Doctor_Who?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Doctor_Who?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Doctor_Who"
+              "page": "https://es.wikipedia.org/wiki/El_Salvador",
+              "revisions": "https://es.wikipedia.org/wiki/El_Salvador?action=history",
+              "edit": "https://es.wikipedia.org/wiki/El_Salvador?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:El_Salvador"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Doctor_Who",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Doctor_Who",
-              "edit": "https://es.wikipedia.org/wiki/Doctor_Who?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Doctor_Who"
+              "page": "https://es.wikipedia.org/wiki/El_Salvador",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/El_Salvador",
+              "edit": "https://es.wikipedia.org/wiki/El_Salvador?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:El_Salvador"
             }
           },
-          "extract": "Doctor Who es una serie de televisión británica de ciencia ficción producida por la BBC. Está dividida en dos etapas: la denominada serie clásica, emitida entre 1963 y 1989, y la serie moderna, iniciada en 2005 y que continúa emitiéndose en la actualidad. Forma parte también de la serie oficial una película para televisión emitida en 1996 titulada Doctor Who: La película producida entre Reino Unido, Estados Unidos y Canadá.",
-          "extract_html": "<p><i><b>Doctor Who</b></i> es una serie de televisión británica de ciencia ficción producida por la BBC. Está dividida en dos etapas: la denominada <i>serie clásica</i>, emitida entre 1963 y 1989, y la <i>serie moderna</i>, iniciada en 2005 y que continúa emitiéndose en la actualidad. Forma parte también de la serie oficial una película para televisión emitida en 1996 titulada <i>Doctor Who: La película</i> producida entre Reino Unido, Estados Unidos y Canadá.</p>",
-          "normalizedtitle": "Doctor Who"
-        }
-      ],
-      "year": 2013
-    },
-    {
-      "text": "se celebra en Barcelona un acto de presentación nacional de la plataforma civil Movimiento Ciudadano.",
-      "pages": [
+          "extract": "El Salvador, oficialmente República de El Salvador, es un país soberano de América Central con costas por el océano Pacífico. De acuerdo con la constitución vigente, es una república unitaria, representativa y presidencialista plena junto con la Asamblea Legislativa. Su territorio está organizado por una ciudad capital, 14 departamentos, y 262 distritos. Su capital y ciudad más poblada es San Salvador.",
+          "extract_html": "<p><b>El Salvador</b>, oficialmente <b>República de El Salvador</b>, es un país soberano de América Central con costas por el océano Pacífico. De acuerdo con la constitución vigente, es una república unitaria, representativa y presidencialista plena junto con la Asamblea Legislativa. Su territorio está organizado por una ciudad capital, 14 departamentos, y 262 distritos. Su capital y ciudad más poblada es San Salvador.</p>",
+          "normalizedtitle": "El Salvador"
+        },
         {
           "type": "standard",
-          "title": "Barcelona",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Barcelona</span></span>",
+          "title": "Escala_sismológica_de_Richter",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Escala sismológica de Richter</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q1492",
+          "wikibase_item": "Q38768",
           "titles": {
-            "canonical": "Barcelona",
-            "normalized": "Barcelona",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Barcelona</span></span>"
+            "canonical": "Escala_sismológica_de_Richter",
+            "normalized": "Escala sismológica de Richter",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Escala sismológica de Richter</span></span>"
           },
-          "pageid": 387,
+          "pageid": 21127,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Barcelona.svg/langes-330px-Flag_of_Barcelona.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Ondas_s%C3%ADsmicas_s_p.svg/langes-330px-Ondas_s%C3%ADsmicas_s_p.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 264
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Ondas_s%C3%ADsmicas_s_p.svg/langes-250px-Ondas_s%C3%ADsmicas_s_p.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 250,
+            "height": 200
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176166133",
+          "tid": "93316403-d959-11f1-9f64-ac73bba84601",
+          "timestamp": "2026-11-05T20:43:37Z",
+          "description": "escala logarítmica arbitraria que asigna un número para cuantificar la energía que libera un terremoto",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter",
+              "revisions": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Escala_sismol%C3%B3gica_de_Richter"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Escala_sismol%C3%B3gica_de_Richter",
+              "edit": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Escala_sismol%C3%B3gica_de_Richter"
+            }
+          },
+          "extract": "La escala sismológica de Richter, también conocida como escala de magnitud local (ML), es una escala logarítmica que asigna un número para cuantificar la energía que libera un terremoto, denominada así en honor del sismólogo estadounidense Charles Francis Richter.",
+          "extract_html": "<p>La <b>escala sismológica de Richter</b>, también conocida como <b>escala de magnitud local</b> (<b><i>M</i><sub>L</sub></b>), es una escala logarítmica que asigna un número para cuantificar la energía que libera un terremoto, denominada así en honor del sismólogo estadounidense Charles Francis Richter.</p>",
+          "normalizedtitle": "Escala sismológica de Richter"
+        }
+      ],
+      "year": 2016
+    },
+    {
+      "text": "en Tunis, ciudad de Túnez, se produce un ataque terrorista en un autobús dejando el saldo de 14 guardias presidenciales muertos.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Túnez_(ciudad)",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Túnez (ciudad)</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q3572",
+          "titles": {
+            "canonical": "Túnez_(ciudad)",
+            "normalized": "Túnez (ciudad)",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Túnez (ciudad)</span></span>"
+          },
+          "pageid": 93559,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Vue_de_Tunis%2C_27_d%C3%A9cembre_2014.jpg/330px-Vue_de_Tunis%2C_27_d%C3%A9cembre_2014.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 219
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Vue_de_Tunis%2C_27_d%C3%A9cembre_2014.jpg/3840px-Vue_de_Tunis%2C_27_d%C3%A9cembre_2014.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 4406,
+            "height": 2926
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "175945234",
+          "tid": "84946942-cdfb-11f1-8946-c0d3df0c492d",
+          "timestamp": "2026-10-22T09:32:37Z",
+          "description": "capital de Túnez",
+          "description_source": "central",
+          "coordinates": {
+            "lat": 36.80083333,
+            "lon": 10.18
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/T%C3%BAnez_(ciudad)",
+              "revisions": "https://es.wikipedia.org/wiki/T%C3%BAnez_(ciudad)?action=history",
+              "edit": "https://es.wikipedia.org/wiki/T%C3%BAnez_(ciudad)?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:T%C3%BAnez_(ciudad)"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/T%C3%BAnez_(ciudad)",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/T%C3%BAnez_(ciudad)",
+              "edit": "https://es.wikipedia.org/wiki/T%C3%BAnez_(ciudad)?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:T%C3%BAnez_(ciudad)"
+            }
+          },
+          "extract": "Túnez es la capital de la República Tunecina ininterrumpidamente desde que los almohades le dieran ese título en 1159 y la dinastía de los hafsidas confirmase su estatus en 1228. También es la capital de la gobernación homónima desde su creación, en 1956. Es el centro de las actividades industriales, comerciales, culturales y políticas del país. Está situada al norte, al final del golfo de Túnez, separada del mar por el lago de Túnez o laguna del Behira, entre la llanura costera y las colinas que la rodean. Al otro lado del lago se abre al mar un canal en La Goleta. Según el censo de 2004, en ella viven 728.453 habitantes, llamados tunecinos, lo que la convierte en la ciudad más poblada del país; esta cifra aumenta hasta 2.380.500 personas en su área metropolitana.",
+          "extract_html": "<p><b>Túnez</b> es la capital de la República Tunecina ininterrumpidamente desde que los almohades le dieran ese título en 1159 y la dinastía de los hafsidas confirmase su estatus en 1228. También es la capital de la gobernación homónima desde su creación, en 1956. Es el centro de las actividades industriales, comerciales, culturales y políticas del país. Está situada al norte, al final del golfo de Túnez, separada del mar por el lago de Túnez o laguna del Behira, entre la llanura costera y las colinas que la rodean. Al otro lado del lago se abre al mar un canal en La Goleta. Según el censo de 2004, en ella viven 728.453 habitantes, llamados tunecinos, lo que la convierte en la ciudad más poblada del país; esta cifra aumenta hasta 2.380.500 personas en su área metropolitana.</p>",
+          "normalizedtitle": "Túnez (ciudad)"
+        },
+        {
+          "type": "standard",
+          "title": "Túnez",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Túnez</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q948",
+          "titles": {
+            "canonical": "Túnez",
+            "normalized": "Túnez",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Túnez</span></span>"
+          },
+          "pageid": 12089,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/langes-330px-Flag_of_Tunisia.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
             "height": 220
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Flag_of_Barcelona.svg/langes-3840px-Flag_of_Barcelona.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 3000,
-            "height": 2000
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/langes-1280px-Flag_of_Tunisia.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 1200,
+            "height": 800
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176175030",
-          "tid": "2658b243-d9cf-11f1-801a-b12a7a08fd33",
-          "timestamp": "2026-11-06T10:45:15Z",
-          "description": "capital de Cataluña, España",
+          "revision": "176020236",
+          "tid": "cf2d31c4-d1bf-11f1-8d8b-b8def183ef19",
+          "timestamp": "2026-10-27T04:35:17Z",
+          "description": "país de África del Norte",
           "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/T%C3%BAnez",
+              "revisions": "https://es.wikipedia.org/wiki/T%C3%BAnez?action=history",
+              "edit": "https://es.wikipedia.org/wiki/T%C3%BAnez?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:T%C3%BAnez"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/T%C3%BAnez",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/T%C3%BAnez",
+              "edit": "https://es.wikipedia.org/wiki/T%C3%BAnez?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:T%C3%BAnez"
+            }
+          },
+          "extract": "Túnez, oficialmente República de Túnez o República Tunecina, es un país soberano situado en el norte de África, más concretamente en la costa mediterránea. Su territorio está organizado en 24 gobernaciones o wilayat. La capital es Túnez, la ciudad más poblada, que le da el nombre al país. El idioma oficial de Túnez es el árabe. Limita con Argelia al oeste, Libia al sureste y con el mar Mediterráneo al este y al norte. También comparte fronteras marítimas con Italia a través de las islas de Sicilia y Cerdeña al norte y Malta al este. Túnez es el país más pequeño del Magreb, ubicado entre las estribaciones orientales de la cordillera del Atlas y el mar Mediterráneo. La superficie de Túnez es de 163 610 km², con una población estimada en 11,8 millones de habitantes. Aproximadamente el 40 % de este país está compuesto por el Sahara, mientras que el resto es suelo fértil y adecuado para la agricultura; además, tiene 1148 km de costa. Conocido por su arquitectura antigua, zocos y costas azules, en su interior se encuentran también los sitios arqueológicos de la antigua Cartago que datan del siglo IX a. C., así como la Gran Mezquita de Cairuán. La gran mayoría de la población tunecina es árabe y musulmana. El árabe tunecino vernáculo es el idioma más hablado, y el francés se utiliza como lengua administrativa y educativa en algunos contextos, aunque no tiene carácter oficial.",
+          "extract_html": "<p><b>Túnez</b>, oficialmente <b>República de Túnez</b> o <b>República Tunecina</b>, es un país soberano situado en el norte de África, más concretamente en la costa mediterránea. Su territorio está organizado en 24 gobernaciones o <i>wilayat</i>. La capital es Túnez, la ciudad más poblada, que le da el nombre al país. El idioma oficial de Túnez es el árabe. Limita con Argelia al oeste, Libia al sureste y con el mar Mediterráneo al este y al norte. También comparte fronteras marítimas con Italia a través de las islas de Sicilia y Cerdeña al norte y Malta al este. Túnez es el país más pequeño del Magreb, ubicado entre las estribaciones orientales de la cordillera del Atlas y el mar Mediterráneo. La superficie de Túnez es de 163 610 km², con una población estimada en 11,8 millones de habitantes. Aproximadamente el 40 % de este país está compuesto por el Sahara, mientras que el resto es suelo fértil y adecuado para la agricultura; además, tiene 1148 km de costa. Conocido por su arquitectura antigua, zocos y costas azules, en su interior se encuentran también los sitios arqueológicos de la antigua Cartago que datan del siglo <span style=\"text-transform:lowercase\">IX</span> a. C., así como la Gran Mezquita de Cairuán. La gran mayoría de la población tunecina es árabe y musulmana. El árabe tunecino vernáculo es el idioma más hablado, y el francés se utiliza como lengua administrativa y educativa en algunos contextos, aunque no tiene carácter oficial.</p>",
+          "normalizedtitle": "Túnez"
+        },
+        {
+          "type": "standard",
+          "title": "Atentado_terrorista_de_Túnez_de_2015",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Atentado terrorista de Túnez de 2015</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q21541716",
+          "titles": {
+            "canonical": "Atentado_terrorista_de_Túnez_de_2015",
+            "normalized": "Atentado terrorista de Túnez de 2015",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Atentado terrorista de Túnez de 2015</span></span>"
+          },
+          "pageid": 7201328,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Location_map_Tunis.png/330px-Location_map_Tunis.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 349
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Location_map_Tunis.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 897,
+            "height": 949
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "168710135",
+          "tid": "e34e502d-6c57-11f0-8413-db7588105e14",
+          "timestamp": "2025-07-29T08:41:58Z",
           "coordinates": {
-            "lat": 41.3825,
-            "lon": 2.17694444
+            "lat": 36.81099,
+            "lon": 10.18463
           },
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Barcelona",
-              "revisions": "https://es.wikipedia.org/wiki/Barcelona?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Barcelona?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Barcelona"
+              "page": "https://es.wikipedia.org/wiki/Atentado_terrorista_de_T%C3%BAnez_de_2015",
+              "revisions": "https://es.wikipedia.org/wiki/Atentado_terrorista_de_T%C3%BAnez_de_2015?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Atentado_terrorista_de_T%C3%BAnez_de_2015?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Atentado_terrorista_de_T%C3%BAnez_de_2015"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Barcelona",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Barcelona",
-              "edit": "https://es.wikipedia.org/wiki/Barcelona?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Barcelona"
+              "page": "https://es.wikipedia.org/wiki/Atentado_terrorista_de_T%C3%BAnez_de_2015",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Atentado_terrorista_de_T%C3%BAnez_de_2015",
+              "edit": "https://es.wikipedia.org/wiki/Atentado_terrorista_de_T%C3%BAnez_de_2015?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Atentado_terrorista_de_T%C3%BAnez_de_2015"
             }
           },
-          "extract": "Barcelona es una ciudad de España, capital de Cataluña, de la provincia de Barcelona y de la comarca del Barcelonés. Con una población de 1 731 649 habitantes, es la segunda ciudad más poblada de España y de la península ibérica después de Madrid, y la décima de la Unión Europea. Su ámbito metropolitano cuenta con una población de 5 797 356 habitantes según Eurostat, siendo así la tercera aglomeración urbana de mayor población y la más densamente poblada de la Unión Europea.",
-          "extract_html": "<p><b>Barcelona</b> es una ciudad de España, capital de Cataluña, de la provincia de Barcelona y de la comarca del Barcelonés. Con una población de <span>1 731 649 habitantes</span>, es la segunda ciudad más poblada de España y de la península ibérica después de Madrid, y la décima de la Unión Europea. Su ámbito metropolitano cuenta con una población de 5 797 356 habitantes según Eurostat, siendo así la tercera aglomeración urbana de mayor población y la más densamente poblada de la Unión Europea.</p>",
-          "normalizedtitle": "Barcelona"
+          "extract": "El 24 de noviembre de 2015, un autobús que transportaba guardias presidenciales tunecinos explotó, matando a 14, en una calle principal en Tunis, Túnez. ISIS se atribuyó el ataque. El atacante, que también murió en el ataque, fue identificado como Houssem Abdelli.",
+          "extract_html": "<p>El 24 de noviembre de 2015, un autobús que transportaba guardias presidenciales tunecinos explotó, matando a 14, en una calle principal en Tunis, Túnez. ISIS se atribuyó el ataque. El atacante, que también murió en el ataque, fue identificado como Houssem Abdelli.</p>",
+          "normalizedtitle": "Atentado terrorista de Túnez de 2015"
         }
       ],
-      "year": 2013
+      "year": 2015
     }
   ]
 }
