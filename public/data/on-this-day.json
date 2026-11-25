@@ -378,7 +378,7 @@
       "year": 2014
     },
     {
-      "text": "One Direction lanza su tercer álbum de estudio, titulado Midnight memories.",
+      "text": "One Direction lanza su tercer álbum de estudio, titulado Midnight Memories.",
       "pages": [
         {
           "type": "standard",
@@ -429,6 +429,46 @@
           "extract": "One Direction fue una boy band británico-irlandesa formada en 2010 en Londres, con motivo del programa The X Factor. Durante la transmisión del concurso, el quinteto, compuesto en aquel entonces por Harry Styles, Liam Payne, Zayn Malik, Niall Horan y Louis Tomlinson, fue apadrinado por Simon Cowell. Su formación se dio luego de que los cinco integrantes hicieran sus audiciones y fueran expulsados de la competencia. Tras esto, Nicole Scherzinger, una de las juezas, sugirió que los cinco formasen parte de un grupo, al que finalmente llamaron One Direction. El grupo finalmente quedó en el tercer lugar del concurso, pero aun así Cowell pagó un contrato discográfico con Syco Music para que pudiesen lanzar un disco.",
           "extract_html": "<p><b>One Direction</b> fue una <i>boy band</i> británico-irlandesa formada en 2010 en Londres, con motivo del programa <i>The X Factor</i>. Durante la transmisión del concurso, el quinteto, compuesto en aquel entonces por Harry Styles, Liam Payne, Zayn Malik, Niall Horan y Louis Tomlinson, fue apadrinado por Simon Cowell. Su formación se dio luego de que los cinco integrantes hicieran sus audiciones y fueran expulsados de la competencia. Tras esto, Nicole Scherzinger, una de las juezas, sugirió que los cinco formasen parte de un grupo, al que finalmente llamaron One Direction. El grupo finalmente quedó en el tercer lugar del concurso, pero aun así Cowell pagó un contrato discográfico con Syco Music para que pudiesen lanzar un disco.</p>",
           "normalizedtitle": "One Direction"
+        },
+        {
+          "type": "standard",
+          "title": "Midnight_Memories",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Midnight Memories</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q15061626",
+          "titles": {
+            "canonical": "Midnight_Memories",
+            "normalized": "Midnight Memories",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Midnight Memories</span></span>"
+          },
+          "pageid": 5681520,
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "175227295",
+          "tid": "3684fed3-aa31-11f1-b036-a57a2219375c",
+          "timestamp": "2026-09-06T20:26:17Z",
+          "description": "álbum de One Direction",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Midnight_Memories",
+              "revisions": "https://es.wikipedia.org/wiki/Midnight_Memories?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Midnight_Memories?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Midnight_Memories"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Midnight_Memories",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Midnight_Memories",
+              "edit": "https://es.wikipedia.org/wiki/Midnight_Memories?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Midnight_Memories"
+            }
+          },
+          "extract": "Midnight Memories —en español: Recuerdos de medianoche— es el tercer álbum de estudio del grupo británico-irlandés One Direction, lanzado el 25 de noviembre de 2013.",
+          "extract_html": "<p><i><b>Midnight Memories</b></i> —en español: <i>Recuerdos de medianoche</i>— es el tercer álbum de estudio del grupo británico-irlandés One Direction, lanzado el 25 de noviembre de 2013.</p>",
+          "normalizedtitle": "Midnight Memories"
         }
       ],
       "year": 2013
