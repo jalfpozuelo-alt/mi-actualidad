@@ -1,989 +1,697 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "source": "Wikimedia",
   "items": [
     {
-      "text": "El equipo informático de Alibaba Group informa en privado a la organización de soporte de software Apache sobre una vulnerabilidad en una librería de Java conocida como Log4j, que permite la ejecución de código arbitrario y que es catalogada de severa gravedad.",
+      "text": "el asteroide 2024 PT5, de 11 metros de diámetro, escapa de la gravedad del planeta Tierra, a la que estuvo atado como una «miniluna» durante un período de 57 días (desde el 29 de septiembre).",
       "pages": [
         {
           "type": "standard",
-          "title": "Alibaba_Group",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alibaba Group</span></span>",
+          "title": "2024_PT5",
+          "displaytitle": "2024 PT<sub>5</sub>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q1359568",
+          "wikibase_item": "Q130301991",
           "titles": {
-            "canonical": "Alibaba_Group",
-            "normalized": "Alibaba Group",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alibaba Group</span></span>"
+            "canonical": "2024_PT5",
+            "normalized": "2024 PT5",
+            "display": "2024 PT<sub>5</sub>"
           },
-          "pageid": 6380674,
+          "pageid": 10998595,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/TaobaoCity_Alibaba_Xixi_Park.jpg/330px-TaobaoCity_Alibaba_Xixi_Park.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Animation_of_2024_PT5_around_Earth_-_Close_approach.gif/330px-Animation_of_2024_PT5_around_Earth_-_Close_approach.gif?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 186
+            "height": 248
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/e/e0/TaobaoCity_Alibaba_Xixi_Park.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 3552,
-            "height": 2000
+            "source": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Animation_of_2024_PT5_around_Earth_-_Close_approach.gif?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 560,
+            "height": 420
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176429545",
-          "tid": "63e46ab9-e741-11f1-b649-39f8f8171405",
-          "timestamp": "2026-11-23T13:25:46Z",
-          "description": "Consorcio Privado Chino",
-          "description_source": "central",
-          "coordinates": {
-            "lat": 30.19197778,
-            "lon": 120.18605278
-          },
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Alibaba_Group",
-              "revisions": "https://es.wikipedia.org/wiki/Alibaba_Group?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Alibaba_Group?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Alibaba_Group"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Alibaba_Group",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Alibaba_Group",
-              "edit": "https://es.wikipedia.org/wiki/Alibaba_Group?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Alibaba_Group"
-            }
-          },
-          "extract": "Alibaba Group es un consorcio privado chino que posee 18 subsidiarias con sede en Hangzhou dedicado al comercio electrónico en Internet, incluyendo portales de ventas business-to-business, de venta al por menor, y de venta entre consumidores; también ofrece servicios de pago en línea, un motor de búsqueda de comparación de precios y servicios de almacenamiento de datos en la nube. En 2012, dos de los portales de Alibaba juntos manejaron 1,1 billones de yuanes en ventas, más que sus competidores eBay y Amazon.com combinados. La compañía opera principalmente en la República Popular China, y en marzo de 2013 la revista The Economist estimó que el consorcio podría tener una valoración de entre 55 000 y 120 000 millones de dólares. Durante 2013 consiguió unos ingresos aproximados de 7500 millones de dólares y poseía unos 22 000 empleados en marzo de 2014.",
-          "extract_html": "<p><b>Alibaba Group</b> es un consorcio privado chino que posee 18 subsidiarias con sede en Hangzhou dedicado al comercio electrónico en Internet, incluyendo portales de ventas business-to-business, de venta al por menor, y de venta entre consumidores; también ofrece servicios de pago en línea, un motor de búsqueda de comparación de precios y servicios de almacenamiento de datos en la nube. En 2012, dos de los portales de Alibaba juntos manejaron 1,1 billones de yuanes en ventas, más que sus competidores eBay y Amazon.com combinados. La compañía opera principalmente en la República Popular China, y en marzo de 2013 la revista <i>The Economist</i> estimó que el consorcio podría tener una valoración de entre 55 000 y 120 000 millones de dólares. Durante 2013 consiguió unos ingresos aproximados de 7500 millones de dólares y poseía unos 22 000 empleados en marzo de 2014.</p>",
-          "normalizedtitle": "Alibaba Group"
-        },
-        {
-          "type": "standard",
-          "title": "Apache_Software_Foundation",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Apache Software Foundation</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q489709",
-          "titles": {
-            "canonical": "Apache_Software_Foundation",
-            "normalized": "Apache Software Foundation",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Apache Software Foundation</span></span>"
-          },
-          "pageid": 97828,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/The_ASF_Logo_%282025%29.svg/langes-330px-The_ASF_Logo_%282025%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 173
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/The_ASF_Logo_%282025%29.svg/langes-960px-The_ASF_Logo_%282025%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 512,
-            "height": 269
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "172479381",
-          "tid": "c04b758f-1e9f-11f1-bdf7-4bd16c132527",
-          "timestamp": "2026-03-13T05:44:50Z",
-          "description": "comunidad estadounidense de software de código abierto sin fines de lucro",
+          "revision": "170954088",
+          "tid": "2bf04aca-d7ac-11f0-8adf-4ec352acb539",
+          "timestamp": "2025-12-12T22:44:52Z",
+          "description": "pequeño asteroide cercano a la Tierra",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Apache_Software_Foundation",
-              "revisions": "https://es.wikipedia.org/wiki/Apache_Software_Foundation?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Apache_Software_Foundation?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Apache_Software_Foundation"
+              "page": "https://es.wikipedia.org/wiki/2024_PT5",
+              "revisions": "https://es.wikipedia.org/wiki/2024_PT5?action=history",
+              "edit": "https://es.wikipedia.org/wiki/2024_PT5?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:2024_PT5"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Apache_Software_Foundation",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Apache_Software_Foundation",
-              "edit": "https://es.wikipedia.org/wiki/Apache_Software_Foundation?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Apache_Software_Foundation"
+              "page": "https://es.wikipedia.org/wiki/2024_PT5",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/2024_PT5",
+              "edit": "https://es.wikipedia.org/wiki/2024_PT5?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:2024_PT5"
             }
           },
-          "extract": "Apache Software Foundation (ASF) es una organización sin fines de lucro creada para dar soporte a los proyectos de software bajo la denominación Apache, incluyendo el popular servidor HTTP Apache. La ASF se formó a partir del llamado Grupo Apache y fue registrada en Delaware, en marzo de 1996.",
-          "extract_html": "<p><b>Apache Software Foundation</b> (ASF) es una organización sin fines de lucro creada para dar soporte a los proyectos de software bajo la denominación <i>Apache</i>, incluyendo el popular servidor HTTP Apache. La ASF se formó a partir del llamado <i>Grupo Apache</i> y fue registrada en Delaware, en marzo de 1996.</p>",
-          "normalizedtitle": "Apache Software Foundation"
-        },
+          "extract": "2024 PT5 es un objeto próximo a la Tierra de aproximadamente 11 metros (36,1 pies) de diámetro descubierto por el sistema ATLAS en Sutherland, Sudáfrica, el 7 de agosto de 2024, el día antes de acercarse a la Tierra a 568 500 kilómetros. El objeto orbita alrededor del Sol pero realiza aproximaciones lentas al sistema Tierra-Luna. Entre el 29 de septiembre de 2024 y el 25 de noviembre de 2024 (un período de 1 mes y 27 días) está pasando justo sobre el exterior de la esfera de Hill de la Tierra (aproximadamente 1.5 millones de kilómetros) a una velocidad relativa baja (en un rango que va de 0.002 km/s a 0.439 km/s) y quedó temporalmente capturado por la gravedad de la Tierra, con una excentricidad orbital geocéntrica menor a 1 y una energía orbital geocéntrica negativa. El acercamiento más cercano a la Tierra en 2025 será el 9 de enero de 2025, a aproximadamente 1.8 millones de kilómetros, cuando tendrá una velocidad relativa de 1.03 km/s. Estuvo tan cerca de la Tierra por última vez alrededor del 11 de febrero de 2003, cuando pasó a unos 8.58 millones de kilómetros de la Tierra.",
+          "extract_html": "<p><b>2024 PT<sub>5</sub></b> es un objeto próximo a la Tierra de aproximadamente 11 metros (36,1 pies) de diámetro descubierto por el sistema ATLAS en Sutherland, Sudáfrica, el 7 de agosto de 2024, el día antes de acercarse a la Tierra a 568 500 kilómetros. El objeto orbita alrededor del Sol pero realiza aproximaciones lentas al sistema Tierra-Luna. Entre el 29 de septiembre de 2024 y el 25 de noviembre de 2024 (un período de 1 mes y 27 días) está pasando justo sobre el exterior de la esfera de Hill de la Tierra (aproximadamente 1.5 millones de kilómetros) a una velocidad relativa baja (en un rango que va de 0.002 km/s a 0.439 km/s) y quedó temporalmente capturado por la gravedad de la Tierra, con una excentricidad orbital geocéntrica menor a 1 y una energía orbital geocéntrica negativa. El acercamiento más cercano a la Tierra en 2025 será el 9 de enero de 2025, a aproximadamente 1.8 millones de kilómetros, cuando tendrá una velocidad relativa de 1.03 km/s. Estuvo tan cerca de la Tierra por última vez alrededor del 11 de febrero de 2003, cuando pasó a unos 8.58 millones de kilómetros de la Tierra.</p>",
+          "normalizedtitle": "2024 PT5"
+        }
+      ],
+      "year": 2024
+    },
+    {
+      "text": "se estrena el primer capítulo del documental \"The Beatles: Get Back\", donde se muestran grabaciones nunca antes vistas hechas para la película de 1970, Let It Be.",
+      "pages": [
         {
           "type": "standard",
-          "title": "Agujero_de_seguridad",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Agujero de seguridad</span></span>",
+          "title": "The_Beatles:_Get_Back",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">The Beatles: Get Back</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q631425",
+          "wikibase_item": "Q88532913",
           "titles": {
-            "canonical": "Agujero_de_seguridad",
-            "normalized": "Agujero de seguridad",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Agujero de seguridad</span></span>"
+            "canonical": "The_Beatles:_Get_Back",
+            "normalized": "The Beatles: Get Back",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">The Beatles: Get Back</span></span>"
           },
-          "pageid": 19134,
+          "pageid": 9771504,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Vulnerability_timeline.png/330px-Vulnerability_timeline.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Scatle_%2811%29.png/330px-Scatle_%2811%29.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 181
+            "height": 127
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/5/58/Vulnerability_timeline.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 2558,
-            "height": 1400
+            "source": "https://upload.wikimedia.org/wikipedia/commons/1/19/Scatle_%2811%29.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1440,
+            "height": 554
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "174472569",
-          "tid": "5f672a1a-84ad-11f1-9f1f-633589c6eda8",
-          "timestamp": "2026-07-21T02:39:19Z",
-          "description": "vulnerabilidad de un sistema de información",
+          "revision": "171775234",
+          "tid": "521272d5-fcac-11f0-8c47-0f5e752f1d88",
+          "timestamp": "2026-01-29T00:49:09Z",
+          "description": "Documental de 2021",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Agujero_de_seguridad",
-              "revisions": "https://es.wikipedia.org/wiki/Agujero_de_seguridad?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Agujero_de_seguridad?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Agujero_de_seguridad"
+              "page": "https://es.wikipedia.org/wiki/The_Beatles%3A_Get_Back",
+              "revisions": "https://es.wikipedia.org/wiki/The_Beatles%3A_Get_Back?action=history",
+              "edit": "https://es.wikipedia.org/wiki/The_Beatles%3A_Get_Back?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:The_Beatles%3A_Get_Back"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Agujero_de_seguridad",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Agujero_de_seguridad",
-              "edit": "https://es.wikipedia.org/wiki/Agujero_de_seguridad?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Agujero_de_seguridad"
+              "page": "https://es.wikipedia.org/wiki/The_Beatles%3A_Get_Back",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/The_Beatles%3A_Get_Back",
+              "edit": "https://es.wikipedia.org/wiki/The_Beatles%3A_Get_Back?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:The_Beatles%3A_Get_Back"
             }
           },
-          "extract": "Un agujero de seguridad o vulnerabilidad es un fallo en un sistema de información que se puede explotar para violar la seguridad del sistema.",
-          "extract_html": "<p>Un <b>agujero de seguridad</b> o <b>vulnerabilidad</b> es un fallo en un sistema de información que se puede explotar para violar la seguridad del sistema.</p>",
-          "normalizedtitle": "Agujero de seguridad"
-        },
-        {
-          "type": "standard",
-          "title": "Biblioteca_(informática)",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Biblioteca (informática)</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q188860",
-          "titles": {
-            "canonical": "Biblioteca_(informática)",
-            "normalized": "Biblioteca (informática)",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Biblioteca (informática)</span></span>"
-          },
-          "pageid": 9220,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Ogg_vorbis_libs_and_application_dia.svg/langes-330px-Ogg_vorbis_libs_and_application_dia.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 176
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Ogg_vorbis_libs_and_application_dia.svg/langes-500px-Ogg_vorbis_libs_and_application_dia.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 450,
-            "height": 240
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "172650500",
-          "tid": "b9d2bf27-2727-11f1-af77-94552ec0278a",
-          "timestamp": "2026-03-24T02:18:20Z",
-          "description": "conjunto de implementaciones funcionales, codificadas en un lenguaje de programación",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Biblioteca_(inform%C3%A1tica)",
-              "revisions": "https://es.wikipedia.org/wiki/Biblioteca_(inform%C3%A1tica)?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Biblioteca_(inform%C3%A1tica)?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Biblioteca_(inform%C3%A1tica)"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Biblioteca_(inform%C3%A1tica)",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Biblioteca_(inform%C3%A1tica)",
-              "edit": "https://es.wikipedia.org/wiki/Biblioteca_(inform%C3%A1tica)?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Biblioteca_(inform%C3%A1tica)"
-            }
-          },
-          "extract": "En informática, una biblioteca o, llamada por vicio del lenguaje, librería es un conjunto de implementaciones funcionales, codificadas en un lenguaje de programación, que ofrece una interfaz bien definida para la funcionalidad que se invoca.",
-          "extract_html": "<p>En informática, una <b>biblioteca</b> o, llamada por vicio del lenguaje, <b>librería</b> es un conjunto de implementaciones funcionales, codificadas en un lenguaje de programación, que ofrece una interfaz bien definida para la funcionalidad que se invoca.</p>",
-          "normalizedtitle": "Biblioteca (informática)"
-        },
-        {
-          "type": "standard",
-          "title": "Plataforma_Java",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Plataforma Java</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q1713118",
-          "titles": {
-            "canonical": "Plataforma_Java",
-            "normalized": "Plataforma Java",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Plataforma Java</span></span>"
-          },
-          "pageid": 120276,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Java_Platforms.PNG/330px-Java_Platforms.PNG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 294
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Java_Platforms.PNG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 370,
-            "height": 330
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176272748",
-          "tid": "9d69da5a-dee6-11f1-b31d-4ac0fc513d4f",
-          "timestamp": "2026-11-12T22:15:49Z",
-          "description": "entorno o plataforma de computación",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Plataforma_Java",
-              "revisions": "https://es.wikipedia.org/wiki/Plataforma_Java?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Plataforma_Java?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Plataforma_Java"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Plataforma_Java",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Plataforma_Java",
-              "edit": "https://es.wikipedia.org/wiki/Plataforma_Java?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Plataforma_Java"
-            }
-          },
-          "extract": "La plataforma Java es el nombre de un entorno o plataforma de computación originaria de Sun Microsystems, capaz de ejecutar aplicaciones desarrolladas usando el lenguaje de programación Java u otros lenguajes que compilen a bytecode y un conjunto de herramientas de desarrollo. En este caso, la plataforma no es un hardware específico o un sistema operativo, sino más bien una máquina virtual encargada de la ejecución de las aplicaciones y un conjunto de bibliotecas estándar que ofrecen una funcionalidad común.",
-          "extract_html": "<p>La <b>plataforma Java</b> es el nombre de un entorno o plataforma de computación originaria de Sun Microsystems, capaz de ejecutar aplicaciones desarrolladas usando el lenguaje de programación Java u otros lenguajes que compilen a bytecode y un conjunto de herramientas de desarrollo. En este caso, la plataforma no es un hardware específico o un sistema operativo, sino más bien una máquina virtual encargada de la ejecución de las aplicaciones y un conjunto de bibliotecas estándar que ofrecen una funcionalidad común.</p>",
-          "normalizedtitle": "Plataforma Java"
-        },
-        {
-          "type": "standard",
-          "title": "Log4j",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Log4j</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q286923",
-          "titles": {
-            "canonical": "Log4j",
-            "normalized": "Log4j",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Log4j</span></span>"
-          },
-          "pageid": 734194,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Apache_Log4j_Logo.png/330px-Apache_Log4j_Logo.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 136
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Apache_Log4j_Logo.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1990,
-            "height": 823
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "174709460",
-          "tid": "0c60b997-90de-11f1-a9d1-40ddeba35cea",
-          "timestamp": "2026-08-05T14:57:59Z",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Log4j",
-              "revisions": "https://es.wikipedia.org/wiki/Log4j?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Log4j?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Log4j"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Log4j",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Log4j",
-              "edit": "https://es.wikipedia.org/wiki/Log4j?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Log4j"
-            }
-          },
-          "extract": "Log4j es una biblioteca de código abierto desarrollada en Java por la Apache Software Foundation que permite a los desarrolladores de software escribir mensajes de registro, cuyo propósito es dejar constancia de una determinada transacción en tiempo de ejecución. Log4j permite filtrar los mensajes en función de su importancia. La configuración de salida y granularidad de los mensajes es realizada en tiempo de ejecución mediante el uso de archivos de configuración externos. Log4J ha sido implementado en otros lenguajes como C, C++, C#, Perl, Python, Ruby y Eiffel.",
-          "extract_html": "<p><b>Log4j</b> es una biblioteca de código abierto desarrollada en Java por la Apache Software Foundation que permite a los desarrolladores de <i>software</i> escribir mensajes de registro, cuyo propósito es dejar constancia de una determinada transacción en tiempo de ejecución. Log4j permite filtrar los mensajes en función de su importancia. La configuración de salida y granularidad de los mensajes es realizada en tiempo de ejecución mediante el uso de archivos de configuración externos. Log4J ha sido implementado en otros lenguajes como C, C++, C#, Perl, Python, Ruby y Eiffel.</p>",
-          "normalizedtitle": "Log4j"
+          "extract": "The Beatles: Get Back es un documental dirigido por Peter Jackson que explora la realización del álbum Let It Be de la banda de rock británica The Beatles, cuyo título provisional era Get Back. Con un estreno proyectado para el 25, 26 y 27 de noviembre de 2021, la película se basa en el material originalmente capturado para el documental de 1970 del director Michael Lindsay-Hogg sobre el mencionado álbum. The Beatles: Get Back trata de reconstruir la película de Lindsay-Hogg para mostrar la amistosa camaradería que aún existía entre los miembros del grupo y para desafiar las antiguas afirmaciones que aseguran que los músicos en ese momento tenían una mala relación entre ellos.",
+          "extract_html": "<p><i><b>The Beatles: Get Back</b></i> es un documental dirigido por Peter Jackson que explora la realización del álbum <i>Let It Be</i> de la banda de rock británica The Beatles, cuyo título provisional era <i>Get Back</i>. Con un estreno proyectado para el 25, 26 y 27 de noviembre de 2021, la película se basa en el material originalmente capturado para el documental de 1970 del director Michael Lindsay-Hogg sobre el mencionado álbum. <i>The Beatles: Get Back</i> trata de reconstruir la película de Lindsay-Hogg para mostrar la amistosa camaradería que aún existía entre los miembros del grupo y para desafiar las antiguas afirmaciones que aseguran que los músicos en ese momento tenían una mala relación entre ellos.</p>",
+          "normalizedtitle": "The Beatles: Get Back"
         }
       ],
       "year": 2021
     },
     {
-      "text": "en Los Ángeles (California) se lleva a cabo la 47.ª edición de los American Music Awards.",
+      "text": "Fallece el exfutbolista argentino Diego Armando Maradona.",
       "pages": [
         {
           "type": "standard",
-          "title": "Los_Ángeles",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Los Ángeles</span></span>",
+          "title": "Diego_Maradona",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Diego Maradona</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q65",
+          "wikibase_item": "Q17515",
           "titles": {
-            "canonical": "Los_Ángeles",
-            "normalized": "Los Ángeles",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Los Ángeles</span></span>"
+            "canonical": "Diego_Maradona",
+            "normalized": "Diego Maradona",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Diego Maradona</span></span>"
           },
-          "pageid": 12923,
+          "pageid": 9496,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/330px-Hollywood_sign_%288485145044%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Maradona-Mundial_86_con_la_copa.JPG/330px-Maradona-Mundial_86_con_la_copa.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 484
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Maradona-Mundial_86_con_la_copa.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1361,
+            "height": 1995
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176337210",
+          "tid": "8ddfed24-e266-11f1-ad12-38eb27268885",
+          "timestamp": "2026-11-17T09:09:12Z",
+          "description": "futbolista y entrenador argentino",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Diego_Maradona",
+              "revisions": "https://es.wikipedia.org/wiki/Diego_Maradona?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Diego_Maradona?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Diego_Maradona"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Diego_Maradona",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Diego_Maradona",
+              "edit": "https://es.wikipedia.org/wiki/Diego_Maradona?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Diego_Maradona"
+            }
+          },
+          "extract": "Diego Armando Maradona fue un futbolista y entrenador argentino. Como jugador, se desempeñó en la posición de mediocampista ofensivo o delantero, siendo considerado por numerosos especialistas, exfutbolistas y personalidades internacionales como «uno de los mejores futbolistas en la historia».",
+          "extract_html": "<p><b>Diego Armando Maradona</b> fue un futbolista y entrenador argentino. Como jugador, se desempeñó en la posición de mediocampista ofensivo o delantero, siendo considerado por numerosos especialistas, exfutbolistas y personalidades internacionales como «uno de los mejores futbolistas en la historia».</p>",
+          "normalizedtitle": "Diego Maradona"
+        }
+      ],
+      "year": 2020
+    },
+    {
+      "text": "el líder supremo de Irán, Alí Jamenei, ratifica el apoyo del Gobierno a Hezbolá y Hamás.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Líder_supremo_de_Irán",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Líder supremo de Irán</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q332486",
+          "titles": {
+            "canonical": "Líder_supremo_de_Irán",
+            "normalized": "Líder supremo de Irán",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Líder supremo de Irán</span></span>"
+          },
+          "pageid": 1249971,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Portrait_of_Mojtaba_Khamenei.jpg/330px-Portrait_of_Mojtaba_Khamenei.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 467
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Portrait_of_Mojtaba_Khamenei.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 905,
+            "height": 1280
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "175188347",
+          "tid": "3e298205-a830-11f1-9959-1585b42d85b3",
+          "timestamp": "2026-09-04T07:14:18Z",
+          "description": "jefe de Estado de la República Islámica de Irán",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/L%C3%ADder_supremo_de_Ir%C3%A1n",
+              "revisions": "https://es.wikipedia.org/wiki/L%C3%ADder_supremo_de_Ir%C3%A1n?action=history",
+              "edit": "https://es.wikipedia.org/wiki/L%C3%ADder_supremo_de_Ir%C3%A1n?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:L%C3%ADder_supremo_de_Ir%C3%A1n"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/L%C3%ADder_supremo_de_Ir%C3%A1n",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/L%C3%ADder_supremo_de_Ir%C3%A1n",
+              "edit": "https://es.wikipedia.org/wiki/L%C3%ADder_supremo_de_Ir%C3%A1n?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:L%C3%ADder_supremo_de_Ir%C3%A1n"
+            }
+          },
+          "extract": "La Autoridad Suprema de Liderazgo de la República Islámica de Irán (مقام معظم رهبری, maqām mo'azzam rahbari), más conocido como líder supremo de Irán y también conocido como líder supremo de la Revolución Islámica, es el jefe de Estado, la máxima autoridad política y religiosa de la República Islámica de Irán. Mochtabá Jameneí es el actual líder supremo desde el 8 de marzo de 2026.",
+          "extract_html": "<p>La <b>Autoridad Suprema de Liderazgo de la República Islámica de Irán</b> <i>(مقام معظم رهبری, maqām mo'azzam rahbari)</i>, más conocido como <b>líder supremo de Irán</b> y también conocido como <b>líder supremo de la Revolución Islámica</b>, es el jefe de Estado, la máxima autoridad política y religiosa de la República Islámica de Irán. Mochtabá Jameneí es el actual líder supremo desde el 8 de marzo de 2026.</p>",
+          "normalizedtitle": "Líder supremo de Irán"
+        },
+        {
+          "type": "standard",
+          "title": "Alí_Jameneí",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alí Jameneí</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q57336",
+          "titles": {
+            "canonical": "Alí_Jameneí",
+            "normalized": "Alí Jameneí",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alí Jameneí</span></span>"
+          },
+          "pageid": 1207434,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Ali_Khamenei_Nowruz_message_official_portrait_1397_02_%28cropped%29%282%29.jpg/330px-Ali_Khamenei_Nowruz_message_official_portrait_1397_02_%28cropped%29%282%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 460
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Ali_Khamenei_Nowruz_message_official_portrait_1397_02_%28cropped%29%282%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1229,
+            "height": 1712
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176258700",
+          "tid": "3e915d6a-de27-11f1-8810-23c2e00f5fcb",
+          "timestamp": "2026-11-11T23:25:56Z",
+          "description": "ayatolá y 2.º líder supremo de Irán entre 1989 y 2026",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Al%C3%AD_Jamene%C3%AD",
+              "revisions": "https://es.wikipedia.org/wiki/Al%C3%AD_Jamene%C3%AD?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Al%C3%AD_Jamene%C3%AD?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Al%C3%AD_Jamene%C3%AD"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Al%C3%AD_Jamene%C3%AD",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Al%C3%AD_Jamene%C3%AD",
+              "edit": "https://es.wikipedia.org/wiki/Al%C3%AD_Jamene%C3%AD?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Al%C3%AD_Jamene%C3%AD"
+            }
+          },
+          "extract": "Alí Hoseiní Jameneí fue un clérigo chiita, revolucionario y político iraní que desempeñó el cargo de líder supremo de Irán desde 1989 hasta su magnicidio en 2026. Jameneí también fue líder de la clase dirigente clerical islámica de su país y marŷaʿ del chiismo duodecimano. Su mandato como líder supremo, que se prolongó por más de 36 años, lo convirtió en el jefe de Estado con más años en el cargo en Medio Oriente y el segundo líder iraní con más años en el cargo de los siglos XX y XXI, después del sha Mohammad Reza Pahleví. Además, entre 1981 y 1989 fue el tercer presidente de Irán.",
+          "extract_html": "<p><b>Alí Hoseiní Jameneí</b> fue un clérigo chiita, revolucionario y político iraní que desempeñó el cargo de líder supremo de Irán desde 1989 hasta su magnicidio en 2026. Jameneí también fue líder de la clase dirigente clerical islámica de su país y <i>marŷaʿ</i> del chiismo duodecimano. Su mandato como líder supremo, que se prolongó por más de 36 años, lo convirtió en el jefe de Estado con más años en el cargo en Medio Oriente y el segundo líder iraní con más años en el cargo de los siglos <span style=\"text-transform:lowercase\">XX</span> y <span style=\"text-transform:lowercase\">XXI</span>, después del sha Mohammad Reza Pahleví. Además, entre 1981 y 1989 fue el tercer presidente de Irán.</p>",
+          "normalizedtitle": "Alí Jameneí"
+        },
+        {
+          "type": "standard",
+          "title": "Hezbolá",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Hezbolá</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q41053",
+          "titles": {
+            "canonical": "Hezbolá",
+            "normalized": "Hezbolá",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Hezbolá</span></span>"
+          },
+          "pageid": 1468053,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Hezbollah_%28thumbnail_placeholder%29.svg/langes-330px-Flag_of_Hezbollah_%28thumbnail_placeholder%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
             "height": 220
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Hollywood_sign_%288485145044%29.jpg/3840px-Hollywood_sign_%288485145044%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 3888,
-            "height": 2592
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Hezbollah_%28thumbnail_placeholder%29.svg/langes-960px-Flag_of_Hezbollah_%28thumbnail_placeholder%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 600,
+            "height": 400
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176333400",
-          "tid": "c1e6f0dd-e225-11f1-b027-39bae2834c29",
-          "timestamp": "2026-11-17T01:25:22Z",
-          "description": "ciudad más poblada del estado de California, Estados Unidos",
+          "revision": "176451019",
+          "tid": "655786a3-e85e-11f1-a492-601c12c8e77a",
+          "timestamp": "2026-11-24T23:25:55Z",
+          "description": "partido político y organización terrorista paramilitar chiíta libanesa",
           "description_source": "central",
-          "coordinates": {
-            "lat": 34.05223,
-            "lon": -118.24368
-          },
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Los_%C3%81ngeles",
-              "revisions": "https://es.wikipedia.org/wiki/Los_%C3%81ngeles?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Los_%C3%81ngeles?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Los_%C3%81ngeles"
+              "page": "https://es.wikipedia.org/wiki/Hezbol%C3%A1",
+              "revisions": "https://es.wikipedia.org/wiki/Hezbol%C3%A1?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Hezbol%C3%A1?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Hezbol%C3%A1"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Los_%C3%81ngeles",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Los_%C3%81ngeles",
-              "edit": "https://es.wikipedia.org/wiki/Los_%C3%81ngeles?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Los_%C3%81ngeles"
+              "page": "https://es.wikipedia.org/wiki/Hezbol%C3%A1",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Hezbol%C3%A1",
+              "edit": "https://es.wikipedia.org/wiki/Hezbol%C3%A1?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Hezbol%C3%A1"
             }
           },
-          "extract": "Los Ángeles oficialmente Ciudad de Los Ángeles y abreviado LA, es la ciudad más poblada del estado de California y la segunda ciudad más poblada de Estados Unidos, tras Nueva York. Tiene, según el censo de 2020, una población de 3 983 540 habitantes, experimentando un crecimiento de un 4.9 % en diez años. Está ubicada en el sur de California y abarca una superficie de 1215 km².",
-          "extract_html": "<p><b>Los Ángeles</b> oficialmente <b>Ciudad de Los Ángeles</b> y abreviado <b>LA</b>, es la ciudad más poblada del estado de California y la segunda ciudad más poblada de Estados Unidos, tras Nueva York. Tiene, según el censo de 2020, una población de 3 983 540 habitantes, experimentando un crecimiento de un 4.9 % en diez años. Está ubicada en el sur de California y abarca una superficie de 1215 km².</p>",
-          "normalizedtitle": "Los Ángeles"
+          "extract": "Hezbolá o Hizbulá, traducido literalmente como Partido de Dios, es un partido político y grupo paramilitar musulmán chií libanés, regido desde 2024 por su secretario general Naim Qassem. El brazo paramilitar de Hezbolá es el Consejo de Yihad, y su brazo político es el partido Bloque de Lealtad a la Resistencia en el Parlamento del Líbano. En 2016 se estimaba que su fuerza armada era equivalente a la de un ejército de tamaño medio. Es, junto con el Movimiento Amal, la principal expresión política y militar de la comunidad chií del Líbano, uno de los tres grupos religiosos más numerosos del país.",
+          "extract_html": "<p><b>Hezbolá</b> o <b>Hizbulá</b>, traducido literalmente como <b>Partido de Dios</b>, es un partido político y grupo paramilitar musulmán chií libanés, regido desde 2024 por su secretario general Naim Qassem. El brazo paramilitar de Hezbolá es el Consejo de Yihad, y su brazo político es el partido Bloque de Lealtad a la Resistencia en el Parlamento del Líbano. En 2016 se estimaba que su fuerza armada era equivalente a la de un ejército de tamaño medio. Es, junto con el Movimiento Amal, la principal expresión política y militar de la comunidad chií del Líbano, uno de los tres grupos religiosos más numerosos del país.</p>",
+          "normalizedtitle": "Hezbolá"
         },
         {
           "type": "standard",
-          "title": "Premios_American_Music",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Premios American Music</span></span>",
+          "title": "Hamás",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Hamás</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q207601",
+          "wikibase_item": "Q38799",
           "titles": {
-            "canonical": "Premios_American_Music",
-            "normalized": "Premios American Music",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Premios American Music</span></span>"
+            "canonical": "Hamás",
+            "normalized": "Hamás",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Hamás</span></span>"
           },
-          "pageid": 2100070,
+          "pageid": 42845,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/American_Music_Awards_logo.svg/langes-330px-American_Music_Awards_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Emblem_of_Hamas_Dark_Green_Variant_Vector_Graphic.svg/langes-330px-Emblem_of_Hamas_Dark_Green_Variant_Vector_Graphic.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 329
+            "height": 364
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/American_Music_Awards_logo.svg/langes-1920px-American_Music_Awards_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 1707,
-            "height": 1704
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Emblem_of_Hamas_Dark_Green_Variant_Vector_Graphic.svg/langes-960px-Emblem_of_Hamas_Dark_Green_Variant_Vector_Graphic.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 916,
+            "height": 1010
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "173641714",
-          "tid": "6dce024d-58ad-11f1-a646-718b21b4e971",
-          "timestamp": "2026-05-26T02:48:52Z",
-          "description": "espectáculo anual de premios de música estadounidense",
+          "revision": "176340343",
+          "tid": "8420ade3-e293-11f1-b9fc-6e01d225ff25",
+          "timestamp": "2026-11-17T14:31:03Z",
+          "description": "organización política y paramilitar palestina",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Premios_American_Music",
-              "revisions": "https://es.wikipedia.org/wiki/Premios_American_Music?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Premios_American_Music?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Premios_American_Music"
+              "page": "https://es.wikipedia.org/wiki/Ham%C3%A1s",
+              "revisions": "https://es.wikipedia.org/wiki/Ham%C3%A1s?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Ham%C3%A1s?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Ham%C3%A1s"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Premios_American_Music",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Premios_American_Music",
-              "edit": "https://es.wikipedia.org/wiki/Premios_American_Music?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Premios_American_Music"
+              "page": "https://es.wikipedia.org/wiki/Ham%C3%A1s",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Ham%C3%A1s",
+              "edit": "https://es.wikipedia.org/wiki/Ham%C3%A1s?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Ham%C3%A1s"
             }
           },
-          "extract": "Los Premios de la Música Estadounidense son premios entregados a lo mejor de la música estadounidense, reconocen a los artistas más populares. Fueron creados por el presentador de televisión Dick Clark en 1973 para competir con los premios Grammy, luego de que la ceremonia de ese año se mudara a Nashville, Tennessee. Michael Jackson y Donny Osmond animaron la primera entrega junto a Rodney Allen Rippy y Ricky Segall en 1974.",
-          "extract_html": "<p>Los <b>Premios de la Música Estadounidense</b> son premios entregados a lo mejor de la música estadounidense, reconocen a los artistas más populares. Fueron creados por el presentador de televisión Dick Clark en 1973 para competir con los premios Grammy, luego de que la ceremonia de ese año se mudara a Nashville, Tennessee. Michael Jackson y Donny Osmond animaron la primera entrega junto a Rodney Allen Rippy y Ricky Segall en 1974.</p>",
-          "normalizedtitle": "Premios American Music"
+          "extract": "Hamás, cuyo nombre formal es Movimiento de Resistencia Islámica, es una organización política y paramilitar palestina sunita que se declara yihadista, nacionalista e islamista. Su objetivo original, definido en su carta fundacional, fue el establecimiento de un Estado islámico en la región histórica de Palestina, que comprendería los actuales Israel, Cisjordania y la Franja de Gaza, con capital en Jerusalén. Sin embargo, en 2017 publicó unos nuevos estatutos en los que limitó su reclamación a «el establecimiento de un Estado de Palestina completamente soberano e independiente, con Jerusalén como capital, en las fronteras del 4 de junio de 1967», enfatizando su carácter nacionalista por encima del religioso, aunque sin reconocer a Israel ni abandonar la lucha armada. Hamás cuenta con una serie de organizaciones dependientes que desarrollan sus actividades en muy diversos ámbitos, y abarcan desde la asimilación cultural y religiosa de los jóvenes a través de la madrasa, la asistencia social a los palestinos más necesitados, la representación en las instituciones políticas palestinas a través de la lista Cambio y Reforma, hasta las Brigadas de Ezzeldin Al-Qassam, brazo armado de Hamás.",
+          "extract_html": "<p><b>Hamás</b>, cuyo nombre formal es <b>Movimiento de Resistencia Islámica</b>, es una organización política y paramilitar palestina sunita que se declara yihadista, nacionalista e islamista. Su objetivo original, definido en su carta fundacional, fue el establecimiento de un Estado islámico en la región histórica de Palestina, que comprendería los actuales Israel, Cisjordania y la Franja de Gaza, con capital en Jerusalén. Sin embargo, en 2017 publicó unos nuevos estatutos en los que limitó su reclamación a «el establecimiento de un Estado de Palestina completamente soberano e independiente, con Jerusalén como capital, en las fronteras del 4 de junio de 1967», enfatizando su carácter nacionalista por encima del religioso, aunque sin reconocer a Israel ni abandonar la lucha armada. Hamás cuenta con una serie de organizaciones dependientes que desarrollan sus actividades en muy diversos ámbitos, y abarcan desde la asimilación cultural y religiosa de los jóvenes a través de la madrasa, la asistencia social a los palestinos más necesitados, la representación en las instituciones políticas palestinas a través de la lista Cambio y Reforma, hasta las Brigadas de Ezzeldin Al-Qassam, brazo armado de Hamás.</p>",
+          "normalizedtitle": "Hamás"
         }
       ],
-      "year": 2019
+      "year": 2014
     },
     {
-      "text": "en Gliwice (Polonia) se lleva a cabo el Festival de la Canción de Eurovisión Júnior.",
+      "text": "One Direction lanza su tercer álbum de estudio, titulado Midnight memories.",
       "pages": [
         {
           "type": "standard",
-          "title": "Gliwice",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Gliwice</span></span>",
+          "title": "One_Direction",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">One Direction</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q105084",
+          "wikibase_item": "Q146027",
           "titles": {
-            "canonical": "Gliwice",
-            "normalized": "Gliwice",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Gliwice</span></span>"
+            "canonical": "One_Direction",
+            "normalized": "One Direction",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">One Direction</span></span>"
           },
-          "pageid": 1797519,
+          "pageid": 5143585,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Gliwice_old_town.jpg/330px-Gliwice_old_town.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/One_Direction_Sydney_4.jpg/330px-One_Direction_Sydney_4.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 248
+            "height": 180
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Gliwice_old_town.jpg/3840px-Gliwice_old_town.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 4032,
-            "height": 3024
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "167782936",
-          "tid": "9458d369-4160-11f0-949d-eb4f7055f734",
-          "timestamp": "2025-06-04T16:25:51Z",
-          "description": "ciudad actualmente en Polonia",
-          "description_source": "central",
-          "coordinates": {
-            "lat": 50.29416667,
-            "lon": 18.66583333
-          },
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Gliwice",
-              "revisions": "https://es.wikipedia.org/wiki/Gliwice?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Gliwice?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Gliwice"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Gliwice",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Gliwice",
-              "edit": "https://es.wikipedia.org/wiki/Gliwice?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Gliwice"
-            }
-          },
-          "extract": "Gliwice es una importante ciudad del voivodato de Silesia, en la República de Polonia. Se asienta en las orillas del río Kłodnica, a unos 20 km al oeste de Katowice. En 2004 contaba con 200 361 habitantes.",
-          "extract_html": "<p><b>Gliwice</b> es una importante ciudad del voivodato de Silesia, en la República de Polonia. Se asienta en las orillas del río Kłodnica, a unos 20 km al oeste de Katowice. En 2004 contaba con <span>200 361 habitantes</span>.</p>",
-          "normalizedtitle": "Gliwice"
-        },
-        {
-          "type": "standard",
-          "title": "Festival_de_la_Canción_de_Eurovisión_Junior",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Festival de la Canción de Eurovisión Junior</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q103665",
-          "titles": {
-            "canonical": "Festival_de_la_Canción_de_Eurovisión_Junior",
-            "normalized": "Festival de la Canción de Eurovisión Junior",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Festival de la Canción de Eurovisión Junior</span></span>"
-          },
-          "pageid": 99722,
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176411871",
-          "tid": "7b8df645-e64c-11f1-82aa-1a45abc4f727",
-          "timestamp": "2026-11-22T08:12:39Z",
-          "description": "Concurso televisivo europeo de música para niños de entre 9 y 14 años",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Festival_de_la_Canci%C3%B3n_de_Eurovisi%C3%B3n_Junior",
-              "revisions": "https://es.wikipedia.org/wiki/Festival_de_la_Canci%C3%B3n_de_Eurovisi%C3%B3n_Junior?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Festival_de_la_Canci%C3%B3n_de_Eurovisi%C3%B3n_Junior?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Festival_de_la_Canci%C3%B3n_de_Eurovisi%C3%B3n_Junior"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Festival_de_la_Canci%C3%B3n_de_Eurovisi%C3%B3n_Junior",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Festival_de_la_Canci%C3%B3n_de_Eurovisi%C3%B3n_Junior",
-              "edit": "https://es.wikipedia.org/wiki/Festival_de_la_Canci%C3%B3n_de_Eurovisi%C3%B3n_Junior?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Festival_de_la_Canci%C3%B3n_de_Eurovisi%C3%B3n_Junior"
-            }
-          },
-          "extract": "El Festival de la Canción de Eurovisión Junior es un concurso televisivo de carácter anual, en el que participan intérpretes representantes de las televisiones, cuyos países son miembros de la Unión Europea de Radiodifusión. El festival ha sido transmitido cada año desde 2003 y en él participan niños.",
-          "extract_html": "<p>El <b>Festival de la Canción de Eurovisión Junior</b> es un concurso televisivo de carácter anual, en el que participan intérpretes representantes de las televisiones, cuyos países son miembros de la Unión Europea de Radiodifusión. El festival ha sido transmitido cada año desde 2003 y en él participan niños.</p>",
-          "normalizedtitle": "Festival de la Canción de Eurovisión Junior"
-        }
-      ],
-      "year": 2019
-    },
-    {
-      "text": "el huracán Otto, de categoría 2, toca tierra al sureste de Nicaragua con vientos de 178 km/h.",
-      "pages": [
-        {
-          "type": "standard",
-          "title": "Huracán_Otto",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Huracán Otto</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q27906759",
-          "titles": {
-            "canonical": "Huracán_Otto",
-            "normalized": "Huracán Otto",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Huracán Otto</span></span>"
-          },
-          "pageid": 7674129,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Otto_2016-11-24_1415Z.png/330px-Otto_2016-11-24_1415Z.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 330
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Otto_2016-11-24_1415Z.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1600,
-            "height": 1600
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "170496579",
-          "tid": "4c4adb1c-c1e9-11f0-aeb6-f67ea29de7f4",
-          "timestamp": "2025-11-15T06:07:00Z",
-          "description": "huracán del Atlántico-Pacífico de categoría 3, en 2016; afectó a América Central e islas cercanas",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Hurac%C3%A1n_Otto",
-              "revisions": "https://es.wikipedia.org/wiki/Hurac%C3%A1n_Otto?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Hurac%C3%A1n_Otto?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Hurac%C3%A1n_Otto"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Hurac%C3%A1n_Otto",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Hurac%C3%A1n_Otto",
-              "edit": "https://es.wikipedia.org/wiki/Hurac%C3%A1n_Otto?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Hurac%C3%A1n_Otto"
-            }
-          },
-          "extract": "El huracán Otto fue el decimosexto ciclón tropical, la decimoquinta tormenta nombrada y el séptimo huracán de la temporada de huracanes del Atlántico de 2016. Se formó el día 21 de noviembre en la zona suroeste del Mar Caribe, frente a las costas de Panamá. Cruzó hacia el Pacífico tal como lo hizo el huracán Cesar-Douglas en 1996.",
-          "extract_html": "<p>El <b>huracán Otto</b> fue el decimosexto ciclón tropical, la decimoquinta tormenta nombrada y el séptimo huracán de la temporada de huracanes del Atlántico de 2016. Se formó el día 21 de noviembre en la zona suroeste del Mar Caribe, frente a las costas de Panamá. Cruzó hacia el Pacífico tal como lo hizo el huracán Cesar-Douglas en 1996.</p>",
-          "normalizedtitle": "Huracán Otto"
-        },
-        {
-          "type": "standard",
-          "title": "Escala_de_huracanes_de_Saffir-Simpson",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Escala de huracanes de Saffir-Simpson</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q205801",
-          "titles": {
-            "canonical": "Escala_de_huracanes_de_Saffir-Simpson",
-            "normalized": "Escala de huracanes de Saffir-Simpson",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Escala de huracanes de Saffir-Simpson</span></span>"
-          },
-          "pageid": 66559,
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "170270719",
-          "tid": "6e564fc9-b74d-11f0-b07f-f0a593d38033",
-          "timestamp": "2025-11-01T18:06:04Z",
-          "description": "medición de los ciclones tropicales en cinco categorías",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Escala_de_huracanes_de_Saffir-Simpson",
-              "revisions": "https://es.wikipedia.org/wiki/Escala_de_huracanes_de_Saffir-Simpson?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Escala_de_huracanes_de_Saffir-Simpson?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Escala_de_huracanes_de_Saffir-Simpson"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Escala_de_huracanes_de_Saffir-Simpson",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Escala_de_huracanes_de_Saffir-Simpson",
-              "edit": "https://es.wikipedia.org/wiki/Escala_de_huracanes_de_Saffir-Simpson?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Escala_de_huracanes_de_Saffir-Simpson"
-            }
-          },
-          "extract": "La escala de huracanes de Saffir-Simpson es una escala que clasifica los ciclones tropicales según la intensidad del viento, desarrollada en 1969 por el ingeniero civil Herbert Saffir y el director del Centro Nacional de Huracanes (NHC) de Estados Unidos, Robert «Bob» Simpson.",
-          "extract_html": "<p>La <b>escala de huracanes de Saffir-Simpson</b> es una escala que clasifica los ciclones tropicales según la intensidad del viento, desarrollada en 1969 por el ingeniero civil Herbert Saffir y el director del Centro Nacional de Huracanes (NHC) de Estados Unidos, Robert «Bob» Simpson.</p>",
-          "normalizedtitle": "Escala de huracanes de Saffir-Simpson"
-        },
-        {
-          "type": "standard",
-          "title": "Nicaragua",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nicaragua</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q811",
-          "titles": {
-            "canonical": "Nicaragua",
-            "normalized": "Nicaragua",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Nicaragua</span></span>"
-          },
-          "pageid": 1982,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/langes-330px-Flag_of_Nicaragua.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 198
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Nicaragua.svg/langes-1280px-Flag_of_Nicaragua.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/3/3a/One_Direction_Sydney_4.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
             "width": 1000,
-            "height": 600
+            "height": 545
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176419526",
-          "tid": "803bc714-e6b7-11f1-a52d-62d5e55bb806",
-          "timestamp": "2026-11-22T20:58:43Z",
-          "description": "país en América Central",
+          "revision": "176203366",
+          "tid": "addb29b9-db6b-11f1-88b2-f5910fb129f1",
+          "timestamp": "2026-11-08T11:58:15Z",
+          "description": "banda británico-irlandesa",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Nicaragua",
-              "revisions": "https://es.wikipedia.org/wiki/Nicaragua?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Nicaragua?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Nicaragua"
+              "page": "https://es.wikipedia.org/wiki/One_Direction",
+              "revisions": "https://es.wikipedia.org/wiki/One_Direction?action=history",
+              "edit": "https://es.wikipedia.org/wiki/One_Direction?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:One_Direction"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Nicaragua",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Nicaragua",
-              "edit": "https://es.wikipedia.org/wiki/Nicaragua?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Nicaragua"
+              "page": "https://es.wikipedia.org/wiki/One_Direction",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/One_Direction",
+              "edit": "https://es.wikipedia.org/wiki/One_Direction?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:One_Direction"
             }
           },
-          "extract": "Nicaragua, oficialmente República de Nicaragua, es un país ubicado en América Central. Su capital y ciudad más poblada es Managua. Está compuesta por quince departamentos y dos regiones autónomas: Costa Caribe Norte y Costa Caribe Sur. Se ubica en el hemisferio norte, entre la línea ecuatorial y el trópico de Cáncer, aproximadamente entre los 11° y los 15° de latitud norte y respecto al meridiano de Greenwich, entre los 83° y los 88° de longitud oeste.",
-          "extract_html": "<p><b>Nicaragua</b>, oficialmente <b>República de Nicaragua</b>, es un país ubicado en América Central. Su capital y ciudad más poblada es Managua. Está compuesta por quince departamentos y dos regiones autónomas: Costa Caribe Norte y Costa Caribe Sur. Se ubica en el hemisferio norte, entre la línea ecuatorial y el trópico de Cáncer, aproximadamente entre los 11° y los 15° de latitud norte y respecto al meridiano de Greenwich, entre los 83° y los 88° de longitud oeste.</p>",
-          "normalizedtitle": "Nicaragua"
-        },
-        {
-          "type": "standard",
-          "title": "Kilómetro_por_hora",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Kilómetro por hora</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q180154",
-          "titles": {
-            "canonical": "Kilómetro_por_hora",
-            "normalized": "Kilómetro por hora",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Kilómetro por hora</span></span>"
-          },
-          "pageid": 40430,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/MX_road_sign_SR-9_%2850%29.svg/langes-330px-MX_road_sign_SR-9_%2850%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 330
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/MX_road_sign_SR-9_%2850%29.svg/langes-960px-MX_road_sign_SR-9_%2850%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 550,
-            "height": 550
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "172500017",
-          "tid": "58da1a81-1fc2-11f1-80ad-62654c425def",
-          "timestamp": "2026-03-14T16:25:00Z",
-          "description": "unidad derivada del SI de velocidad",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Kil%C3%B3metro_por_hora",
-              "revisions": "https://es.wikipedia.org/wiki/Kil%C3%B3metro_por_hora?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Kil%C3%B3metro_por_hora?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Kil%C3%B3metro_por_hora"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Kil%C3%B3metro_por_hora",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Kil%C3%B3metro_por_hora",
-              "edit": "https://es.wikipedia.org/wiki/Kil%C3%B3metro_por_hora?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Kil%C3%B3metro_por_hora"
-            }
-          },
-          "extract": "El kilómetro por hora es una unidad de medida de velocidad, tanto escalar como vectorial. Un objeto viaja a una velocidad media de 1 km/h si se desplaza 1 kilómetro en una hora.",
-          "extract_html": "<p>El <b>kilómetro por hora</b> es una unidad de medida de velocidad, tanto escalar como vectorial. Un objeto viaja a una velocidad media de 1 km/h si se desplaza 1 kilómetro en una hora.</p>",
-          "normalizedtitle": "Kilómetro por hora"
+          "extract": "One Direction fue una boy band británico-irlandesa formada en 2010 en Londres, con motivo del programa The X Factor. Durante la transmisión del concurso, el quinteto, compuesto en aquel entonces por Harry Styles, Liam Payne, Zayn Malik, Niall Horan y Louis Tomlinson, fue apadrinado por Simon Cowell. Su formación se dio luego de que los cinco integrantes hicieran sus audiciones y fueran expulsados de la competencia. Tras esto, Nicole Scherzinger, una de las juezas, sugirió que los cinco formasen parte de un grupo, al que finalmente llamaron One Direction. El grupo finalmente quedó en el tercer lugar del concurso, pero aun así Cowell pagó un contrato discográfico con Syco Music para que pudiesen lanzar un disco.",
+          "extract_html": "<p><b>One Direction</b> fue una <i>boy band</i> británico-irlandesa formada en 2010 en Londres, con motivo del programa <i>The X Factor</i>. Durante la transmisión del concurso, el quinteto, compuesto en aquel entonces por Harry Styles, Liam Payne, Zayn Malik, Niall Horan y Louis Tomlinson, fue apadrinado por Simon Cowell. Su formación se dio luego de que los cinco integrantes hicieran sus audiciones y fueran expulsados de la competencia. Tras esto, Nicole Scherzinger, una de las juezas, sugirió que los cinco formasen parte de un grupo, al que finalmente llamaron One Direction. El grupo finalmente quedó en el tercer lugar del concurso, pero aun así Cowell pagó un contrato discográfico con Syco Music para que pudiesen lanzar un disco.</p>",
+          "normalizedtitle": "One Direction"
         }
       ],
-      "year": 2016
+      "year": 2013
     },
     {
-      "text": "en El Salvador se registra un terremoto de 7,2 grados en la escala de Richter.",
+      "text": "arriban al aeropuerto de Ezeiza dos helicópteros rusos Mi-171E, adquiridos por el Ministerio de Defensa para ser incorporados a la Fuerza Aérea Argentina. Llegan desarmados en la bodega de un avión ruso Antonov An-124; luego son ensamblados en un hangar especial, y trasladados en vuelo a la VII Brigada Aérea, Moreno, para operaciones antárticas (matrículas H-94 y 95).",
       "pages": [
         {
           "type": "standard",
-          "title": "El_Salvador",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">El Salvador</span></span>",
+          "title": "Aeropuerto_Internacional_Ministro_Pistarini",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Aeropuerto Internacional Ministro Pistarini</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q792",
+          "wikibase_item": "Q384788",
           "titles": {
-            "canonical": "El_Salvador",
-            "normalized": "El Salvador",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">El Salvador</span></span>"
+            "canonical": "Aeropuerto_Internacional_Ministro_Pistarini",
+            "normalized": "Aeropuerto Internacional Ministro Pistarini",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Aeropuerto Internacional Ministro Pistarini</span></span>"
           },
-          "pageid": 1149,
+          "pageid": 25191,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/langes-330px-Flag_of_El_Salvador.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Ezeiza_International_Airport_satellite.jpg/330px-Ezeiza_International_Airport_satellite.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 186
+            "height": 266
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Flag_of_El_Salvador.svg/langes-1280px-Flag_of_El_Salvador.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 1005,
-            "height": 567
+            "source": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Ezeiza_International_Airport_satellite.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 835,
+            "height": 673
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176229172",
-          "tid": "f3e3d990-dc9c-11f1-8d9a-7912b3afc14e",
-          "timestamp": "2026-11-10T00:23:29Z",
-          "description": "país de América Central",
+          "revision": "176357503",
+          "tid": "0d5fe204-e37d-11f1-acac-d47fdd8f68b0",
+          "timestamp": "2026-11-18T18:22:46Z",
+          "description": "aeropuerto internacional en Ezeiza, Argentina",
           "description_source": "central",
+          "coordinates": {
+            "lat": -34.82222222,
+            "lon": -58.53583333
+          },
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/El_Salvador",
-              "revisions": "https://es.wikipedia.org/wiki/El_Salvador?action=history",
-              "edit": "https://es.wikipedia.org/wiki/El_Salvador?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:El_Salvador"
+              "page": "https://es.wikipedia.org/wiki/Aeropuerto_Internacional_Ministro_Pistarini",
+              "revisions": "https://es.wikipedia.org/wiki/Aeropuerto_Internacional_Ministro_Pistarini?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Aeropuerto_Internacional_Ministro_Pistarini?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Aeropuerto_Internacional_Ministro_Pistarini"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/El_Salvador",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/El_Salvador",
-              "edit": "https://es.wikipedia.org/wiki/El_Salvador?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:El_Salvador"
+              "page": "https://es.wikipedia.org/wiki/Aeropuerto_Internacional_Ministro_Pistarini",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Aeropuerto_Internacional_Ministro_Pistarini",
+              "edit": "https://es.wikipedia.org/wiki/Aeropuerto_Internacional_Ministro_Pistarini?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Aeropuerto_Internacional_Ministro_Pistarini"
             }
           },
-          "extract": "El Salvador, oficialmente República de El Salvador, es un país soberano de América Central con costas por el océano Pacífico. De acuerdo con la constitución vigente, es una república unitaria, representativa y presidencialista plena junto con la Asamblea Legislativa. Su territorio está organizado por una ciudad capital, 14 departamentos, y 262 distritos. Su capital y ciudad más poblada es San Salvador.",
-          "extract_html": "<p><b>El Salvador</b>, oficialmente <b>República de El Salvador</b>, es un país soberano de América Central con costas por el océano Pacífico. De acuerdo con la constitución vigente, es una república unitaria, representativa y presidencialista plena junto con la Asamblea Legislativa. Su territorio está organizado por una ciudad capital, 14 departamentos, y 262 distritos. Su capital y ciudad más poblada es San Salvador.</p>",
-          "normalizedtitle": "El Salvador"
+          "extract": "El Aeropuerto Internacional Ministro Pistarini, conocido comúnmente como Aeropuerto Internacional de Ezeiza, es una terminal aérea internacional que sirve al área metropolitana de Buenos Aires, Argentina. Se encuentra la localidad homónima, dentro del municipio de Ezeiza, a 35 km del centro de la capital del país. La categoría OACI es 4F.",
+          "extract_html": "<p>El <b>Aeropuerto Internacional Ministro Pistarini</b>, conocido comúnmente como <b>Aeropuerto Internacional de Ezeiza</b>, es una terminal aérea internacional que sirve al área metropolitana de Buenos Aires, Argentina. Se encuentra la localidad homónima, dentro del municipio de Ezeiza, a 35 km del centro de la capital del país. La categoría OACI es <b>4F</b>.</p>",
+          "normalizedtitle": "Aeropuerto Internacional Ministro Pistarini"
         },
         {
           "type": "standard",
-          "title": "Escala_sismológica_de_Richter",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Escala sismológica de Richter</span></span>",
+          "title": "Mil_Mi-17",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mil Mi-17</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q38768",
+          "wikibase_item": "Q317288",
           "titles": {
-            "canonical": "Escala_sismológica_de_Richter",
-            "normalized": "Escala sismológica de Richter",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Escala sismológica de Richter</span></span>"
+            "canonical": "Mil_Mi-17",
+            "normalized": "Mil Mi-17",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mil Mi-17</span></span>"
           },
-          "pageid": 21127,
+          "pageid": 2228371,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Ondas_s%C3%ADsmicas_s_p.svg/langes-330px-Ondas_s%C3%ADsmicas_s_p.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Russian_Air_Force_Mil_Mi-17_yellow_62.jpg/330px-Russian_Air_Force_Mil_Mi-17_yellow_62.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 264
+            "height": 216
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Ondas_s%C3%ADsmicas_s_p.svg/langes-250px-Ondas_s%C3%ADsmicas_s_p.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 250,
-            "height": 200
+            "source": "https://upload.wikimedia.org/wikipedia/commons/6/64/Russian_Air_Force_Mil_Mi-17_yellow_62.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1842,
+            "height": 1207
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176166133",
-          "tid": "93316403-d959-11f1-9f64-ac73bba84601",
-          "timestamp": "2026-11-05T20:43:37Z",
-          "description": "escala logarítmica arbitraria que asigna un número para cuantificar la energía que libera un terremoto",
+          "revision": "176147591",
+          "tid": "bc71c76c-d867-11f1-a18e-98d2c848c251",
+          "timestamp": "2026-11-04T15:52:28Z",
+          "description": "helicóptero de transporte fabricado por Mil",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter",
-              "revisions": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Escala_sismol%C3%B3gica_de_Richter"
+              "page": "https://es.wikipedia.org/wiki/Mil_Mi-17",
+              "revisions": "https://es.wikipedia.org/wiki/Mil_Mi-17?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Mil_Mi-17?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Mil_Mi-17"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Escala_sismol%C3%B3gica_de_Richter",
-              "edit": "https://es.wikipedia.org/wiki/Escala_sismol%C3%B3gica_de_Richter?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Escala_sismol%C3%B3gica_de_Richter"
+              "page": "https://es.wikipedia.org/wiki/Mil_Mi-17",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Mil_Mi-17",
+              "edit": "https://es.wikipedia.org/wiki/Mil_Mi-17?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Mil_Mi-17"
             }
           },
-          "extract": "La escala sismológica de Richter, también conocida como escala de magnitud local (ML), es una escala logarítmica que asigna un número para cuantificar la energía que libera un terremoto, denominada así en honor del sismólogo estadounidense Charles Francis Richter.",
-          "extract_html": "<p>La <b>escala sismológica de Richter</b>, también conocida como <b>escala de magnitud local</b> (<b><i>M</i><sub>L</sub></b>), es una escala logarítmica que asigna un número para cuantificar la energía que libera un terremoto, denominada así en honor del sismólogo estadounidense Charles Francis Richter.</p>",
-          "normalizedtitle": "Escala sismológica de Richter"
-        }
-      ],
-      "year": 2016
-    },
-    {
-      "text": "en Tunis, ciudad de Túnez, se produce un ataque terrorista en un autobús dejando el saldo de 14 guardias presidenciales muertos.",
-      "pages": [
+          "extract": "El Mil Mi-17 es el modelo de exportación del Mi-8M en operación en Rusia, es un helicóptero bimotor de transporte con capacidad de portar cohetes y misiles guiados antitanque.",
+          "extract_html": "<p>El <b>Mil Mi-17</b> es el modelo de exportación del <b>Mi-8M</b> en operación en Rusia, es un helicóptero bimotor de transporte con capacidad de portar cohetes y misiles guiados antitanque.</p>",
+          "normalizedtitle": "Mil Mi-17"
+        },
         {
           "type": "standard",
-          "title": "Túnez_(ciudad)",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Túnez (ciudad)</span></span>",
+          "title": "Fuerza_Aérea_Argentina",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Fuerza Aérea Argentina</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q3572",
+          "wikibase_item": "Q57770",
           "titles": {
-            "canonical": "Túnez_(ciudad)",
-            "normalized": "Túnez (ciudad)",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Túnez (ciudad)</span></span>"
+            "canonical": "Fuerza_Aérea_Argentina",
+            "normalized": "Fuerza Aérea Argentina",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Fuerza Aérea Argentina</span></span>"
           },
-          "pageid": 93559,
+          "pageid": 349645,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Vue_de_Tunis%2C_27_d%C3%A9cembre_2014.jpg/330px-Vue_de_Tunis%2C_27_d%C3%A9cembre_2014.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Argentine_airforce_wings_emblem_%28color%29.svg/langes-330px-Argentine_airforce_wings_emblem_%28color%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 139
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Argentine_airforce_wings_emblem_%28color%29.svg/langes-1920px-Argentine_airforce_wings_emblem_%28color%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 1444,
+            "height": 608
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176089671",
+          "tid": "ac16d185-d57d-11f1-b06b-8c8d622d439f",
+          "timestamp": "2026-10-31T22:51:56Z",
+          "description": "rama aérea de las Fuerzas Armadas argentinas",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Fuerza_A%C3%A9rea_Argentina",
+              "revisions": "https://es.wikipedia.org/wiki/Fuerza_A%C3%A9rea_Argentina?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Fuerza_A%C3%A9rea_Argentina?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Fuerza_A%C3%A9rea_Argentina"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Fuerza_A%C3%A9rea_Argentina",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Fuerza_A%C3%A9rea_Argentina",
+              "edit": "https://es.wikipedia.org/wiki/Fuerza_A%C3%A9rea_Argentina?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Fuerza_A%C3%A9rea_Argentina"
+            }
+          },
+          "extract": "La Fuerza Aérea Argentina (FAA) es una de las ramas de las Fuerzas Armadas junto al Ejército y la Armada, cuya misión principal es rechazar agresiones militares externas. Fue creada en el año 1945 al crearse la Secretaría de Aeronáutica, constituyendo la más joven fuerza armada.",
+          "extract_html": "<p>La <b>Fuerza Aérea Argentina</b> (<b>FAA</b>) es una de las ramas de las Fuerzas Armadas junto al Ejército y la Armada, cuya misión principal es rechazar agresiones militares externas. Fue creada en el año 1945 al crearse la Secretaría de Aeronáutica, constituyendo la más joven fuerza armada.</p>",
+          "normalizedtitle": "Fuerza Aérea Argentina"
+        },
+        {
+          "type": "standard",
+          "title": "Antonov_An-124",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Antonov An-124</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q193487",
+          "titles": {
+            "canonical": "Antonov_An-124",
+            "normalized": "Antonov An-124",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Antonov An-124</span></span>"
+          },
+          "pageid": 770642,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Libyan_Air_Cargo_Antonov_An-124-100_Wallner_2007.jpg/330px-Libyan_Air_Cargo_Antonov_An-124-100_Wallner_2007.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
             "height": 219
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Vue_de_Tunis%2C_27_d%C3%A9cembre_2014.jpg/3840px-Vue_de_Tunis%2C_27_d%C3%A9cembre_2014.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 4406,
-            "height": 2926
+            "source": "https://upload.wikimedia.org/wikipedia/commons/8/82/Libyan_Air_Cargo_Antonov_An-124-100_Wallner_2007.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1023,
+            "height": 679
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "175945234",
-          "tid": "84946942-cdfb-11f1-8946-c0d3df0c492d",
-          "timestamp": "2026-10-22T09:32:37Z",
-          "description": "capital de Túnez",
+          "revision": "171980354",
+          "tid": "9cbfb480-05f9-11f1-95f6-4d0840af3c5c",
+          "timestamp": "2026-02-09T20:55:06Z",
+          "description": "avión de carga, el cuarto más grande del mundo",
           "description_source": "central",
-          "coordinates": {
-            "lat": 36.80083333,
-            "lon": 10.18
-          },
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/T%C3%BAnez_(ciudad)",
-              "revisions": "https://es.wikipedia.org/wiki/T%C3%BAnez_(ciudad)?action=history",
-              "edit": "https://es.wikipedia.org/wiki/T%C3%BAnez_(ciudad)?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:T%C3%BAnez_(ciudad)"
+              "page": "https://es.wikipedia.org/wiki/Antonov_An-124",
+              "revisions": "https://es.wikipedia.org/wiki/Antonov_An-124?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Antonov_An-124?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Antonov_An-124"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/T%C3%BAnez_(ciudad)",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/T%C3%BAnez_(ciudad)",
-              "edit": "https://es.wikipedia.org/wiki/T%C3%BAnez_(ciudad)?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:T%C3%BAnez_(ciudad)"
+              "page": "https://es.wikipedia.org/wiki/Antonov_An-124",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Antonov_An-124",
+              "edit": "https://es.wikipedia.org/wiki/Antonov_An-124?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Antonov_An-124"
             }
           },
-          "extract": "Túnez es la capital de la República Tunecina ininterrumpidamente desde que los almohades le dieran ese título en 1159 y la dinastía de los hafsidas confirmase su estatus en 1228. También es la capital de la gobernación homónima desde su creación, en 1956. Es el centro de las actividades industriales, comerciales, culturales y políticas del país. Está situada al norte, al final del golfo de Túnez, separada del mar por el lago de Túnez o laguna del Behira, entre la llanura costera y las colinas que la rodean. Al otro lado del lago se abre al mar un canal en La Goleta. Según el censo de 2004, en ella viven 728.453 habitantes, llamados tunecinos, lo que la convierte en la ciudad más poblada del país; esta cifra aumenta hasta 2.380.500 personas en su área metropolitana.",
-          "extract_html": "<p><b>Túnez</b> es la capital de la República Tunecina ininterrumpidamente desde que los almohades le dieran ese título en 1159 y la dinastía de los hafsidas confirmase su estatus en 1228. También es la capital de la gobernación homónima desde su creación, en 1956. Es el centro de las actividades industriales, comerciales, culturales y políticas del país. Está situada al norte, al final del golfo de Túnez, separada del mar por el lago de Túnez o laguna del Behira, entre la llanura costera y las colinas que la rodean. Al otro lado del lago se abre al mar un canal en La Goleta. Según el censo de 2004, en ella viven 728.453 habitantes, llamados tunecinos, lo que la convierte en la ciudad más poblada del país; esta cifra aumenta hasta 2.380.500 personas en su área metropolitana.</p>",
-          "normalizedtitle": "Túnez (ciudad)"
+          "extract": "El Antónov An-124 Ruslán",
+          "extract_html": "<p>El <b>Antónov An-124 <i>Ruslán</i></b></p>",
+          "normalizedtitle": "Antonov An-124"
         },
         {
           "type": "standard",
-          "title": "Túnez",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Túnez</span></span>",
+          "title": "VII_Brigada_Aérea",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">VII Brigada Aérea</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q948",
+          "wikibase_item": "Q6158382",
           "titles": {
-            "canonical": "Túnez",
-            "normalized": "Túnez",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Túnez</span></span>"
+            "canonical": "VII_Brigada_Aérea",
+            "normalized": "VII Brigada Aérea",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">VII Brigada Aérea</span></span>"
           },
-          "pageid": 12089,
+          "pageid": 7539714,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/langes-330px-Flag_of_Tunisia.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/VII_Brigada_A%C3%A9rea_FAA_parche.png/330px-VII_Brigada_A%C3%A9rea_FAA_parche.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 220
+            "height": 438
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/langes-1280px-Flag_of_Tunisia.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 1200,
-            "height": 800
+            "source": "https://upload.wikimedia.org/wikipedia/commons/6/69/VII_Brigada_A%C3%A9rea_FAA_parche.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1206,
+            "height": 1600
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176020236",
-          "tid": "cf2d31c4-d1bf-11f1-8d8b-b8def183ef19",
-          "timestamp": "2026-10-27T04:35:17Z",
-          "description": "país de África del Norte",
+          "revision": "176079773",
+          "tid": "a0c695de-d4ea-11f1-adaf-8e9d29145637",
+          "timestamp": "2026-10-31T05:19:21Z",
+          "description": "unidad de la fuerza aérea de Argentina",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/T%C3%BAnez",
-              "revisions": "https://es.wikipedia.org/wiki/T%C3%BAnez?action=history",
-              "edit": "https://es.wikipedia.org/wiki/T%C3%BAnez?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:T%C3%BAnez"
+              "page": "https://es.wikipedia.org/wiki/VII_Brigada_A%C3%A9rea",
+              "revisions": "https://es.wikipedia.org/wiki/VII_Brigada_A%C3%A9rea?action=history",
+              "edit": "https://es.wikipedia.org/wiki/VII_Brigada_A%C3%A9rea?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:VII_Brigada_A%C3%A9rea"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/T%C3%BAnez",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/T%C3%BAnez",
-              "edit": "https://es.wikipedia.org/wiki/T%C3%BAnez?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:T%C3%BAnez"
+              "page": "https://es.wikipedia.org/wiki/VII_Brigada_A%C3%A9rea",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/VII_Brigada_A%C3%A9rea",
+              "edit": "https://es.wikipedia.org/wiki/VII_Brigada_A%C3%A9rea?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:VII_Brigada_A%C3%A9rea"
             }
           },
-          "extract": "Túnez, oficialmente República de Túnez o República Tunecina, es un país soberano situado en el norte de África, más concretamente en la costa mediterránea. Su territorio está organizado en 24 gobernaciones o wilayat. La capital es Túnez, la ciudad más poblada, que le da el nombre al país. El idioma oficial de Túnez es el árabe. Limita con Argelia al oeste, Libia al sureste y con el mar Mediterráneo al este y al norte. También comparte fronteras marítimas con Italia a través de las islas de Sicilia y Cerdeña al norte y Malta al este. Túnez es el país más pequeño del Magreb, ubicado entre las estribaciones orientales de la cordillera del Atlas y el mar Mediterráneo. La superficie de Túnez es de 163 610 km², con una población estimada en 11,8 millones de habitantes. Aproximadamente el 40 % de este país está compuesto por el Sahara, mientras que el resto es suelo fértil y adecuado para la agricultura; además, tiene 1148 km de costa. Conocido por su arquitectura antigua, zocos y costas azules, en su interior se encuentran también los sitios arqueológicos de la antigua Cartago que datan del siglo IX a. C., así como la Gran Mezquita de Cairuán. La gran mayoría de la población tunecina es árabe y musulmana. El árabe tunecino vernáculo es el idioma más hablado, y el francés se utiliza como lengua administrativa y educativa en algunos contextos, aunque no tiene carácter oficial.",
-          "extract_html": "<p><b>Túnez</b>, oficialmente <b>República de Túnez</b> o <b>República Tunecina</b>, es un país soberano situado en el norte de África, más concretamente en la costa mediterránea. Su territorio está organizado en 24 gobernaciones o <i>wilayat</i>. La capital es Túnez, la ciudad más poblada, que le da el nombre al país. El idioma oficial de Túnez es el árabe. Limita con Argelia al oeste, Libia al sureste y con el mar Mediterráneo al este y al norte. También comparte fronteras marítimas con Italia a través de las islas de Sicilia y Cerdeña al norte y Malta al este. Túnez es el país más pequeño del Magreb, ubicado entre las estribaciones orientales de la cordillera del Atlas y el mar Mediterráneo. La superficie de Túnez es de 163 610 km², con una población estimada en 11,8 millones de habitantes. Aproximadamente el 40 % de este país está compuesto por el Sahara, mientras que el resto es suelo fértil y adecuado para la agricultura; además, tiene 1148 km de costa. Conocido por su arquitectura antigua, zocos y costas azules, en su interior se encuentran también los sitios arqueológicos de la antigua Cartago que datan del siglo <span style=\"text-transform:lowercase\">IX</span> a. C., así como la Gran Mezquita de Cairuán. La gran mayoría de la población tunecina es árabe y musulmana. El árabe tunecino vernáculo es el idioma más hablado, y el francés se utiliza como lengua administrativa y educativa en algunos contextos, aunque no tiene carácter oficial.</p>",
-          "normalizedtitle": "Túnez"
-        },
-        {
-          "type": "standard",
-          "title": "Atentado_terrorista_de_Túnez_de_2015",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Atentado terrorista de Túnez de 2015</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q21541716",
-          "titles": {
-            "canonical": "Atentado_terrorista_de_Túnez_de_2015",
-            "normalized": "Atentado terrorista de Túnez de 2015",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Atentado terrorista de Túnez de 2015</span></span>"
-          },
-          "pageid": 7201328,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Location_map_Tunis.png/330px-Location_map_Tunis.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 349
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Location_map_Tunis.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 897,
-            "height": 949
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "168710135",
-          "tid": "e34e502d-6c57-11f0-8413-db7588105e14",
-          "timestamp": "2025-07-29T08:41:58Z",
-          "coordinates": {
-            "lat": 36.81099,
-            "lon": 10.18463
-          },
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Atentado_terrorista_de_T%C3%BAnez_de_2015",
-              "revisions": "https://es.wikipedia.org/wiki/Atentado_terrorista_de_T%C3%BAnez_de_2015?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Atentado_terrorista_de_T%C3%BAnez_de_2015?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Atentado_terrorista_de_T%C3%BAnez_de_2015"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Atentado_terrorista_de_T%C3%BAnez_de_2015",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Atentado_terrorista_de_T%C3%BAnez_de_2015",
-              "edit": "https://es.wikipedia.org/wiki/Atentado_terrorista_de_T%C3%BAnez_de_2015?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Atentado_terrorista_de_T%C3%BAnez_de_2015"
-            }
-          },
-          "extract": "El 24 de noviembre de 2015, un autobús que transportaba guardias presidenciales tunecinos explotó, matando a 14, en una calle principal en Tunis, Túnez. ISIS se atribuyó el ataque. El atacante, que también murió en el ataque, fue identificado como Houssem Abdelli.",
-          "extract_html": "<p>El 24 de noviembre de 2015, un autobús que transportaba guardias presidenciales tunecinos explotó, matando a 14, en una calle principal en Tunis, Túnez. ISIS se atribuyó el ataque. El atacante, que también murió en el ataque, fue identificado como Houssem Abdelli.</p>",
-          "normalizedtitle": "Atentado terrorista de Túnez de 2015"
+          "extract": "La VII Brigada Aérea (VII BA) es una brigada aérea de la Fuerza Aérea Argentina creada en 1951 con asiento en Moreno, provincia de Buenos Aires. Es la brigada rectora de alas rotativas. Su tarea es transporte de carga y personal, búsqueda y rescate (ByR), búsqueda y rescate en combate (ByRCOM), evacuación y apoyo antártico.",
+          "extract_html": "<p>La <b>VII Brigada Aérea</b> (<b>VII BA</b>) es una brigada aérea de la Fuerza Aérea Argentina creada en 1951 con asiento en Moreno, provincia de Buenos Aires. Es la brigada rectora de alas rotativas. Su tarea es transporte de carga y personal, búsqueda y rescate (ByR), búsqueda y rescate en combate (ByRCOM), evacuación y apoyo antártico.</p>",
+          "normalizedtitle": "VII Brigada Aérea"
         }
       ],
-      "year": 2015
+      "year": 2011
     }
   ]
 }
