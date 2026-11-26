@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-26T21:32:07.729Z",
+  "generatedAt": "2026-11-26T21:35:44.169Z",
   "isEditoriallyValidated": false,
   "summaryStatus": "pending-editorial-review",
   "stories": [
@@ -9,12 +9,12 @@
       "title": "El Día de Acción de Gracias vuelve al menú de Francesca Hong, la candidata fracasada a gobernadora de Wisconsin",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-26T21:15:36.000Z",
-      "updatedAt": "2026-11-26T21:31:36.568Z",
+      "updatedAt": "2026-11-26T21:35:17.631Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 115.46635111111111,
+      "importance": 115.34353833333333,
       "source": {
         "name": "The New York Times",
         "url": "https://www.nytimes.com/2026/11/26/us/politics/thanksgiving-wisconsin-governor-francesca-hong.html"
@@ -29,12 +29,12 @@
       "title": "Ha fallecido Strobe Talbott, el periodista que se incorporó al Departamento de Estado de Clinton",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-26T19:53:46.000Z",
-      "updatedAt": "2026-11-26T21:31:36.568Z",
+      "updatedAt": "2026-11-26T21:35:17.631Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 112.73857333333333,
+      "importance": 112.61576055555555,
       "source": {
         "name": "The New York Times",
         "url": "https://www.nytimes.com/2026/11/26/us/politics/strobe-talbott-dead.html"
@@ -45,16 +45,36 @@
       "isEditorialSummary": false
     },
     {
-      "id": "ria-ru-7fbbe5cf9be0bbd1",
-      "title": "En Crimea han explicado el motivo de la restricción del suministro eléctrico",
+      "id": "ria-ru-91f102a4eec13142",
+      "title": "En «Sinergiya» han declarado estar preparados para cualquier inspección",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-26T21:30:39.000Z",
-      "updatedAt": "2026-11-26T21:31:47.534Z",
+      "publishedAt": "2026-11-26T21:33:04.000Z",
+      "updatedAt": "2026-11-26T21:35:29.328Z",
       "country": "Rusia",
       "countryCode": "RU",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.96192555555555,
+      "importance": 111.91926222222222,
+      "source": {
+        "name": "RIA Novosti",
+        "url": "https://ria.ru/20261127/sinergiya-2134258670.html"
+      },
+      "topicKey": "cualquier|declarado|estar|inspeccion|preparados|sinergiya",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "ria-ru-7fbbe5cf9be0bbd1",
+      "title": "En Crimea han explicado el motivo de la restricción del suministro eléctrico",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-26T21:30:39.000Z",
+      "updatedAt": "2026-11-26T21:35:29.328Z",
+      "country": "Rusia",
+      "countryCode": "RU",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 111.83870666666667,
       "source": {
         "name": "RIA Novosti",
         "url": "https://ria.ru/20261127/elektrichestvo-2134258535.html"
@@ -69,12 +89,12 @@
       "title": "Negociaciones colectivas: el nuevo convenio colectivo del sector metalúrgico permite excepciones a la semana laboral de 35 horas; aumentos por un total del 4,3 %",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-26T21:29:38.000Z",
-      "updatedAt": "2026-11-26T21:31:43.798Z",
+      "updatedAt": "2026-11-26T21:35:23.363Z",
       "country": "Alemania",
       "countryCode": "DE",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.93011222222222,
+      "importance": 111.80813166666667,
       "source": {
         "name": "Deutschlandfunk",
         "url": "https://www.deutschlandfunk.de/neuer-metalltarif-laesst-ausnahmen-von-35-stunden-woche-zu-steigerungen-von-insgesamt-4-3-prozent-100.html"
@@ -89,12 +109,12 @@
       "title": "Banco Central Europeo - Un español será el nuevo presidente del BCE",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-26T21:29:38.000Z",
-      "updatedAt": "2026-11-26T21:31:44.616Z",
+      "updatedAt": "2026-11-26T21:35:24.329Z",
       "country": "Alemania",
       "countryCode": "DE",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.92965777777778,
+      "importance": 111.807595,
       "source": {
         "name": "Deutschlandfunk",
         "url": "https://www.deutschlandfunk.de/spanier-soll-neuer-ezb-praesident-werden-102.html"
@@ -109,12 +129,12 @@
       "title": "Política comercial - Wadephul critica el anuncio de nuevos aranceles estadounidenses - China y Japón protestan contra los planes arancelarios",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-26T21:29:38.000Z",
-      "updatedAt": "2026-11-26T21:31:44.616Z",
+      "updatedAt": "2026-11-26T21:35:24.329Z",
       "country": "Alemania",
       "countryCode": "DE",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.92965777777778,
+      "importance": 111.807595,
       "source": {
         "name": "Deutschlandfunk",
         "url": "https://www.deutschlandfunk.de/wadephul-kritisiert-ankuendigung-neuer-us-zoelle-china-und-japan-protestieren-gegen-zollplaene-100.html"
@@ -129,12 +149,12 @@
       "title": "Salud - Las compañías de seguros médicos de todo el país quieren mantener estables las cotizaciones adicionales en 2027",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-26T21:29:38.000Z",
-      "updatedAt": "2026-11-26T21:31:45.342Z",
+      "updatedAt": "2026-11-26T21:35:25.116Z",
       "country": "Alemania",
       "countryCode": "DE",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.92925444444444,
+      "importance": 111.80715777777777,
       "source": {
         "name": "Deutschlandfunk",
         "url": "https://www.deutschlandfunk.de/bundesweite-krankenkassen-wollen-zusatzbeitraege-2027-stabil-halten-100.html"
@@ -149,12 +169,12 @@
       "title": "“¡Se llevaron a papá!”. Condenaron a los tres acusados del secuestro extorsivo de un empresario",
       "summary": "Recibieron penas de entre 11 y 12 años de prisión por haberse llevado cautiva a la víctima y haberla liberado tras el pago de un rescate, la noche del 25 de marzo de 2024",
       "publishedAt": "2026-11-26T21:27:24.000Z",
-      "updatedAt": "2026-11-26T21:31:32.543Z",
+      "updatedAt": "2026-11-26T21:35:15.224Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.86192111111112,
+      "importance": 111.73820888888889,
       "source": {
         "name": "La Nación",
         "url": "https://www.lanacion.com.ar/seguridad/se-llevaron-a-papa-condenaron-a-los-tres-acusados-del-secuestro-extorsivo-de-un-empresario-nid26112026/"
@@ -166,20 +186,20 @@
     },
     {
       "id": "lanacion-ar-eff43cdb7330293b",
-      "title": "Tras el envío de 1000 lingotes, el Banco Central pasó a tener casi un tercio de su oro en el exterior",
+      "title": "Tras el envío de 1000 lingotes, el Banco Central pasó a tener un tercio de su oro en el exterior",
       "summary": "El saldo de la entidad en el Banco de Pagos Internacionales pasó de 7 a 19,5 toneladas de oro fino, según un informe de la AGN; los lingotes llegaron a Londres en cuatro envíos entre junio y agosto de 2024",
       "publishedAt": "2026-11-26T21:25:21.000Z",
-      "updatedAt": "2026-11-26T21:31:32.543Z",
+      "updatedAt": "2026-11-26T21:35:15.224Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.79358722222223,
+      "importance": 111.66987555555555,
       "source": {
         "name": "La Nación",
         "url": "https://www.lanacion.com.ar/economia/tras-el-envio-de-1000-lingotes-el-banco-central-paso-a-tener-casi-un-tercio-de-su-oro-en-el-exterior-nid26112026/"
       },
-      "topicKey": "1000|banco|casi|central|envio|lingotes|paso|tener",
+      "topicKey": "1000|banco|central|envio|lingotes|paso|tener|tercio",
       "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -189,12 +209,12 @@
       "title": "Macron afirma que los éxitos de Rusia perjudican al sector agrícola de Francia",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-26T21:25:08.000Z",
-      "updatedAt": "2026-11-26T21:31:49.127Z",
+      "updatedAt": "2026-11-26T21:35:30.122Z",
       "country": "Rusia",
       "countryCode": "RU",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.77715166666667,
+      "importance": 111.65437666666666,
       "source": {
         "name": "RIA Novosti",
         "url": "https://ria.ru/20261127/makron-2134258172.html"
@@ -209,12 +229,12 @@
       "title": "Mayans insinuó que el Gobierno busca suspender las PASO para “eliminar” una eventual candidatura de Patricia Bullrich",
       "summary": "“Si no sigue en el Senado, tiene asegurado en la calle Corrientes un stand up”, expresó, entre risas, la exministra de Seguridad",
       "publishedAt": "2026-11-26T21:23:13.000Z",
-      "updatedAt": "2026-11-26T21:31:32.543Z",
+      "updatedAt": "2026-11-26T21:35:15.225Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.7224761111111,
+      "importance": 111.59876444444444,
       "source": {
         "name": "La Nación",
         "url": "https://www.lanacion.com.ar/politica/mayans-insinuo-que-el-gobierno-busca-suspender-las-paso-para-eliminar-una-eventual-candidatura-de-nid26112026/"
@@ -225,22 +245,22 @@
       "isEditorialSummary": false
     },
     {
-      "id": "lanacion-ar-4730f4f42815dc8f",
-      "title": "Javier Milei y sus medidas, EN VIVO: en medio de una jornada caliente en el Congreso, el Presidente se reunió con su par en Asunción",
-      "summary": "El minuto a minuto de las decisiones del jefe de Estado, las reacciones de la oposición y las declaraciones de los funcionarios",
-      "publishedAt": "2026-11-26T21:17:21.000Z",
-      "updatedAt": "2026-11-26T21:31:32.543Z",
-      "country": "Argentina",
-      "countryCode": "AR",
+      "id": "ria-ru-489248fa0134d014",
+      "title": "Se ha recordado a los rusos la necesidad de pagar los impuestos de las personas físicas correspondientes al año 2025.",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-26T21:22:31.000Z",
+      "updatedAt": "2026-11-26T21:35:30.821Z",
+      "country": "Rusia",
+      "countryCode": "RU",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.52692055555555,
+      "importance": 111.56676611111111,
       "source": {
-        "name": "La Nación",
-        "url": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-presidente-apunto-contras-las-operetas-de-la-oposicion-y-dijo-nid26112026/"
+        "name": "RIA Novosti",
+        "url": "https://ria.ru/20261127/nalog-2134258010.html"
       },
-      "topicKey": "caliente|congreso|javier|jornada|medidas|medio|milei|vivo",
-      "image": null,
+      "topicKey": "correspondientes|fisicas|impuestos|necesidad|pagar|personas|recordado|rusos",
+      "image": "https://cdnn21.imgria.ru/images/154344/24/1543442440_0:176:3018:1874_650x0_80_0_0_9518a80dd254d0ba6dd20de989c74e51.jpg",
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
@@ -249,12 +269,12 @@
       "title": "La agencia de noticias AFP ha sufrido un ciberataque",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-26T21:17:20.000Z",
-      "updatedAt": "2026-11-26T21:31:50.693Z",
+      "updatedAt": "2026-11-26T21:35:30.822Z",
       "country": "Rusia",
       "countryCode": "RU",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.51628166666667,
+      "importance": 111.39398777777778,
       "source": {
         "name": "RIA Novosti",
         "url": "https://ria.ru/20261127/kiberataka-2134257698.html"
@@ -265,36 +285,16 @@
       "isEditorialSummary": false
     },
     {
-      "id": "ria-ru-526457d4a5dba2bf",
-      "title": "En Rusia se va a introducir una nueva norma GOST para los campings",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-26T21:15:33.000Z",
-      "updatedAt": "2026-11-26T21:31:51.351Z",
-      "country": "Rusia",
-      "countryCode": "RU",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.45647166666667,
-      "source": {
-        "name": "RIA Novosti",
-        "url": "https://ria.ru/20261127/gost-2134257564.html"
-      },
-      "topicKey": "campings|gost|introducir|norma|nueva|rusia",
-      "image": "https://cdnn21.imgria.ru/images/07e9/04/18/2013236101_0:160:3072:1888_650x0_80_0_0_666ebb616259dd645729df1f4fdd582f.jpg",
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
       "id": "france24-ca44d9d8ba5b6466",
       "title": "Aplazan el desfile de Acción de Gracias de Macy's en Nueva York debido a las previsiones de tormenta",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-26T19:05:03.000Z",
-      "updatedAt": "2026-11-26T21:31:24.806Z",
+      "updatedAt": "2026-11-26T21:35:08.371Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.12121888888889,
+      "importance": 110.99701611111111,
       "source": {
         "name": "France 24",
         "url": "https://www.france24.com/es/video/20261126-posponen-desfile-de-acci%C3%B3n-de-gracias-de-macy-s-en-nueva-york-ante-pron%C3%B3stico-de-tormenta"
@@ -309,12 +309,12 @@
       "title": "EE. UU. suspende los operativos conjuntos en Ecuador por sospechas de asesinatos extrajudiciales",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-26T18:55:43.000Z",
-      "updatedAt": "2026-11-26T21:31:24.807Z",
+      "updatedAt": "2026-11-26T21:35:08.371Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 110.81010722222223,
+      "importance": 110.685905,
       "source": {
         "name": "France 24",
         "url": "https://www.france24.com/es/am%C3%A9rica-latina/20261126-ee-uu-pausa-los-operativos-conjuntos-en-ecuador-por-sospechas-de-asesinatos-extrajudiciales"
@@ -329,12 +329,12 @@
       "title": "¿Qué son las mareas vivas? Estas mareas excepcionalmente altas están inundando cada vez más las comunidades costeras.",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-26T20:44:28.000Z",
-      "updatedAt": "2026-11-26T21:31:33.371Z",
+      "updatedAt": "2026-11-26T21:35:15.357Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 110.43034944444445,
+      "importance": 110.30702388888889,
       "source": {
         "name": "PBS NewsHour",
         "url": "https://www.pbs.org/newshour/nation/what-are-king-tides-these-exceptionally-high-tides-are-increasingly-flooding-coastal-communities"
@@ -349,12 +349,12 @@
       "title": "Entre el voto castigo y las preferencias ideológicas",
       "summary": "Con resultados electorales dispares, los interrogantes sobre las razones del voto en varios países de la región siguen en pie.",
       "publishedAt": "2026-11-26T20:09:15.000Z",
-      "updatedAt": "2026-11-26T21:31:27.260Z",
+      "updatedAt": "2026-11-26T21:35:09.988Z",
       "country": "Argentina",
       "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 109.25985555555556,
+      "importance": 109.13611777777778,
       "source": {
         "name": "Clarín",
         "url": "https://www.clarin.com/opinion/voto-castigo-preferencias-ideologicas_0_SlZrSpb5lF.html"
@@ -365,16 +365,36 @@
       "isEditorialSummary": false
     },
     {
+      "id": "clarin-ar-6ad2a97b989a6c87",
+      "title": "Zverev, el número 1 del mundo, y una temprana despedida de la Copa Davis: Gran Bretaña sacó a Alemania",
+      "summary": "Sascha había llegado a Bologna con el objetivo de conquistar la su cuarta Ensaladera de Plata para su país y ponerle el broche de oro a su inolvidable 2026. Mirá el resumen.",
+      "publishedAt": "2026-11-26T19:54:23.000Z",
+      "updatedAt": "2026-11-26T21:35:09.988Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 108.64056222222223,
+      "source": {
+        "name": "Clarín",
+        "url": "https://www.clarin.com/deportes/zverev-numero-1-mundo-temprana-despedida-copa-davis-gran-bretana-saco-alemania_0_8Kpw0JI4m3.html"
+      },
+      "topicKey": "copa|davis|despedida|gran|mundo|numero|temprana|zverev",
+      "image": "https://www.clarin.com/img/2026/11/26/aB9JVstki_1200x630__1.jpg",
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
       "id": "franceinfo-3f1f394f48044d95",
       "title": "Cumbre europea: Europa está cometiendo un «error estratégico» con los recortes propuestos en su futuro presupuesto, lamenta Emmanuel Macron",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-26T19:40:49.000Z",
-      "updatedAt": "2026-11-26T21:31:39.879Z",
+      "updatedAt": "2026-11-26T21:35:21.162Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 108.30506722222222,
+      "importance": 108.18213222222222,
       "source": {
         "name": "Franceinfo",
         "url": "https://www.franceinfo.fr/monde/europe/union-europeenne/direct-sommet-europeen-les-dirigeants-de-l-ue-reunis-a-bruxelles-pour-avancer-sur-le-futur-budget-des-27-et-l-aide-a-l-ukraine_8300823.html#xtor=RSS-3-[lestitres]"
@@ -389,12 +409,12 @@
       "title": "Empresas alemanas investigan tecnologías para depósitos de armas en el espacio",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-26T19:15:35.000Z",
-      "updatedAt": "2026-11-26T21:31:32.073Z",
+      "updatedAt": "2026-11-26T21:35:14.808Z",
       "country": "Alemania",
       "countryCode": "DE",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 107.46829277777778,
+      "importance": 107.34455111111112,
       "source": {
         "name": "Tagesschau",
         "url": "https://www.tagesschau.de/wissen/waffendepots-orbit-100.html"
@@ -409,12 +429,12 @@
       "title": "Andy Taylor, guitarrista de los iconos de la «new wave» Duran Duran, fallece a los 65 años",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-26T19:01:29.000Z",
-      "updatedAt": "2026-11-26T21:31:34.969Z",
+      "updatedAt": "2026-11-26T21:35:16.911Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 106.9966838888889,
+      "importance": 106.87338277777778,
       "source": {
         "name": "PBS NewsHour",
         "url": "https://www.pbs.org/newshour/arts/andy-taylor-guitarist-of-new-wave-icons-duran-duran-dies-at-65"
@@ -429,12 +449,12 @@
       "title": "Las pruebas sugieren que el Ejército sabía desde mucho antes del riesgo de explosivos en Iowa",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-26T16:50:50.000Z",
-      "updatedAt": "2026-11-26T21:31:36.569Z",
+      "updatedAt": "2026-11-26T21:35:17.632Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 106.640795,
+      "importance": 106.51798222222223,
       "source": {
         "name": "The New York Times",
         "url": "https://www.nytimes.com/2026/11/26/us/iowa-lead-ammunition-stockpile-history.html"
@@ -446,20 +466,20 @@
     },
     {
       "id": "elpais-9900a24b7fc08494",
-      "title": "Debate electoral 29-N a cuatro, en directo | Comienza el último debate de la campaña entre los cuatro principales candidatos",
+      "title": "Debate electoral 29-N a cuatro, en directo | Los candidatos fijan prioridades en su primera intervención: Colau, mujeres; Sánchez, avances sociales; Feijóo, corrupción; y Abascal, ataques a Sánchez y migración",
       "summary": "Los aspirantes de PSOE, PP, VOX y Frente Amplio se enfrentan en un encuentro organizado por la Academia de Televisión",
-      "publishedAt": "2026-11-26T21:06:37.000Z",
-      "updatedAt": "2026-11-26T21:31:16.789Z",
+      "publishedAt": "2026-11-26T21:10:53.000Z",
+      "updatedAt": "2026-11-26T21:35:01.682Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 106.177895,
+      "importance": 106.19517666666667,
       "source": {
         "name": "EL PAÍS",
         "url": "https://elpais.com/espana/elecciones-generales/2026-11-26/debate-electoral-29-n-a-cuatro-entre-sanchez-feijoo-abascal-y-colau-en-directo.html"
       },
-      "topicKey": "campana|comienza|cuatro|debate|debate|directo|electoral|ultimo",
+      "topicKey": "candidatos|cuatro|debate|directo|electoral|fijan|primera|prioridades",
       "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -469,12 +489,12 @@
       "title": "Un proveedor alemán, sospechoso de «homicidio involuntario» por suministrar embarcaciones para travesías mortales del Canal de la Mancha",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-26T18:30:13.000Z",
-      "updatedAt": "2026-11-26T21:31:40.419Z",
+      "updatedAt": "2026-11-26T21:35:21.673Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 105.95143388888889,
+      "importance": 105.828515,
       "source": {
         "name": "Le Monde",
         "url": "https://www.lemonde.fr/en/france/article/2026/11/26/german-vendor-suspected-of-involuntary-manslaughter-for-supplying-boats-for-deadly-channel-crossings_6789466_7.html"
@@ -489,12 +509,12 @@
       "title": "El debate a cuatro, en imágenes",
       "summary": "Sánchez, Feijóo, Abascal y Colau confrontan sus propuestas en la recta final de la campaña",
       "publishedAt": "2026-11-26T20:56:44.000Z",
-      "updatedAt": "2026-11-26T21:31:16.789Z",
+      "updatedAt": "2026-11-26T21:35:01.682Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 105.84845055555556,
+      "importance": 105.72351,
       "source": {
         "name": "EL PAÍS",
         "url": "https://elpais.com/espana/2026-11-26/el-debate-a-cuatro-en-imagenes.html"
@@ -509,12 +529,12 @@
       "title": "«Solo es dinero»: Marco Mouly, un fugitivo reincidente, ahora en libertad condicional",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-26T18:05:44.000Z",
-      "updatedAt": "2026-11-26T21:31:39.880Z",
+      "updatedAt": "2026-11-26T21:35:21.162Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 105.13562222222222,
+      "importance": 105.01268777777778,
       "source": {
         "name": "Franceinfo",
         "url": "https://www.franceinfo.fr/faits-divers/police/c-est-que-de-l-argent-marco-mouly-un-recidiviste-de-la-cavale-aujourd-hui-en-liberte-conditionnelle_8301885.html#xtor=RSS-3-[lestitres]"
@@ -529,12 +549,12 @@
       "title": "El presidente cambia de 'look' tras su comentado traje en el cara a cara y Feijóo mantiene su estilo",
       "summary": "El líder socialista ha sustituido su viral traje marrón por uno azul, mientras que el candidato del PP solo ha variado el color de su corbata.",
       "publishedAt": "2026-11-26T20:24:08.000Z",
-      "updatedAt": "2026-11-26T21:31:45.622Z",
+      "updatedAt": "2026-11-26T21:35:25.503Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 104.74576555555555,
+      "importance": 104.62360944444444,
       "source": {
         "name": "20minutos",
         "url": "https://www.20minutos.es/nacional/sanchez-cambia-look-tras-su-comentado-traje-cara-cara-feijoo-mantiene-su-estilo-para-debate-cuatro_7066444_0.html"
@@ -549,12 +569,12 @@
       "title": "El buque naufragó ante las costas de Ibiza por una entrada masiva de agua en los tanques de lastre, no hay vertido y se estudia remolcarlo a un puerto seguro",
       "summary": "La mancha oleosa de 2,6 millas divisada esta mañana se ha degradado y ha desaparecido, según confirmó la capitana marítima Elena Delgado. Leer",
       "publishedAt": "2026-11-26T19:42:25.000Z",
-      "updatedAt": "2026-11-26T21:31:29.616Z",
+      "updatedAt": "2026-11-26T21:35:12.201Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 103.36410222222223,
+      "importance": 103.24044388888889,
       "source": {
         "name": "EL MUNDO",
         "url": "https://www.elmundo.es/comunidad-valenciana/2026/11/26/6b087ae8e4d4d8cb118b45c5.html"
@@ -569,12 +589,12 @@
       "title": "Cambiar de móvil sale a cuenta con las nuevas ofertas de AliExpress. Estas son las cinco que más nos han gustado durante el Black Friday",
       "summary": "Las campañas del Black Friday son ideales para renovar el móvil. Y no solo por las grandes ofertas que solemos encontrar, sino también por la variedad. AliExpress, como cada año, ha lanzado un gran surtido de descuentos en móviles de diferentes gamas, por lo que en este artículo hemos reunido cinco de las que más nos han gustado. Poco F9 Pro por 579 euros, con un altavoz firmado por Bose. Redmi Note 17 Pro por 269 euros, con una batería de 8.340 mAh. OnePlus Nord 5 por 285 euros, con una muy buena pantalla AMOLED. Nothing Phone (3) por 438,99 euros, con un diseño muy particular. Honor 600 Smar",
       "publishedAt": "2026-11-26T17:16:20.000Z",
-      "updatedAt": "2026-11-26T21:31:29.517Z",
+      "updatedAt": "2026-11-26T21:35:12.138Z",
       "country": "España",
       "countryCode": "ES",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 101.49471277777778,
+      "importance": 101.37103444444445,
       "source": {
         "name": "Xataka",
         "url": "https://www.xataka.com/seleccion/cambiar-movil-sale-a-cuenta-nuevas-ofertas-aliexpress-estas-cinco-que-nos-han-gustado-durante-black-friday"
@@ -589,12 +609,12 @@
       "title": "La inseguridad se ha convertido en una condición estructural de Internet",
       "summary": "Llevo años escuchando la cantinela de que la ciberseguridad es, sobre todo, un problema técnico. Lo primero que nos dicen los expertos es instalar actualizaciones, usar contraseñas complejas y distintas, activar la verificación en dos pasos, y, en el caso de negocios, contratar a alguien que sepa lo que hace con tus sistemas. Siguen siendo consejos razonables y muy recomendables. Lo que pasa es que parece que ya no son suficientes. Estoy convencido de que la seguridad digital ya no es una estado al que se llega, sino una carrera sin línea de meta. Y con la inteligencia artificial, la velocidad",
       "publishedAt": "2026-11-26T17:00:25.000Z",
-      "updatedAt": "2026-11-26T21:31:29.517Z",
+      "updatedAt": "2026-11-26T21:35:12.139Z",
       "country": "España",
       "countryCode": "ES",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 100.96415722222223,
+      "importance": 100.8404788888889,
       "source": {
         "name": "Xataka",
         "url": "https://www.xataka.com/opinion/inseguridad-se-ha-convertido-condicion-estructural-internet"
@@ -609,12 +629,12 @@
       "title": "El papa Francisco y el diablo: cómo el cristianismo moldeó la figura de satán para combatir a otras religiones",
       "summary": "Desde los cuernos de Pan hasta el tridente de Poseidón: el cristianismo tomó símbolos de otras religiones para construir la imagen del diablo. Sin embargo, esa representación dista mucho de la figura que describió el fallecido papa Francisco en su diario.",
       "publishedAt": "2026-11-26T12:49:04.000Z",
-      "updatedAt": "2026-11-26T21:31:17.192Z",
+      "updatedAt": "2026-11-26T21:35:01.863Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 98.59267111111112,
+      "importance": 98.4678538888889,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/c6zjrm77lrgwo?at_medium=RSS&at_campaign=rss"
@@ -629,12 +649,12 @@
       "title": "Especial Elecciones | Las claves de los comicios generales, en vídeo",
       "summary": "20minutos lanza un programa especial enfocado en las elecciones generales donde analiza con expertos en materia algunos de los asuntos que más preocupan a la ciudadanía",
       "publishedAt": "2026-11-26T17:16:16.000Z",
-      "updatedAt": "2026-11-26T21:31:45.622Z",
+      "updatedAt": "2026-11-26T21:35:25.503Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 98.48354333333333,
+      "importance": 98.36138722222222,
       "source": {
         "name": "20minutos",
         "url": "https://www.20minutos.es/nacional/especial-elecciones-las-claves-las-elecciones-generales-video_7066326_0.html"
@@ -649,12 +669,12 @@
       "title": "«Ya no soy una funcionaria de los Emiratos Árabes Unidos»: Lana Nusseibeh, candidata a un puesto en la ONU, intenta desvincularse de su historial en Sudán",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-26T12:37:42.000Z",
-      "updatedAt": "2026-11-26T21:31:27.373Z",
+      "updatedAt": "2026-11-26T21:35:10.035Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 98.20812611111111,
+      "importance": 98.084425,
       "source": {
         "name": "The Guardian",
         "url": "https://www.theguardian.com/world/2026/nov/26/lana-nusseibeh-uae-sudan-un-secretary-general"
@@ -669,12 +689,12 @@
       "title": "Efecto BYD: por qué Brasil se ha convertido en un \"laboratorio en América Latina\" para las empresas chinas",
       "summary": "La enorme planta que se construye en el noreste de Brasil marca el ascenso de China al liderazgo del mercado automotriz global: Ford ocupó ese mismo predio hasta que cerró sus puertas en 2021.",
       "publishedAt": "2026-11-26T12:26:39.000Z",
-      "updatedAt": "2026-11-26T21:31:17.191Z",
+      "updatedAt": "2026-11-26T21:35:01.863Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 97.84544944444444,
+      "importance": 97.72063166666666,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/ck1ewnv46x70o?at_medium=RSS&at_campaign=rss"
@@ -689,12 +709,12 @@
       "title": "En Lanzhou se celebra un evento de intercambio entre Gansu y Taiwán para conmemorar el 160.º aniversario del nacimiento de Sun Yat-sen",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-26T13:58:15.000Z",
-      "updatedAt": "2026-11-26T21:31:53.142Z",
+      "updatedAt": "2026-11-26T21:35:36.088Z",
       "country": "China",
       "countryCode": "CN",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 96.87881,
+      "importance": 96.75495111111111,
       "source": {
         "name": "China News Service",
         "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738455.shtml"
@@ -709,12 +729,12 @@
       "title": "Los ejércitos de China y Rusia celebran consultas estratégicas",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-26T13:29:27.000Z",
-      "updatedAt": "2026-11-26T21:31:55.170Z",
+      "updatedAt": "2026-11-26T21:35:38.273Z",
       "country": "China",
       "countryCode": "CN",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 95.91768333333333,
+      "importance": 95.79373722222222,
       "source": {
         "name": "China News Service",
         "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738424.shtml"
@@ -729,12 +749,12 @@
       "title": "Representantes chinos y extranjeros debaten en Xinjiang sobre el camino hacia el desarrollo de las «ciudades verdes»",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-26T13:29:05.000Z",
-      "updatedAt": "2026-11-26T21:31:55.170Z",
+      "updatedAt": "2026-11-26T21:35:38.274Z",
       "country": "China",
       "countryCode": "CN",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 95.90546111111111,
+      "importance": 95.78151444444444,
       "source": {
         "name": "China News Service",
         "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738436.shtml"
@@ -749,12 +769,12 @@
       "title": "¿Cómo es la feliz Yunnan? «¡Tan colorido como las flores y tan unido como los granos de una granada!»",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-26T13:24:43.000Z",
-      "updatedAt": "2026-11-26T21:31:55.170Z",
+      "updatedAt": "2026-11-26T21:35:38.274Z",
       "country": "China",
       "countryCode": "CN",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 95.75990555555555,
+      "importance": 95.6359588888889,
       "source": {
         "name": "China News Service",
         "url": "https://www.chinanews.com.cn/gn/2026/11-26/10738437.shtml"
@@ -769,12 +789,12 @@
       "title": "42 fiscales generales estatales intentan impedir que Character.AI venda los chats de los usuarios",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-26T09:54:40.000Z",
-      "updatedAt": "2026-11-26T21:31:57.432Z",
+      "updatedAt": "2026-11-26T21:35:40.319Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 86.75698222222222,
+      "importance": 86.6331561111111,
       "source": {
         "name": "The Verge AI",
         "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
@@ -789,12 +809,12 @@
       "title": "Al menos 31 muertos tras el incendio provocado por el accidente de un camión cisterna en una autopista de El Cairo",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-26T00:39:10.000Z",
-      "updatedAt": "2026-11-26T21:31:27.373Z",
+      "updatedAt": "2026-11-26T21:35:10.035Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 74.257015,
+      "importance": 74.13331388888889,
       "source": {
         "name": "The Guardian",
         "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway"
@@ -809,12 +829,12 @@
       "title": "\"Pasé décadas como agente del FBI y este es el caso que no pude dejar atrás\"",
       "summary": "Jane Collins casi había perdido la esperanza de ver a Michael Donovan y Richard Moore comparecer ante la justicia. Entonces fueron acusados de robar al hermano de un autor de un tiroteo masivo.",
       "publishedAt": "2026-11-25T23:49:27.000Z",
-      "updatedAt": "2026-11-26T21:31:17.192Z",
+      "updatedAt": "2026-11-26T21:35:01.864Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 72.60544888888889,
+      "importance": 72.48063111111111,
       "source": {
         "name": "BBC Mundo",
         "url": "https://www.bbc.com/mundo/articles/c6174wy0l54eo?at_medium=RSS&at_campaign=rss"
@@ -829,12 +849,12 @@
       "title": "La patente de Google para crear «feeds» de vídeo personalizados con IA ofrece una visión desalentadora del futuro del entretenimiento",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-25T21:51:26.000Z",
-      "updatedAt": "2026-11-26T21:31:57.433Z",
+      "updatedAt": "2026-11-26T21:35:40.319Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 62.64920444444444,
+      "importance": 62.525378333333336,
       "source": {
         "name": "The Verge AI",
         "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
@@ -849,12 +869,12 @@
       "title": "Nothing ofrece una visión completa de sus auriculares con IA y su estuche de carga",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-25T16:00:59.000Z",
-      "updatedAt": "2026-11-26T21:31:57.433Z",
+      "updatedAt": "2026-11-26T21:35:40.319Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 50.96753722222222,
+      "importance": 50.843711666666664,
       "source": {
         "name": "The Verge AI",
         "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal"
@@ -869,7 +889,7 @@
       "title": "La IA está poniendo a prueba los sistemas de registros públicos de Estados Unidos",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-25T10:00:00.000Z",
-      "updatedAt": "2026-11-26T21:31:57.336Z",
+      "updatedAt": "2026-11-26T21:35:40.273Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Tecnología",
@@ -889,7 +909,7 @@
       "title": "Un filósofo legendario no se cree el argumento de Anthropic sobre la conciencia",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-23T17:36:08.000Z",
-      "updatedAt": "2026-11-26T21:31:57.336Z",
+      "updatedAt": "2026-11-26T21:35:40.273Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Tecnología",
@@ -909,7 +929,7 @@
       "title": "El gráfico más incomprendido de la IA acaba de recibir una importante actualización",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-20T18:15:15.000Z",
-      "updatedAt": "2026-11-26T21:31:57.337Z",
+      "updatedAt": "2026-11-26T21:35:40.273Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Tecnología",
@@ -929,7 +949,7 @@
       "title": "Una Búsqueda de Google más personalizada y exclusiva para ti",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-23T17:00:00.000Z",
-      "updatedAt": "2026-11-26T21:32:07.728Z",
+      "updatedAt": "2026-11-26T21:35:44.167Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Tecnología",
