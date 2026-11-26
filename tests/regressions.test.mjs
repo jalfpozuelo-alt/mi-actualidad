@@ -14,6 +14,8 @@ test('las fuentes no españolas se traducen antes de validar el idioma', () => {
   assert.doesNotMatch(feedCollector, /spanishWords/);
   assert.match(feedCollector, /createdAt/);
   assert.match(feedCollector, /translationRequestTimeout = 2_500/);
+  assert.match(feedCollector, /translationTitleTimeout = 8_000/);
+  assert.match(feedCollector, /withTimeout\(translateTitle\.call\(source, originalTitle\), translationTitleTimeout/);
   assert.match(feedCollector, /deadline = Date\.now\(\) \+ 150_000/);
 });
 

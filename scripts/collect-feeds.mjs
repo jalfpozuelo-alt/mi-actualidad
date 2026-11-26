@@ -10,6 +10,7 @@ const parser = new Parser({ timeout: 10_000 });
 const stories = [];
 const deadline = Date.now() + 150_000;
 const translationRequestTimeout = 2_500;
+const translationTitleTimeout = 8_000;
 const withTimeout = (promise, ms, label) => Promise.race([promise, new Promise((_, reject) => setTimeout(() => reject(new Error(`${label} timeout`)), ms))]);
 const spanishSources = new Set(catalog.sources.filter(source => source.language === 'es').map(source => source.id));
 const translationEmail = process.env.MYMEMORY_EMAIL || '';
@@ -88,7 +89,7 @@ for (const source of catalog.sources.filter(source => editorial.enabledSources.i
       const originalTitle = item.title?.trim();
       const publishedAt = item.isoDate || item.pubDate || null;
       if (!url || !originalTitle || !publishedAt || Date.now() - new Date(publishedAt).getTime() > editorial.maxAgeDays * 86400000) continue;
-      const title = spanishSources.has(source.id) ? originalTitle : await translateTitle.call(source, originalTitle);
+      const title = spanishSources.has(source.id) ? originalTitle : await withTimeout(translateTitle.call(source, originalTitle), translationTitleTimeout, `Traducción de ${source.name}`).catch(() => null);
       if (!title || containsCjk(title) || containsForeignTitle(title)) continue;
       const section = source.sections.includes('Tecnología') && isTechnologyTitle(title) ? 'Tecnología' : source.sections[0];
       if (source.sections.includes('Tecnología') && source.sections.length === 1 && !isTechnologyTitle(title)) continue;
