@@ -1,5 +1,5 @@
 {
-  "verifiedAt": "2026-11-26T20:48:42.948Z",
+  "verifiedAt": "2026-11-26T20:49:38.869Z",
   "academicVersion": "Manifesto Project 2026a; The PopuList 4.0; CHES trend 1999-2024",
   "methodology": "El gráfico clasifica el partido o estructura que dirige el Ejecutivo; el representante de Consilium se conserva como campo separado. Manifesto Project es la fuente principal, The PopuList contrasta far-right/far-left y CHES sirve de apoyo. La categoría naranja es propia de la aplicación.",
   "sources": [
@@ -708,6 +708,6 @@
     "label": "Fuente oficial consultada; datos conservados hasta validar cambios",
     "progress": 100,
     "pending": 0,
-    "checkedAt": "2026-11-26T20:48:42.948Z"
+    "checkedAt": "2026-11-26T20:49:38.869Z"
   }
 }
