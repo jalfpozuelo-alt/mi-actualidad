@@ -377,53 +377,53 @@
       "pages": [
         {
           "type": "standard",
-          "title": "Pandemia_de_COVID-19",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Pandemia de COVID-19</span></span>",
+          "title": "Pandemia_de_COVID-19_en_Argentina",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Pandemia de COVID-19 en Argentina</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q81068910",
+          "wikibase_item": "Q87235137",
           "titles": {
-            "canonical": "Pandemia_de_COVID-19",
-            "normalized": "Pandemia de COVID-19",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Pandemia de COVID-19</span></span>"
+            "canonical": "Pandemia_de_COVID-19_en_Argentina",
+            "normalized": "Pandemia de COVID-19 en Argentina",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Pandemia de COVID-19 en Argentina</span></span>"
           },
-          "pageid": 9259143,
+          "pageid": 9323186,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/COVID-19_Outbreak_World_Map_per_Capita.svg/langes-330px-COVID-19_Outbreak_World_Map_per_Capita.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/13-03-21_recomendaciones_en_ezeiza.jpg/330px-13-03-21_recomendaciones_en_ezeiza.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 169
+            "height": 220
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/COVID-19_Outbreak_World_Map_per_Capita.svg/langes-3840px-COVID-19_Outbreak_World_Map_per_Capita.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 2921,
-            "height": 1500
+            "source": "https://upload.wikimedia.org/wikipedia/commons/5/5b/13-03-21_recomendaciones_en_ezeiza.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1280,
+            "height": 854
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "175676157",
-          "tid": "8cf16293-c0e1-11f1-b794-c4baf7251c47",
-          "timestamp": "2026-10-05T17:23:59Z",
-          "description": "epidemia global de la enfermedad ocasionada por el virus SARS-CoV-2",
+          "revision": "175809011",
+          "tid": "4676b81e-c728-11f1-8c55-77967964995e",
+          "timestamp": "2026-10-13T17:05:22Z",
+          "description": "brote viral en Argentina",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Pandemia_de_COVID-19",
-              "revisions": "https://es.wikipedia.org/wiki/Pandemia_de_COVID-19?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Pandemia_de_COVID-19?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Pandemia_de_COVID-19"
+              "page": "https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Argentina",
+              "revisions": "https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Argentina?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Argentina?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Pandemia_de_COVID-19_en_Argentina"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Pandemia_de_COVID-19",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Pandemia_de_COVID-19",
-              "edit": "https://es.wikipedia.org/wiki/Pandemia_de_COVID-19?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Pandemia_de_COVID-19"
+              "page": "https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Argentina",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Pandemia_de_COVID-19_en_Argentina",
+              "edit": "https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Argentina?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Pandemia_de_COVID-19_en_Argentina"
             }
           },
-          "extract": "La pandemia de COVID-19, conocida también como pandemia de coronavirus, fue una pandemia derivada de la enfermedad causada por el virus SARS-CoV-2. Inicialmente fue llamada «neumonía de Wuhan», puesto que los primeros casos fueron identificados en diciembre de 2019 en la ciudad china de Wuhan, al reportarse casos de un grupo de personas enfermas con un tipo de neumonía desconocida. La mayoría de los afectados tenía vinculación con trabajadores del Mercado mayorista de mariscos de Huanan. La Organización Mundial de la Salud (OMS) la declaró una emergencia de salud pública de importancia internacional el 30 de enero de 2020, condición que mantuvo hasta el 5 de mayo de 2023, cuando la OMS decretó el fin de la emergencia sanitaria. El curso de la enfermedad se encuentra en endémico, debido a que ya no se reportan casos con tanta frecuencia como en sus primeros años.",
-          "extract_html": "<p>La <b>pandemia de COVID-19</b>, conocida también como <b>pandemia de coronavirus</b>, fue una pandemia derivada de la enfermedad causada por el virus SARS-CoV-2. Inicialmente fue llamada «neumonía de Wuhan», puesto que los primeros casos fueron identificados en diciembre de 2019 en la ciudad china de Wuhan, al reportarse casos de un grupo de personas enfermas con un tipo de neumonía desconocida. La mayoría de los afectados tenía vinculación con trabajadores del Mercado mayorista de mariscos de Huanan. La Organización Mundial de la Salud (OMS) la declaró una emergencia de salud pública de importancia internacional el 30 de enero de 2020, condición que mantuvo hasta el 5 de mayo de 2023, cuando la OMS decretó el fin de la emergencia sanitaria. El curso de la enfermedad se encuentra en endémico, debido a que ya no se reportan casos con tanta frecuencia como en sus primeros años.</p>",
-          "normalizedtitle": "Pandemia de COVID-19"
+          "extract": "Para enfrentar la pandemia de COVID-19 en Argentina, como la mayoría de los países del mundo, adoptaron en llevar a cabo una serie de medidas sanitarias, económicas y sociales. La primera de ellas fue el Aislamiento Social Preventivo y Obligatorio. Debido a que Argentina es un país federal, las decisiones fueron consensuadas entre el Gobierno Nacional junto al Gobierno de la Provincia de Buenos Aires, el Gobierno de la Ciudad de Buenos Aires y el resto de los gobiernos provinciales.",
+          "extract_html": "<p>Para enfrentar la <b>pandemia de COVID-19 en Argentina</b>, como la mayoría de los países del mundo, adoptaron en llevar a cabo una serie de medidas sanitarias, económicas y sociales. La primera de ellas fue el Aislamiento Social Preventivo y Obligatorio. Debido a que Argentina es un país federal, las decisiones fueron consensuadas entre el Gobierno Nacional junto al Gobierno de la Provincia de Buenos Aires, el Gobierno de la Ciudad de Buenos Aires y el resto de los gobiernos provinciales.</p>",
+          "normalizedtitle": "Pandemia de COVID-19 en Argentina"
         },
         {
           "type": "standard",
