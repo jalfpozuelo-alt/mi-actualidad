@@ -1,6 +1,22 @@
 import fs from 'node:fs/promises';
-const d=new Date(),m=String(d.getMonth()+1).padStart(2,'0'),day=String(d.getDate()).padStart(2,'0');
-const r=await fetch('https://api.wikimedia.org/feed/v1/wikipedia/es/onthisday/all/'+m+'/'+day);
-if(!r.ok)throw new Error('No se pudo consultar efemérides');
-const x=await r.json(); const items=[...(x.events||[]),...(x.births||[]),...(x.deaths||[])].filter(e=>e?.text).slice(0,6);
-await fs.mkdir('generated',{recursive:true}); await fs.writeFile('generated/on-this-day.json',JSON.stringify({schemaVersion:1,date:d.toISOString().slice(0,10),source:'Wikimedia',items},null,2)); console.log('Efemérides recopiladas:',items.length);
+
+const date = new Date();
+const month = String(date.getMonth() + 1).padStart(2, '0');
+const day = String(date.getDate()).padStart(2, '0');
+const destination = 'generated/on-this-day.json';
+try {
+  const response = await fetch(`https://api.wikimedia.org/feed/v1/wikipedia/es/onthisday/all/${month}/${day}`, { signal: AbortSignal.timeout(12_000) });
+  if (!response.ok) throw new Error(`Wikimedia respondió ${response.status}`);
+  const payload = await response.json();
+  const items = [...(payload.events || []), ...(payload.births || []), ...(payload.deaths || [])].filter(item => item?.text).slice(0, 6);
+  if (!items.length) throw new Error('Wikimedia no devolvió efemérides');
+  await fs.mkdir('generated', { recursive: true });
+  await fs.writeFile(destination, JSON.stringify({ schemaVersion: 1, date: date.toISOString().slice(0, 10), source: 'Wikimedia', items }, null, 2));
+  console.log(`Efemérides recopiladas: ${items.length}`);
+} catch (error) {
+  await fs.mkdir('generated', { recursive: true });
+  const previous = await fs.readFile('public/data/on-this-day.json', 'utf8').catch(() => null);
+  if (!previous) throw error;
+  await fs.writeFile(destination, previous);
+  console.warn(`Efemérides no disponibles. Se conserva la última edición válida: ${error.message}`);
+}

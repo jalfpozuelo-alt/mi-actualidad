@@ -13,7 +13,7 @@ export async function POST(req){
     if(!authorized(req))return json(req,{ok:false,message:"Contraseña incorrecta"},401);
     if(!process.env.GITHUB_TOKEN)return json(req,{ok:false,message:"Falta la configuración del servicio"},500);
     const r=await github(`/repos/${REPO}/actions/workflows/governments.yml/dispatches`,{method:"POST",body:JSON.stringify({ref:"main"})});
-    if(r.ok)return json(req,{ok:true,stage:"queued",label:"Actualización de gobiernos iniciada"});
+    if(r.ok)return json(req,{ok:true,stage:"queued",label:"Comprobación de gobiernos iniciada",requestedAt:new Date().toISOString()});
     const detail=await r.text().catch(()=>"");
     return json(req,{ok:false,message:"GitHub rechazó la actualización de gobiernos",status:r.status,detail:detail.slice(0,180)},502);
   }catch(error){
