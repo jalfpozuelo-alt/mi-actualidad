@@ -1,737 +1,551 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "source": "Wikimedia",
   "items": [
     {
-      "text": "el asteroide 2024 PT5, de 11 metros de diámetro, escapa de la gravedad del planeta Tierra, a la que estuvo atado como una «miniluna» durante un período de 57 días (desde el 29 de septiembre).",
+      "text": "en Hong Kong, se produce un incendio en el complejo residencial Wang Fu Court, en el distrito de Tai Po, dejando 151 muertos.",
       "pages": [
         {
           "type": "standard",
-          "title": "2024_PT5",
-          "displaytitle": "2024 PT<sub>5</sub>",
+          "title": "Hong_Kong",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Hong Kong</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q130301991",
+          "wikibase_item": "Q8646",
           "titles": {
-            "canonical": "2024_PT5",
-            "normalized": "2024 PT5",
-            "display": "2024 PT<sub>5</sub>"
+            "canonical": "Hong_Kong",
+            "normalized": "Hong Kong",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Hong Kong</span></span>"
           },
-          "pageid": 10998595,
+          "pageid": 11770,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Animation_of_2024_PT5_around_Earth_-_Close_approach.gif/330px-Animation_of_2024_PT5_around_Earth_-_Close_approach.gif?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/HongKongCollage1.jpg/330px-HongKongCollage1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 248
+            "height": 519
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Animation_of_2024_PT5_around_Earth_-_Close_approach.gif?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "source": "https://upload.wikimedia.org/wikipedia/commons/8/87/HongKongCollage1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
             "width": 560,
-            "height": 420
+            "height": 881
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "170954088",
-          "tid": "2bf04aca-d7ac-11f0-8adf-4ec352acb539",
-          "timestamp": "2025-12-12T22:44:52Z",
-          "description": "pequeño asteroide cercano a la Tierra",
+          "revision": "176045422",
+          "tid": "a6b84b22-d317-11f1-95bf-4de1b3f70911",
+          "timestamp": "2026-10-28T21:36:36Z",
+          "description": "región administrativa especial de la República Popular China",
           "description_source": "central",
+          "coordinates": {
+            "lat": 22.27833333,
+            "lon": 114.15861111
+          },
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/2024_PT5",
-              "revisions": "https://es.wikipedia.org/wiki/2024_PT5?action=history",
-              "edit": "https://es.wikipedia.org/wiki/2024_PT5?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:2024_PT5"
+              "page": "https://es.wikipedia.org/wiki/Hong_Kong",
+              "revisions": "https://es.wikipedia.org/wiki/Hong_Kong?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Hong_Kong?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Hong_Kong"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/2024_PT5",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/2024_PT5",
-              "edit": "https://es.wikipedia.org/wiki/2024_PT5?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:2024_PT5"
+              "page": "https://es.wikipedia.org/wiki/Hong_Kong",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Hong_Kong",
+              "edit": "https://es.wikipedia.org/wiki/Hong_Kong?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Hong_Kong"
             }
           },
-          "extract": "2024 PT5 es un objeto próximo a la Tierra de aproximadamente 11 metros (36,1 pies) de diámetro descubierto por el sistema ATLAS en Sutherland, Sudáfrica, el 7 de agosto de 2024, el día antes de acercarse a la Tierra a 568 500 kilómetros. El objeto orbita alrededor del Sol pero realiza aproximaciones lentas al sistema Tierra-Luna. Entre el 29 de septiembre de 2024 y el 25 de noviembre de 2024 (un período de 1 mes y 27 días) está pasando justo sobre el exterior de la esfera de Hill de la Tierra (aproximadamente 1.5 millones de kilómetros) a una velocidad relativa baja (en un rango que va de 0.002 km/s a 0.439 km/s) y quedó temporalmente capturado por la gravedad de la Tierra, con una excentricidad orbital geocéntrica menor a 1 y una energía orbital geocéntrica negativa. El acercamiento más cercano a la Tierra en 2025 será el 9 de enero de 2025, a aproximadamente 1.8 millones de kilómetros, cuando tendrá una velocidad relativa de 1.03 km/s. Estuvo tan cerca de la Tierra por última vez alrededor del 11 de febrero de 2003, cuando pasó a unos 8.58 millones de kilómetros de la Tierra.",
-          "extract_html": "<p><b>2024 PT<sub>5</sub></b> es un objeto próximo a la Tierra de aproximadamente 11 metros (36,1 pies) de diámetro descubierto por el sistema ATLAS en Sutherland, Sudáfrica, el 7 de agosto de 2024, el día antes de acercarse a la Tierra a 568 500 kilómetros. El objeto orbita alrededor del Sol pero realiza aproximaciones lentas al sistema Tierra-Luna. Entre el 29 de septiembre de 2024 y el 25 de noviembre de 2024 (un período de 1 mes y 27 días) está pasando justo sobre el exterior de la esfera de Hill de la Tierra (aproximadamente 1.5 millones de kilómetros) a una velocidad relativa baja (en un rango que va de 0.002 km/s a 0.439 km/s) y quedó temporalmente capturado por la gravedad de la Tierra, con una excentricidad orbital geocéntrica menor a 1 y una energía orbital geocéntrica negativa. El acercamiento más cercano a la Tierra en 2025 será el 9 de enero de 2025, a aproximadamente 1.8 millones de kilómetros, cuando tendrá una velocidad relativa de 1.03 km/s. Estuvo tan cerca de la Tierra por última vez alrededor del 11 de febrero de 2003, cuando pasó a unos 8.58 millones de kilómetros de la Tierra.</p>",
-          "normalizedtitle": "2024 PT5"
-        }
-      ],
-      "year": 2024
-    },
-    {
-      "text": "se estrena el primer capítulo del documental \"The Beatles: Get Back\", donde se muestran grabaciones nunca antes vistas hechas para la película de 1970, Let It Be.",
-      "pages": [
+          "extract": "Hong Kong, oficialmente Región Administrativa Especial de Hong Kong de la República Popular China, es una de las dos regiones administrativas especiales que existen en la República Popular China, junto con Macao. Ubicado en Asia Oriental, el territorio está rodeado por el mar de la China Meridional en el sur y por China continental en el norte, y limita al oeste con Macao, en la orilla opuesta del delta del río de las Perlas. Posee una superficie total de 1104.4 km² divididos entre la isla de Hong Kong, Kowloon y los Nuevos Territorios.",
+          "extract_html": "<p><b>Hong Kong</b>, oficialmente <b>Región Administrativa Especial de Hong Kong de la República Popular China</b>, es una de las dos regiones administrativas especiales que existen en la República Popular China, junto con Macao. Ubicado en Asia Oriental, el territorio está rodeado por el mar de la China Meridional en el sur y por China continental en el norte, y limita al oeste con Macao, en la orilla opuesta del delta del río de las Perlas. Posee una superficie total de 1104.4 km² divididos entre la isla de Hong Kong, Kowloon y los Nuevos Territorios.</p>",
+          "normalizedtitle": "Hong Kong"
+        },
         {
           "type": "standard",
-          "title": "The_Beatles:_Get_Back",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">The Beatles: Get Back</span></span>",
+          "title": "Incendio_de_Wang_Fuk_Court",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Incendio de Wang Fuk Court</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q88532913",
+          "wikibase_item": "Q137017220",
           "titles": {
-            "canonical": "The_Beatles:_Get_Back",
-            "normalized": "The Beatles: Get Back",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">The Beatles: Get Back</span></span>"
+            "canonical": "Incendio_de_Wang_Fuk_Court",
+            "normalized": "Incendio de Wang Fuk Court",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Incendio de Wang Fuk Court</span></span>"
           },
-          "pageid": 9771504,
+          "pageid": 11364974,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Scatle_%2811%29.png/330px-Scatle_%2811%29.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Buildings_of_Taipo_apartment_fires.jpg/330px-Buildings_of_Taipo_apartment_fires.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 127
+            "height": 184
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/1/19/Scatle_%2811%29.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1440,
-            "height": 554
+            "source": "https://upload.wikimedia.org/wikipedia/commons/d/df/Buildings_of_Taipo_apartment_fires.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1679,
+            "height": 936
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "171775234",
-          "tid": "521272d5-fcac-11f0-8c47-0f5e752f1d88",
-          "timestamp": "2026-01-29T00:49:09Z",
-          "description": "Documental de 2021",
+          "revision": "171314290",
+          "tid": "0140718f-e8da-11f0-94fb-61600346ba0d",
+          "timestamp": "2026-01-03T19:25:47Z",
+          "description": "tragedia e incendio estructural en Hong Kong, China, en 2025",
           "description_source": "central",
+          "coordinates": {
+            "lat": 22.44638889,
+            "lon": 114.17630556
+          },
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/The_Beatles%3A_Get_Back",
-              "revisions": "https://es.wikipedia.org/wiki/The_Beatles%3A_Get_Back?action=history",
-              "edit": "https://es.wikipedia.org/wiki/The_Beatles%3A_Get_Back?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:The_Beatles%3A_Get_Back"
+              "page": "https://es.wikipedia.org/wiki/Incendio_de_Wang_Fuk_Court",
+              "revisions": "https://es.wikipedia.org/wiki/Incendio_de_Wang_Fuk_Court?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Incendio_de_Wang_Fuk_Court?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Incendio_de_Wang_Fuk_Court"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/The_Beatles%3A_Get_Back",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/The_Beatles%3A_Get_Back",
-              "edit": "https://es.wikipedia.org/wiki/The_Beatles%3A_Get_Back?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:The_Beatles%3A_Get_Back"
+              "page": "https://es.wikipedia.org/wiki/Incendio_de_Wang_Fuk_Court",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Incendio_de_Wang_Fuk_Court",
+              "edit": "https://es.wikipedia.org/wiki/Incendio_de_Wang_Fuk_Court?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Incendio_de_Wang_Fuk_Court"
             }
           },
-          "extract": "The Beatles: Get Back es un documental dirigido por Peter Jackson que explora la realización del álbum Let It Be de la banda de rock británica The Beatles, cuyo título provisional era Get Back. Con un estreno proyectado para el 25, 26 y 27 de noviembre de 2021, la película se basa en el material originalmente capturado para el documental de 1970 del director Michael Lindsay-Hogg sobre el mencionado álbum. The Beatles: Get Back trata de reconstruir la película de Lindsay-Hogg para mostrar la amistosa camaradería que aún existía entre los miembros del grupo y para desafiar las antiguas afirmaciones que aseguran que los músicos en ese momento tenían una mala relación entre ellos.",
-          "extract_html": "<p><i><b>The Beatles: Get Back</b></i> es un documental dirigido por Peter Jackson que explora la realización del álbum <i>Let It Be</i> de la banda de rock británica The Beatles, cuyo título provisional era <i>Get Back</i>. Con un estreno proyectado para el 25, 26 y 27 de noviembre de 2021, la película se basa en el material originalmente capturado para el documental de 1970 del director Michael Lindsay-Hogg sobre el mencionado álbum. <i>The Beatles: Get Back</i> trata de reconstruir la película de Lindsay-Hogg para mostrar la amistosa camaradería que aún existía entre los miembros del grupo y para desafiar las antiguas afirmaciones que aseguran que los músicos en ese momento tenían una mala relación entre ellos.</p>",
-          "normalizedtitle": "The Beatles: Get Back"
-        }
-      ],
-      "year": 2021
-    },
-    {
-      "text": "Fallece el exfutbolista argentino Diego Armando Maradona.",
-      "pages": [
+          "extract": "La noche del 26 de noviembre de 2025, se declaró un incendio en el complejo residencial Wang Fuk Court, en el distrito de Tai Po, en los Nuevos Territorios de Hong Kong. Las autoridades locales informaron de al menos 151 muertos y 76 heridos.Otras 279 personas fueron reportadas como desaparecidas.",
+          "extract_html": "<p>La noche del 26 de noviembre de 2025, se declaró un <b>incendio</b> en el complejo residencial Wang Fuk Court, en el distrito de Tai Po, en los Nuevos Territorios de Hong Kong. Las autoridades locales informaron de al menos 151 muertos y 76 heridos.Otras 279 personas fueron reportadas como desaparecidas.</p>",
+          "normalizedtitle": "Incendio de Wang Fuk Court"
+        },
         {
           "type": "standard",
-          "title": "Diego_Maradona",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Diego Maradona</span></span>",
+          "title": "Tai_Po",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tai Po</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q17515",
+          "wikibase_item": "Q877813",
           "titles": {
-            "canonical": "Diego_Maradona",
-            "normalized": "Diego Maradona",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Diego Maradona</span></span>"
+            "canonical": "Tai_Po",
+            "normalized": "Tai Po",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tai Po</span></span>"
           },
-          "pageid": 9496,
+          "pageid": 4798212,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Maradona-Mundial_86_con_la_copa.JPG/330px-Maradona-Mundial_86_con_la_copa.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/TaiPo_New_Town.jpg/330px-TaiPo_New_Town.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 484
+            "height": 220
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Maradona-Mundial_86_con_la_copa.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1361,
-            "height": 1995
+            "source": "https://upload.wikimedia.org/wikipedia/commons/e/eb/TaiPo_New_Town.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1892,
+            "height": 1264
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176337210",
-          "tid": "8ddfed24-e266-11f1-ad12-38eb27268885",
-          "timestamp": "2026-11-17T09:09:12Z",
-          "description": "futbolista y entrenador argentino",
+          "revision": "172111850",
+          "tid": "b997600e-0c69-11f1-a710-8f2ee9cfe5de",
+          "timestamp": "2026-02-18T01:32:45Z",
+          "coordinates": {
+            "lat": 22.4508,
+            "lon": 114.164
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Tai_Po",
+              "revisions": "https://es.wikipedia.org/wiki/Tai_Po?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Tai_Po?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Tai_Po"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Tai_Po",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Tai_Po",
+              "edit": "https://es.wikipedia.org/wiki/Tai_Po?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Tai_Po"
+            }
+          },
+          "extract": "Tai Po es uno de los 18 distritos de la ciudad de Hong Kong, República Popular China. Está ubicado en la parte noreste de Hong Kong, en su parte peninsular denominada Nuevos Territorios. Su área es de 148.1 kilómetros cuadrados y su población es de 296 000 la tercera densidad más baja de la ciudad.",
+          "extract_html": "<p><b>Tai Po</b> es uno de los 18 distritos de la ciudad de Hong Kong, República Popular China. Está ubicado en la parte noreste de Hong Kong, en su parte peninsular denominada Nuevos Territorios. Su área es de 148.1 kilómetros cuadrados y su población es de 296 000 la tercera densidad más baja de la ciudad.</p>",
+          "normalizedtitle": "Tai Po"
+        }
+      ],
+      "year": 2025
+    },
+    {
+      "text": "ocurre un golpe de Estado en Guinea-Bisáu, donde el gobierno de Umaro Sissoco Embaló es derrocado. El general Horta Inta-A Na Man es proclamado presidente interino del país.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Golpe_de_Estado_en_Guinea-Bisáu_de_2025",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Golpe de Estado en Guinea-Bisáu de 2025</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q137036104",
+          "titles": {
+            "canonical": "Golpe_de_Estado_en_Guinea-Bisáu_de_2025",
+            "normalized": "Golpe de Estado en Guinea-Bisáu de 2025",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Golpe de Estado en Guinea-Bisáu de 2025</span></span>"
+          },
+          "pageid": 11364716,
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Guinea-Bissau-CIA_WFB_Map.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 329,
+            "height": 353
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Guinea-Bissau-CIA_WFB_Map.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 329,
+            "height": 353
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "171047984",
+          "tid": "ec6c9ace-dbc7-11f0-8bc1-482a1c18718d",
+          "timestamp": "2025-12-18T04:13:36Z",
+          "description": "golpe militar contra el gobierno de Umaro Sissoco Embaló",
+          "description_source": "central",
+          "coordinates": {
+            "lat": 11.864,
+            "lon": -15.585
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Guinea-Bis%C3%A1u_de_2025",
+              "revisions": "https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Guinea-Bis%C3%A1u_de_2025?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Guinea-Bis%C3%A1u_de_2025?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Golpe_de_Estado_en_Guinea-Bis%C3%A1u_de_2025"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Guinea-Bis%C3%A1u_de_2025",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Golpe_de_Estado_en_Guinea-Bis%C3%A1u_de_2025",
+              "edit": "https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Guinea-Bis%C3%A1u_de_2025?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Golpe_de_Estado_en_Guinea-Bis%C3%A1u_de_2025"
+            }
+          },
+          "extract": "El golpe de Estado de Guinea-Bisáu de 2025 comenzó el 26 de noviembre de 2025, cuando se escucharon disparos en partes de Bisáu, la capital de Guinea-Bisáu, y el presidente del país, Umaro Sissoco Embaló, declaró que había sido arrestado como parte de un golpe de Estado llevado a cabo por el jefe de Estado Mayor del Ejército. Los oficiales militares declararon el «control total» sobre el país y establecieron el Alto Comando Militar para la Restauración de la Seguridad Nacional y el Orden Público. El golpe tuvo lugar un día antes de que se anunciaran oficialmente los resultados de las elecciones generales de Guinea-Bisáu de 2025 celebradas el 23 de noviembre, en las que Embaló se presentaba a la reelección.",
+          "extract_html": "<p>El <b>golpe de Estado de Guinea-Bisáu de 2025</b> comenzó el 26 de noviembre de 2025, cuando se escucharon disparos en partes de Bisáu, la capital de Guinea-Bisáu, y el presidente del país, Umaro Sissoco Embaló, declaró que había sido arrestado como parte de un golpe de Estado llevado a cabo por el jefe de Estado Mayor del Ejército. Los oficiales militares declararon el «control total» sobre el país y establecieron el Alto Comando Militar para la Restauración de la Seguridad Nacional y el Orden Público. El golpe tuvo lugar un día antes de que se anunciaran oficialmente los resultados de las elecciones generales de Guinea-Bisáu de 2025 celebradas el 23 de noviembre, en las que Embaló se presentaba a la reelección.</p>",
+          "normalizedtitle": "Golpe de Estado en Guinea-Bisáu de 2025"
+        },
+        {
+          "type": "standard",
+          "title": "Guinea-Bisáu",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Guinea-Bisáu</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q1007",
+          "titles": {
+            "canonical": "Guinea-Bisáu",
+            "normalized": "Guinea-Bisáu",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Guinea-Bisáu</span></span>"
+          },
+          "pageid": 11982,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/langes-330px-Flag_of_Guinea-Bissau.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 165
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/langes-1280px-Flag_of_Guinea-Bissau.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 1200,
+            "height": 600
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "175056901",
+          "tid": "4c541dfe-a1f0-11f1-99e5-838b18c76cb3",
+          "timestamp": "2026-08-27T08:21:27Z",
+          "description": "país de África Occidental",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Diego_Maradona",
-              "revisions": "https://es.wikipedia.org/wiki/Diego_Maradona?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Diego_Maradona?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Diego_Maradona"
+              "page": "https://es.wikipedia.org/wiki/Guinea-Bis%C3%A1u",
+              "revisions": "https://es.wikipedia.org/wiki/Guinea-Bis%C3%A1u?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Guinea-Bis%C3%A1u?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Guinea-Bis%C3%A1u"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Diego_Maradona",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Diego_Maradona",
-              "edit": "https://es.wikipedia.org/wiki/Diego_Maradona?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Diego_Maradona"
+              "page": "https://es.wikipedia.org/wiki/Guinea-Bis%C3%A1u",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Guinea-Bis%C3%A1u",
+              "edit": "https://es.wikipedia.org/wiki/Guinea-Bis%C3%A1u?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Guinea-Bis%C3%A1u"
             }
           },
-          "extract": "Diego Armando Maradona fue un futbolista y entrenador argentino. Como jugador, se desempeñó en la posición de mediocampista ofensivo o delantero, siendo considerado por numerosos especialistas, exfutbolistas y personalidades internacionales como «uno de los mejores futbolistas en la historia».",
-          "extract_html": "<p><b>Diego Armando Maradona</b> fue un futbolista y entrenador argentino. Como jugador, se desempeñó en la posición de mediocampista ofensivo o delantero, siendo considerado por numerosos especialistas, exfutbolistas y personalidades internacionales como «uno de los mejores futbolistas en la historia».</p>",
-          "normalizedtitle": "Diego Maradona"
+          "extract": "Guinea-Bisáu o Guinea-Bissau, oficialmente la República de Guinea-Bisáu, es un país del oeste de África que cubre 36 125 km² con una población estimada de 1 644 000 habitantes (2022). Limita con Senegal al norte, Guinea al sur y al este, y con el océano Atlántico al oeste.",
+          "extract_html": "<p><b>Guinea-Bisáu</b> o <b>Guinea-Bissau</b>, oficialmente la <b>República de Guinea-Bisáu</b>, es un país del oeste de África que cubre 36 125 km² con una población estimada de 1 644 000 habitantes (2022). Limita con Senegal al norte, Guinea al sur y al este, y con el océano Atlántico al oeste.</p>",
+          "normalizedtitle": "Guinea-Bisáu"
+        },
+        {
+          "type": "standard",
+          "title": "Umaro_Sissoco_Embaló",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Umaro Sissoco Embaló</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q16855164",
+          "titles": {
+            "canonical": "Umaro_Sissoco_Embaló",
+            "normalized": "Umaro Sissoco Embaló",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Umaro Sissoco Embaló</span></span>"
+          },
+          "pageid": 8225791,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Umaro_Sissoco_Embalo_2025_July.png/330px-Umaro_Sissoco_Embalo_2025_July.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 445
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Umaro_Sissoco_Embalo_2025_July.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1644,
+            "height": 2215
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "175687433",
+          "tid": "485cdbce-c168-11f1-95c7-59823a45c668",
+          "timestamp": "2026-10-06T09:28:26Z",
+          "description": "político bisauguineano",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Umaro_Sissoco_Embal%C3%B3",
+              "revisions": "https://es.wikipedia.org/wiki/Umaro_Sissoco_Embal%C3%B3?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Umaro_Sissoco_Embal%C3%B3?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Umaro_Sissoco_Embal%C3%B3"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Umaro_Sissoco_Embal%C3%B3",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Umaro_Sissoco_Embal%C3%B3",
+              "edit": "https://es.wikipedia.org/wiki/Umaro_Sissoco_Embal%C3%B3?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Umaro_Sissoco_Embal%C3%B3"
+            }
+          },
+          "extract": "Umaro El-Mokhtar Sissoco Embaló es un politólogo, militar y político bisauguineano que ejerció como presidente de Guinea-Bisáu desde febrero de 2020 hasta su derrocamiento en noviembre de 2025. Previamente se desempeñó como primer ministro entre el 18 de noviembre de 2016 y el 16 de enero de 2018.",
+          "extract_html": "<p><b>Umaro El-Mokhtar Sissoco Embaló</b> es un politólogo, militar y político bisauguineano que ejerció como presidente de Guinea-Bisáu desde febrero de 2020 hasta su derrocamiento en noviembre de 2025. Previamente se desempeñó como primer ministro entre el 18 de noviembre de 2016 y el 16 de enero de 2018.</p>",
+          "normalizedtitle": "Umaro Sissoco Embaló"
+        },
+        {
+          "type": "standard",
+          "title": "Horta_Inta-A_Na_Man",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Horta Inta-A Na Man</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q137049690",
+          "titles": {
+            "canonical": "Horta_Inta-A_Na_Man",
+            "normalized": "Horta Inta-A Na Man",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Horta Inta-A Na Man</span></span>"
+          },
+          "pageid": 11365754,
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "170812847",
+          "tid": "44d17eb2-d164-11f0-b5e7-d6238fd09fd7",
+          "timestamp": "2025-12-04T22:55:03Z",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Horta_Inta-A_Na_Man",
+              "revisions": "https://es.wikipedia.org/wiki/Horta_Inta-A_Na_Man?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Horta_Inta-A_Na_Man?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Horta_Inta-A_Na_Man"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Horta_Inta-A_Na_Man",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Horta_Inta-A_Na_Man",
+              "edit": "https://es.wikipedia.org/wiki/Horta_Inta-A_Na_Man?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Horta_Inta-A_Na_Man"
+            }
+          },
+          "extract": "Horta Inta-A Na Man, es un general bisauguineano que se ha desempeñado como presidente de transición de Guinea-Bisáu y como presidente del Alto Comando Militar para la Restauración del Orden desde el golpe de Estado en Guinea-Bisáu de 2025.",
+          "extract_html": "<p><b>Horta Inta-A Na Man,</b> es un general bisauguineano que se ha desempeñado como presidente de transición de Guinea-Bisáu y como presidente del Alto Comando Militar para la Restauración del Orden desde el golpe de Estado en Guinea-Bisáu de 2025.</p>",
+          "normalizedtitle": "Horta Inta-A Na Man"
+        }
+      ],
+      "year": 2025
+    },
+    {
+      "text": "acontecimientos en torno al fallecimiento de Diego Maradona, fallecido el día anterior:",
+      "pages": [],
+      "year": 2020
+    },
+    {
+      "text": "acontecimientos en torno al fallecimiento de Diego Maradona, fallecido el día anterior:",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Pandemia_de_COVID-19",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Pandemia de COVID-19</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q81068910",
+          "titles": {
+            "canonical": "Pandemia_de_COVID-19",
+            "normalized": "Pandemia de COVID-19",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Pandemia de COVID-19</span></span>"
+          },
+          "pageid": 9259143,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/COVID-19_Outbreak_World_Map_per_Capita.svg/langes-330px-COVID-19_Outbreak_World_Map_per_Capita.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 169
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/COVID-19_Outbreak_World_Map_per_Capita.svg/langes-3840px-COVID-19_Outbreak_World_Map_per_Capita.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 2921,
+            "height": 1500
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "175676157",
+          "tid": "8cf16293-c0e1-11f1-b794-c4baf7251c47",
+          "timestamp": "2026-10-05T17:23:59Z",
+          "description": "epidemia global de la enfermedad ocasionada por el virus SARS-CoV-2",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Pandemia_de_COVID-19",
+              "revisions": "https://es.wikipedia.org/wiki/Pandemia_de_COVID-19?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Pandemia_de_COVID-19?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Pandemia_de_COVID-19"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Pandemia_de_COVID-19",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Pandemia_de_COVID-19",
+              "edit": "https://es.wikipedia.org/wiki/Pandemia_de_COVID-19?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Pandemia_de_COVID-19"
+            }
+          },
+          "extract": "La pandemia de COVID-19, conocida también como pandemia de coronavirus, fue una pandemia derivada de la enfermedad causada por el virus SARS-CoV-2. Inicialmente fue llamada «neumonía de Wuhan», puesto que los primeros casos fueron identificados en diciembre de 2019 en la ciudad china de Wuhan, al reportarse casos de un grupo de personas enfermas con un tipo de neumonía desconocida. La mayoría de los afectados tenía vinculación con trabajadores del Mercado mayorista de mariscos de Huanan. La Organización Mundial de la Salud (OMS) la declaró una emergencia de salud pública de importancia internacional el 30 de enero de 2020, condición que mantuvo hasta el 5 de mayo de 2023, cuando la OMS decretó el fin de la emergencia sanitaria. El curso de la enfermedad se encuentra en endémico, debido a que ya no se reportan casos con tanta frecuencia como en sus primeros años.",
+          "extract_html": "<p>La <b>pandemia de COVID-19</b>, conocida también como <b>pandemia de coronavirus</b>, fue una pandemia derivada de la enfermedad causada por el virus SARS-CoV-2. Inicialmente fue llamada «neumonía de Wuhan», puesto que los primeros casos fueron identificados en diciembre de 2019 en la ciudad china de Wuhan, al reportarse casos de un grupo de personas enfermas con un tipo de neumonía desconocida. La mayoría de los afectados tenía vinculación con trabajadores del Mercado mayorista de mariscos de Huanan. La Organización Mundial de la Salud (OMS) la declaró una emergencia de salud pública de importancia internacional el 30 de enero de 2020, condición que mantuvo hasta el 5 de mayo de 2023, cuando la OMS decretó el fin de la emergencia sanitaria. El curso de la enfermedad se encuentra en endémico, debido a que ya no se reportan casos con tanta frecuencia como en sus primeros años.</p>",
+          "normalizedtitle": "Pandemia de COVID-19"
+        },
+        {
+          "type": "standard",
+          "title": "Casa_Rosada",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Casa Rosada</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q478926",
+          "titles": {
+            "canonical": "Casa_Rosada",
+            "normalized": "Casa Rosada",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Casa Rosada</span></span>"
+          },
+          "pageid": 48138,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Casa_Rosada_exterior_from_Plaza_de_Mayo.JPG/330px-Casa_Rosada_exterior_from_Plaza_de_Mayo.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 220
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Casa_Rosada_exterior_from_Plaza_de_Mayo.JPG/3840px-Casa_Rosada_exterior_from_Plaza_de_Mayo.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 5184,
+            "height": 3456
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "175698866",
+          "tid": "c31a0a30-c1e9-11f1-bb09-8518cd698afc",
+          "timestamp": "2026-10-07T00:55:17Z",
+          "description": "palacio presidencial y sede del Poder Ejecutivo de la República Argentina",
+          "description_source": "central",
+          "coordinates": {
+            "lat": -34.60805556,
+            "lon": -58.37027778
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Casa_Rosada",
+              "revisions": "https://es.wikipedia.org/wiki/Casa_Rosada?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Casa_Rosada?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Casa_Rosada"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Casa_Rosada",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Casa_Rosada",
+              "edit": "https://es.wikipedia.org/wiki/Casa_Rosada?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Casa_Rosada"
+            }
+          },
+          "extract": "La Casa Rosada es la sede del Poder Ejecutivo de la República Argentina, y está ubicada en el centro-histórico de la ciudad capital federativa de Buenos Aires. Dentro de la misma se encuentra el despacho del presidente de la Nación Argentina y de sus distintas secretarías, y del jefe de Gabinete de Ministros.",
+          "extract_html": "<p>La <b>Casa Rosada</b> es la sede del Poder Ejecutivo de la República Argentina, y está ubicada en el centro-histórico de la ciudad capital federativa de Buenos Aires. Dentro de la misma se encuentra el despacho del presidente de la Nación Argentina y de sus distintas secretarías, y del jefe de Gabinete de Ministros.</p>",
+          "normalizedtitle": "Casa Rosada"
         }
       ],
       "year": 2020
     },
     {
-      "text": "el líder supremo de Irán, Alí Jamenei, ratifica el apoyo del Gobierno a Hezbolá y Hamás.",
-      "pages": [
-        {
-          "type": "standard",
-          "title": "Líder_supremo_de_Irán",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Líder supremo de Irán</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q332486",
-          "titles": {
-            "canonical": "Líder_supremo_de_Irán",
-            "normalized": "Líder supremo de Irán",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Líder supremo de Irán</span></span>"
-          },
-          "pageid": 1249971,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Portrait_of_Mojtaba_Khamenei.jpg/330px-Portrait_of_Mojtaba_Khamenei.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 467
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Portrait_of_Mojtaba_Khamenei.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 905,
-            "height": 1280
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "175188347",
-          "tid": "3e298205-a830-11f1-9959-1585b42d85b3",
-          "timestamp": "2026-09-04T07:14:18Z",
-          "description": "jefe de Estado de la República Islámica de Irán",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/L%C3%ADder_supremo_de_Ir%C3%A1n",
-              "revisions": "https://es.wikipedia.org/wiki/L%C3%ADder_supremo_de_Ir%C3%A1n?action=history",
-              "edit": "https://es.wikipedia.org/wiki/L%C3%ADder_supremo_de_Ir%C3%A1n?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:L%C3%ADder_supremo_de_Ir%C3%A1n"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/L%C3%ADder_supremo_de_Ir%C3%A1n",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/L%C3%ADder_supremo_de_Ir%C3%A1n",
-              "edit": "https://es.wikipedia.org/wiki/L%C3%ADder_supremo_de_Ir%C3%A1n?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:L%C3%ADder_supremo_de_Ir%C3%A1n"
-            }
-          },
-          "extract": "La Autoridad Suprema de Liderazgo de la República Islámica de Irán (مقام معظم رهبری, maqām mo'azzam rahbari), más conocido como líder supremo de Irán y también conocido como líder supremo de la Revolución Islámica, es el jefe de Estado, la máxima autoridad política y religiosa de la República Islámica de Irán. Mochtabá Jameneí es el actual líder supremo desde el 8 de marzo de 2026.",
-          "extract_html": "<p>La <b>Autoridad Suprema de Liderazgo de la República Islámica de Irán</b> <i>(مقام معظم رهبری, maqām mo'azzam rahbari)</i>, más conocido como <b>líder supremo de Irán</b> y también conocido como <b>líder supremo de la Revolución Islámica</b>, es el jefe de Estado, la máxima autoridad política y religiosa de la República Islámica de Irán. Mochtabá Jameneí es el actual líder supremo desde el 8 de marzo de 2026.</p>",
-          "normalizedtitle": "Líder supremo de Irán"
-        },
-        {
-          "type": "standard",
-          "title": "Alí_Jameneí",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alí Jameneí</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q57336",
-          "titles": {
-            "canonical": "Alí_Jameneí",
-            "normalized": "Alí Jameneí",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Alí Jameneí</span></span>"
-          },
-          "pageid": 1207434,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Ali_Khamenei_Nowruz_message_official_portrait_1397_02_%28cropped%29%282%29.jpg/330px-Ali_Khamenei_Nowruz_message_official_portrait_1397_02_%28cropped%29%282%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 460
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Ali_Khamenei_Nowruz_message_official_portrait_1397_02_%28cropped%29%282%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1229,
-            "height": 1712
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176258700",
-          "tid": "3e915d6a-de27-11f1-8810-23c2e00f5fcb",
-          "timestamp": "2026-11-11T23:25:56Z",
-          "description": "ayatolá y 2.º líder supremo de Irán entre 1989 y 2026",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Al%C3%AD_Jamene%C3%AD",
-              "revisions": "https://es.wikipedia.org/wiki/Al%C3%AD_Jamene%C3%AD?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Al%C3%AD_Jamene%C3%AD?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Al%C3%AD_Jamene%C3%AD"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Al%C3%AD_Jamene%C3%AD",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Al%C3%AD_Jamene%C3%AD",
-              "edit": "https://es.wikipedia.org/wiki/Al%C3%AD_Jamene%C3%AD?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Al%C3%AD_Jamene%C3%AD"
-            }
-          },
-          "extract": "Alí Hoseiní Jameneí fue un clérigo chiita, revolucionario y político iraní que desempeñó el cargo de líder supremo de Irán desde 1989 hasta su magnicidio en 2026. Jameneí también fue líder de la clase dirigente clerical islámica de su país y marŷaʿ del chiismo duodecimano. Su mandato como líder supremo, que se prolongó por más de 36 años, lo convirtió en el jefe de Estado con más años en el cargo en Medio Oriente y el segundo líder iraní con más años en el cargo de los siglos XX y XXI, después del sha Mohammad Reza Pahleví. Además, entre 1981 y 1989 fue el tercer presidente de Irán.",
-          "extract_html": "<p><b>Alí Hoseiní Jameneí</b> fue un clérigo chiita, revolucionario y político iraní que desempeñó el cargo de líder supremo de Irán desde 1989 hasta su magnicidio en 2026. Jameneí también fue líder de la clase dirigente clerical islámica de su país y <i>marŷaʿ</i> del chiismo duodecimano. Su mandato como líder supremo, que se prolongó por más de 36 años, lo convirtió en el jefe de Estado con más años en el cargo en Medio Oriente y el segundo líder iraní con más años en el cargo de los siglos <span style=\"text-transform:lowercase\">XX</span> y <span style=\"text-transform:lowercase\">XXI</span>, después del sha Mohammad Reza Pahleví. Además, entre 1981 y 1989 fue el tercer presidente de Irán.</p>",
-          "normalizedtitle": "Alí Jameneí"
-        },
-        {
-          "type": "standard",
-          "title": "Hezbolá",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Hezbolá</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q41053",
-          "titles": {
-            "canonical": "Hezbolá",
-            "normalized": "Hezbolá",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Hezbolá</span></span>"
-          },
-          "pageid": 1468053,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Hezbollah_%28thumbnail_placeholder%29.svg/langes-330px-Flag_of_Hezbollah_%28thumbnail_placeholder%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 220
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_of_Hezbollah_%28thumbnail_placeholder%29.svg/langes-960px-Flag_of_Hezbollah_%28thumbnail_placeholder%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 600,
-            "height": 400
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176451019",
-          "tid": "655786a3-e85e-11f1-a492-601c12c8e77a",
-          "timestamp": "2026-11-24T23:25:55Z",
-          "description": "partido político y organización terrorista paramilitar chiíta libanesa",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Hezbol%C3%A1",
-              "revisions": "https://es.wikipedia.org/wiki/Hezbol%C3%A1?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Hezbol%C3%A1?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Hezbol%C3%A1"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Hezbol%C3%A1",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Hezbol%C3%A1",
-              "edit": "https://es.wikipedia.org/wiki/Hezbol%C3%A1?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Hezbol%C3%A1"
-            }
-          },
-          "extract": "Hezbolá o Hizbulá, traducido literalmente como Partido de Dios, es un partido político y grupo paramilitar musulmán chií libanés, regido desde 2024 por su secretario general Naim Qassem. El brazo paramilitar de Hezbolá es el Consejo de Yihad, y su brazo político es el partido Bloque de Lealtad a la Resistencia en el Parlamento del Líbano. En 2016 se estimaba que su fuerza armada era equivalente a la de un ejército de tamaño medio. Es, junto con el Movimiento Amal, la principal expresión política y militar de la comunidad chií del Líbano, uno de los tres grupos religiosos más numerosos del país.",
-          "extract_html": "<p><b>Hezbolá</b> o <b>Hizbulá</b>, traducido literalmente como <b>Partido de Dios</b>, es un partido político y grupo paramilitar musulmán chií libanés, regido desde 2024 por su secretario general Naim Qassem. El brazo paramilitar de Hezbolá es el Consejo de Yihad, y su brazo político es el partido Bloque de Lealtad a la Resistencia en el Parlamento del Líbano. En 2016 se estimaba que su fuerza armada era equivalente a la de un ejército de tamaño medio. Es, junto con el Movimiento Amal, la principal expresión política y militar de la comunidad chií del Líbano, uno de los tres grupos religiosos más numerosos del país.</p>",
-          "normalizedtitle": "Hezbolá"
-        },
-        {
-          "type": "standard",
-          "title": "Hamás",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Hamás</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q38799",
-          "titles": {
-            "canonical": "Hamás",
-            "normalized": "Hamás",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Hamás</span></span>"
-          },
-          "pageid": 42845,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Emblem_of_Hamas_Dark_Green_Variant_Vector_Graphic.svg/langes-330px-Emblem_of_Hamas_Dark_Green_Variant_Vector_Graphic.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 364
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Emblem_of_Hamas_Dark_Green_Variant_Vector_Graphic.svg/langes-960px-Emblem_of_Hamas_Dark_Green_Variant_Vector_Graphic.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 916,
-            "height": 1010
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176340343",
-          "tid": "8420ade3-e293-11f1-b9fc-6e01d225ff25",
-          "timestamp": "2026-11-17T14:31:03Z",
-          "description": "organización política y paramilitar palestina",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Ham%C3%A1s",
-              "revisions": "https://es.wikipedia.org/wiki/Ham%C3%A1s?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Ham%C3%A1s?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Ham%C3%A1s"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Ham%C3%A1s",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Ham%C3%A1s",
-              "edit": "https://es.wikipedia.org/wiki/Ham%C3%A1s?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Ham%C3%A1s"
-            }
-          },
-          "extract": "Hamás, cuyo nombre formal es Movimiento de Resistencia Islámica, es una organización política y paramilitar palestina sunita que se declara yihadista, nacionalista e islamista. Su objetivo original, definido en su carta fundacional, fue el establecimiento de un Estado islámico en la región histórica de Palestina, que comprendería los actuales Israel, Cisjordania y la Franja de Gaza, con capital en Jerusalén. Sin embargo, en 2017 publicó unos nuevos estatutos en los que limitó su reclamación a «el establecimiento de un Estado de Palestina completamente soberano e independiente, con Jerusalén como capital, en las fronteras del 4 de junio de 1967», enfatizando su carácter nacionalista por encima del religioso, aunque sin reconocer a Israel ni abandonar la lucha armada. Hamás cuenta con una serie de organizaciones dependientes que desarrollan sus actividades en muy diversos ámbitos, y abarcan desde la asimilación cultural y religiosa de los jóvenes a través de la madrasa, la asistencia social a los palestinos más necesitados, la representación en las instituciones políticas palestinas a través de la lista Cambio y Reforma, hasta las Brigadas de Ezzeldin Al-Qassam, brazo armado de Hamás.",
-          "extract_html": "<p><b>Hamás</b>, cuyo nombre formal es <b>Movimiento de Resistencia Islámica</b>, es una organización política y paramilitar palestina sunita que se declara yihadista, nacionalista e islamista. Su objetivo original, definido en su carta fundacional, fue el establecimiento de un Estado islámico en la región histórica de Palestina, que comprendería los actuales Israel, Cisjordania y la Franja de Gaza, con capital en Jerusalén. Sin embargo, en 2017 publicó unos nuevos estatutos en los que limitó su reclamación a «el establecimiento de un Estado de Palestina completamente soberano e independiente, con Jerusalén como capital, en las fronteras del 4 de junio de 1967», enfatizando su carácter nacionalista por encima del religioso, aunque sin reconocer a Israel ni abandonar la lucha armada. Hamás cuenta con una serie de organizaciones dependientes que desarrollan sus actividades en muy diversos ámbitos, y abarcan desde la asimilación cultural y religiosa de los jóvenes a través de la madrasa, la asistencia social a los palestinos más necesitados, la representación en las instituciones políticas palestinas a través de la lista Cambio y Reforma, hasta las Brigadas de Ezzeldin Al-Qassam, brazo armado de Hamás.</p>",
-          "normalizedtitle": "Hamás"
-        }
-      ],
-      "year": 2014
+      "text": "acontecimientos en torno al fallecimiento de Diego Maradona, fallecido el día anterior:",
+      "pages": [],
+      "year": 2020
     },
     {
-      "text": "One Direction lanza su tercer álbum de estudio, titulado Midnight Memories.",
+      "text": "acontecimientos en torno al fallecimiento de Diego Maradona, fallecido el día anterior:",
       "pages": [
         {
           "type": "standard",
-          "title": "One_Direction",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">One Direction</span></span>",
+          "title": "Bella_Vista_(Buenos_Aires)",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Bella Vista (Buenos Aires)</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q146027",
+          "wikibase_item": "Q1886737",
           "titles": {
-            "canonical": "One_Direction",
-            "normalized": "One Direction",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">One Direction</span></span>"
+            "canonical": "Bella_Vista_(Buenos_Aires)",
+            "normalized": "Bella Vista (Buenos Aires)",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Bella Vista (Buenos Aires)</span></span>"
           },
-          "pageid": 5143585,
+          "pageid": 391521,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/One_Direction_Sydney_4.jpg/330px-One_Direction_Sydney_4.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/BellaVist.ar.jpg/330px-BellaVist.ar.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 180
+            "height": 195
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/3/3a/One_Direction_Sydney_4.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1000,
-            "height": 545
+            "source": "https://upload.wikimedia.org/wikipedia/commons/e/eb/BellaVist.ar.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 887,
+            "height": 524
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176203366",
-          "tid": "addb29b9-db6b-11f1-88b2-f5910fb129f1",
-          "timestamp": "2026-11-08T11:58:15Z",
-          "description": "banda británico-irlandesa",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/One_Direction",
-              "revisions": "https://es.wikipedia.org/wiki/One_Direction?action=history",
-              "edit": "https://es.wikipedia.org/wiki/One_Direction?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:One_Direction"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/One_Direction",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/One_Direction",
-              "edit": "https://es.wikipedia.org/wiki/One_Direction?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:One_Direction"
-            }
-          },
-          "extract": "One Direction fue una boy band británico-irlandesa formada en 2010 en Londres, con motivo del programa The X Factor. Durante la transmisión del concurso, el quinteto, compuesto en aquel entonces por Harry Styles, Liam Payne, Zayn Malik, Niall Horan y Louis Tomlinson, fue apadrinado por Simon Cowell. Su formación se dio luego de que los cinco integrantes hicieran sus audiciones y fueran expulsados de la competencia. Tras esto, Nicole Scherzinger, una de las juezas, sugirió que los cinco formasen parte de un grupo, al que finalmente llamaron One Direction. El grupo finalmente quedó en el tercer lugar del concurso, pero aun así Cowell pagó un contrato discográfico con Syco Music para que pudiesen lanzar un disco.",
-          "extract_html": "<p><b>One Direction</b> fue una <i>boy band</i> británico-irlandesa formada en 2010 en Londres, con motivo del programa <i>The X Factor</i>. Durante la transmisión del concurso, el quinteto, compuesto en aquel entonces por Harry Styles, Liam Payne, Zayn Malik, Niall Horan y Louis Tomlinson, fue apadrinado por Simon Cowell. Su formación se dio luego de que los cinco integrantes hicieran sus audiciones y fueran expulsados de la competencia. Tras esto, Nicole Scherzinger, una de las juezas, sugirió que los cinco formasen parte de un grupo, al que finalmente llamaron One Direction. El grupo finalmente quedó en el tercer lugar del concurso, pero aun así Cowell pagó un contrato discográfico con Syco Music para que pudiesen lanzar un disco.</p>",
-          "normalizedtitle": "One Direction"
-        },
-        {
-          "type": "standard",
-          "title": "Midnight_Memories",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Midnight Memories</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q15061626",
-          "titles": {
-            "canonical": "Midnight_Memories",
-            "normalized": "Midnight Memories",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Midnight Memories</span></span>"
-          },
-          "pageid": 5681520,
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "175227295",
-          "tid": "3684fed3-aa31-11f1-b036-a57a2219375c",
-          "timestamp": "2026-09-06T20:26:17Z",
-          "description": "álbum de One Direction",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Midnight_Memories",
-              "revisions": "https://es.wikipedia.org/wiki/Midnight_Memories?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Midnight_Memories?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Midnight_Memories"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Midnight_Memories",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Midnight_Memories",
-              "edit": "https://es.wikipedia.org/wiki/Midnight_Memories?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Midnight_Memories"
-            }
-          },
-          "extract": "Midnight Memories —en español: Recuerdos de medianoche— es el tercer álbum de estudio del grupo británico-irlandés One Direction, lanzado el 25 de noviembre de 2013.",
-          "extract_html": "<p><i><b>Midnight Memories</b></i> —en español: <i>Recuerdos de medianoche</i>— es el tercer álbum de estudio del grupo británico-irlandés One Direction, lanzado el 25 de noviembre de 2013.</p>",
-          "normalizedtitle": "Midnight Memories"
-        }
-      ],
-      "year": 2013
-    },
-    {
-      "text": "arriban al aeropuerto de Ezeiza dos helicópteros rusos Mi-171E, adquiridos por el Ministerio de Defensa para ser incorporados a la Fuerza Aérea Argentina. Llegan desarmados en la bodega de un avión ruso Antonov An-124; luego son ensamblados en un hangar especial, y trasladados en vuelo a la VII Brigada Aérea, Moreno, para operaciones antárticas (matrículas H-94 y 95).",
-      "pages": [
-        {
-          "type": "standard",
-          "title": "Aeropuerto_Internacional_Ministro_Pistarini",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Aeropuerto Internacional Ministro Pistarini</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q384788",
-          "titles": {
-            "canonical": "Aeropuerto_Internacional_Ministro_Pistarini",
-            "normalized": "Aeropuerto Internacional Ministro Pistarini",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Aeropuerto Internacional Ministro Pistarini</span></span>"
-          },
-          "pageid": 25191,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Ezeiza_International_Airport_satellite.jpg/330px-Ezeiza_International_Airport_satellite.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 266
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Ezeiza_International_Airport_satellite.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 835,
-            "height": 673
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176357503",
-          "tid": "0d5fe204-e37d-11f1-acac-d47fdd8f68b0",
-          "timestamp": "2026-11-18T18:22:46Z",
-          "description": "aeropuerto internacional en Ezeiza, Argentina",
+          "revision": "176118764",
+          "tid": "a0a6df2c-d70e-11f1-9851-1d351823ff9e",
+          "timestamp": "2026-11-02T22:42:05Z",
+          "description": "localidad en la provincia de Buenos Aires, Argentina",
           "description_source": "central",
           "coordinates": {
-            "lat": -34.82222222,
-            "lon": -58.53583333
+            "lat": -34.56372021,
+            "lon": -58.69032951
           },
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Aeropuerto_Internacional_Ministro_Pistarini",
-              "revisions": "https://es.wikipedia.org/wiki/Aeropuerto_Internacional_Ministro_Pistarini?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Aeropuerto_Internacional_Ministro_Pistarini?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Aeropuerto_Internacional_Ministro_Pistarini"
+              "page": "https://es.wikipedia.org/wiki/Bella_Vista_(Buenos_Aires)",
+              "revisions": "https://es.wikipedia.org/wiki/Bella_Vista_(Buenos_Aires)?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Bella_Vista_(Buenos_Aires)?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Bella_Vista_(Buenos_Aires)"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Aeropuerto_Internacional_Ministro_Pistarini",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Aeropuerto_Internacional_Ministro_Pistarini",
-              "edit": "https://es.wikipedia.org/wiki/Aeropuerto_Internacional_Ministro_Pistarini?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Aeropuerto_Internacional_Ministro_Pistarini"
+              "page": "https://es.wikipedia.org/wiki/Bella_Vista_(Buenos_Aires)",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Bella_Vista_(Buenos_Aires)",
+              "edit": "https://es.wikipedia.org/wiki/Bella_Vista_(Buenos_Aires)?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Bella_Vista_(Buenos_Aires)"
             }
           },
-          "extract": "El Aeropuerto Internacional Ministro Pistarini, conocido comúnmente como Aeropuerto Internacional de Ezeiza, es una terminal aérea internacional que sirve al área metropolitana de Buenos Aires, Argentina. Se encuentra la localidad homónima, dentro del municipio de Ezeiza, a 35 km del centro de la capital del país. La categoría OACI es 4F.",
-          "extract_html": "<p>El <b>Aeropuerto Internacional Ministro Pistarini</b>, conocido comúnmente como <b>Aeropuerto Internacional de Ezeiza</b>, es una terminal aérea internacional que sirve al área metropolitana de Buenos Aires, Argentina. Se encuentra la localidad homónima, dentro del municipio de Ezeiza, a 35 km del centro de la capital del país. La categoría OACI es <b>4F</b>.</p>",
-          "normalizedtitle": "Aeropuerto Internacional Ministro Pistarini"
-        },
-        {
-          "type": "standard",
-          "title": "Mil_Mi-17",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mil Mi-17</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q317288",
-          "titles": {
-            "canonical": "Mil_Mi-17",
-            "normalized": "Mil Mi-17",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mil Mi-17</span></span>"
-          },
-          "pageid": 2228371,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Russian_Air_Force_Mil_Mi-17_yellow_62.jpg/330px-Russian_Air_Force_Mil_Mi-17_yellow_62.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 216
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/6/64/Russian_Air_Force_Mil_Mi-17_yellow_62.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1842,
-            "height": 1207
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176147591",
-          "tid": "bc71c76c-d867-11f1-a18e-98d2c848c251",
-          "timestamp": "2026-11-04T15:52:28Z",
-          "description": "helicóptero de transporte fabricado por Mil",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Mil_Mi-17",
-              "revisions": "https://es.wikipedia.org/wiki/Mil_Mi-17?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Mil_Mi-17?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Mil_Mi-17"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Mil_Mi-17",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Mil_Mi-17",
-              "edit": "https://es.wikipedia.org/wiki/Mil_Mi-17?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Mil_Mi-17"
-            }
-          },
-          "extract": "El Mil Mi-17 es el modelo de exportación del Mi-8M en operación en Rusia, es un helicóptero bimotor de transporte con capacidad de portar cohetes y misiles guiados antitanque.",
-          "extract_html": "<p>El <b>Mil Mi-17</b> es el modelo de exportación del <b>Mi-8M</b> en operación en Rusia, es un helicóptero bimotor de transporte con capacidad de portar cohetes y misiles guiados antitanque.</p>",
-          "normalizedtitle": "Mil Mi-17"
-        },
-        {
-          "type": "standard",
-          "title": "Fuerza_Aérea_Argentina",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Fuerza Aérea Argentina</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q57770",
-          "titles": {
-            "canonical": "Fuerza_Aérea_Argentina",
-            "normalized": "Fuerza Aérea Argentina",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Fuerza Aérea Argentina</span></span>"
-          },
-          "pageid": 349645,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Argentine_airforce_wings_emblem_%28color%29.svg/langes-330px-Argentine_airforce_wings_emblem_%28color%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 139
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Argentine_airforce_wings_emblem_%28color%29.svg/langes-1920px-Argentine_airforce_wings_emblem_%28color%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 1444,
-            "height": 608
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176089671",
-          "tid": "ac16d185-d57d-11f1-b06b-8c8d622d439f",
-          "timestamp": "2026-10-31T22:51:56Z",
-          "description": "rama aérea de las Fuerzas Armadas argentinas",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Fuerza_A%C3%A9rea_Argentina",
-              "revisions": "https://es.wikipedia.org/wiki/Fuerza_A%C3%A9rea_Argentina?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Fuerza_A%C3%A9rea_Argentina?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Fuerza_A%C3%A9rea_Argentina"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Fuerza_A%C3%A9rea_Argentina",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Fuerza_A%C3%A9rea_Argentina",
-              "edit": "https://es.wikipedia.org/wiki/Fuerza_A%C3%A9rea_Argentina?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Fuerza_A%C3%A9rea_Argentina"
-            }
-          },
-          "extract": "La Fuerza Aérea Argentina (FAA) es una de las ramas de las Fuerzas Armadas junto al Ejército y la Armada, cuya misión principal es rechazar agresiones militares externas. Fue creada en el año 1945 al crearse la Secretaría de Aeronáutica, constituyendo la más joven fuerza armada.",
-          "extract_html": "<p>La <b>Fuerza Aérea Argentina</b> (<b>FAA</b>) es una de las ramas de las Fuerzas Armadas junto al Ejército y la Armada, cuya misión principal es rechazar agresiones militares externas. Fue creada en el año 1945 al crearse la Secretaría de Aeronáutica, constituyendo la más joven fuerza armada.</p>",
-          "normalizedtitle": "Fuerza Aérea Argentina"
-        },
-        {
-          "type": "standard",
-          "title": "Antonov_An-124",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Antonov An-124</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q193487",
-          "titles": {
-            "canonical": "Antonov_An-124",
-            "normalized": "Antonov An-124",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Antonov An-124</span></span>"
-          },
-          "pageid": 770642,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Libyan_Air_Cargo_Antonov_An-124-100_Wallner_2007.jpg/330px-Libyan_Air_Cargo_Antonov_An-124-100_Wallner_2007.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 219
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/8/82/Libyan_Air_Cargo_Antonov_An-124-100_Wallner_2007.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1023,
-            "height": 679
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "171980354",
-          "tid": "9cbfb480-05f9-11f1-95f6-4d0840af3c5c",
-          "timestamp": "2026-02-09T20:55:06Z",
-          "description": "avión de carga, el cuarto más grande del mundo",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Antonov_An-124",
-              "revisions": "https://es.wikipedia.org/wiki/Antonov_An-124?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Antonov_An-124?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Antonov_An-124"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Antonov_An-124",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Antonov_An-124",
-              "edit": "https://es.wikipedia.org/wiki/Antonov_An-124?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Antonov_An-124"
-            }
-          },
-          "extract": "El Antónov An-124 Ruslán",
-          "extract_html": "<p>El <b>Antónov An-124 <i>Ruslán</i></b></p>",
-          "normalizedtitle": "Antonov An-124"
-        },
-        {
-          "type": "standard",
-          "title": "VII_Brigada_Aérea",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">VII Brigada Aérea</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q6158382",
-          "titles": {
-            "canonical": "VII_Brigada_Aérea",
-            "normalized": "VII Brigada Aérea",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">VII Brigada Aérea</span></span>"
-          },
-          "pageid": 7539714,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/VII_Brigada_A%C3%A9rea_FAA_parche.png/330px-VII_Brigada_A%C3%A9rea_FAA_parche.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 438
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/6/69/VII_Brigada_A%C3%A9rea_FAA_parche.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1206,
-            "height": 1600
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176079773",
-          "tid": "a0c695de-d4ea-11f1-adaf-8e9d29145637",
-          "timestamp": "2026-10-31T05:19:21Z",
-          "description": "unidad de la fuerza aérea de Argentina",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/VII_Brigada_A%C3%A9rea",
-              "revisions": "https://es.wikipedia.org/wiki/VII_Brigada_A%C3%A9rea?action=history",
-              "edit": "https://es.wikipedia.org/wiki/VII_Brigada_A%C3%A9rea?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:VII_Brigada_A%C3%A9rea"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/VII_Brigada_A%C3%A9rea",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/VII_Brigada_A%C3%A9rea",
-              "edit": "https://es.wikipedia.org/wiki/VII_Brigada_A%C3%A9rea?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:VII_Brigada_A%C3%A9rea"
-            }
-          },
-          "extract": "La VII Brigada Aérea (VII BA) es una brigada aérea de la Fuerza Aérea Argentina creada en 1951 con asiento en Moreno, provincia de Buenos Aires. Es la brigada rectora de alas rotativas. Su tarea es transporte de carga y personal, búsqueda y rescate (ByR), búsqueda y rescate en combate (ByRCOM), evacuación y apoyo antártico.",
-          "extract_html": "<p>La <b>VII Brigada Aérea</b> (<b>VII BA</b>) es una brigada aérea de la Fuerza Aérea Argentina creada en 1951 con asiento en Moreno, provincia de Buenos Aires. Es la brigada rectora de alas rotativas. Su tarea es transporte de carga y personal, búsqueda y rescate (ByR), búsqueda y rescate en combate (ByRCOM), evacuación y apoyo antártico.</p>",
-          "normalizedtitle": "VII Brigada Aérea"
+          "extract": "Bella Vista es una localidad de la zona norte del Gran Buenos Aires, provincia de Buenos Aires, Argentina; perteneciente al partido de San Miguel.",
+          "extract_html": "<p><b>Bella Vista</b> es una localidad de la zona norte del Gran Buenos Aires, provincia de Buenos Aires, Argentina; perteneciente al partido de San Miguel.</p>",
+          "normalizedtitle": "Bella Vista (Buenos Aires)"
         }
       ],
-      "year": 2011
+      "year": 2020
     }
   ]
 }
