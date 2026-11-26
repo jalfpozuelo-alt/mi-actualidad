@@ -32,7 +32,8 @@ test('el estado de noticias se asocia a la solicitud actual y devuelve la conclu
   assert.match(app, /status\?after=/);
 });
 
-test('las ejecuciones no se cancelan entre sí y Pages usa el publicador compatible', () => {
+test('las ejecuciones no se cancelan entre sí y Pages usa el artefacto estándar', () => {
   assert.match(bulletinWorkflow, /cancel-in-progress: false/);
-  assert.match(deploymentWorkflow, /actions\/upload-pages-artifact@v4/);
+  assert.match(deploymentWorkflow, /actions\/upload-pages-artifact@v3/);
+  assert.doesNotMatch(deploymentWorkflow, /artifact_name:|name: github-pages-/);
 });

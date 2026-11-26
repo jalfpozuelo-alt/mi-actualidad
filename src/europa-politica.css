@@ -42,3 +42,4 @@
 @media(max-width:600px){.euParliament .euTotals{grid-template-columns:1fr}}
 
 .euChartsGrid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem;align-items:start}.euChartsGrid>.euParliament,.euChartsGrid>.euPolitics{margin:0}.euChartsGrid .euParliamentDetails,.euChartsGrid .euDetails{grid-column:1/-1}@media(max-width:800px){.euChartsGrid{grid-template-columns:1fr}}
+.euChartsGrid>.euActionsOutside{grid-column:1/-1;margin:0;max-width:42rem;justify-self:center;width:100%}.euActionsOutside .euProgress,.euActionsOutside [role="alert"]{flex-basis:100%;margin:.2rem 0 0}
