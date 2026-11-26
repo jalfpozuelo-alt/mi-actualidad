@@ -1,0 +1,12 @@
+{
+  "stage": "completed",
+  "label": "Actualización política completada",
+  "progress": 100,
+  "updatedAt": "2026-11-26T20:48:42.953Z",
+  "meps": 720,
+  "governmentSource": {
+    "url": "https://www.consilium.europa.eu/en/european-council/members/",
+    "status": 403,
+    "reachable": false
+  }
+}

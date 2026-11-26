@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [scripts/update-governments.mjs, config/**, .github/workflows/governments.yml]
+    paths: [scripts/collect-political-data.mjs, scripts/update-governments.mjs, config/**, public/data/eu-parliament.json, .github/workflows/governments.yml]
 permissions: {contents: write}
 concurrency: {group: governments-update, cancel-in-progress: false}
 jobs:
@@ -16,14 +16,15 @@ jobs:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with: {node-version: 22}
-      - name: Recopilando información política
-        run: node scripts/update-governments.mjs
+      - name: Recopilando gobiernos y Parlamento Europeo
+        run: node scripts/collect-political-data.mjs
       - name: Validar datos
         run: node -e "const x=require('./public/data/eu-governments.json'); if(!Array.isArray(x.governments)||x.governments.length!==27) process.exit(1)"
       - name: Publicar cambios
         run: |
           git config user.name "mi-actualidad-bot"
           git config user.email "actions@users.noreply.github.com"
-          git add public/data/eu-governments.json
+          git add public/data/eu-governments.json public/data/eu-parliament.json public/data/political-update-status.json
           git diff --cached --quiet || git commit -m "content: update EU government dataset"
           git push
+
