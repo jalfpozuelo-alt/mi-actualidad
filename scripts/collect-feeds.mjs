@@ -8,7 +8,8 @@ catalog.sources.push(...extra.sources);
 const editorial = JSON.parse(await fs.readFile('config/editorial.json', 'utf8'));
 const parser = new Parser({ timeout: 10_000 });
 const stories = [];
-const deadline = Date.now() + 180_000;
+const deadline = Date.now() + 150_000;
+const translationRequestTimeout = 2_500;
 const withTimeout = (promise, ms, label) => Promise.race([promise, new Promise((_, reject) => setTimeout(() => reject(new Error(`${label} timeout`)), ms))]);
 const spanishSources = new Set(catalog.sources.filter(source => source.language === 'es').map(source => source.id));
 const translationEmail = process.env.MYMEMORY_EMAIL || '';
@@ -55,7 +56,7 @@ async function translateTitle(title) {
   const accept = translated => translated && !containsCjk(translated) && translated.toLowerCase() !== title.toLowerCase() && !looksUntranslated(translated, sourceLanguage) && !containsForeignTitle(translated);
   if (googleTranslateKey) {
     try {
-      const response = await fetch(`https://translation.googleapis.com/language/translate/v2?key=${encodeURIComponent(googleTranslateKey)}`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ q: title, source: sourceLanguage, target: 'es', format: 'text' }), signal: AbortSignal.timeout(6_000) });
+      const response = await fetch(`https://translation.googleapis.com/language/translate/v2?key=${encodeURIComponent(googleTranslateKey)}`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ q: title, source: sourceLanguage, target: 'es', format: 'text' }), signal: AbortSignal.timeout(translationRequestTimeout) });
       const translated = (await response.json())?.data?.translations?.[0]?.translatedText?.trim();
       if (accept(translated)) { translationCache.set(title, translated); return translated; }
     } catch {}
@@ -63,7 +64,7 @@ async function translateTitle(title) {
   if (!translationEmail) return null;
   try {
     const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(title)}&langpair=${sourceLanguage}|es&de=${encodeURIComponent(translationEmail)}`;
-    const translated = (await (await fetch(url, { signal: AbortSignal.timeout(6_000) })).json())?.responseData?.translatedText?.trim();
+    const translated = (await (await fetch(url, { signal: AbortSignal.timeout(translationRequestTimeout) })).json())?.responseData?.translatedText?.trim();
     if (!accept(translated)) return null;
     translationCache.set(title, translated);
     return translated;

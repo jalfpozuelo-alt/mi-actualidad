@@ -13,6 +13,8 @@ test('las fuentes no españolas se traducen antes de validar el idioma', () => {
   assert.match(feedCollector, /const sourceLanguage = this\.language \|\| 'en';/);
   assert.doesNotMatch(feedCollector, /spanishWords/);
   assert.match(feedCollector, /createdAt/);
+  assert.match(feedCollector, /translationRequestTimeout = 2_500/);
+  assert.match(feedCollector, /deadline = Date\.now\(\) \+ 150_000/);
 });
 
 test('la sección de tecnología exige un tema tecnológico y admite diez artículos independientes', () => {
