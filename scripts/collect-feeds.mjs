@@ -6,12 +6,17 @@ const catalog = JSON.parse(await fs.readFile('config/sources.json', 'utf8'));
 const extra = JSON.parse(await fs.readFile('config/sources-extra.json', 'utf8'));
 catalog.sources.push(...extra.sources);
 const editorial = JSON.parse(await fs.readFile('config/editorial.json', 'utf8'));
-const parser = new Parser({ timeout: 10_000 });
+const parser = new Parser();
 const stories = [];
 const deadline = Date.now() + 150_000;
 const translationRequestTimeout = 2_500;
 const translationTitleTimeout = 8_000;
 const withTimeout = (promise, ms, label) => Promise.race([promise, new Promise((_, reject) => setTimeout(() => reject(new Error(`${label} timeout`)), ms))]);
+const fetchFeedText = async url => {
+  const response = await fetch(url, { signal: AbortSignal.timeout(10_000), headers: { accept: 'application/rss+xml, application/atom+xml, application/xml, text/xml' } });
+  if (!response.ok) throw new Error(`RSS HTTP ${response.status}`);
+  return response.text();
+};
 const spanishSources = new Set(catalog.sources.filter(source => source.language === 'es').map(source => source.id));
 const translationEmail = process.env.MYMEMORY_EMAIL || '';
 const googleTranslateKey = process.env.GOOGLE_TRANSLATE_API_KEY || '';
@@ -82,7 +87,7 @@ const isTechnologyTitle = title => technologyWords.test(title);
 for (const source of catalog.sources.filter(source => editorial.enabledSources.includes(source.id))) {
   if (Date.now() > deadline) break;
   try {
-    const feed = await withTimeout(parser.parseURL(source.url), 12_000, source.name);
+    const feed = await withTimeout(fetchFeedText(source.url).then(xml => parser.parseString(xml)), 12_000, source.name);
     const perSource = source.id === 'clarin-ar' ? 5 : editorial.maxItemsPerSource;
     for (const item of (feed.items || []).slice(0, perSource)) {
       const url = item.link || item.guid;

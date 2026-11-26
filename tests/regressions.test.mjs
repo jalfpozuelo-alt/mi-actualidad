@@ -25,6 +25,13 @@ test('la sección de tecnología exige un tema tecnológico y admite diez artíc
   assert.match(app, /sorted\.slice\(0,10\)/);
 });
 
+test('las fuentes RSS se pueden abortar sin dejar peticiones colgadas', () => {
+  assert.match(feedCollector, /fetchFeedText = async url/);
+  assert.match(feedCollector, /AbortSignal\.timeout\(10_000\)/);
+  assert.match(feedCollector, /parser\.parseString\(xml\)/);
+  assert.doesNotMatch(feedCollector, /parser\.parseURL\(/);
+});
+
 test('un fallo de efemérides conserva la última edición válida', () => {
   assert.match(onThisDay, /public\/data\/on-this-day\.json/);
   assert.match(onThisDay, /Se conserva la última edición válida/);
