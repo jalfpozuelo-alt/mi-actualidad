@@ -8,7 +8,9 @@ try {
   const response = await fetch(`https://api.wikimedia.org/feed/v1/wikipedia/es/onthisday/all/${month}/${day}`, { signal: AbortSignal.timeout(12_000) });
   if (!response.ok) throw new Error(`Wikimedia respondió ${response.status}`);
   const payload = await response.json();
-  const items = [...(payload.events || []), ...(payload.births || []), ...(payload.deaths || [])].filter(item => item?.text).slice(0, 6);
+  const normalize = value => value.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, ' ').trim();
+  const rawItems = [...(payload.events || []), ...(payload.births || []), ...(payload.deaths || [])].filter(item => item?.text);
+  const items = [...new Map(rawItems.map(item => [normalize(item.pages?.[0]?.title || item.text), item])).values()].slice(0, 6);
   if (!items.length) throw new Error('Wikimedia no devolvió efemérides');
   await fs.mkdir('generated', { recursive: true });
   await fs.writeFile(destination, JSON.stringify({ schemaVersion: 1, date: date.toISOString().slice(0, 10), source: 'Wikimedia', items }, null, 2));

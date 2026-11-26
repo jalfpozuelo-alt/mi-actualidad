@@ -35,6 +35,7 @@ test('las fuentes RSS se pueden abortar sin dejar peticiones colgadas', () => {
 test('un fallo de efemérides conserva la última edición válida', () => {
   assert.match(onThisDay, /public\/data\/on-this-day\.json/);
   assert.match(onThisDay, /Se conserva la última edición válida/);
+  assert.match(onThisDay, /new Map\(rawItems\.map/);
 });
 
 test('el estado de noticias se asocia a la solicitud actual y devuelve la conclusión real', () => {
