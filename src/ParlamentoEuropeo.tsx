@@ -1,24 +1,5 @@
-import React,{useState} from 'react';
+import React,{useEffect,useState} from 'react';
 type Group={key:string;label:string;short:string;seats:number;color:string;countries:string[]};
-const groups:Group[]=[
- {key:'left',label:'Izquierda radical',short:'La Izquierda',seats:45,color:'#8E44AD',countries:['España','Francia','Alemania','Grecia','Italia']},
- {key:'social',label:'Socialistas y socialdemócratas',short:'S&D',seats:135,color:'#DC3545',countries:['España','Francia','Alemania','Italia','Portugal']},
- {key:'liberal',label:'Liberales y centro',short:'Renew Europe',seats:78,color:'#E5B700',countries:['España','Francia','Alemania','Países Bajos','Bélgica']},
- {key:'conservative',label:'Conservadores y democristianos',short:'PPE + ECR',seats:268,color:'#2563B8',countries:['España','Alemania','Italia','Polonia','Portugal']},
- {key:'nationalist',label:'Nacionalistas no radicales',short:'Sin grupo separado',seats:0,color:'#C77732',countries:[]},
- {key:'radical',label:'Derecha radical',short:'Patriotas + ESN',seats:112,color:'#23864B',countries:['Francia','Italia','España','Alemania','Polonia']},
- {key:'green',label:'Ecologistas',short:'Verdes/ALE',seats:53,color:'#16A6B6',countries:['España','Alemania','Francia','Países Bajos','Irlanda']},
- {key:'unaffiliated',label:'No inscritos',short:'No inscritos',seats:28,color:'#9299A3',countries:['España','Chipre','Grecia','Italia']}
-];
-export default function ParlamentoEuropeo(){
- const [open,setOpen]=useState(false);const [selected,setSelected]=useState<string|null>(null);
- const total=719;const visible=groups.filter(g=>g.seats);let offset=0;
- return <section className="euParliament" aria-label="Composición del Parlamento Europeo">
-  <button className="euTitle" onClick={()=>{setSelected(null);setOpen(!open)}}>PARLAMENTO EUROPEO · {open?'Cerrar':'Abrir'}</button>
-  <p className="euSubhead">🇪🇺 Legislatura 2024–2029<br/>720 eurodiputados</p>
-  <svg viewBox="0 0 300 165" role="img" aria-label="Composición del Parlamento Europeo por grupos políticos"><line x1="150" y1="9" x2="150" y2="148" stroke="currentColor" strokeDasharray="4 5" opacity=".45"/>{visible.map(g=>{const start=offset/total*180;offset+=g.seats;const end=offset/total*180;const p=(d:number)=>({x:150-112*Math.cos(d*Math.PI/180),y:138-112*Math.sin(d*Math.PI/180)});const a=p(start),b=p(end);return <path key={g.key} d={`M ${a.x} ${a.y} A 112 112 0 0 1 ${b.x} ${b.y}`} stroke={g.color} strokeWidth="27" fill="none" onClick={()=>setSelected(g.key)}><title>{g.label}: {g.seats}</title></path>})}</svg>
-  {open&&<div className="euTotals">{groups.filter(g=>g.seats).map(g=><button key={g.key} className="euTotal" onClick={()=>setSelected(g.key)}><i style={{background:g.color}}/>{g.short}</button>)}</div>}
-  {selected&&(()=>{const g=groups.find(x=>x.key===selected)!;return <div className="euModal" role="dialog"><h3>{g.label}</h3><p><strong>{g.seats}</strong> eurodiputados · {g.short}</p><p>Países con representación: {g.countries.length?g.countries.join(', '):'ninguno en esta categoría actualmente'}.</p></div>})()}
-  {open&&<p className="euTimestamp">Legislatura 2024–2029 · 719 eurodiputados asignados · 1 escaño vacante</p>}
- </section>;
-}
+const colors:Record<string,string>={left:'#8E44AD',social:'#DC3545',liberal:'#E5B700',conservative:'#2563B8',radical:'#23864B',green:'#16A6B6',unaffiliated:'#9299A3'};
+const labels:Record<string,string>={left:'Izquierda radical',social:'Socialistas y socialdemócratas',liberal:'Liberales y centro',conservative:'Conservadores y democristianos',radical:'Derecha radical',green:'Ecologistas',unaffiliated:'No inscritos'};
+export default function ParlamentoEuropeo(){const [groups,setGroups]=useState<Group[]>([]);const [total,setTotal]=useState(720);const [open,setOpen]=useState(false);const [selected,setSelected]=useState<string|null>(null);useEffect(()=>{fetch('./data/eu-parliament.json?t='+Date.now(),{cache:'no-store'}).then(r=>r.json()).then(d=>{setTotal(d.totalSeats||720);setGroups((d.groups||[]).map((g:any)=>({key:g.key,label:labels[g.key]||g.label,short:g.label,seats:g.seats,color:colors[g.key]||'#9299A3',countries:Object.entries(g.countries||{}).sort((a:any,b:any)=>b[1]-a[1]).map(([country,count])=>`${country} (${count})`)})))}).catch(()=>{})},[]);const visible=groups.filter(g=>g.seats);let offset=0;return <section className="euParliament" aria-label="Composición del Parlamento Europeo"><button className="euTitle" onClick={()=>{setSelected(null);setOpen(v=>!v)}}>PARLAMENTO EUROPEO · {open?'Cerrar':'Abrir'}</button><p className="euSubhead">🇪🇺 Legislatura 2024–2029<br/>{total} eurodiputados</p><svg viewBox="0 0 300 165" role="img" aria-label="Composición del Parlamento Europeo por grupos políticos"><line x1="150" y1="9" x2="150" y2="148" stroke="currentColor" strokeDasharray="4 5" opacity=".45"/>{visible.map(g=>{const start=offset/Math.max(total,1)*180;offset+=g.seats;const end=offset/Math.max(total,1)*180;const p=(d:number)=>({x:150-112*Math.cos(d*Math.PI/180),y:138-112*Math.sin(d*Math.PI/180)});const a=p(start),b=p(end);return <path key={g.key} d={`M ${a.x} ${a.y} A 112 112 0 0 1 ${b.x} ${b.y}`} stroke={g.color} strokeWidth="27" fill="none" onClick={()=>setSelected(g.key)}><title>{g.label}: {g.seats}</title></path>})}</svg>{open&&<div className="euTotals">{visible.map(g=><button key={g.key} className="euTotal" onClick={()=>setSelected(g.key)}><i style={{background:g.color}}/>{g.short}: {g.seats}</button>)}</div>}{selected&&(()=>{const g=groups.find(x=>x.key===selected)!;return <div className="euModal" role="dialog"><h3>{g.label}</h3><p><strong>{g.seats}</strong> eurodiputados</p><p>Representación por país:</p>{g.countries.map(c=><p key={c}>{c}</p>)}</div>})()}</section>}
