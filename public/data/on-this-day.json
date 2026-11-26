@@ -484,11 +484,6 @@
     },
     {
       "text": "acontecimientos en torno al fallecimiento de Diego Maradona, fallecido el día anterior:",
-      "pages": [],
-      "year": 2020
-    },
-    {
-      "text": "acontecimientos en torno al fallecimiento de Diego Maradona, fallecido el día anterior:",
       "pages": [
         {
           "type": "standard",
@@ -543,6 +538,256 @@
           "extract": "Bella Vista es una localidad de la zona norte del Gran Buenos Aires, provincia de Buenos Aires, Argentina; perteneciente al partido de San Miguel.",
           "extract_html": "<p><b>Bella Vista</b> es una localidad de la zona norte del Gran Buenos Aires, provincia de Buenos Aires, Argentina; perteneciente al partido de San Miguel.</p>",
           "normalizedtitle": "Bella Vista (Buenos Aires)"
+        }
+      ],
+      "year": 2020
+    },
+    {
+      "text": "acontecimientos en torno al fallecimiento de Diego Maradona, fallecido el día anterior:",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Società_Sportiva_Calcio_Napoli",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Società Sportiva Calcio Napoli</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q2641",
+          "titles": {
+            "canonical": "Società_Sportiva_Calcio_Napoli",
+            "normalized": "Società Sportiva Calcio Napoli",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Società Sportiva Calcio Napoli</span></span>"
+          },
+          "pageid": 624261,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/SSC_Napoli_2025_%28white_and_azure%29.svg/langes-330px-SSC_Napoli_2025_%28white_and_azure%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 330
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/SSC_Napoli_2025_%28white_and_azure%29.svg/langes-960px-SSC_Napoli_2025_%28white_and_azure%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 570,
+            "height": 570
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176423078",
+          "tid": "e553e218-e6d8-11f1-b443-394a04358af0",
+          "timestamp": "2026-11-23T00:57:46Z",
+          "description": "club de fútbol italiano",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Societ%C3%A0_Sportiva_Calcio_Napoli",
+              "revisions": "https://es.wikipedia.org/wiki/Societ%C3%A0_Sportiva_Calcio_Napoli?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Societ%C3%A0_Sportiva_Calcio_Napoli?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Societ%C3%A0_Sportiva_Calcio_Napoli"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Societ%C3%A0_Sportiva_Calcio_Napoli",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Societ%C3%A0_Sportiva_Calcio_Napoli",
+              "edit": "https://es.wikipedia.org/wiki/Societ%C3%A0_Sportiva_Calcio_Napoli?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Societ%C3%A0_Sportiva_Calcio_Napoli"
+            }
+          },
+          "extract": "La Società Sportiva Calcio Napoli S.p.A., también conocida como S. S. C. Napoli o simplemente Napoli, es un club de fútbol con sede en la ciudad de Nápoles, en la región de Campania, Italia. Fue fundado como Associazione Calcio Napoli en 1926, tomando el nombre actual en 1964 y tras la refundación en 2006, siendo refundado como Napoli Soccer en 2004. Actualmente participa en la Serie A, máxima división del fútbol en Italia.",
+          "extract_html": "<p>La <b>Società Sportiva Calcio Napoli S.p.A.</b>, también conocida como <b>S. S. C. Napoli</b> o simplemente <b>Napoli</b>, es un club de fútbol con sede en la ciudad de Nápoles, en la región de Campania, Italia. Fue fundado como <i>Associazione Calcio Napoli</i> en 1926, tomando el nombre actual en 1964 y tras la refundación en 2006, siendo refundado como <i>Napoli Soccer</i> en 2004. Actualmente participa en la Serie A, máxima división del fútbol en Italia.</p>",
+          "normalizedtitle": "Società Sportiva Calcio Napoli"
+        },
+        {
+          "type": "standard",
+          "title": "Liga_Europa_de_la_UEFA",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Liga Europa de la UEFA</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q18760",
+          "titles": {
+            "canonical": "Liga_Europa_de_la_UEFA",
+            "normalized": "Liga Europa de la UEFA",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Liga Europa de la UEFA</span></span>"
+          },
+          "pageid": 3047183,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/UEFA_Europa_League_logo_%282024_version%29.svg/langes-330px-UEFA_Europa_League_logo_%282024_version%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 471
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/UEFA_Europa_League_logo_%282024_version%29.svg/langes-1920px-UEFA_Europa_League_logo_%282024_version%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 1296,
+            "height": 1848
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176264678",
+          "tid": "16861393-de88-11f1-85c6-033e9f23c78b",
+          "timestamp": "2026-11-12T10:59:10Z",
+          "description": "torneo europeo de fútbol a nivel de clubes organizado por la UEFA",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Liga_Europa_de_la_UEFA",
+              "revisions": "https://es.wikipedia.org/wiki/Liga_Europa_de_la_UEFA?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Liga_Europa_de_la_UEFA?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Liga_Europa_de_la_UEFA"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Liga_Europa_de_la_UEFA",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Liga_Europa_de_la_UEFA",
+              "edit": "https://es.wikipedia.org/wiki/Liga_Europa_de_la_UEFA?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Liga_Europa_de_la_UEFA"
+            }
+          },
+          "extract": "La Liga Europa de la UEFA, conocida en sus orígenes como Copa de la UEFA, es una competición continental de clubes. Es una de las tres competiciones que organiza la Unión de Federaciones Europeas de Fútbol (UEFA), junto con la Liga de Campeones y la Liga Conferencia. Está considerada la segunda más prestigiosa de Europa, tras la mencionada Liga de Campeones.",
+          "extract_html": "<p>La <b>Liga Europa de la UEFA</b>, conocida en sus orígenes como <b>Copa de la UEFA</b>, es una competición continental de clubes. Es una de las tres competiciones que organiza la Unión de Federaciones Europeas de Fútbol (UEFA), junto con la Liga de Campeones y la Liga Conferencia. Está considerada la segunda más prestigiosa de Europa, tras la mencionada Liga de Campeones.</p>",
+          "normalizedtitle": "Liga Europa de la UEFA"
+        },
+        {
+          "type": "standard",
+          "title": "HNK_Rijeka",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">HNK Rijeka</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q318969",
+          "titles": {
+            "canonical": "HNK_Rijeka",
+            "normalized": "HNK Rijeka",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">HNK Rijeka</span></span>"
+          },
+          "pageid": 1202034,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/HNK_Rijeka_Hrvatska.png/330px-HNK_Rijeka_Hrvatska.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 411
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/b/b9/HNK_Rijeka_Hrvatska.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1228,
+            "height": 1531
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "175430296",
+          "tid": "52f7404e-b404-11f1-aca4-b42b0bc37f1f",
+          "timestamp": "2026-09-19T08:30:09Z",
+          "description": "club de fútbol de Croacia",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/HNK_Rijeka",
+              "revisions": "https://es.wikipedia.org/wiki/HNK_Rijeka?action=history",
+              "edit": "https://es.wikipedia.org/wiki/HNK_Rijeka?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:HNK_Rijeka"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/HNK_Rijeka",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/HNK_Rijeka",
+              "edit": "https://es.wikipedia.org/wiki/HNK_Rijeka?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:HNK_Rijeka"
+            }
+          },
+          "extract": "El HNK Rijeka es un club de fútbol croata de la ciudad de Rijeka. Los colores tradicionales del club son el blanco y el azul, con los que viste su primera y segunda equipación, respectivamente. El Rijeka disputa sus partidos como local en el Stadion Rujevica y juega en la Prva HNL, la primera división croata.",
+          "extract_html": "<p>El <b>HNK Rijeka</b> es un club de fútbol croata de la ciudad de Rijeka. Los colores tradicionales del club son el blanco y el azul, con los que viste su primera y segunda equipación, respectivamente. El Rijeka disputa sus partidos como local en el Stadion Rujevica y juega en la Prva HNL, la primera división croata.</p>",
+          "normalizedtitle": "HNK Rijeka"
+        },
+        {
+          "type": "standard",
+          "title": "Estadio_Diego_Armando_Maradona_(Italia)",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Estadio Diego Armando Maradona (Italia)</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q82709",
+          "titles": {
+            "canonical": "Estadio_Diego_Armando_Maradona_(Italia)",
+            "normalized": "Estadio Diego Armando Maradona (Italia)",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Estadio Diego Armando Maradona (Italia)</span></span>"
+          },
+          "pageid": 331458,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Stadio_Maradona_Serie_A.jpg/330px-Stadio_Maradona_Serie_A.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 160
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/7/71/Stadio_Maradona_Serie_A.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 3561,
+            "height": 1730
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "175813528",
+          "tid": "ff9cb61e-c74f-11f1-a20a-482d7a6c3662",
+          "timestamp": "2026-10-13T21:49:43Z",
+          "description": "estadio multiusos en Nápoles, Campania, Italia",
+          "description_source": "central",
+          "coordinates": {
+            "lat": 40.827967,
+            "lon": 14.193008
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Estadio_Diego_Armando_Maradona_(Italia)",
+              "revisions": "https://es.wikipedia.org/wiki/Estadio_Diego_Armando_Maradona_(Italia)?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Estadio_Diego_Armando_Maradona_(Italia)?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Estadio_Diego_Armando_Maradona_(Italia)"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Estadio_Diego_Armando_Maradona_(Italia)",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Estadio_Diego_Armando_Maradona_(Italia)",
+              "edit": "https://es.wikipedia.org/wiki/Estadio_Diego_Armando_Maradona_(Italia)?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Estadio_Diego_Armando_Maradona_(Italia)"
+            }
+          },
+          "extract": "El Estadio Diego Armando Maradona, anteriormente denominado San Paolo, es un estadio multiusos situado en el barrio de Fuorigrotta, en la ciudad de Nápoles, capital de Campania, Italia. Es la principal instalación polideportiva de la ciudad, dotada de gimnasios polivalentes y de artes marciales, de una pista de atletismo y de un campo de baloncesto. Sirve de sede habitual al S. S. C. Napoli.",
+          "extract_html": "<p>El <b>Estadio Diego Armando Maradona</b>, anteriormente denominado <b>San Paolo</b>, es un estadio multiusos situado en el barrio de Fuorigrotta, en la ciudad de Nápoles, capital de Campania, Italia. Es la principal instalación polideportiva de la ciudad, dotada de gimnasios polivalentes y de artes marciales, de una pista de atletismo y de un campo de baloncesto. Sirve de sede habitual al S. S. C. Napoli.</p>",
+          "normalizedtitle": "Estadio Diego Armando Maradona (Italia)"
+        },
+        {
+          "type": "standard",
+          "title": "Armando_Anastasio",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Armando Anastasio</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q20740563",
+          "titles": {
+            "canonical": "Armando_Anastasio",
+            "normalized": "Armando Anastasio",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Armando Anastasio</span></span>"
+          },
+          "pageid": 7493776,
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "174662989",
+          "tid": "13e04f6a-8e93-11f1-8549-370e872f15ab",
+          "timestamp": "2026-08-02T16:56:17Z",
+          "description": "futbolista italiano",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Armando_Anastasio",
+              "revisions": "https://es.wikipedia.org/wiki/Armando_Anastasio?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Armando_Anastasio?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Armando_Anastasio"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Armando_Anastasio",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Armando_Anastasio",
+              "edit": "https://es.wikipedia.org/wiki/Armando_Anastasio?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Armando_Anastasio"
+            }
+          },
+          "extract": "Armando Anastasio es un futbolista italiano. Se desempeña como lateral izquierdo en el Catania F. C. de la Serie C de Italia.",
+          "extract_html": "<p><b>Armando Anastasio</b> es un futbolista italiano. Se desempeña como lateral izquierdo en el Catania F. C. de la Serie C de Italia.</p>",
+          "normalizedtitle": "Armando Anastasio"
         }
       ],
       "year": 2020
