@@ -6,6 +6,8 @@ const feedCollector = fs.readFileSync('scripts/collect-feeds.mjs', 'utf8');
 const onThisDay = fs.readFileSync('scripts/collect-on-this-day.mjs', 'utf8');
 const newsStatus = fs.readFileSync('api/status.ts', 'utf8');
 const app = fs.readFileSync('src/main.tsx', 'utf8');
+const bulletinWorkflow = fs.readFileSync('.github/workflows/generate.yml', 'utf8');
+const deploymentWorkflow = fs.readFileSync('.github/workflows/deploy.yml', 'utf8');
 
 test('las fuentes no españolas se traducen antes de validar el idioma', () => {
   assert.match(feedCollector, /const sourceLanguage = this\.language \|\| 'en';/);
@@ -28,4 +30,9 @@ test('el estado de noticias se asocia a la solicitud actual y devuelve la conclu
   assert.match(newsStatus, /searchParams\.get\('after'\)/);
   assert.match(newsStatus, /conclusion:run\.conclusion/);
   assert.match(app, /status\?after=/);
+});
+
+test('las ejecuciones no se cancelan entre sí y Pages usa el publicador compatible', () => {
+  assert.match(bulletinWorkflow, /cancel-in-progress: false/);
+  assert.match(deploymentWorkflow, /actions\/upload-pages-artifact@v4/);
 });

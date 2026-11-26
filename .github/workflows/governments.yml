@@ -8,7 +8,7 @@ on:
     branches: [main]
     paths: [scripts/update-governments.mjs, config/**, .github/workflows/governments.yml]
 permissions: {contents: write}
-concurrency: {group: governments-update, cancel-in-progress: true}
+concurrency: {group: governments-update, cancel-in-progress: false}
 jobs:
   governments:
     runs-on: ubuntu-latest
