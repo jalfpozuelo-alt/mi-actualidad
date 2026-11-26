@@ -47,4 +47,5 @@ test('las ejecuciones no se cancelan entre sí y Pages usa el artefacto estánda
   assert.match(bulletinWorkflow, /cancel-in-progress: false/);
   assert.match(deploymentWorkflow, /actions\/upload-pages-artifact@v3/);
   assert.doesNotMatch(deploymentWorkflow, /artifact_name:|name: github-pages-/);
+  assert.doesNotMatch(deploymentWorkflow, /workflow_run:/);
 });
