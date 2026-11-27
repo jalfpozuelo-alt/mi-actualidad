@@ -52,3 +52,4 @@ button:focus-visible,a:focus-visible,input:focus-visible{outline:3px solid #b15f
 .preferenceBulk{display:flex;flex-wrap:wrap;gap:6px;margin:2px 0 4px}
 .preferenceBulk button{border:1px solid #b15f3f;border-radius:6px;background:transparent;color:inherit;padding:6px 8px;font-size:10px;font-weight:700;cursor:pointer}
 .preferenceBulk button:hover{background:#b15f3f;color:#fff}
+.countryMenu{max-height:min(60vh,520px);overflow-y:auto;overscroll-behavior:contain}

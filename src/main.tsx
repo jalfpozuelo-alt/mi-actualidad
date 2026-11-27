@@ -27,7 +27,7 @@ function App(){
   setUpdating(true);setPipeline('Solicitando actualización…');setNotice('Iniciando generación de noticias…');
   try{
    const password=window.prompt('Contraseña de actualización')||'';if(!password){setPipeline('Actualización cancelada');setNotice('No se introdujo la contraseña.');return}
-   const startResponse=await fetch(REFRESH_API+'/refresh',{method:'POST',headers:{'x-refresh-password':password}});
+   const startResponse=await fetch(REFRESH_API+'/refresh',{method:'POST',headers:{'content-type':'application/json','x-refresh-password':password},body:JSON.stringify({countries:selected.length===countries.length?[]:selected,topics:selectedTopics.length===topics.length?[]:selectedTopics,profiles:selectedProfiles.length===profiles.length?[]:selectedProfiles})});
    const startBody=await startResponse.json().catch(()=>({}));if(!startResponse.ok)throw new Error(startBody.detail?('GitHub: '+startBody.detail):('No se pudo iniciar la actualización ('+startResponse.status+')'));
    const previousStamp=stories.length?Math.max(...stories.map(s=>new Date(s.updatedAt||0).getTime())):0;const requestedAt=startBody.requestedAt||new Date().toISOString();setPipeline('En cola…');let completed=false;
    for(let i=0;i<96;i++){await new Promise(r=>setTimeout(r,5000));const sr=await fetch(REFRESH_API+'/status?after='+encodeURIComponent(requestedAt),{cache:'no-store'});const st=await sr.json();setPipeline(st.label||'Procesando…');if(st.stage==='error')throw new Error(st.label||'La generación terminó con error');if(st.stage==='completed'&&(!('conclusion' in st)||st.conclusion==='success')){setPipeline('Generación terminada; publicando en Pages…');completed=true;break}}

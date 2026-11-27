@@ -5,6 +5,19 @@ on:
     - cron: '43 6 * * *'
       timezone: Europe/Madrid
   workflow_dispatch:
+    inputs:
+      countries:
+        description: Países seleccionados en la web (JSON)
+        required: false
+        default: ''
+      topics:
+        description: Temas seleccionados en la web (JSON)
+        required: false
+        default: ''
+      profiles:
+        description: Perfiles editoriales seleccionados en la web (JSON)
+        required: false
+        default: ''
   push:
     branches: [main]
     paths: [config/**, scripts/**, .github/workflows/generate.yml]
@@ -22,6 +35,9 @@ jobs:
       - name: Recopilar y traducir titulares
         run: npm run collect-feeds
         env:
+          NEWS_COUNTRIES: ${{ inputs.countries }}
+          NEWS_TOPICS: ${{ inputs.topics }}
+          NEWS_PROFILES: ${{ inputs.profiles }}
           GOOGLE_TRANSLATE_API_KEY: ${{ secrets.GOOGLE_TRANSLATE_API_KEY }}
           MYMEMORY_EMAIL: ${{ secrets.MYMEMORY_EMAIL }}
       - name: Recopilar efemérides del día

@@ -6,6 +6,10 @@ const catalog = JSON.parse(await fs.readFile('config/sources.json', 'utf8'));
 const extra = JSON.parse(await fs.readFile('config/sources-extra.json', 'utf8'));
 catalog.sources.push(...extra.sources);
 const editorial = JSON.parse(await fs.readFile('config/editorial.json', 'utf8'));
+const parseSelection = name => { try { const value = JSON.parse(process.env[name] || ''); return Array.isArray(value) && value.length ? new Set(value) : null; } catch { return null; } };
+const selectedCountries = parseSelection('NEWS_COUNTRIES');
+const selectedTopics = parseSelection('NEWS_TOPICS');
+const selectedProfiles = parseSelection('NEWS_PROFILES');
 const parser = new Parser();
 const stories = [];
 const deadline = Date.now() + 150_000;
@@ -81,10 +85,11 @@ const imageUrl = item => item?.enclosure?.url || item?.['media:content']?.$?.url
 const topicKey = value => normalize(value).replace(/[^a-z0-9 ]/g, ' ').split(/\s+/).filter(word => word.length > 3 && !['para', 'desde', 'entre', 'sobre', 'tras', 'como', 'esta', 'este', 'unos', 'unas'].includes(word)).slice(0, 8).sort().join('|');
 const sourceQuality = source => /consilium|boe|who|pubmed|white house|united nations/i.test(source.name) ? 10 : /reuters|associated press|bbc|france ?24|deutsche welle|elpais|new york times|guardian/i.test(source.name) ? 8 : 4;
 const impactBoost = story => /Internacional|Política|Economía|Sociedad/.test(story.section) ? 8 : /Tecnología|Medicina/.test(story.section) ? 6 : 3;
+const storyTopic = story => { const text = `${story.section} ${story.title}`.toLowerCase(); if (/tecnolog|\bia\b|inteligencia artificial|software|hardware/.test(text)) return 'Tecnología'; if (/ciencia|salud|medicina|investigación|espacio/.test(text)) return 'Ciencia'; if (/clima|medio ambiente|calentamiento|energía|emisiones/.test(text)) return 'Clima'; if (/ciudad|vivienda|urban|municip|metro|alcald/.test(text)) return 'Ciudades'; if (/econom|mercado|empleo|empresa|finanz|inflación/.test(text)) return 'Economía'; if (/polít|gobierno|elección|parlamento|presidente|partido|diplomac/.test(text)) return 'Política'; return 'Sociedad'; };
 const technologyWords = /\b(ai|ia|inteligencia artificial|artificial intelligence|machine learning|aprendizaje automático|software|hardware|internet|app|aplicación|móvil|mobile|iphone|android|google|apple|microsoft|nvidia|tesla|chip|chips|ordenador|computer|tecnolog|technology|ciberseguridad|cybersecurity|robot|videojuego|gaming|pantalla|wifi|semiconductor|satélite|satellite|dron|drone|datos digitales|digital data|samsung|bixby|meta|openai|anthropic|chatgpt|cloud|nube|algoritmo|algorithm|modelo de lenguaje|language model|red social|social media|privacidad digital|digital privacy)\b/i;
 const isTechnologyTitle = title => technologyWords.test(title);
 
-for (const source of catalog.sources.filter(source => editorial.enabledSources.includes(source.id))) {
+for (const source of catalog.sources.filter(source => editorial.enabledSources.includes(source.id) && (!selectedCountries || selectedCountries.has(source.country)) && (!selectedProfiles || selectedProfiles.has(source.editorialProfile || 'generalist')))) {
   if (Date.now() > deadline) break;
   try {
     const feed = await withTimeout(fetchFeedText(source.url).then(xml => parser.parseString(xml)), 12_000, source.name);
@@ -106,7 +111,8 @@ for (const source of catalog.sources.filter(source => editorial.enabledSources.i
   } catch { console.warn(`Fuente no disponible: ${source.name}`); }
 }
 
-const deduped = [...new Map(stories.map(story => [normalize(story.title).replace(/[^a-z0-9]+/g, ' '), story])).values()];
+const filteredStories = selectedTopics ? stories.filter(story => selectedTopics.has(storyTopic(story))) : stories;
+const deduped = [...new Map(filteredStories.map(story => [normalize(story.title).replace(/[^a-z0-9]+/g, ' '), story])).values()];
 const topicCounts = deduped.reduce((map, story) => map.set(story.topicKey, (map.get(story.topicKey) || 0) + 1), new Map());
 for (const story of deduped) story.importance = Math.min(150, story.importance + Math.max(0, (topicCounts.get(story.topicKey) || 1) - 1) * 12);
 const countrySectionCounts = new Map();
