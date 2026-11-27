@@ -1,796 +1,817 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "source": "Wikimedia",
   "items": [
     {
-      "text": "en Hong Kong, se produce un incendio en el complejo residencial Wang Fu Court, en el distrito de Tai Po, dejando 151 muertos.",
+      "text": "En Ecuador, en el encuentro entre Liga de Quito y Centro Deportivo Olmedo, el árbitro Gabriel Ismael González Cordero paró el juego a los diez minutos exactos del primer tiempo, en plena jugada, para homenajear a Diego Armando Maradona, a los tres días de su fallecimiento.",
       "pages": [
         {
           "type": "standard",
-          "title": "Hong_Kong",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Hong Kong</span></span>",
+          "title": "Ecuador",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ecuador</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q8646",
+          "wikibase_item": "Q736",
           "titles": {
-            "canonical": "Hong_Kong",
-            "normalized": "Hong Kong",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Hong Kong</span></span>"
+            "canonical": "Ecuador",
+            "normalized": "Ecuador",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Ecuador</span></span>"
           },
-          "pageid": 11770,
+          "pageid": 3311,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/HongKongCollage1.jpg/330px-HongKongCollage1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 519
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/8/87/HongKongCollage1.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 560,
-            "height": 881
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176045422",
-          "tid": "a6b84b22-d317-11f1-95bf-4de1b3f70911",
-          "timestamp": "2026-10-28T21:36:36Z",
-          "description": "región administrativa especial de la República Popular China",
-          "description_source": "central",
-          "coordinates": {
-            "lat": 22.27833333,
-            "lon": 114.15861111
-          },
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Hong_Kong",
-              "revisions": "https://es.wikipedia.org/wiki/Hong_Kong?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Hong_Kong?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Hong_Kong"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Hong_Kong",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Hong_Kong",
-              "edit": "https://es.wikipedia.org/wiki/Hong_Kong?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Hong_Kong"
-            }
-          },
-          "extract": "Hong Kong, oficialmente Región Administrativa Especial de Hong Kong de la República Popular China, es una de las dos regiones administrativas especiales que existen en la República Popular China, junto con Macao. Ubicado en Asia Oriental, el territorio está rodeado por el mar de la China Meridional en el sur y por China continental en el norte, y limita al oeste con Macao, en la orilla opuesta del delta del río de las Perlas. Posee una superficie total de 1104.4 km² divididos entre la isla de Hong Kong, Kowloon y los Nuevos Territorios.",
-          "extract_html": "<p><b>Hong Kong</b>, oficialmente <b>Región Administrativa Especial de Hong Kong de la República Popular China</b>, es una de las dos regiones administrativas especiales que existen en la República Popular China, junto con Macao. Ubicado en Asia Oriental, el territorio está rodeado por el mar de la China Meridional en el sur y por China continental en el norte, y limita al oeste con Macao, en la orilla opuesta del delta del río de las Perlas. Posee una superficie total de 1104.4 km² divididos entre la isla de Hong Kong, Kowloon y los Nuevos Territorios.</p>",
-          "normalizedtitle": "Hong Kong"
-        },
-        {
-          "type": "standard",
-          "title": "Incendio_de_Wang_Fuk_Court",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Incendio de Wang Fuk Court</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q137017220",
-          "titles": {
-            "canonical": "Incendio_de_Wang_Fuk_Court",
-            "normalized": "Incendio de Wang Fuk Court",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Incendio de Wang Fuk Court</span></span>"
-          },
-          "pageid": 11364974,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Buildings_of_Taipo_apartment_fires.jpg/330px-Buildings_of_Taipo_apartment_fires.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 184
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/d/df/Buildings_of_Taipo_apartment_fires.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1679,
-            "height": 936
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "171314290",
-          "tid": "0140718f-e8da-11f0-94fb-61600346ba0d",
-          "timestamp": "2026-01-03T19:25:47Z",
-          "description": "tragedia e incendio estructural en Hong Kong, China, en 2025",
-          "description_source": "central",
-          "coordinates": {
-            "lat": 22.44638889,
-            "lon": 114.17630556
-          },
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Incendio_de_Wang_Fuk_Court",
-              "revisions": "https://es.wikipedia.org/wiki/Incendio_de_Wang_Fuk_Court?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Incendio_de_Wang_Fuk_Court?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Incendio_de_Wang_Fuk_Court"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Incendio_de_Wang_Fuk_Court",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Incendio_de_Wang_Fuk_Court",
-              "edit": "https://es.wikipedia.org/wiki/Incendio_de_Wang_Fuk_Court?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Incendio_de_Wang_Fuk_Court"
-            }
-          },
-          "extract": "La noche del 26 de noviembre de 2025, se declaró un incendio en el complejo residencial Wang Fuk Court, en el distrito de Tai Po, en los Nuevos Territorios de Hong Kong. Las autoridades locales informaron de al menos 151 muertos y 76 heridos.Otras 279 personas fueron reportadas como desaparecidas.",
-          "extract_html": "<p>La noche del 26 de noviembre de 2025, se declaró un <b>incendio</b> en el complejo residencial Wang Fuk Court, en el distrito de Tai Po, en los Nuevos Territorios de Hong Kong. Las autoridades locales informaron de al menos 151 muertos y 76 heridos.Otras 279 personas fueron reportadas como desaparecidas.</p>",
-          "normalizedtitle": "Incendio de Wang Fuk Court"
-        },
-        {
-          "type": "standard",
-          "title": "Tai_Po",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tai Po</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q877813",
-          "titles": {
-            "canonical": "Tai_Po",
-            "normalized": "Tai Po",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Tai Po</span></span>"
-          },
-          "pageid": 4798212,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/TaiPo_New_Town.jpg/330px-TaiPo_New_Town.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/langes-330px-Flag_of_Ecuador.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
             "height": 220
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/e/eb/TaiPo_New_Town.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1892,
-            "height": 1264
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/langes-1920px-Flag_of_Ecuador.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 1440,
+            "height": 960
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "172111850",
-          "tid": "b997600e-0c69-11f1-a710-8f2ee9cfe5de",
-          "timestamp": "2026-02-18T01:32:45Z",
-          "coordinates": {
-            "lat": 22.4508,
-            "lon": 114.164
-          },
+          "revision": "176412476",
+          "tid": "0a087575-e659-11f1-aad9-22d8ec7744c6",
+          "timestamp": "2026-11-22T09:42:32Z",
+          "description": "país de América del Sur desde 1830",
+          "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Tai_Po",
-              "revisions": "https://es.wikipedia.org/wiki/Tai_Po?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Tai_Po?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Tai_Po"
+              "page": "https://es.wikipedia.org/wiki/Ecuador",
+              "revisions": "https://es.wikipedia.org/wiki/Ecuador?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Ecuador?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Ecuador"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Tai_Po",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Tai_Po",
-              "edit": "https://es.wikipedia.org/wiki/Tai_Po?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Tai_Po"
+              "page": "https://es.wikipedia.org/wiki/Ecuador",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Ecuador",
+              "edit": "https://es.wikipedia.org/wiki/Ecuador?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Ecuador"
             }
           },
-          "extract": "Tai Po es uno de los 18 distritos de la ciudad de Hong Kong, República Popular China. Está ubicado en la parte noreste de Hong Kong, en su parte peninsular denominada Nuevos Territorios. Su área es de 148.1 kilómetros cuadrados y su población es de 296 000 la tercera densidad más baja de la ciudad.",
-          "extract_html": "<p><b>Tai Po</b> es uno de los 18 distritos de la ciudad de Hong Kong, República Popular China. Está ubicado en la parte noreste de Hong Kong, en su parte peninsular denominada Nuevos Territorios. Su área es de 148.1 kilómetros cuadrados y su población es de 296 000 la tercera densidad más baja de la ciudad.</p>",
-          "normalizedtitle": "Tai Po"
-        }
-      ],
-      "year": 2025
-    },
-    {
-      "text": "ocurre un golpe de Estado en Guinea-Bisáu, donde el gobierno de Umaro Sissoco Embaló es derrocado. El general Horta Inta-A Na Man es proclamado presidente interino del país.",
-      "pages": [
+          "extract": "Ecuador, oficialmente República del Ecuador, es un país soberano ubicado en la región noroccidental de América del Sur. Está constituido como un Estado social, democrático, de derecho y plurinacional, cuya forma de gobierno es la de una república presidencialista, unitaria y descentralizada. Su capital es Quito, y su ciudad más poblada es Guayaquil. Es miembro de la Comunidad Andina y está organizado en veinticuatro provincias que a su vez se subdividen en cantones. Limita al norte con Colombia, al este y sur con Perú, y al oeste con el océano Pacífico, el cual lo separa del archipiélago de Colón o islas Galápagos por aproximadamente mil kilómetros de la costa continental, entre la península de Santa Elena y la isla San Cristóbal. Limita, así mismo, con Costa Rica por la frontera marítima de la región insular. La línea equinoccial o paralelo 0° atraviesa el país y divide los territorios continental e insular en dos, quedando así la mayor parte del territorio ecuatoriano en el hemisferio sur.",
+          "extract_html": "<p><b>Ecuador</b>, oficialmente <b>República del Ecuador</b>, es un país soberano ubicado en la región noroccidental de América del Sur. Está constituido como un Estado social, democrático, de derecho y plurinacional, cuya forma de gobierno es la de una república presidencialista, unitaria y descentralizada. Su capital es Quito, y su ciudad más poblada es Guayaquil. Es miembro de la Comunidad Andina y está organizado en veinticuatro provincias que a su vez se subdividen en cantones. Limita al norte con Colombia, al este y sur con Perú, y al oeste con el océano Pacífico, el cual lo separa del archipiélago de Colón o islas Galápagos por aproximadamente mil kilómetros de la costa continental, entre la península de Santa Elena y la isla San Cristóbal. Limita, así mismo, con Costa Rica por la frontera marítima de la región insular. La línea equinoccial o paralelo 0° atraviesa el país y divide los territorios continental e insular en dos, quedando así la mayor parte del territorio ecuatoriano en el hemisferio sur.</p>",
+          "normalizedtitle": "Ecuador"
+        },
         {
           "type": "standard",
-          "title": "Golpe_de_Estado_en_Guinea-Bisáu_de_2025",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Golpe de Estado en Guinea-Bisáu de 2025</span></span>",
+          "title": "Liga_Deportiva_Universitaria_de_Quito",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Liga Deportiva Universitaria de Quito</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q137036104",
+          "wikibase_item": "Q249643",
           "titles": {
-            "canonical": "Golpe_de_Estado_en_Guinea-Bisáu_de_2025",
-            "normalized": "Golpe de Estado en Guinea-Bisáu de 2025",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Golpe de Estado en Guinea-Bisáu de 2025</span></span>"
+            "canonical": "Liga_Deportiva_Universitaria_de_Quito",
+            "normalized": "Liga Deportiva Universitaria de Quito",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Liga Deportiva Universitaria de Quito</span></span>"
           },
-          "pageid": 11364716,
+          "pageid": 172298,
           "thumbnail": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Guinea-Bissau-CIA_WFB_Map.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 329,
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Liga_Deportiva_Universitaria_%28Ecuador%29_logo_%285_stars%29.svg/langes-330px-Liga_Deportiva_Universitaria_%28Ecuador%29_logo_%285_stars%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 358
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Liga_Deportiva_Universitaria_%28Ecuador%29_logo_%285_stars%29.svg/langes-960px-Liga_Deportiva_Universitaria_%28Ecuador%29_logo_%285_stars%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 512,
+            "height": 556
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176421646",
+          "tid": "f5b19133-e6cb-11f1-99c2-fa1736941c3c",
+          "timestamp": "2026-11-22T23:25:10Z",
+          "description": "club deportivo de Quito, Ecuador",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Liga_Deportiva_Universitaria_de_Quito",
+              "revisions": "https://es.wikipedia.org/wiki/Liga_Deportiva_Universitaria_de_Quito?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Liga_Deportiva_Universitaria_de_Quito?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Liga_Deportiva_Universitaria_de_Quito"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Liga_Deportiva_Universitaria_de_Quito",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Liga_Deportiva_Universitaria_de_Quito",
+              "edit": "https://es.wikipedia.org/wiki/Liga_Deportiva_Universitaria_de_Quito?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Liga_Deportiva_Universitaria_de_Quito"
+            }
+          },
+          "extract": "Liga Deportiva Universitaria, conocido también como Liga de Quito, simplemente Liga, o por sus siglas LDU, es un club deportivo ecuatoriano, originario de la ciudad de Quito. Fue fundado el 11 de enero de 1930, aunque sus actividades iniciaron el 23 de octubre de 1918 como un equipo deportivo estudiantil de la Universidad Central del Ecuador (UCE), llamado Club Universitario. Su principal disciplina es el fútbol, su plantel masculino participa en la Serie A de Ecuador, mientras el plantel femenino compite en la Súperliga Femenina de Ecuador. Además de ello, el club ha participado en otras disciplinas, como: baloncesto, atletismo, natación, voleibol, ciclismo, taekwondo, tenis de mesa, ajedrez y deportes electrónicos.",
+          "extract_html": "<p><b>Liga Deportiva Universitaria</b>, conocido también como <b>Liga de Quito</b>, simplemente <b>Liga</b>, o por sus siglas <b>LDU</b>, es un club deportivo ecuatoriano, originario de la ciudad de Quito. Fue fundado el 11 de enero de 1930, aunque sus actividades iniciaron el 23 de octubre de 1918 como un equipo deportivo estudiantil de la Universidad Central del Ecuador (UCE), llamado <i>Club Universitario</i>. Su principal disciplina es el fútbol, su plantel masculino participa en la Serie A de Ecuador, mientras el plantel femenino compite en la Súperliga Femenina de Ecuador. Además de ello, el club ha participado en otras disciplinas, como: baloncesto, atletismo, natación, voleibol, ciclismo, taekwondo, tenis de mesa, ajedrez y deportes electrónicos.</p>",
+          "normalizedtitle": "Liga Deportiva Universitaria de Quito"
+        },
+        {
+          "type": "standard",
+          "title": "Centro_Deportivo_Olmedo",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Centro Deportivo Olmedo</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q276341",
+          "titles": {
+            "canonical": "Centro_Deportivo_Olmedo",
+            "normalized": "Centro Deportivo Olmedo",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Centro Deportivo Olmedo</span></span>"
+          },
+          "pageid": 824535,
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176184008",
+          "tid": "2b584890-da45-11f1-9f43-bb0add2cbe96",
+          "timestamp": "2026-11-07T00:50:04Z",
+          "description": "club de fútbol ecuatoriano",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Centro_Deportivo_Olmedo",
+              "revisions": "https://es.wikipedia.org/wiki/Centro_Deportivo_Olmedo?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Centro_Deportivo_Olmedo?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Centro_Deportivo_Olmedo"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Centro_Deportivo_Olmedo",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Centro_Deportivo_Olmedo",
+              "edit": "https://es.wikipedia.org/wiki/Centro_Deportivo_Olmedo?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Centro_Deportivo_Olmedo"
+            }
+          },
+          "extract": "El Centro Deportivo Olmedo, más conocido como Olmedo, es una entidad deportiva ecuatoriana con sede en la ciudad de Riobamba. Fue fundado el 11 de noviembre de 1919, siendo el club profesional más antiguo y tradicional en existencia ininterrumpida en el fútbol del Ecuador. Actualmente participa en fútbol masculino y femenino: su plantel masculino se desempeña en la Segunda Categoría, y actualmente no tiene participación de otras categorías.",
+          "extract_html": "<p>El <b>Centro Deportivo Olmedo</b>, más conocido como <b>Olmedo</b>, es una entidad deportiva ecuatoriana con sede en la ciudad de Riobamba. Fue fundado el 11 de noviembre de 1919, siendo el club profesional más antiguo y tradicional en existencia ininterrumpida en el fútbol del Ecuador. Actualmente participa en fútbol masculino y femenino: su plantel masculino se desempeña en la Segunda Categoría, y actualmente no tiene participación de otras categorías.</p>",
+          "normalizedtitle": "Centro Deportivo Olmedo"
+        },
+        {
+          "type": "standard",
+          "title": "Diego_Maradona",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Diego Maradona</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q17515",
+          "titles": {
+            "canonical": "Diego_Maradona",
+            "normalized": "Diego Maradona",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Diego Maradona</span></span>"
+          },
+          "pageid": 9496,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Maradona-Mundial_86_con_la_copa.JPG/330px-Maradona-Mundial_86_con_la_copa.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 484
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Maradona-Mundial_86_con_la_copa.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1361,
+            "height": 1995
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176479081",
+          "tid": "f4d67312-e9db-11f1-acda-b3a1fa4c6fe4",
+          "timestamp": "2026-11-26T20:57:14Z",
+          "description": "futbolista y entrenador argentino",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Diego_Maradona",
+              "revisions": "https://es.wikipedia.org/wiki/Diego_Maradona?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Diego_Maradona?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Diego_Maradona"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Diego_Maradona",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Diego_Maradona",
+              "edit": "https://es.wikipedia.org/wiki/Diego_Maradona?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Diego_Maradona"
+            }
+          },
+          "extract": "Diego Armando Maradona fue un futbolista y entrenador argentino. Como jugador, se desempeñó en la posición de mediocampista ofensivo o delantero, siendo considerado por numerosos especialistas, exfutbolistas y personalidades internacionales como «uno de los mejores futbolistas en la historia».",
+          "extract_html": "<p><b>Diego Armando Maradona</b> fue un futbolista y entrenador argentino. Como jugador, se desempeñó en la posición de mediocampista ofensivo o delantero, siendo considerado por numerosos especialistas, exfutbolistas y personalidades internacionales como «uno de los mejores futbolistas en la historia».</p>",
+          "normalizedtitle": "Diego Maradona"
+        }
+      ],
+      "year": 2020
+    },
+    {
+      "text": "Argentina gana por primera vez la Copa Davis",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Equipo_de_Copa_Davis_de_Argentina",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Equipo de Copa Davis de Argentina</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q645674",
+          "titles": {
+            "canonical": "Equipo_de_Copa_Davis_de_Argentina",
+            "normalized": "Equipo de Copa Davis de Argentina",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Equipo de Copa Davis de Argentina</span></span>"
+          },
+          "pageid": 614634,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/langes-330px-Flag_of_Argentina.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 206
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/langes-960px-Flag_of_Argentina.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 800,
+            "height": 500
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176169876",
+          "tid": "f3ce9bbc-d975-11f1-ae95-30e659ef1f06",
+          "timestamp": "2026-11-06T00:06:45Z",
+          "description": "equipo nacional de tenis argentino",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Equipo_de_Copa_Davis_de_Argentina",
+              "revisions": "https://es.wikipedia.org/wiki/Equipo_de_Copa_Davis_de_Argentina?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Equipo_de_Copa_Davis_de_Argentina?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Equipo_de_Copa_Davis_de_Argentina"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Equipo_de_Copa_Davis_de_Argentina",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Equipo_de_Copa_Davis_de_Argentina",
+              "edit": "https://es.wikipedia.org/wiki/Equipo_de_Copa_Davis_de_Argentina?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Equipo_de_Copa_Davis_de_Argentina"
+            }
+          },
+          "extract": "El equipo argentino de Copa Davis es el representante de Argentina en dicha competición internacional. Su organización está a cargo de la Asociación Argentina de Tenis (AAT), siendo su actual capitán Javier Frana.",
+          "extract_html": "<p>El <b>equipo argentino de Copa Davis</b> es el representante de Argentina en dicha competición internacional. Su organización está a cargo de la Asociación Argentina de Tenis (AAT), siendo su actual capitán Javier Frana.</p>",
+          "normalizedtitle": "Equipo de Copa Davis de Argentina"
+        },
+        {
+          "type": "standard",
+          "title": "Copa_Davis_2016",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Copa Davis 2016</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q20807306",
+          "titles": {
+            "canonical": "Copa_Davis_2016",
+            "normalized": "Copa Davis 2016",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Copa Davis 2016</span></span>"
+          },
+          "pageid": 7031463,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Argentina_team_Davis_Cup_2016_Winner.jpg/330px-Argentina_team_Davis_Cup_2016_Winner.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 223
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/5/53/Argentina_team_Davis_Cup_2016_Winner.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1599,
+            "height": 1081
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "175519612",
+          "tid": "a0b2f55c-b8b1-11f1-b01d-25e3f1afdd7b",
+          "timestamp": "2026-09-25T07:20:47Z",
+          "description": "105.ª edición del torneo de tenis masculino",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Copa_Davis_2016",
+              "revisions": "https://es.wikipedia.org/wiki/Copa_Davis_2016?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Copa_Davis_2016?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Copa_Davis_2016"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Copa_Davis_2016",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Copa_Davis_2016",
+              "edit": "https://es.wikipedia.org/wiki/Copa_Davis_2016?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Copa_Davis_2016"
+            }
+          },
+          "extract": "La Copa Davis de 2016 fue la 105.ª edición del torneo de tenis masculino más importante, disputado por diversas naciones. Participaron dieciséis equipos en el Grupo Mundial y más de cien en los diferentes grupos regionales. El equipo estaba conformado porJuan Martín del Potro\nFederico Delbonis\nLeonardo Mayer\nGuido Pella",
+          "extract_html": "<p>La <b>Copa Davis de 2016</b> fue la 105.ª edición del torneo de tenis masculino más importante, disputado por diversas naciones. Participaron dieciséis equipos en el Grupo Mundial y más de cien en los diferentes grupos regionales. El equipo estaba conformado por</p><ul><li><b>Juan Martín del Potro</b></li>\n<li><b>Federico Delbonis</b></li>\n<li><b>Leonardo Mayer</b></li>\n<li><b>Guido Pella</b></li></ul>",
+          "normalizedtitle": "Copa Davis 2016"
+        }
+      ],
+      "year": 2016
+    },
+    {
+      "text": "América de Cali derrota 2-1 a Deportes Quindío y vuelve a la Primera División del Fútbol Profesional Colombiano después de 5 años.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "América_de_Cali",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">América de Cali</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q391987",
+          "titles": {
+            "canonical": "América_de_Cali",
+            "normalized": "América de Cali",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">América de Cali</span></span>"
+          },
+          "pageid": 56571,
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176475583",
+          "tid": "b8dbe5d1-e9b4-11f1-a5ea-4711ba89f294",
+          "timestamp": "2026-11-26T16:16:23Z",
+          "description": "club de fútbol de Cali, Colombia",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Am%C3%A9rica_de_Cali",
+              "revisions": "https://es.wikipedia.org/wiki/Am%C3%A9rica_de_Cali?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Am%C3%A9rica_de_Cali?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Am%C3%A9rica_de_Cali"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Am%C3%A9rica_de_Cali",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Am%C3%A9rica_de_Cali",
+              "edit": "https://es.wikipedia.org/wiki/Am%C3%A9rica_de_Cali?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Am%C3%A9rica_de_Cali"
+            }
+          },
+          "extract": "América de Cali, conocido simplemente como América, es un club de fútbol colombiano fundado el 13 de febrero de 1927 en la ciudad de Cali. Es considerado uno de los clubes más grandes y populares de Colombia y uno de los más representativos de Sudamérica. Milita en la Categoría Primera A y disputa sus partidos en el Estadio Olímpico Pascual Guerrero. El color que identifica al club desde sus inicios es el rojo escarlata.",
+          "extract_html": "<p><b>América de Cali</b>, conocido simplemente como <b>América</b>, es un club de fútbol colombiano fundado el 13 de febrero de 1927 en la ciudad de Cali. Es considerado uno de los clubes más grandes y populares de Colombia y uno de los más representativos de Sudamérica. Milita en la Categoría Primera A y disputa sus partidos en el Estadio Olímpico Pascual Guerrero. El color que identifica al club desde sus inicios es el rojo escarlata.</p>",
+          "normalizedtitle": "América de Cali"
+        },
+        {
+          "type": "standard",
+          "title": "Deportes_Quindío",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Deportes Quindío</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q332537",
+          "titles": {
+            "canonical": "Deportes_Quindío",
+            "normalized": "Deportes Quindío",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Deportes Quindío</span></span>"
+          },
+          "pageid": 265116,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/ESCUDO_DEP_QUINDIO_2023.png/330px-ESCUDO_DEP_QUINDIO_2023.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
             "height": 353
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Guinea-Bissau-CIA_WFB_Map.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 329,
-            "height": 353
+            "source": "https://upload.wikimedia.org/wikipedia/commons/0/08/ESCUDO_DEP_QUINDIO_2023.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 372,
+            "height": 398
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "171047984",
-          "tid": "ec6c9ace-dbc7-11f0-8bc1-482a1c18718d",
-          "timestamp": "2025-12-18T04:13:36Z",
-          "description": "golpe militar contra el gobierno de Umaro Sissoco Embaló",
+          "revision": "176439325",
+          "tid": "93cf54c7-e7b9-11f1-9c5c-1bba1d7997f0",
+          "timestamp": "2026-11-24T03:46:06Z",
+          "description": "club de fútbol Colombiano",
           "description_source": "central",
-          "coordinates": {
-            "lat": 11.864,
-            "lon": -15.585
-          },
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Guinea-Bis%C3%A1u_de_2025",
-              "revisions": "https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Guinea-Bis%C3%A1u_de_2025?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Guinea-Bis%C3%A1u_de_2025?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Golpe_de_Estado_en_Guinea-Bis%C3%A1u_de_2025"
+              "page": "https://es.wikipedia.org/wiki/Deportes_Quind%C3%ADo",
+              "revisions": "https://es.wikipedia.org/wiki/Deportes_Quind%C3%ADo?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Deportes_Quind%C3%ADo?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Deportes_Quind%C3%ADo"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Guinea-Bis%C3%A1u_de_2025",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Golpe_de_Estado_en_Guinea-Bis%C3%A1u_de_2025",
-              "edit": "https://es.wikipedia.org/wiki/Golpe_de_Estado_en_Guinea-Bis%C3%A1u_de_2025?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Golpe_de_Estado_en_Guinea-Bis%C3%A1u_de_2025"
+              "page": "https://es.wikipedia.org/wiki/Deportes_Quind%C3%ADo",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Deportes_Quind%C3%ADo",
+              "edit": "https://es.wikipedia.org/wiki/Deportes_Quind%C3%ADo?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Deportes_Quind%C3%ADo"
             }
           },
-          "extract": "El golpe de Estado de Guinea-Bisáu de 2025 comenzó el 26 de noviembre de 2025, cuando se escucharon disparos en partes de Bisáu, la capital de Guinea-Bisáu, y el presidente del país, Umaro Sissoco Embaló, declaró que había sido arrestado como parte de un golpe de Estado llevado a cabo por el jefe de Estado Mayor del Ejército. Los oficiales militares declararon el «control total» sobre el país y establecieron el Alto Comando Militar para la Restauración de la Seguridad Nacional y el Orden Público. El golpe tuvo lugar un día antes de que se anunciaran oficialmente los resultados de las elecciones generales de Guinea-Bisáu de 2025 celebradas el 23 de noviembre, en las que Embaló se presentaba a la reelección.",
-          "extract_html": "<p>El <b>golpe de Estado de Guinea-Bisáu de 2025</b> comenzó el 26 de noviembre de 2025, cuando se escucharon disparos en partes de Bisáu, la capital de Guinea-Bisáu, y el presidente del país, Umaro Sissoco Embaló, declaró que había sido arrestado como parte de un golpe de Estado llevado a cabo por el jefe de Estado Mayor del Ejército. Los oficiales militares declararon el «control total» sobre el país y establecieron el Alto Comando Militar para la Restauración de la Seguridad Nacional y el Orden Público. El golpe tuvo lugar un día antes de que se anunciaran oficialmente los resultados de las elecciones generales de Guinea-Bisáu de 2025 celebradas el 23 de noviembre, en las que Embaló se presentaba a la reelección.</p>",
-          "normalizedtitle": "Golpe de Estado en Guinea-Bisáu de 2025"
+          "extract": "Deportes Quindío es un club de fútbol con sede en la ciudad de Armenia, en Colombia. Fue fundado el 8 de enero de 1951 por un grupo de empresarios del sur de Caldas, quienes tenían la intención de contar con fútbol profesional en su ciudad. Actualmente participa en la Categoría Primera B del fútbol colombiano. Desde 1988, el equipo juega sus partidos de local en el Estadio Centenario.",
+          "extract_html": "<p><b>Deportes Quindío</b> es un club de fútbol con sede en la ciudad de Armenia, en Colombia. Fue fundado el 8 de enero de 1951 por un grupo de empresarios del sur de Caldas, quienes tenían la intención de contar con fútbol profesional en su ciudad. Actualmente participa en la Categoría Primera B del fútbol colombiano. Desde 1988, el equipo juega sus partidos de local en el Estadio Centenario.</p>",
+          "normalizedtitle": "Deportes Quindío"
         },
         {
           "type": "standard",
-          "title": "Guinea-Bisáu",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Guinea-Bisáu</span></span>",
+          "title": "Categoría_Primera_A",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Categoría Primera A</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q1007",
+          "wikibase_item": "Q1033349",
           "titles": {
-            "canonical": "Guinea-Bisáu",
-            "normalized": "Guinea-Bisáu",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Guinea-Bisáu</span></span>"
+            "canonical": "Categoría_Primera_A",
+            "normalized": "Categoría Primera A",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Categoría Primera A</span></span>"
           },
-          "pageid": 11982,
+          "pageid": 43013,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/langes-330px-Flag_of_Guinea-Bissau.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/BetPlay-Dimayor_logo.svg/langes-330px-BetPlay-Dimayor_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
-            "height": 165
+            "height": 452
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Flag_of_Guinea-Bissau.svg/langes-1280px-Flag_of_Guinea-Bissau.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 1200,
-            "height": 600
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/BetPlay-Dimayor_logo.svg/langes-120px-BetPlay-Dimayor_logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 100,
+            "height": 137
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "175056901",
-          "tid": "4c541dfe-a1f0-11f1-99e5-838b18c76cb3",
-          "timestamp": "2026-08-27T08:21:27Z",
-          "description": "país de África Occidental",
+          "revision": "176424150",
+          "tid": "015d7fd6-e6e5-11f1-a051-1e8e2fcb7c0a",
+          "timestamp": "2026-11-23T02:24:27Z",
+          "description": "máxima categoría de la liga colombiana de fútbol masculino",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Guinea-Bis%C3%A1u",
-              "revisions": "https://es.wikipedia.org/wiki/Guinea-Bis%C3%A1u?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Guinea-Bis%C3%A1u?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Guinea-Bis%C3%A1u"
+              "page": "https://es.wikipedia.org/wiki/Categor%C3%ADa_Primera_A",
+              "revisions": "https://es.wikipedia.org/wiki/Categor%C3%ADa_Primera_A?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Categor%C3%ADa_Primera_A?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Categor%C3%ADa_Primera_A"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Guinea-Bis%C3%A1u",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Guinea-Bis%C3%A1u",
-              "edit": "https://es.wikipedia.org/wiki/Guinea-Bis%C3%A1u?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Guinea-Bis%C3%A1u"
+              "page": "https://es.wikipedia.org/wiki/Categor%C3%ADa_Primera_A",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Categor%C3%ADa_Primera_A",
+              "edit": "https://es.wikipedia.org/wiki/Categor%C3%ADa_Primera_A?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Categor%C3%ADa_Primera_A"
             }
           },
-          "extract": "Guinea-Bisáu o Guinea-Bissau, oficialmente la República de Guinea-Bisáu, es un país del oeste de África que cubre 36 125 km² con una población estimada de 1 644 000 habitantes (2022). Limita con Senegal al norte, Guinea al sur y al este, y con el océano Atlántico al oeste.",
-          "extract_html": "<p><b>Guinea-Bisáu</b> o <b>Guinea-Bissau</b>, oficialmente la <b>República de Guinea-Bisáu</b>, es un país del oeste de África que cubre 36 125 km² con una población estimada de 1 644 000 habitantes (2022). Limita con Senegal al norte, Guinea al sur y al este, y con el océano Atlántico al oeste.</p>",
-          "normalizedtitle": "Guinea-Bisáu"
-        },
-        {
-          "type": "standard",
-          "title": "Umaro_Sissoco_Embaló",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Umaro Sissoco Embaló</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q16855164",
-          "titles": {
-            "canonical": "Umaro_Sissoco_Embaló",
-            "normalized": "Umaro Sissoco Embaló",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Umaro Sissoco Embaló</span></span>"
-          },
-          "pageid": 8225791,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Umaro_Sissoco_Embalo_2025_July.png/330px-Umaro_Sissoco_Embalo_2025_July.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 445
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Umaro_Sissoco_Embalo_2025_July.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1644,
-            "height": 2215
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "175687433",
-          "tid": "485cdbce-c168-11f1-95c7-59823a45c668",
-          "timestamp": "2026-10-06T09:28:26Z",
-          "description": "político bisauguineano",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Umaro_Sissoco_Embal%C3%B3",
-              "revisions": "https://es.wikipedia.org/wiki/Umaro_Sissoco_Embal%C3%B3?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Umaro_Sissoco_Embal%C3%B3?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Umaro_Sissoco_Embal%C3%B3"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Umaro_Sissoco_Embal%C3%B3",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Umaro_Sissoco_Embal%C3%B3",
-              "edit": "https://es.wikipedia.org/wiki/Umaro_Sissoco_Embal%C3%B3?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Umaro_Sissoco_Embal%C3%B3"
-            }
-          },
-          "extract": "Umaro El-Mokhtar Sissoco Embaló es un politólogo, militar y político bisauguineano que ejerció como presidente de Guinea-Bisáu desde febrero de 2020 hasta su derrocamiento en noviembre de 2025. Previamente se desempeñó como primer ministro entre el 18 de noviembre de 2016 y el 16 de enero de 2018.",
-          "extract_html": "<p><b>Umaro El-Mokhtar Sissoco Embaló</b> es un politólogo, militar y político bisauguineano que ejerció como presidente de Guinea-Bisáu desde febrero de 2020 hasta su derrocamiento en noviembre de 2025. Previamente se desempeñó como primer ministro entre el 18 de noviembre de 2016 y el 16 de enero de 2018.</p>",
-          "normalizedtitle": "Umaro Sissoco Embaló"
-        },
-        {
-          "type": "standard",
-          "title": "Horta_Inta-A_Na_Man",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Horta Inta-A Na Man</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q137049690",
-          "titles": {
-            "canonical": "Horta_Inta-A_Na_Man",
-            "normalized": "Horta Inta-A Na Man",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Horta Inta-A Na Man</span></span>"
-          },
-          "pageid": 11365754,
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "170812847",
-          "tid": "44d17eb2-d164-11f0-b5e7-d6238fd09fd7",
-          "timestamp": "2025-12-04T22:55:03Z",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Horta_Inta-A_Na_Man",
-              "revisions": "https://es.wikipedia.org/wiki/Horta_Inta-A_Na_Man?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Horta_Inta-A_Na_Man?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Horta_Inta-A_Na_Man"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Horta_Inta-A_Na_Man",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Horta_Inta-A_Na_Man",
-              "edit": "https://es.wikipedia.org/wiki/Horta_Inta-A_Na_Man?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Horta_Inta-A_Na_Man"
-            }
-          },
-          "extract": "Horta Inta-A Na Man, es un general bisauguineano que se ha desempeñado como presidente de transición de Guinea-Bisáu y como presidente del Alto Comando Militar para la Restauración del Orden desde el golpe de Estado en Guinea-Bisáu de 2025.",
-          "extract_html": "<p><b>Horta Inta-A Na Man,</b> es un general bisauguineano que se ha desempeñado como presidente de transición de Guinea-Bisáu y como presidente del Alto Comando Militar para la Restauración del Orden desde el golpe de Estado en Guinea-Bisáu de 2025.</p>",
-          "normalizedtitle": "Horta Inta-A Na Man"
+          "extract": "La Categoría Primera A es el campeonato de primera división del fútbol profesional de Colombia, que es organizado por la División Mayor del Fútbol Colombiano (Dimayor), entidad dependiente de la Federación Colombiana de Fútbol. Desde 2002 el campeonato se disputa semestralmente, es decir se decretan dos campeones por año, bajo el formato de Torneo de Apertura y Finalización. Sin embargo, en 2020, excepcionalmente, el torneo se disputó anualmente debido a la pandemia del COVID-19.",
+          "extract_html": "<p>La <b>Categoría Primera A</b> es el campeonato de primera división del fútbol profesional de Colombia, que es organizado por la División Mayor del Fútbol Colombiano (Dimayor), entidad dependiente de la Federación Colombiana de Fútbol. Desde 2002 el campeonato se disputa semestralmente, es decir se decretan dos campeones por año, bajo el formato de Torneo de Apertura y Finalización. Sin embargo, en 2020, excepcionalmente, el torneo se disputó anualmente debido a la pandemia del COVID-19.</p>",
+          "normalizedtitle": "Categoría Primera A"
         }
       ],
-      "year": 2025
+      "year": 2016
     },
     {
-      "text": "acontecimientos en torno al fallecimiento de Diego Maradona, fallecido el día anterior:",
-      "pages": [],
-      "year": 2020
-    },
-    {
-      "text": "acontecimientos en torno al fallecimiento de Diego Maradona, fallecido el día anterior:",
+      "text": "la inteligencia del gobierno israelí reprime una acción armada del grupo revolucionario Hamás en el estadio más importante de Jerusalén.",
       "pages": [
         {
           "type": "standard",
-          "title": "Pandemia_de_COVID-19_en_Argentina",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Pandemia de COVID-19 en Argentina</span></span>",
+          "title": "Hamás",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Hamás</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q87235137",
+          "wikibase_item": "Q38799",
           "titles": {
-            "canonical": "Pandemia_de_COVID-19_en_Argentina",
-            "normalized": "Pandemia de COVID-19 en Argentina",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Pandemia de COVID-19 en Argentina</span></span>"
+            "canonical": "Hamás",
+            "normalized": "Hamás",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Hamás</span></span>"
           },
-          "pageid": 9323186,
+          "pageid": 42845,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/13-03-21_recomendaciones_en_ezeiza.jpg/330px-13-03-21_recomendaciones_en_ezeiza.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Emblem_of_Hamas_Dark_Green_Variant_Vector_Graphic.svg/langes-330px-Emblem_of_Hamas_Dark_Green_Variant_Vector_Graphic.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 364
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Emblem_of_Hamas_Dark_Green_Variant_Vector_Graphic.svg/langes-960px-Emblem_of_Hamas_Dark_Green_Variant_Vector_Graphic.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 916,
+            "height": 1010
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176340343",
+          "tid": "8420ade3-e293-11f1-b9fc-6e01d225ff25",
+          "timestamp": "2026-11-17T14:31:03Z",
+          "description": "organización política y paramilitar palestina",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Ham%C3%A1s",
+              "revisions": "https://es.wikipedia.org/wiki/Ham%C3%A1s?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Ham%C3%A1s?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Ham%C3%A1s"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Ham%C3%A1s",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Ham%C3%A1s",
+              "edit": "https://es.wikipedia.org/wiki/Ham%C3%A1s?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Ham%C3%A1s"
+            }
+          },
+          "extract": "Hamás, cuyo nombre formal es Movimiento de Resistencia Islámica, es una organización política y paramilitar palestina sunita que se declara yihadista, nacionalista e islamista. Su objetivo original, definido en su carta fundacional, fue el establecimiento de un Estado islámico en la región histórica de Palestina, que comprendería los actuales Israel, Cisjordania y la Franja de Gaza, con capital en Jerusalén. Sin embargo, en 2017 publicó unos nuevos estatutos en los que limitó su reclamación a «el establecimiento de un Estado de Palestina completamente soberano e independiente, con Jerusalén como capital, en las fronteras del 4 de junio de 1967», enfatizando su carácter nacionalista por encima del religioso, aunque sin reconocer a Israel ni abandonar la lucha armada. Hamás cuenta con una serie de organizaciones dependientes que desarrollan sus actividades en muy diversos ámbitos, y abarcan desde la asimilación cultural y religiosa de los jóvenes a través de la madrasa, la asistencia social a los palestinos más necesitados, la representación en las instituciones políticas palestinas a través de la lista Cambio y Reforma, hasta las Brigadas de Ezzeldin Al-Qassam, brazo armado de Hamás.",
+          "extract_html": "<p><b>Hamás</b>, cuyo nombre formal es <b>Movimiento de Resistencia Islámica</b>, es una organización política y paramilitar palestina sunita que se declara yihadista, nacionalista e islamista. Su objetivo original, definido en su carta fundacional, fue el establecimiento de un Estado islámico en la región histórica de Palestina, que comprendería los actuales Israel, Cisjordania y la Franja de Gaza, con capital en Jerusalén. Sin embargo, en 2017 publicó unos nuevos estatutos en los que limitó su reclamación a «el establecimiento de un Estado de Palestina completamente soberano e independiente, con Jerusalén como capital, en las fronteras del 4 de junio de 1967», enfatizando su carácter nacionalista por encima del religioso, aunque sin reconocer a Israel ni abandonar la lucha armada. Hamás cuenta con una serie de organizaciones dependientes que desarrollan sus actividades en muy diversos ámbitos, y abarcan desde la asimilación cultural y religiosa de los jóvenes a través de la madrasa, la asistencia social a los palestinos más necesitados, la representación en las instituciones políticas palestinas a través de la lista Cambio y Reforma, hasta las Brigadas de Ezzeldin Al-Qassam, brazo armado de Hamás.</p>",
+          "normalizedtitle": "Hamás"
+        },
+        {
+          "type": "standard",
+          "title": "Estadio",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Estadio</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q483110",
+          "titles": {
+            "canonical": "Estadio",
+            "normalized": "Estadio",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Estadio</span></span>"
+          },
+          "pageid": 249929,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Estadio_Santiago_Bernab%C3%A9u_Madrid.jpg/330px-Estadio_Santiago_Bernab%C3%A9u_Madrid.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 186
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Estadio_Santiago_Bernab%C3%A9u_Madrid.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1920,
+            "height": 1080
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176149708",
+          "tid": "afab9f4f-d87c-11f1-ab68-3a9d16ffeeae",
+          "timestamp": "2026-11-04T18:22:26Z",
+          "description": "lugar para la práctica de deportes, conciertos u otros eventos",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Estadio",
+              "revisions": "https://es.wikipedia.org/wiki/Estadio?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Estadio?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Estadio"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Estadio",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Estadio",
+              "edit": "https://es.wikipedia.org/wiki/Estadio?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Estadio"
+            }
+          },
+          "extract": "Un estadio es una construcción cerrada con graderías para los espectadores destinado a competiciones deportivas o a festivales. Depende de su arquitectura; puede ser al aire libre o cubierto.",
+          "extract_html": "<p>Un <b>estadio</b> es una construcción cerrada con graderías para los espectadores destinado a competiciones deportivas o a festivales. Depende de su arquitectura; puede ser al aire libre o cubierto.</p>",
+          "normalizedtitle": "Estadio"
+        },
+        {
+          "type": "standard",
+          "title": "Jerusalén",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jerusalén</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q1218",
+          "titles": {
+            "canonical": "Jerusalén",
+            "normalized": "Jerusalén",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Jerusalén</span></span>"
+          },
+          "pageid": 30029,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Collage_Jerusalem.jpg/330px-Collage_Jerusalem.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 568
+          },
+          "originalimage": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Collage_Jerusalem.jpg/3840px-Collage_Jerusalem.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 4624,
+            "height": 7953
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "175644370",
+          "tid": "bd11fb32-bf61-11f1-bb4a-8f6313c9c65a",
+          "timestamp": "2026-10-03T19:36:33Z",
+          "description": "ciudad en el Mediterráneo oriental, santa para las tres religiones abrahámicas",
+          "description_source": "central",
+          "coordinates": {
+            "lat": 31.776679,
+            "lon": 35.234156
+          },
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Jerusal%C3%A9n",
+              "revisions": "https://es.wikipedia.org/wiki/Jerusal%C3%A9n?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Jerusal%C3%A9n?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Jerusal%C3%A9n"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Jerusal%C3%A9n",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Jerusal%C3%A9n",
+              "edit": "https://es.wikipedia.org/wiki/Jerusal%C3%A9n?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Jerusal%C3%A9n"
+            }
+          },
+          "extract": "Jerusalén es una ciudad de Oriente Próximo, situada en los montes de Judea, entre el mar Mediterráneo y la ribera norte del mar Muerto. El gobierno israelí, tras la toma de la parte occidental en 1949 y de la oriental en 1967, la ha erigido como capital del Estado de Israel, mientras que el gobierno palestino reivindica su parte oriental como capital del Estado de Palestina. Los asentamientos más antiguos en Jerusalén datan del V milenio a. C. y es una de las ciudades más antiguas del mundo. Jerusalén tiene un profundo significado religioso para el judaísmo, el cristianismo y el islam. La ciudad vieja de Jerusalén fue declarada Patrimonio de la Humanidad por la Unesco en 1981.",
+          "extract_html": "<p><b>Jerusalén</b> es una ciudad de Oriente Próximo, situada en los montes de Judea, entre el mar Mediterráneo y la ribera norte del mar Muerto. El gobierno israelí, tras la toma de la parte occidental en 1949 y de la oriental en 1967, la ha erigido como capital del Estado de Israel, mientras que el gobierno palestino reivindica su parte oriental como capital del Estado de Palestina. Los asentamientos más antiguos en Jerusalén datan del <span style=\"text-transform:lowercase\">V</span> milenio a. C. y es una de las ciudades más antiguas del mundo. Jerusalén tiene un profundo significado religioso para el judaísmo, el cristianismo y el islam. La ciudad vieja de Jerusalén fue declarada Patrimonio de la Humanidad por la Unesco en 1981.</p>",
+          "normalizedtitle": "Jerusalén"
+        }
+      ],
+      "year": 2014
+    },
+    {
+      "text": "Bon Jovi publica su segundo álbum en vivo, Inside Out.",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Bon_Jovi",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Bon Jovi</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q259254",
+          "titles": {
+            "canonical": "Bon_Jovi",
+            "normalized": "Bon Jovi",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Bon Jovi</span></span>"
+          },
+          "pageid": 203258,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Bonjoviband2013.png/330px-Bonjoviband2013.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 330,
+            "height": 171
+          },
+          "originalimage": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Bonjoviband2013.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 1855,
+            "height": 960
+          },
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "176307510",
+          "tid": "564a363d-e0e6-11f1-98cf-11c4dfa85a68",
+          "timestamp": "2026-11-15T11:18:52Z",
+          "description": "banda de rock estadounidense de Nueva Jersey",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Bon_Jovi",
+              "revisions": "https://es.wikipedia.org/wiki/Bon_Jovi?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Bon_Jovi?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Bon_Jovi"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Bon_Jovi",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Bon_Jovi",
+              "edit": "https://es.wikipedia.org/wiki/Bon_Jovi?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Bon_Jovi"
+            }
+          },
+          "extract": "Bon Jovi es una banda estadounidense de rock formada en 1983 en Nueva Jersey por su líder y vocalista, Jon Bon Jovi. La formación actual la completan el teclista David Bryan, el batería Tico Torres, el bajista Hugh McDonald, los guitarristas Phil X y John Shanks, y el percusionista Everett Bradley. El guitarrista Richie Sambora abandonó la formación en 2013 tras haber permanecido treinta años en ella. Es uno de los grupos de rock más exitosos de todos los tiempos, ha vendido más de 130 millones de discos y ofrecido más de 2800 conciertos en cincuenta países. Además está considerado como un icono global de la música y forma parte del Salón de la Fama del Rock and Roll.",
+          "extract_html": "<p><b>Bon Jovi</b> es una banda estadounidense de <i>rock</i> formada en 1983 en Nueva Jersey por su líder y vocalista, Jon Bon Jovi. La formación actual la completan el teclista David Bryan, el batería Tico Torres, el bajista Hugh McDonald, los guitarristas Phil X y John Shanks, y el percusionista Everett Bradley. El guitarrista Richie Sambora abandonó la formación en 2013 tras haber permanecido treinta años en ella. Es uno de los grupos de <i>rock</i> más exitosos de todos los tiempos, ha vendido más de 130 millones de discos y ofrecido más de 2800 conciertos en cincuenta países. Además está considerado como un icono global de la música y forma parte del Salón de la Fama del Rock and Roll.</p>",
+          "normalizedtitle": "Bon Jovi"
+        },
+        {
+          "type": "standard",
+          "title": "Inside_Out_(álbum_de_Bon_Jovi)",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Inside Out (álbum de Bon Jovi)</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q3272922",
+          "titles": {
+            "canonical": "Inside_Out_(álbum_de_Bon_Jovi)",
+            "normalized": "Inside Out (álbum de Bon Jovi)",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Inside Out (álbum de Bon Jovi)</span></span>"
+          },
+          "pageid": 5591442,
+          "lang": "es",
+          "dir": "ltr",
+          "revision": "165460118",
+          "tid": "bade2543-ecb9-11ef-bab4-885b7f98f097",
+          "timestamp": "2025-02-16T22:59:52Z",
+          "description": "álbum de Bon Jovi",
+          "description_source": "central",
+          "content_urls": {
+            "desktop": {
+              "page": "https://es.wikipedia.org/wiki/Inside_Out_(%C3%A1lbum_de_Bon_Jovi)",
+              "revisions": "https://es.wikipedia.org/wiki/Inside_Out_(%C3%A1lbum_de_Bon_Jovi)?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Inside_Out_(%C3%A1lbum_de_Bon_Jovi)?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Inside_Out_(%C3%A1lbum_de_Bon_Jovi)"
+            },
+            "mobile": {
+              "page": "https://es.wikipedia.org/wiki/Inside_Out_(%C3%A1lbum_de_Bon_Jovi)",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Inside_Out_(%C3%A1lbum_de_Bon_Jovi)",
+              "edit": "https://es.wikipedia.org/wiki/Inside_Out_(%C3%A1lbum_de_Bon_Jovi)?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Inside_Out_(%C3%A1lbum_de_Bon_Jovi)"
+            }
+          },
+          "extract": "Inside Out es el segundo álbum en vivo de la agrupación estadounidense Bon Jovi, publicado el 27 de noviembre de 2012. Únicamente se puede adquirir mediante descarga digital por iTunes. También existe una versión en DVD de este álbum con actuaciones en vivo, pero es difícil de encontrar y solamente se vende en promociones especiales.",
+          "extract_html": "<p><i><b>Inside Out</b></i> es el segundo álbum en vivo de la agrupación estadounidense Bon Jovi, publicado el 27 de noviembre de 2012. Únicamente se puede adquirir mediante descarga digital por iTunes. También existe una versión en DVD de este álbum con actuaciones en vivo, pero es difícil de encontrar y solamente se vende en promociones especiales.</p>",
+          "normalizedtitle": "Inside Out (álbum de Bon Jovi)"
+        }
+      ],
+      "year": 2012
+    },
+    {
+      "text": "El mariachi, expresión musical de México, es declarado por la Unesco como Patrimonio Cultural Inmaterial de la Humanidad",
+      "pages": [
+        {
+          "type": "standard",
+          "title": "Mariachi",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mariachi</span></span>",
+          "namespace": {
+            "id": 0,
+            "text": ""
+          },
+          "wikibase_item": "Q464129",
+          "titles": {
+            "canonical": "Mariachi",
+            "normalized": "Mariachi",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Mariachi</span></span>"
+          },
+          "pageid": 144084,
+          "thumbnail": {
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/MX_MM_CANTEMOS_A_MAM%C3%81_DESDE_CASA_%2849864889988%29.jpg/330px-MX_MM_CANTEMOS_A_MAM%C3%81_DESDE_CASA_%2849864889988%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
             "height": 220
           },
           "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/5/5b/13-03-21_recomendaciones_en_ezeiza.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1280,
-            "height": 854
+            "source": "https://upload.wikimedia.org/wikipedia/commons/4/47/MX_MM_CANTEMOS_A_MAM%C3%81_DESDE_CASA_%2849864889988%29.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 3300,
+            "height": 2200
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "175809011",
-          "tid": "4676b81e-c728-11f1-8c55-77967964995e",
-          "timestamp": "2026-10-13T17:05:22Z",
-          "description": "brote viral en Argentina",
+          "revision": "176301406",
+          "tid": "c3c380fd-e080-11f1-b5ce-fdf25e0999f6",
+          "timestamp": "2026-11-14T23:11:47Z",
+          "description": "género de música tradicional originario de México",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Argentina",
-              "revisions": "https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Argentina?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Argentina?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Pandemia_de_COVID-19_en_Argentina"
+              "page": "https://es.wikipedia.org/wiki/Mariachi",
+              "revisions": "https://es.wikipedia.org/wiki/Mariachi?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Mariachi?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Mariachi"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Argentina",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Pandemia_de_COVID-19_en_Argentina",
-              "edit": "https://es.wikipedia.org/wiki/Pandemia_de_COVID-19_en_Argentina?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Pandemia_de_COVID-19_en_Argentina"
+              "page": "https://es.wikipedia.org/wiki/Mariachi",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Mariachi",
+              "edit": "https://es.wikipedia.org/wiki/Mariachi?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Mariachi"
             }
           },
-          "extract": "Para enfrentar la pandemia de COVID-19 en Argentina, como la mayoría de los países del mundo, adoptaron en llevar a cabo una serie de medidas sanitarias, económicas y sociales. La primera de ellas fue el Aislamiento Social Preventivo y Obligatorio. Debido a que Argentina es un país federal, las decisiones fueron consensuadas entre el Gobierno Nacional junto al Gobierno de la Provincia de Buenos Aires, el Gobierno de la Ciudad de Buenos Aires y el resto de los gobiernos provinciales.",
-          "extract_html": "<p>Para enfrentar la <b>pandemia de COVID-19 en Argentina</b>, como la mayoría de los países del mundo, adoptaron en llevar a cabo una serie de medidas sanitarias, económicas y sociales. La primera de ellas fue el Aislamiento Social Preventivo y Obligatorio. Debido a que Argentina es un país federal, las decisiones fueron consensuadas entre el Gobierno Nacional junto al Gobierno de la Provincia de Buenos Aires, el Gobierno de la Ciudad de Buenos Aires y el resto de los gobiernos provinciales.</p>",
-          "normalizedtitle": "Pandemia de COVID-19 en Argentina"
+          "extract": "El mariachi es un género de la música de México. Por extensión, se conoce también como mariachi a los músicos dedicados a este género —nombrados también como mariacheros— y a los conjuntos musicales en sus expresiones conocidas como mariachi tradicional y mariachi moderno. En noviembre de 2011 la Unesco inscribió a El Mariachi, música de cuerdas, canto y trompeta como integrante de la Lista Representativa del Patrimonio Cultural Inmaterial de la Humanidad. El mariachi también forma parte de la música regional mexicana.",
+          "extract_html": "<p>El <b>mariachi</b> es un género de la música de México. Por extensión, se conoce también como mariachi a los músicos dedicados a este género —nombrados también como <i>mariacheros</i>— y a los conjuntos musicales en sus expresiones conocidas como <i>mariachi tradicional</i> y <i>mariachi moderno</i>. En noviembre de 2011 la Unesco inscribió a <i>El Mariachi, música de cuerdas, canto y trompeta</i> como integrante de la Lista Representativa del Patrimonio Cultural Inmaterial de la Humanidad. El mariachi también forma parte de la música regional mexicana.</p>",
+          "normalizedtitle": "Mariachi"
         },
         {
           "type": "standard",
-          "title": "Casa_Rosada",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Casa Rosada</span></span>",
+          "title": "Patrimonio_cultural_inmaterial_de_la_Humanidad",
+          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Patrimonio cultural inmaterial de la Humanidad</span></span>",
           "namespace": {
             "id": 0,
             "text": ""
           },
-          "wikibase_item": "Q478926",
+          "wikibase_item": "Q84036549",
           "titles": {
-            "canonical": "Casa_Rosada",
-            "normalized": "Casa Rosada",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Casa Rosada</span></span>"
+            "canonical": "Patrimonio_cultural_inmaterial_de_la_Humanidad",
+            "normalized": "Patrimonio cultural inmaterial de la Humanidad",
+            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Patrimonio cultural inmaterial de la Humanidad</span></span>"
           },
-          "pageid": 48138,
+          "pageid": 2156789,
           "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Casa_Rosada_exterior_from_Plaza_de_Mayo.JPG/330px-Casa_Rosada_exterior_from_Plaza_de_Mayo.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 220
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Casa_Rosada_exterior_from_Plaza_de_Mayo.JPG/3840px-Casa_Rosada_exterior_from_Plaza_de_Mayo.JPG?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 5184,
-            "height": 3456
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "175698866",
-          "tid": "c31a0a30-c1e9-11f1-bb09-8518cd698afc",
-          "timestamp": "2026-10-07T00:55:17Z",
-          "description": "palacio presidencial y sede del Poder Ejecutivo de la República Argentina",
-          "description_source": "central",
-          "coordinates": {
-            "lat": -34.60805556,
-            "lon": -58.37027778
-          },
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Casa_Rosada",
-              "revisions": "https://es.wikipedia.org/wiki/Casa_Rosada?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Casa_Rosada?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Casa_Rosada"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Casa_Rosada",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Casa_Rosada",
-              "edit": "https://es.wikipedia.org/wiki/Casa_Rosada?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Casa_Rosada"
-            }
-          },
-          "extract": "La Casa Rosada es la sede del Poder Ejecutivo de la República Argentina, y está ubicada en el centro-histórico de la ciudad capital federativa de Buenos Aires. Dentro de la misma se encuentra el despacho del presidente de la Nación Argentina y de sus distintas secretarías, y del jefe de Gabinete de Ministros.",
-          "extract_html": "<p>La <b>Casa Rosada</b> es la sede del Poder Ejecutivo de la República Argentina, y está ubicada en el centro-histórico de la ciudad capital federativa de Buenos Aires. Dentro de la misma se encuentra el despacho del presidente de la Nación Argentina y de sus distintas secretarías, y del jefe de Gabinete de Ministros.</p>",
-          "normalizedtitle": "Casa Rosada"
-        }
-      ],
-      "year": 2020
-    },
-    {
-      "text": "acontecimientos en torno al fallecimiento de Diego Maradona, fallecido el día anterior:",
-      "pages": [
-        {
-          "type": "standard",
-          "title": "Bella_Vista_(Buenos_Aires)",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Bella Vista (Buenos Aires)</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q1886737",
-          "titles": {
-            "canonical": "Bella_Vista_(Buenos_Aires)",
-            "normalized": "Bella Vista (Buenos Aires)",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Bella Vista (Buenos Aires)</span></span>"
-          },
-          "pageid": 391521,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/BellaVist.ar.jpg/330px-BellaVist.ar.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 195
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/e/eb/BellaVist.ar.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 887,
-            "height": 524
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176118764",
-          "tid": "a0a6df2c-d70e-11f1-9851-1d351823ff9e",
-          "timestamp": "2026-11-02T22:42:05Z",
-          "description": "localidad en la provincia de Buenos Aires, Argentina",
-          "description_source": "central",
-          "coordinates": {
-            "lat": -34.56372021,
-            "lon": -58.69032951
-          },
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Bella_Vista_(Buenos_Aires)",
-              "revisions": "https://es.wikipedia.org/wiki/Bella_Vista_(Buenos_Aires)?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Bella_Vista_(Buenos_Aires)?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Bella_Vista_(Buenos_Aires)"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Bella_Vista_(Buenos_Aires)",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Bella_Vista_(Buenos_Aires)",
-              "edit": "https://es.wikipedia.org/wiki/Bella_Vista_(Buenos_Aires)?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Bella_Vista_(Buenos_Aires)"
-            }
-          },
-          "extract": "Bella Vista es una localidad de la zona norte del Gran Buenos Aires, provincia de Buenos Aires, Argentina; perteneciente al partido de San Miguel.",
-          "extract_html": "<p><b>Bella Vista</b> es una localidad de la zona norte del Gran Buenos Aires, provincia de Buenos Aires, Argentina; perteneciente al partido de San Miguel.</p>",
-          "normalizedtitle": "Bella Vista (Buenos Aires)"
-        }
-      ],
-      "year": 2020
-    },
-    {
-      "text": "acontecimientos en torno al fallecimiento de Diego Maradona, fallecido el día anterior:",
-      "pages": [
-        {
-          "type": "standard",
-          "title": "Società_Sportiva_Calcio_Napoli",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Società Sportiva Calcio Napoli</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q2641",
-          "titles": {
-            "canonical": "Società_Sportiva_Calcio_Napoli",
-            "normalized": "Società Sportiva Calcio Napoli",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Società Sportiva Calcio Napoli</span></span>"
-          },
-          "pageid": 624261,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/SSC_Napoli_2025_%28white_and_azure%29.svg/langes-330px-SSC_Napoli_2025_%28white_and_azure%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/UNESCO-ICH-blue.svg/langes-330px-UNESCO-ICH-blue.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
             "width": 330,
             "height": 330
           },
           "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/SSC_Napoli_2025_%28white_and_azure%29.svg/langes-960px-SSC_Napoli_2025_%28white_and_azure%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 570,
-            "height": 570
+            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/UNESCO-ICH-blue.svg/langes-60px-UNESCO-ICH-blue.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 50,
+            "height": 50
           },
           "lang": "es",
           "dir": "ltr",
-          "revision": "176423078",
-          "tid": "e553e218-e6d8-11f1-b443-394a04358af0",
-          "timestamp": "2026-11-23T00:57:46Z",
-          "description": "club de fútbol italiano",
+          "revision": "175265264",
+          "tid": "8ff950bb-ac14-11f1-8ba0-e26d43bf2c63",
+          "timestamp": "2026-09-09T06:06:14Z",
+          "description": "clase de patrimonio cultural designado por la Unesco",
           "description_source": "central",
           "content_urls": {
             "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Societ%C3%A0_Sportiva_Calcio_Napoli",
-              "revisions": "https://es.wikipedia.org/wiki/Societ%C3%A0_Sportiva_Calcio_Napoli?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Societ%C3%A0_Sportiva_Calcio_Napoli?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Societ%C3%A0_Sportiva_Calcio_Napoli"
+              "page": "https://es.wikipedia.org/wiki/Patrimonio_cultural_inmaterial_de_la_Humanidad",
+              "revisions": "https://es.wikipedia.org/wiki/Patrimonio_cultural_inmaterial_de_la_Humanidad?action=history",
+              "edit": "https://es.wikipedia.org/wiki/Patrimonio_cultural_inmaterial_de_la_Humanidad?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Patrimonio_cultural_inmaterial_de_la_Humanidad"
             },
             "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Societ%C3%A0_Sportiva_Calcio_Napoli",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Societ%C3%A0_Sportiva_Calcio_Napoli",
-              "edit": "https://es.wikipedia.org/wiki/Societ%C3%A0_Sportiva_Calcio_Napoli?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Societ%C3%A0_Sportiva_Calcio_Napoli"
+              "page": "https://es.wikipedia.org/wiki/Patrimonio_cultural_inmaterial_de_la_Humanidad",
+              "revisions": "https://es.wikipedia.org/wiki/Special:History/Patrimonio_cultural_inmaterial_de_la_Humanidad",
+              "edit": "https://es.wikipedia.org/wiki/Patrimonio_cultural_inmaterial_de_la_Humanidad?action=edit",
+              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Patrimonio_cultural_inmaterial_de_la_Humanidad"
             }
           },
-          "extract": "La Società Sportiva Calcio Napoli S.p.A., también conocida como S. S. C. Napoli o simplemente Napoli, es un club de fútbol con sede en la ciudad de Nápoles, en la región de Campania, Italia. Fue fundado como Associazione Calcio Napoli en 1926, tomando el nombre actual en 1964 y tras la refundación en 2006, siendo refundado como Napoli Soccer en 2004. Actualmente participa en la Serie A, máxima división del fútbol en Italia.",
-          "extract_html": "<p>La <b>Società Sportiva Calcio Napoli S.p.A.</b>, también conocida como <b>S. S. C. Napoli</b> o simplemente <b>Napoli</b>, es un club de fútbol con sede en la ciudad de Nápoles, en la región de Campania, Italia. Fue fundado como <i>Associazione Calcio Napoli</i> en 1926, tomando el nombre actual en 1964 y tras la refundación en 2006, siendo refundado como <i>Napoli Soccer</i> en 2004. Actualmente participa en la Serie A, máxima división del fútbol en Italia.</p>",
-          "normalizedtitle": "Società Sportiva Calcio Napoli"
-        },
-        {
-          "type": "standard",
-          "title": "Liga_Europa_de_la_UEFA",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Liga Europa de la UEFA</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q18760",
-          "titles": {
-            "canonical": "Liga_Europa_de_la_UEFA",
-            "normalized": "Liga Europa de la UEFA",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Liga Europa de la UEFA</span></span>"
-          },
-          "pageid": 3047183,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/UEFA_Europa_League_logo_%282024_version%29.svg/langes-330px-UEFA_Europa_League_logo_%282024_version%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 471
-          },
-          "originalimage": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/UEFA_Europa_League_logo_%282024_version%29.svg/langes-1920px-UEFA_Europa_League_logo_%282024_version%29.svg.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 1296,
-            "height": 1848
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "176264678",
-          "tid": "16861393-de88-11f1-85c6-033e9f23c78b",
-          "timestamp": "2026-11-12T10:59:10Z",
-          "description": "torneo europeo de fútbol a nivel de clubes organizado por la UEFA",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Liga_Europa_de_la_UEFA",
-              "revisions": "https://es.wikipedia.org/wiki/Liga_Europa_de_la_UEFA?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Liga_Europa_de_la_UEFA?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Liga_Europa_de_la_UEFA"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Liga_Europa_de_la_UEFA",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Liga_Europa_de_la_UEFA",
-              "edit": "https://es.wikipedia.org/wiki/Liga_Europa_de_la_UEFA?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Liga_Europa_de_la_UEFA"
-            }
-          },
-          "extract": "La Liga Europa de la UEFA, conocida en sus orígenes como Copa de la UEFA, es una competición continental de clubes. Es una de las tres competiciones que organiza la Unión de Federaciones Europeas de Fútbol (UEFA), junto con la Liga de Campeones y la Liga Conferencia. Está considerada la segunda más prestigiosa de Europa, tras la mencionada Liga de Campeones.",
-          "extract_html": "<p>La <b>Liga Europa de la UEFA</b>, conocida en sus orígenes como <b>Copa de la UEFA</b>, es una competición continental de clubes. Es una de las tres competiciones que organiza la Unión de Federaciones Europeas de Fútbol (UEFA), junto con la Liga de Campeones y la Liga Conferencia. Está considerada la segunda más prestigiosa de Europa, tras la mencionada Liga de Campeones.</p>",
-          "normalizedtitle": "Liga Europa de la UEFA"
-        },
-        {
-          "type": "standard",
-          "title": "HNK_Rijeka",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">HNK Rijeka</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q318969",
-          "titles": {
-            "canonical": "HNK_Rijeka",
-            "normalized": "HNK Rijeka",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">HNK Rijeka</span></span>"
-          },
-          "pageid": 1202034,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/HNK_Rijeka_Hrvatska.png/330px-HNK_Rijeka_Hrvatska.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 411
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/b/b9/HNK_Rijeka_Hrvatska.png?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 1228,
-            "height": 1531
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "175430296",
-          "tid": "52f7404e-b404-11f1-aca4-b42b0bc37f1f",
-          "timestamp": "2026-09-19T08:30:09Z",
-          "description": "club de fútbol de Croacia",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/HNK_Rijeka",
-              "revisions": "https://es.wikipedia.org/wiki/HNK_Rijeka?action=history",
-              "edit": "https://es.wikipedia.org/wiki/HNK_Rijeka?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:HNK_Rijeka"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/HNK_Rijeka",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/HNK_Rijeka",
-              "edit": "https://es.wikipedia.org/wiki/HNK_Rijeka?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:HNK_Rijeka"
-            }
-          },
-          "extract": "El HNK Rijeka es un club de fútbol croata de la ciudad de Rijeka. Los colores tradicionales del club son el blanco y el azul, con los que viste su primera y segunda equipación, respectivamente. El Rijeka disputa sus partidos como local en el Stadion Rujevica y juega en la Prva HNL, la primera división croata.",
-          "extract_html": "<p>El <b>HNK Rijeka</b> es un club de fútbol croata de la ciudad de Rijeka. Los colores tradicionales del club son el blanco y el azul, con los que viste su primera y segunda equipación, respectivamente. El Rijeka disputa sus partidos como local en el Stadion Rujevica y juega en la Prva HNL, la primera división croata.</p>",
-          "normalizedtitle": "HNK Rijeka"
-        },
-        {
-          "type": "standard",
-          "title": "Estadio_Diego_Armando_Maradona_(Italia)",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Estadio Diego Armando Maradona (Italia)</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q82709",
-          "titles": {
-            "canonical": "Estadio_Diego_Armando_Maradona_(Italia)",
-            "normalized": "Estadio Diego Armando Maradona (Italia)",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Estadio Diego Armando Maradona (Italia)</span></span>"
-          },
-          "pageid": 331458,
-          "thumbnail": {
-            "source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Stadio_Maradona_Serie_A.jpg/330px-Stadio_Maradona_Serie_A.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-            "width": 330,
-            "height": 160
-          },
-          "originalimage": {
-            "source": "https://upload.wikimedia.org/wikipedia/commons/7/71/Stadio_Maradona_Serie_A.jpg?utm_source=es.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-            "width": 3561,
-            "height": 1730
-          },
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "175813528",
-          "tid": "ff9cb61e-c74f-11f1-a20a-482d7a6c3662",
-          "timestamp": "2026-10-13T21:49:43Z",
-          "description": "estadio multiusos en Nápoles, Campania, Italia",
-          "description_source": "central",
-          "coordinates": {
-            "lat": 40.827967,
-            "lon": 14.193008
-          },
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Estadio_Diego_Armando_Maradona_(Italia)",
-              "revisions": "https://es.wikipedia.org/wiki/Estadio_Diego_Armando_Maradona_(Italia)?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Estadio_Diego_Armando_Maradona_(Italia)?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Estadio_Diego_Armando_Maradona_(Italia)"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Estadio_Diego_Armando_Maradona_(Italia)",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Estadio_Diego_Armando_Maradona_(Italia)",
-              "edit": "https://es.wikipedia.org/wiki/Estadio_Diego_Armando_Maradona_(Italia)?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Estadio_Diego_Armando_Maradona_(Italia)"
-            }
-          },
-          "extract": "El Estadio Diego Armando Maradona, anteriormente denominado San Paolo, es un estadio multiusos situado en el barrio de Fuorigrotta, en la ciudad de Nápoles, capital de Campania, Italia. Es la principal instalación polideportiva de la ciudad, dotada de gimnasios polivalentes y de artes marciales, de una pista de atletismo y de un campo de baloncesto. Sirve de sede habitual al S. S. C. Napoli.",
-          "extract_html": "<p>El <b>Estadio Diego Armando Maradona</b>, anteriormente denominado <b>San Paolo</b>, es un estadio multiusos situado en el barrio de Fuorigrotta, en la ciudad de Nápoles, capital de Campania, Italia. Es la principal instalación polideportiva de la ciudad, dotada de gimnasios polivalentes y de artes marciales, de una pista de atletismo y de un campo de baloncesto. Sirve de sede habitual al S. S. C. Napoli.</p>",
-          "normalizedtitle": "Estadio Diego Armando Maradona (Italia)"
-        },
-        {
-          "type": "standard",
-          "title": "Armando_Anastasio",
-          "displaytitle": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Armando Anastasio</span></span>",
-          "namespace": {
-            "id": 0,
-            "text": ""
-          },
-          "wikibase_item": "Q20740563",
-          "titles": {
-            "canonical": "Armando_Anastasio",
-            "normalized": "Armando Anastasio",
-            "display": "<span lang=\"es\" dir=\"ltr\"><span class=\"mw-page-title-main\">Armando Anastasio</span></span>"
-          },
-          "pageid": 7493776,
-          "lang": "es",
-          "dir": "ltr",
-          "revision": "174662989",
-          "tid": "13e04f6a-8e93-11f1-8549-370e872f15ab",
-          "timestamp": "2026-08-02T16:56:17Z",
-          "description": "futbolista italiano",
-          "description_source": "central",
-          "content_urls": {
-            "desktop": {
-              "page": "https://es.wikipedia.org/wiki/Armando_Anastasio",
-              "revisions": "https://es.wikipedia.org/wiki/Armando_Anastasio?action=history",
-              "edit": "https://es.wikipedia.org/wiki/Armando_Anastasio?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Armando_Anastasio"
-            },
-            "mobile": {
-              "page": "https://es.wikipedia.org/wiki/Armando_Anastasio",
-              "revisions": "https://es.wikipedia.org/wiki/Special:History/Armando_Anastasio",
-              "edit": "https://es.wikipedia.org/wiki/Armando_Anastasio?action=edit",
-              "talk": "https://es.wikipedia.org/wiki/Discusi%C3%B3n:Armando_Anastasio"
-            }
-          },
-          "extract": "Armando Anastasio es un futbolista italiano. Se desempeña como lateral izquierdo en el Catania F. C. de la Serie C de Italia.",
-          "extract_html": "<p><b>Armando Anastasio</b> es un futbolista italiano. Se desempeña como lateral izquierdo en el Catania F. C. de la Serie C de Italia.</p>",
-          "normalizedtitle": "Armando Anastasio"
+          "extract": "El patrimonio cultural inmaterial o patrimonio cultural intangible (PCI) forma parte de las declaraciones de la Unesco para la salvaguardia del patrimonio cultural no tangible, conocido como «oral» o «inmaterial».",
+          "extract_html": "<p>El <b>patrimonio cultural inmaterial</b> o <b>patrimonio cultural intangible</b> (<b>PCI</b>) forma parte de las declaraciones de la Unesco para la salvaguardia del patrimonio cultural no tangible, conocido como «oral» o «inmaterial».</p>",
+          "normalizedtitle": "Patrimonio cultural inmaterial de la Humanidad"
         }
       ],
-      "year": 2020
+      "year": 2011
     }
   ]
 }
