@@ -8,7 +8,7 @@ on:
   push:
     branches: [main]
     paths: [config/**, scripts/**, .github/workflows/generate.yml]
-permissions: {contents: write}
+permissions: {contents: write, actions: write}
 concurrency: {group: editorial-generation, cancel-in-progress: false}
 jobs:
   editorial:
@@ -37,11 +37,22 @@ jobs:
       - if: steps.gate.outputs.has_stories == 'true'
         run: mkdir -p public/data && cp generated/news-feed.json public/data/news-feed.json
       - run: mkdir -p public/data && cp generated/on-this-day.json public/data/on-this-day.json
-      - run: |
+      - id: publish
+        run: |
           git config user.name "mi-actualidad-bot"
           git config user.email "actions@users.noreply.github.com"
           git add public/data/on-this-day.json generated/translation-cache.json
           if [ "${{ steps.gate.outputs.has_stories }}" = "true" ]; then git add public/data/news-feed.json; fi
-          git diff --cached --quiet || git commit -m "content: update free-source headlines"
-          git push
+          if git diff --cached --quiet; then
+            echo "published=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "content: update free-source headlines"
+            git push
+            echo "published=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Publicar la edición en GitHub Pages
+        if: steps.publish.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy.yml --ref main
 
