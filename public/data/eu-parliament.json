@@ -4,7 +4,7 @@
   "totalSeats": 720,
   "assignedSeats": 720,
   "vacantSeats": 0,
-  "checkedAt": "2026-11-27T13:28:53.801Z",
+  "checkedAt": "2026-11-27T13:30:57.966Z",
   "sourceUrl": "https://data.europarl.europa.eu/api/v2/meps/show-current?format=application%2Fld%2Bjson",
   "groups": [
     {
@@ -192,6 +192,6 @@
     "stage": "completed",
     "label": "Composición recalculada desde datos oficiales",
     "progress": 100,
-    "checkedAt": "2026-11-27T13:28:53.801Z"
+    "checkedAt": "2026-11-27T13:30:57.966Z"
   }
 }
