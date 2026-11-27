@@ -101,7 +101,7 @@ for (const source of catalog.sources.filter(source => editorial.enabledSources.i
       const hours = Math.max(0, (Date.now() - new Date(publishedAt).getTime()) / 3_600_000);
       const importance = Math.max(1, 100 - Math.min(70, hours * 2) + impactBoost({ section }) + sourceQuality(source));
       const summary = spanishSources.has(source.id) ? (item.contentSnippet || item.summary || '').replace(/\s+/g, ' ').trim().slice(0, 600) : 'Titular traducido al español. Pulsa para leer la información completa en la fuente original.';
-      stories.push({ id: `${source.id}-${crypto.createHash('sha1').update(url).digest('hex').slice(0, 16)}`, title, summary, publishedAt, updatedAt: new Date().toISOString(), country: source.country, countryCode: source.countryCode, section, category: section, importance, source: { name: source.name, url }, topicKey: topicKey(title), image: imageUrl(item), isVerifiedSource: true, isEditorialSummary: false });
+      stories.push({ id: `${source.id}-${crypto.createHash('sha1').update(url).digest('hex').slice(0, 16)}`, title, summary, publishedAt, updatedAt: new Date().toISOString(), country: source.country, countryCode: source.countryCode, section, category: section, importance, source: { name: source.name, url, editorialProfile: source.editorialProfile || 'generalist' }, topicKey: topicKey(title), image: imageUrl(item), isVerifiedSource: true, isEditorialSummary: false });
     }
   } catch { console.warn(`Fuente no disponible: ${source.name}`); }
 }
@@ -109,16 +109,21 @@ for (const source of catalog.sources.filter(source => editorial.enabledSources.i
 const deduped = [...new Map(stories.map(story => [normalize(story.title).replace(/[^a-z0-9]+/g, ' '), story])).values()];
 const topicCounts = deduped.reduce((map, story) => map.set(story.topicKey, (map.get(story.topicKey) || 0) + 1), new Map());
 for (const story of deduped) story.importance = Math.min(150, story.importance + Math.max(0, (topicCounts.get(story.topicKey) || 1) - 1) * 12);
-const sectionCounts = new Map();
+const countrySectionCounts = new Map();
+const countryProfileCounts = new Map();
 const unique = deduped.sort((a, b) => b.importance - a.importance).filter(story => {
-  const key = story.section === 'Tecnología' ? `${story.source.name}:${story.section}` : `${story.country}:${story.section}`;
-  const limit = story.section === 'Tecnología' ? 3 : 5;
-  const count = sectionCounts.get(key) || 0;
-  if (count >= limit) return false;
-  sectionCounts.set(key, count + 1);
+  const countryKey = `${story.country}:${story.section}`;
+  const profileKey = `${countryKey}:${story.source.editorialProfile || 'generalist'}`;
+  const countryCount = countrySectionCounts.get(countryKey) || 0;
+  const profileCount = countryProfileCounts.get(profileKey) || 0;
+  if (countryCount >= (editorial.maxItemsPerCountry || 6)) return false;
+  if (profileCount >= (editorial.maxItemsPerProfile || 2)) return false;
+  countrySectionCounts.set(countryKey, countryCount + 1);
+  countryProfileCounts.set(profileKey, profileCount + 1);
   return true;
 });
 await fs.mkdir('generated', { recursive: true });
 await fs.writeFile('generated/news-feed.json', JSON.stringify({ schemaVersion: 1, generatedAt: new Date().toISOString(), isEditoriallyValidated: false, summaryStatus: 'pending-editorial-review', stories: unique }, null, 2));
 await fs.writeFile(cachePath, JSON.stringify({ createdAt: new Date().toISOString(), entries: Object.fromEntries(translationCache) }, null, 2));
 console.log(`Recopiladas ${unique.length} entradas con fuentes identificadas.`);
+

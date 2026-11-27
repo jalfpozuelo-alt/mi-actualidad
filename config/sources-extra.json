@@ -14,7 +14,8 @@
       "format": "RSS",
       "url": "https://feeds.npr.org/1001/rss.xml",
       "usage": "Titular y enlace original; no copiar artículos.",
-      "language": "en"
+      "language": "en",
+      "editorialProfile": "public"
     },
     {
       "id": "france24",
@@ -29,7 +30,8 @@
       "format": "RSS",
       "url": "https://www.france24.com/es/rss",
       "usage": "Titular y enlace original; revisar condiciones de sindicación.",
-      "language": "en"
+      "language": "en",
+      "editorialProfile": "public"
     },
     {
       "id": "clarin-ar",
@@ -44,7 +46,8 @@
       "format": "RSS",
       "url": "https://www.clarin.com/rss/lo-ultimo/",
       "usage": "Titular y enlace original conforme a la página RSS del medio.",
-      "language": "es"
+      "language": "es",
+      "editorialProfile": "conservative"
     },
     {
       "id": "guardian-uk",
@@ -59,7 +62,8 @@
       "format": "RSS",
       "url": "https://www.theguardian.com/world/rss",
       "usage": "Titular y enlace original; no copiar artículos ni imágenes sin permiso.",
-      "language": "en"
+      "language": "en",
+      "editorialProfile": "progressive"
     },
     {
       "id": "techcrunch",
@@ -72,7 +76,8 @@
       "format": "RSS",
       "url": "https://techcrunch.com/feed/",
       "usage": "Titular y enlace original; no copiar artículos ni imágenes sin permiso.",
-      "language": "en"
+      "language": "en",
+      "editorialProfile": "liberal"
     },
     {
       "id": "arxiv-ai",
@@ -85,7 +90,8 @@
       "format": "RSS",
       "url": "https://export.arxiv.org/rss/cs.AI",
       "usage": "Preprints científicos; indicar que no son necesariamente revisados por pares.",
-      "language": "en"
+      "language": "en",
+      "editorialProfile": "public"
     },
     {
       "id": "xataka",
@@ -98,7 +104,8 @@
       "format": "RSS",
       "url": "https://www.xataka.com/index.xml",
       "usage": "Titular y enlace original; fuente tecnológica en español.",
-      "language": "es"
+      "language": "es",
+      "editorialProfile": "liberal"
     },
     {
       "id": "elmundo-es",
@@ -114,7 +121,8 @@
       "format": "RSS",
       "url": "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml",
       "usage": "Titular y enlace original; revisar condiciones del feed.",
-      "language": "es"
+      "language": "es",
+      "editorialProfile": "conservative"
     },
     {
       "id": "abc-es",
@@ -130,7 +138,8 @@
       "format": "RSS",
       "url": "https://www.abc.es/rss/feeds/abc_espana.xml",
       "usage": "Titular y enlace original; revisar condiciones del feed.",
-      "language": "es"
+      "language": "es",
+      "editorialProfile": "conservative"
     },
     {
       "id": "ap-us",
@@ -145,7 +154,8 @@
       "format": "RSS",
       "url": "https://feeds.apnews.com/rss/apf-topnews",
       "usage": "Titular y enlace original; medio de referencia internacional.",
-      "language": "en"
+      "language": "en",
+      "editorialProfile": "generalist"
     },
     {
       "id": "tagesschau-de",
@@ -160,7 +170,8 @@
       "format": "RSS",
       "url": "https://www.tagesschau.de/xml/rss2",
       "usage": "Titular traducido y enlace original.",
-      "language": "de"
+      "language": "de",
+      "editorialProfile": "public"
     },
     {
       "id": "lanacion-ar",
@@ -175,7 +186,8 @@
       "format": "RSS",
       "url": "https://www.lanacion.com.ar/arc/outboundfeeds/rss/",
       "usage": "Titular y enlace original; revisar condiciones del feed.",
-      "language": "es"
+      "language": "es",
+      "editorialProfile": "conservative"
     },
     {
       "id": "bbc-zh",
@@ -190,7 +202,8 @@
       "format": "RSS",
       "url": "https://feeds.bbci.co.uk/zhongwen/simp/rss.xml",
       "usage": "Titular traducido y enlace original; fuente internacional.",
-      "language": "zh"
+      "language": "zh",
+      "editorialProfile": "public"
     },
     {
       "id": "dw-zh",
@@ -205,7 +218,8 @@
       "format": "RSS",
       "url": "https://rss.dw.com/rdf/rss-chi-all",
       "usage": "Titular traducido y enlace original; fuente internacional.",
-      "language": "zh"
+      "language": "zh",
+      "editorialProfile": "public"
     },
     {
       "id": "bbc-ru",
@@ -220,7 +234,8 @@
       "format": "RSS",
       "url": "https://feeds.bbci.co.uk/russian/rss.xml",
       "usage": "Titular traducido y enlace original; fuente internacional.",
-      "language": "en"
+      "language": "en",
+      "editorialProfile": "public"
     },
     {
       "id": "dw-ru",
@@ -235,7 +250,8 @@
       "format": "RSS",
       "url": "https://rss.dw.com/rdf/rss-ru-top",
       "usage": "Titular traducido y enlace original; fuente internacional.",
-      "language": "en"
+      "language": "en",
+      "editorialProfile": "public"
     },
     {
       "id": "pbs-us",
@@ -250,7 +266,8 @@
       ],
       "format": "RSS",
       "url": "https://www.pbs.org/newshour/feeds/rss/headlines",
-      "usage": "Titular, resumen disponible y enlace original."
+      "usage": "Titular, resumen disponible y enlace original.",
+      "editorialProfile": "public"
     },
     {
       "id": "nyt-us",
@@ -265,7 +282,8 @@
       ],
       "format": "RSS",
       "url": "https://rss.nytimes.com/services/xml/rss/nyt/US.xml",
-      "usage": "Usar titular, resumen y enlace; respetar las condiciones del RSS y las restricciones de suscripción."
+      "usage": "Usar titular, resumen y enlace; respetar las condiciones del RSS y las restricciones de suscripción.",
+      "editorialProfile": "liberal"
     },
     {
       "id": "franceinfo",
@@ -280,7 +298,8 @@
       ],
       "format": "RSS",
       "url": "https://www.franceinfo.fr/titres.rss",
-      "usage": "Titular, resumen disponible y enlace original."
+      "usage": "Titular, resumen disponible y enlace original.",
+      "editorialProfile": "public"
     },
     {
       "id": "lemonde-fr",
@@ -295,7 +314,8 @@
       ],
       "format": "RSS",
       "url": "https://www.lemonde.fr/rss/tag/france.xml",
-      "usage": "Usar titular, resumen y enlace; muchos artículos pueden requerir suscripción."
+      "usage": "Usar titular, resumen y enlace; muchos artículos pueden requerir suscripción.",
+      "editorialProfile": "progressive"
     },
     {
       "id": "deutschlandfunk-de",
@@ -310,7 +330,8 @@
       ],
       "format": "RSS",
       "url": "https://www.deutschlandfunk.de/nachrichten-100.rss",
-      "usage": "Titular, resumen disponible y enlace original."
+      "usage": "Titular, resumen disponible y enlace original.",
+      "editorialProfile": "public"
     },
     {
       "id": "20min-es",
@@ -326,7 +347,8 @@
       ],
       "format": "RSS",
       "url": "https://www.20minutos.es/rss/",
-      "usage": "Titular, resumen disponible y enlace original."
+      "usage": "Titular, resumen disponible y enlace original.",
+      "editorialProfile": "liberal"
     },
     {
       "id": "ria-ru",
@@ -341,7 +363,8 @@
       ],
       "format": "RSS",
       "url": "https://ria.ru/export/rss2/index.xml",
-      "usage": "Titular traducido y enlace original; agencia rusa de carácter estatal."
+      "usage": "Titular traducido y enlace original; agencia rusa de carácter estatal.",
+      "editorialProfile": "state"
     },
     {
       "id": "tass-ru",
@@ -356,7 +379,8 @@
       ],
       "format": "RSS",
       "url": "https://tass.ru/rss/all.xml",
-      "usage": "Titular traducido y enlace original; agencia rusa de carácter estatal."
+      "usage": "Titular traducido y enlace original; agencia rusa de carácter estatal.",
+      "editorialProfile": "state"
     },
     {
       "id": "chinanews-cn",
@@ -371,7 +395,8 @@
       ],
       "format": "RSS",
       "url": "https://www.chinanews.com.cn/rss/china.xml",
-      "usage": "Titular traducido y enlace original; agencia china de carácter estatal."
+      "usage": "Titular traducido y enlace original; agencia china de carácter estatal.",
+      "editorialProfile": "state"
     },
     {
       "id": "xinhua-cn",
@@ -386,7 +411,8 @@
       ],
       "format": "RSS",
       "url": "https://www.xinhuanet.com/english/rss/",
-      "usage": "Titular traducido y enlace original; agencia china de carácter estatal."
+      "usage": "Titular traducido y enlace original; agencia china de carácter estatal.",
+      "editorialProfile": "state"
     },
     {
       "id": "mit-ai",
@@ -399,7 +425,8 @@
       ],
       "format": "RSS",
       "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed",
-      "usage": "Titular traducido y enlace original; análisis especializado de IA."
+      "usage": "Titular traducido y enlace original; análisis especializado de IA.",
+      "editorialProfile": "liberal"
     },
     {
       "id": "verge-ai",
@@ -412,7 +439,8 @@
       ],
       "format": "RSS",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "usage": "Titular traducido y enlace original; tecnología e inteligencia artificial."
+      "usage": "Titular traducido y enlace original; tecnología e inteligencia artificial.",
+      "editorialProfile": "liberal"
     },
     {
       "id": "genbeta",
@@ -425,7 +453,8 @@
       "format": "RSS",
       "url": "https://www.genbeta.com/index.xml",
       "usage": "Titular y enlace original; fuente tecnológica en español.",
-      "language": "es"
+      "language": "es",
+      "editorialProfile": "liberal"
     },
     {
       "id": "ars-tech",
@@ -438,7 +467,8 @@
       "format": "RSS",
       "url": "https://feeds.arstechnica.com/arstechnica/index",
       "usage": "Titular traducido y enlace original; tecnología, ciencia y seguridad.",
-      "language": "en"
+      "language": "en",
+      "editorialProfile": "liberal"
     },
     {
       "id": "ieee-spectrum",
@@ -451,7 +481,8 @@
       "format": "RSS",
       "url": "https://spectrum.ieee.org/feeds/feed.rss",
       "usage": "Titular traducido y enlace original; ingeniería, ciencia e IA.",
-      "language": "en"
+      "language": "en",
+      "editorialProfile": "public"
     },
     {
       "id": "google-ai",
@@ -464,7 +495,25 @@
       "format": "RSS",
       "url": "https://blog.google/innovation-and-ai/technology/ai/rss/",
       "usage": "Titular traducido y enlace original; fuente oficial de Google AI.",
-      "language": "en"
+      "language": "en",
+      "editorialProfile": "state"
+    },
+    {
+      "id": "pagina12-ar",
+      "name": "Página/12",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "sections": [
+        "Internacional",
+        "Economía",
+        "Sociedad",
+        "Política"
+      ],
+      "format": "RSS",
+      "url": "https://www.pagina12.com.ar/arc/outboundfeeds/rss/portada",
+      "usage": "Titular, resumen disponible y enlace original conforme al RSS del medio.",
+      "language": "es",
+      "editorialProfile": "progressive"
     }
   ]
 }

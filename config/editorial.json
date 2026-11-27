@@ -36,9 +36,12 @@
     "genbeta",
     "ars-tech",
     "ieee-spectrum",
-    "google-ai"
+    "google-ai",
+    "pagina12-ar"
   ],
   "publishOnlyWithSource": true,
   "allowAutomaticSummary": false,
-  "retentionDays": 30
+  "retentionDays": 30,
+  "maxItemsPerCountry": 6,
+  "maxItemsPerProfile": 2
 }

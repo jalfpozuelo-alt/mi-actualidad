@@ -19,9 +19,10 @@ test('las fuentes no españolas se traducen antes de validar el idioma', () => {
   assert.match(feedCollector, /deadline = Date\.now\(\) \+ 150_000/);
 });
 
-test('la sección de tecnología exige un tema tecnológico y admite diez artículos independientes', () => {
+test('la sección de tecnología exige un tema tecnológico y el catálogo equilibra perfiles editoriales', () => {
   assert.match(feedCollector, /isTechnologyTitle\(title\)/);
-  assert.match(feedCollector, /story\.section === 'Tecnología' \? 3 : 5/);
+  assert.match(feedCollector, /countryCount >= \(editorial\.maxItemsPerCountry \|\| 6\)/);
+  assert.match(feedCollector, /profileCount >= \(editorial\.maxItemsPerProfile \|\| 2\)/);
   assert.match(app, /sorted\.slice\(0,10\)/);
 });
 
@@ -50,3 +51,10 @@ test('las ejecuciones no se cancelan entre sí y Pages usa el artefacto estánda
   assert.doesNotMatch(deploymentWorkflow, /artifact_name:|name: github-pages-/);
   assert.doesNotMatch(deploymentWorkflow, /workflow_run:/);
 });
+
+
+test('cada noticia transporta el perfil editorial de su fuente', () => {
+  assert.match(feedCollector, /editorialProfile: source\.editorialProfile/);
+  assert.match(app, /editorialProfiles:Record/);
+});
+

@@ -1,1 +1,132 @@
-{"schemaVersion":1,"sources":[{"id":"elpais","name":"EL PAÍS","country":"España","countryCode":"ES","sections":["España","Internacional","Economía","Sociedad"],"format":"RSS","url":"https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada","usage":"Titular, medio y enlace original; no copiar texto ni imágenes sin autorización.","language":"es"},{"id":"bbc-mundo","name":"BBC Mundo","country":"Reino Unido","countryCode":"GB","sections":["Internacional","Tecnología","Sociedad"],"format":"RSS","url":"https://feeds.bbci.co.uk/mundo/rss.xml","usage":"Titular, medio y enlace original conforme a las condiciones de feeds de BBC.","language":"es"},{"id":"dw-es","name":"Deutsche Welle Español","country":"Alemania","countryCode":"DE","sections":["España","Internacional","Tecnología"],"format":"RSS","url":"https://rss.dw.com/xml/rss-spa-all","usage":"Revisar condiciones de RSS y atribuir siempre; no copiar artículos completos ni imágenes sin permiso.","language":"es"},{"id":"eu-consilium","name":"Consejo de la Unión Europea","country":"Unión Europea","countryCode":"EU","sections":["Internacional","Economía","Sociedad"],"format":"RSS","url":"https://www.consilium.europa.eu/es/about-site/rss/","usage":"Comunicados y reuniones institucionales; enlazar siempre al documento original.","language":"es"},{"id":"pubmed","name":"PubMed / NLM","country":"Estados Unidos","countryCode":"US","sections":["Medicina","Nutrición"],"format":"RSS/API","url":"https://pubmed.ncbi.nlm.nih.gov/","usage":"Usar citas, abstracts y enlaces; distinguir tipo de estudio y disponibilidad de texto completo.","language":"en"},{"id":"who","name":"Organización Mundial de la Salud","country":"Internacional","countryCode":"UN","sections":["Medicina","Nutrición","Internacional"],"format":"RSS","url":"https://www.who.int/rss-feeds/news-english.xml","usage":"Usar comunicados y datos oficiales; no presentar información como consejo médico individual.","language":"en"},{"id":"boe","name":"Boletín Oficial del Estado","country":"España","countryCode":"ES","sections":["España","Política","Economía"],"format":"RSS","url":"https://www.boe.es/rss/","usage":"Fuente normativa oficial; enlazar siempre a la disposición original.","language":"es"},{"id":"aesan","name":"AESAN","country":"España","countryCode":"ES","sections":["Nutrición","Medicina"],"format":"RSS","url":"https://www.aesan.gob.es/AECOSAN/web/noticias_y_actualizaciones/subseccion/rss.htm","usage":"Información institucional sobre seguridad alimentaria y nutrición.","language":"es"}]}
+{
+  "schemaVersion": 1,
+  "sources": [
+    {
+      "id": "elpais",
+      "name": "EL PAÍS",
+      "country": "España",
+      "countryCode": "ES",
+      "sections": [
+        "España",
+        "Internacional",
+        "Economía",
+        "Sociedad"
+      ],
+      "format": "RSS",
+      "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+      "usage": "Titular, medio y enlace original; no copiar texto ni imágenes sin autorización.",
+      "language": "es",
+      "editorialProfile": "progressive"
+    },
+    {
+      "id": "bbc-mundo",
+      "name": "BBC Mundo",
+      "country": "Reino Unido",
+      "countryCode": "GB",
+      "sections": [
+        "Internacional",
+        "Tecnología",
+        "Sociedad"
+      ],
+      "format": "RSS",
+      "url": "https://feeds.bbci.co.uk/mundo/rss.xml",
+      "usage": "Titular, medio y enlace original conforme a las condiciones de feeds de BBC.",
+      "language": "es",
+      "editorialProfile": "public"
+    },
+    {
+      "id": "dw-es",
+      "name": "Deutsche Welle Español",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "sections": [
+        "España",
+        "Internacional",
+        "Tecnología"
+      ],
+      "format": "RSS",
+      "url": "https://rss.dw.com/xml/rss-spa-all",
+      "usage": "Revisar condiciones de RSS y atribuir siempre; no copiar artículos completos ni imágenes sin permiso.",
+      "language": "es",
+      "editorialProfile": "public"
+    },
+    {
+      "id": "eu-consilium",
+      "name": "Consejo de la Unión Europea",
+      "country": "Unión Europea",
+      "countryCode": "EU",
+      "sections": [
+        "Internacional",
+        "Economía",
+        "Sociedad"
+      ],
+      "format": "RSS",
+      "url": "https://www.consilium.europa.eu/es/about-site/rss/",
+      "usage": "Comunicados y reuniones institucionales; enlazar siempre al documento original.",
+      "language": "es",
+      "editorialProfile": "state"
+    },
+    {
+      "id": "pubmed",
+      "name": "PubMed / NLM",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "sections": [
+        "Medicina",
+        "Nutrición"
+      ],
+      "format": "RSS/API",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/",
+      "usage": "Usar citas, abstracts y enlaces; distinguir tipo de estudio y disponibilidad de texto completo.",
+      "language": "en",
+      "editorialProfile": "public"
+    },
+    {
+      "id": "who",
+      "name": "Organización Mundial de la Salud",
+      "country": "Internacional",
+      "countryCode": "UN",
+      "sections": [
+        "Medicina",
+        "Nutrición",
+        "Internacional"
+      ],
+      "format": "RSS",
+      "url": "https://www.who.int/rss-feeds/news-english.xml",
+      "usage": "Usar comunicados y datos oficiales; no presentar información como consejo médico individual.",
+      "language": "en",
+      "editorialProfile": "public"
+    },
+    {
+      "id": "boe",
+      "name": "Boletín Oficial del Estado",
+      "country": "España",
+      "countryCode": "ES",
+      "sections": [
+        "España",
+        "Política",
+        "Economía"
+      ],
+      "format": "RSS",
+      "url": "https://www.boe.es/rss/",
+      "usage": "Fuente normativa oficial; enlazar siempre a la disposición original.",
+      "language": "es",
+      "editorialProfile": "state"
+    },
+    {
+      "id": "aesan",
+      "name": "AESAN",
+      "country": "España",
+      "countryCode": "ES",
+      "sections": [
+        "Nutrición",
+        "Medicina"
+      ],
+      "format": "RSS",
+      "url": "https://www.aesan.gob.es/AECOSAN/web/noticias_y_actualizaciones/subseccion/rss.htm",
+      "usage": "Información institucional sobre seguridad alimentaria y nutrición.",
+      "language": "es",
+      "editorialProfile": "state"
+    }
+  ]
+}

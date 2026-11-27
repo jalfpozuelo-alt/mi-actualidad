@@ -18,7 +18,7 @@
 .hero{padding-bottom:22px!important}.hero+h2{margin-top:10px!important}
 @media(max-width:600px){.hero{padding-bottom:16px!important}.hero+h2{margin-top:6px!important}}
 
-.sourceBias{display:inline-block;width:2.6rem;height:.85rem;vertical-align:middle;margin-left:.4rem;border-radius:2px;border:0;box-shadow:none;white-space:nowrap}.sourceBias-progressive{background:#DC3545}.sourceBias-liberal{background:#E5B700}.sourceBias-conservative{background:#2563B8}.sourceBias-unclassified{background:#9299A3}.dark .sourceBias-progressive{color:#ff8790}.dark .sourceBias-liberal{color:#f4d65c}.dark .sourceBias-conservative{color:#78adff}.dark .sourceBias-unclassified{color:#c0c8d0}
+.sourceBias{display:inline-block;width:.78rem;height:.78rem;vertical-align:middle;margin-left:.4rem;border-radius:2px;border:1px solid rgba(0,0,0,.12);box-shadow:none}.sourceBias-radicalLeft{background:#8E44AD}.sourceBias-progressive{background:#DC3545}.sourceBias-liberal{background:#E5B700}.sourceBias-conservative{background:#2563B8}.sourceBias-nationalist{background:#C77732}.sourceBias-radicalRight{background:#23864B}.sourceBias-public,.sourceBias-generalist{background:#9299A3}.sourceBias-state{background:#58616A}.dark .sourceBias{border-color:rgba(255,255,255,.24)}
 
 .storyImage{display:block;width:calc(100% + 36px);height:170px;object-fit:cover;object-position:center;margin:-18px -18px 18px}.dark .storyImage{filter:saturate(.92)}@media(max-width:600px){.storyImage{height:150px;margin:-18px -18px 18px}}
 
@@ -33,3 +33,4 @@
 
 /* Estados de carga e imágenes estables */
 .loadingState{display:flex;align-items:center;gap:.65rem;min-height:84px;margin:18px 0;padding:18px;border:1px solid #d7d2c8;border-radius:12px;background:rgba(255,255,255,.45);color:#66726b;font-size:14px}.loadingPulse{width:10px;height:10px;border-radius:50%;background:#b15f3f;box-shadow:0 0 0 0 rgba(177,95,63,.35);animation:loadingPulse 1.4s infinite}.storyImage{aspect-ratio:16/9;background:#e8e4da}@keyframes loadingPulse{70%{box-shadow:0 0 0 9px rgba(177,95,63,0)}100%{box-shadow:0 0 0 0 rgba(177,95,63,0)}}.dark .loadingState{background:#202b28;border-color:#43504b;color:#b8c1ba}.dark .storyImage{background:#293733}
+
