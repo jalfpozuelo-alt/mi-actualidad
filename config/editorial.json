@@ -37,7 +37,15 @@
     "ars-tech",
     "ieee-spectrum",
     "google-ai",
-    "pagina12-ar"
+    "pagina12-ar",
+    "indian-express-international",
+    "nhk-world-japan",
+    "agencia-brasil",
+    "el-universal-mexico",
+    "daily-sabah-turkey",
+    "news24-south-africa",
+    "premium-times-nigeria",
+    "ukrainska-pravda"
   ],
   "publishOnlyWithSource": true,
   "allowAutomaticSummary": false,

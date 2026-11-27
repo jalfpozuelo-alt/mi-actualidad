@@ -514,6 +514,134 @@
       "usage": "Titular, resumen disponible y enlace original conforme al RSS del medio.",
       "language": "es",
       "editorialProfile": "progressive"
+    },
+    {
+      "id": "indian-express-international",
+      "name": "The Indian Express",
+      "country": "India",
+      "countryCode": "IN",
+      "sections": [
+        "Internacional",
+        "Sociedad",
+        "Tecnología"
+      ],
+      "format": "RSS",
+      "url": "https://indianexpress.com/section/world/feed/",
+      "usage": "Titular y enlace original; no copiar artículos.",
+      "language": "en",
+      "editorialProfile": "generalist"
+    },
+    {
+      "id": "nhk-world-japan",
+      "name": "NHK WORLD-JAPAN",
+      "country": "Japón",
+      "countryCode": "JP",
+      "sections": [
+        "Internacional",
+        "Sociedad",
+        "Tecnología"
+      ],
+      "format": "RSS",
+      "url": "https://www3.nhk.or.jp/rss/news/cat0.xml",
+      "usage": "Titular y enlace original; no copiar artículos.",
+      "language": "ja",
+      "editorialProfile": "public"
+    },
+    {
+      "id": "agencia-brasil",
+      "name": "Agência Brasil",
+      "country": "Brasil",
+      "countryCode": "BR",
+      "sections": [
+        "Internacional",
+        "Sociedad",
+        "Economía"
+      ],
+      "format": "RSS",
+      "url": "https://agenciabrasil.ebc.com.br/rss/ultimasnoticias/feed.xml",
+      "usage": "Titular y enlace original; no copiar artículos.",
+      "language": "pt",
+      "editorialProfile": "public"
+    },
+    {
+      "id": "el-universal-mexico",
+      "name": "El Universal",
+      "country": "México",
+      "countryCode": "MX",
+      "sections": [
+        "Internacional",
+        "Sociedad",
+        "Economía"
+      ],
+      "format": "RSS",
+      "url": "https://www.eluniversal.com.mx/rss.xml",
+      "usage": "Titular y enlace original; no copiar artículos.",
+      "language": "es",
+      "editorialProfile": "generalist"
+    },
+    {
+      "id": "daily-sabah-turkey",
+      "name": "Daily Sabah",
+      "country": "Turquía",
+      "countryCode": "TR",
+      "sections": [
+        "Internacional",
+        "Sociedad",
+        "Economía"
+      ],
+      "format": "RSS",
+      "url": "https://www.dailysabah.com/rssFeed/turkey",
+      "usage": "Titular y enlace original; no copiar artículos.",
+      "language": "en",
+      "editorialProfile": "conservative"
+    },
+    {
+      "id": "news24-south-africa",
+      "name": "News24",
+      "country": "Sudáfrica",
+      "countryCode": "ZA",
+      "sections": [
+        "Internacional",
+        "Sociedad",
+        "Economía"
+      ],
+      "format": "RSS",
+      "url": "https://feeds.news24.com/articles/news24/TopStories/rss",
+      "usage": "Titular y enlace original; no copiar artículos.",
+      "language": "en",
+      "editorialProfile": "generalist"
+    },
+    {
+      "id": "premium-times-nigeria",
+      "name": "Premium Times",
+      "country": "Nigeria",
+      "countryCode": "NG",
+      "sections": [
+        "Internacional",
+        "Sociedad",
+        "Economía"
+      ],
+      "format": "RSS",
+      "url": "https://www.premiumtimesng.com/feed",
+      "usage": "Titular y enlace original; no copiar artículos.",
+      "language": "en",
+      "editorialProfile": "progressive"
+    },
+    {
+      "id": "ukrainska-pravda",
+      "name": "Ukrainska Pravda",
+      "country": "Ucrania",
+      "countryCode": "UA",
+      "sections": [
+        "Internacional",
+        "Sociedad",
+        "Economía"
+      ],
+      "format": "RSS",
+      "url": "https://www.pravda.com.ua/eng/rss/view_news/",
+      "usage": "Titular y enlace original; no copiar artículos.",
+      "language": "en",
+      "editorialProfile": "generalist"
     }
   ]
 }
