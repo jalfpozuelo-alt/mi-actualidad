@@ -49,3 +49,6 @@ button:focus-visible,a:focus-visible,input:focus-visible{outline:3px solid #b15f
 .countryGrid{display:grid;grid-template-columns:repeat(2,minmax(150px,1fr));gap:8px 14px;align-items:center}
 .countryGrid .countryBulk,.countryGrid .closeFilter{grid-column:1/-1}
 @media (max-width:600px){.countryGrid{grid-template-columns:1fr}}
+.preferenceBulk{display:flex;flex-wrap:wrap;gap:6px;margin:2px 0 4px}
+.preferenceBulk button{border:1px solid #b15f3f;border-radius:6px;background:transparent;color:inherit;padding:6px 8px;font-size:10px;font-weight:700;cursor:pointer}
+.preferenceBulk button:hover{background:#b15f3f;color:#fff}
