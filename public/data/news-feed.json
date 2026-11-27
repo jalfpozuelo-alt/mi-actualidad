@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T09:48:41.708Z",
+  "generatedAt": "2026-11-27T10:09:20.392Z",
   "isEditoriallyValidated": false,
   "summaryStatus": "pending-editorial-review",
   "stories": [
@@ -8,16 +8,17 @@
       "id": "deutschlandfunk-de-fa955a1be4faf451",
       "title": "Cumbre sin resultados: los puntos de desacuerdo en el presupuesto de la UE",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-27T09:45:57.000Z",
-      "updatedAt": "2026-11-27T09:48:21.395Z",
+      "publishedAt": "2026-11-27T10:04:17.000Z",
+      "updatedAt": "2026-11-27T10:09:12.438Z",
       "country": "Alemania",
       "countryCode": "DE",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.91978055555556,
+      "importance": 111.83586833333334,
       "source": {
         "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/die-streitpunkte-beim-eu-haushalt-100.html"
+        "url": "https://www.deutschlandfunk.de/die-streitpunkte-beim-eu-haushalt-100.html",
+        "editorialProfile": "public"
       },
       "topicKey": "cumbre|desacuerdo|presupuesto|puntos|resultados",
       "image": null,
@@ -28,16 +29,17 @@
       "id": "deutschlandfunk-de-69e9a63734df7a11",
       "title": "El mercado laboral sigue débil: el número de desempleados disminuye ligeramente en noviembre",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-27T09:45:57.000Z",
-      "updatedAt": "2026-11-27T09:48:22.100Z",
+      "publishedAt": "2026-11-27T10:04:17.000Z",
+      "updatedAt": "2026-11-27T10:09:12.636Z",
       "country": "Alemania",
       "countryCode": "DE",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.91938888888889,
+      "importance": 111.83575777777777,
       "source": {
         "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/arbeitslosenzahl-im-november-sinkt-leicht-100.html"
+        "url": "https://www.deutschlandfunk.de/arbeitslosenzahl-im-november-sinkt-leicht-100.html",
+        "editorialProfile": "public"
       },
       "topicKey": "debil|desempleados|disminuye|laboral|ligeramente|mercado|numero|sigue",
       "image": null,
@@ -45,61 +47,43 @@
       "isEditorialSummary": false
     },
     {
-      "id": "deutschlandfunk-de-d0bcc71b75de3300",
-      "title": "Sajonia-Anhalt: Convocada una sesión extraordinaria para la elección del ministro presidente",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-27T09:45:57.000Z",
-      "updatedAt": "2026-11-27T09:48:23.163Z",
-      "country": "Alemania",
-      "countryCode": "DE",
+      "id": "lanacion-ar-c6f6d7e151f7f2f3",
+      "title": "Brasil 2027: las playas más buscadas para visitar en el verano",
+      "summary": "A pocos días del inicio de la temporada estival, muchos argentinos evalúan distintos lugares para vacacionar; conocé los más populares",
+      "publishedAt": "2026-11-27T09:58:07.000Z",
+      "updatedAt": "2026-11-27T10:09:09.477Z",
+      "country": "Argentina",
+      "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.91879833333333,
+      "importance": 111.63195722222223,
       "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/sondersitzung-fuer-ministerpraesidentenwahl-einberufen-100.html"
+        "name": "La Nación",
+        "url": "https://www.lanacion.com.ar/sociedad/brasil-2027-las-playas-mas-buscadas-para-visitar-en-el-verano-nid27112026/",
+        "editorialProfile": "conservative"
       },
-      "topicKey": "anhalt|convocada|eleccion|extraordinaria|ministro|presidente|sajonia|sesion",
+      "topicKey": "2027|brasil|buscadas|playas|verano|visitar",
       "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "deutschlandfunk-de-549895867e8470aa",
-      "title": "Estudio del IW: Los jóvenes se ven «especialmente afectados» por la situación del mercado inmobiliario",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-27T09:45:57.000Z",
-      "updatedAt": "2026-11-27T09:48:24.084Z",
-      "country": "Alemania",
-      "countryCode": "DE",
+      "id": "lanacion-ar-db71afc8cfee2e4a",
+      "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 27 de noviembre",
+      "summary": "Ayer el dólar oficial cerró su cotización a $1575 para la compra y $1625 para la venta",
+      "publishedAt": "2026-11-27T09:55:27.000Z",
+      "updatedAt": "2026-11-27T10:09:09.477Z",
+      "country": "Argentina",
+      "countryCode": "AR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.91828666666666,
+      "importance": 111.54306833333334,
       "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/junge-menschen-von-wohnungsmarktlage-besonders-betroffen-100.html"
+        "name": "La Nación",
+        "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid27112026/",
+        "editorialProfile": "conservative"
       },
-      "topicKey": "afectados|especialmente|estudio|inmobiliario|jovenes|mercado|situacion",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "deutschlandfunk-de-47728d9f4abe00af",
-      "title": "Política social - Winkel defiende la propuesta de compromiso para jubilarse a los 63 años",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-27T09:45:57.000Z",
-      "updatedAt": "2026-11-27T09:48:24.904Z",
-      "country": "Alemania",
-      "countryCode": "DE",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.91783111111111,
-      "source": {
-        "name": "Deutschlandfunk",
-        "url": "https://www.deutschlandfunk.de/winkel-verteidigt-kompromissvorschlag-zur-rente-mit-100.html"
-      },
-      "topicKey": "anos|compromiso|defiende|jubilarse|politica|propuesta|social|winkel",
+      "topicKey": "blue|cotiza|cual|cuanto|dolar|dolar|oficial|vivo",
       "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -109,97 +93,18 @@
       "title": "«Las cortinas» calientan los corazones de la gente y las «obras cortas» reúnen nuevas fuerzas: el curso de formación para funcionarios del Frente Unido de Shanxi visita los lugares de práctica para ver cómo las «pequeñas posiciones» pueden lograr «grandes logros»",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-27T09:45:21.000Z",
-      "updatedAt": "2026-11-27T09:48:33.938Z",
+      "updatedAt": "2026-11-27T10:09:16.253Z",
       "country": "China",
       "countryCode": "CN",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.89281277777778,
+      "importance": 111.20263722222222,
       "source": {
         "name": "China News Service",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738890.shtml"
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738890.shtml",
+        "editorialProfile": "state"
       },
       "topicKey": "calientan|corazones|cortas|cortinas|gente|nuevas|obras|reunen",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "lanacion-ar-db71afc8cfee2e4a",
-      "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este viernes 27 de noviembre",
-      "summary": "Ayer el dólar oficial cerró su cotización a $1575 para la compra y $1625 para la venta",
-      "publishedAt": "2026-11-27T09:44:09.000Z",
-      "updatedAt": "2026-11-27T09:48:07.835Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.86731388888889,
-      "source": {
-        "name": "La Nación",
-        "url": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid27112026/"
-      },
-      "topicKey": "blue|cotiza|cual|cuanto|dolar|dolar|oficial|vivo",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "lanacion-ar-b49789cb54eb9794",
-      "title": "Navidad 2026: qué es y cómo se hace el pan dulce relleno de cookies",
-      "summary": "Aprendé cómo hacer esta innovadora y curiosa receta en pocos pasos y sorprender a tu familia en la mesa del 24 y 25 de diciembre",
-      "publishedAt": "2026-11-27T09:44:03.000Z",
-      "updatedAt": "2026-11-27T09:48:07.835Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.86398055555556,
-      "source": {
-        "name": "La Nación",
-        "url": "https://www.lanacion.com.ar/recetas/navidad-2026-que-es-y-como-se-hace-el-pan-dulce-relleno-de-cookies-nid26112026/"
-      },
-      "topicKey": "2026|cookies|dulce|hace|navidad|relleno",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "ria-ru-d88ac05a2cdb271c",
-      "title": "Más de 100 personas han recibido el fármaco de células CAR-T contra el cáncer de la sangre",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-27T09:42:57.000Z",
-      "updatedAt": "2026-11-27T09:48:27.875Z",
-      "country": "Rusia",
-      "countryCode": "RU",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.81618055555556,
-      "source": {
-        "name": "RIA Novosti",
-        "url": "https://ria.ru/20261127/utzhefra-2134340430.html"
-      },
-      "topicKey": "cancer|celulas|contra|farmaco|personas|recibido|sangre",
-      "image": "https://cdnn21.imgria.ru/images/155775/08/1557750813_0:194:2955:1856_650x0_80_0_0_6296e392d6fd175064fba9b5f654853d.jpg",
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "lanacion-ar-4d1ac5ecd94a8dd5",
-      "title": "Federico Bal inauguró la temporada de pileta con un video de Evelyn Botto: “Las curvas del verano”",
-      "summary": "El actor compartió en sus redes sociales una grabación de su novia disfrutando de una tarde de sol y sorprendió con un pícaro comentario; los detalles en la nota",
-      "publishedAt": "2026-11-27T09:42:17.000Z",
-      "updatedAt": "2026-11-27T09:48:07.835Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.80509166666667,
-      "source": {
-        "name": "La Nación",
-        "url": "https://www.lanacion.com.ar/espectaculos/federico-bal-inauguro-la-temporada-de-pileta-con-un-video-de-evelyn-botto-las-curvas-del-verano-nid24112026/"
-      },
-      "topicKey": "botto|curvas|evelyn|federico|inauguro|pileta|temporada|video",
       "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -209,15 +114,16 @@
       "title": "Presentación de «Cangqiong CEORION», el primer gran modelo base general para el ámbito marino a nivel mundial",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-27T09:42:35.000Z",
-      "updatedAt": "2026-11-27T09:48:35.142Z",
+      "updatedAt": "2026-11-27T10:09:16.254Z",
       "country": "China",
       "countryCode": "CN",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.79992111111112,
+      "importance": 111.110415,
       "source": {
         "name": "China News Service",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738889.shtml"
+        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738889.shtml",
+        "editorialProfile": "state"
       },
       "topicKey": "base|cangqiong|ceorion|general|gran|modelo|presentacion|primer",
       "image": null,
@@ -229,158 +135,19 @@
       "title": "Gérard Depardieu, despedido por violación: «Es una verdadera victoria», afirma Charlotte Arnould",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-27T09:41:57.000Z",
-      "updatedAt": "2026-11-27T09:48:14.013Z",
+      "updatedAt": "2026-11-27T10:09:10.554Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 111.79054833333333,
+      "importance": 111.09247,
       "source": {
         "name": "Franceinfo",
-        "url": "https://www.franceinfo.fr/culture/cinema/depardieu/gerard-depardieu-renvoye-pour-viol-c-est-une-vraie-victoire-reagit-charlotte-arnould_8302614.html#xtor=RSS-3-[lestitres]"
+        "url": "https://www.franceinfo.fr/culture/cinema/depardieu/gerard-depardieu-renvoye-pour-viol-c-est-une-vraie-victoire-reagit-charlotte-arnould_8302614.html#xtor=RSS-3-[lestitres]",
+        "editorialProfile": "public"
       },
       "topicKey": "afirma|charlotte|depardieu|despedido|gerard|verdadera|victoria|violacion",
       "image": "https://www.franceinfo.fr/pictures/e1W1jF0SNO7Ws-e-L1WVw9DEpHA/0x0:1280x720/432x243/filters:format(jpg)/2026/11/27/6b0936da69e11573518322.jpeg",
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "lanacion-ar-c6a9892f783dd6ff",
-      "title": "Los expertos en comportamiento canino coinciden: los perros rompen cosas cuando se quedan solos porque sufren ansiedad por separación",
-      "summary": "Qué revela el comportamiento destructivo cuando quedan solos en casa, qué errores conviene evitar al regresar y cuándo consultar a un profesional",
-      "publishedAt": "2026-11-27T09:41:28.000Z",
-      "updatedAt": "2026-11-27T09:48:07.835Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.77786944444445,
-      "source": {
-        "name": "La Nación",
-        "url": "https://www.lanacion.com.ar/lifestyle/mascotas/los-expertos-en-comportamiento-canino-coinciden-los-perros-rompen-cosas-cuando-se-quedan-solos-nid26112026/"
-      },
-      "topicKey": "canino|coinciden|comportamiento|cosas|cuando|expertos|perros|rompen",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "lanacion-ar-51943e0766208a52",
-      "title": "Cómo activar el “modo GTA” en WhatsApp",
-      "summary": "Los fanáticos del videojuego pueden modificar el tradicional ícono verde de la aplicación; qué herramientas necesitan y cuáles son los pasos a seguir",
-      "publishedAt": "2026-11-27T09:40:40.000Z",
-      "updatedAt": "2026-11-27T09:48:07.835Z",
-      "country": "Argentina",
-      "countryCode": "AR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.75120277777778,
-      "source": {
-        "name": "La Nación",
-        "url": "https://www.lanacion.com.ar/tecnologia/como-activar-el-modo-gta-en-whatsapp-nid25112026/"
-      },
-      "topicKey": "activar|modo|whatsapp",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "ria-ru-728016dbb057f193",
-      "title": "Las Fuerzas Armadas de Ucrania perdieron hasta 145 militares en una semana en la zona de operaciones «Dniéper»",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-27T09:40:39.000Z",
-      "updatedAt": "2026-11-27T09:48:28.637Z",
-      "country": "Rusia",
-      "countryCode": "RU",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.73909055555555,
-      "source": {
-        "name": "RIA Novosti",
-        "url": "https://ria.ru/20261127/svo-2134340090.html"
-      },
-      "topicKey": "armadas|fuerzas|hasta|militares|perdieron|semana|ucrania|zona",
-      "image": "https://cdnn21.imgria.ru/images/07ea/08/0e/2110865070_0:0:3151:1772_650x0_80_0_0_f638e4b23a47f752340159b46e91a9e7.jpg",
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "ria-ru-60b1e71c81f3eb17",
-      "title": "En una semana, la defensa antiaérea derribó 5422 drones",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-27T09:40:36.000Z",
-      "updatedAt": "2026-11-27T09:48:29.678Z",
-      "country": "Rusia",
-      "countryCode": "RU",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.73684555555556,
-      "source": {
-        "name": "RIA Novosti",
-        "url": "https://ria.ru/20261127/pvo-2134339995.html"
-      },
-      "topicKey": "5422|antiaerea|defensa|derribo|drones|semana",
-      "image": "https://cdnn21.imgria.ru/images/07e8/01/13/1922284030_0:196:3072:1924_650x0_80_0_0_eebb9549a7ee811a3493849411da8440.jpg",
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "ria-ru-d4ef4573bb3e8d4d",
-      "title": "Las Fuerzas Armadas de Ucrania perdieron más de 1435 militares en la zona de operaciones de «Vostok» en una semana",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-27T09:40:02.000Z",
-      "updatedAt": "2026-11-27T09:48:31.349Z",
-      "country": "Rusia",
-      "countryCode": "RU",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.71702833333333,
-      "source": {
-        "name": "RIA Novosti",
-        "url": "https://ria.ru/20261127/vostok-2134339819.html"
-      },
-      "topicKey": "1435|armadas|fuerzas|militares|operaciones|perdieron|ucrania|zona",
-      "image": "https://cdnn21.imgria.ru/images/07e9/02/15/2000728435_0:163:3147:1933_650x0_80_0_0_6c30df2299924ee9024dce95c04f7957.jpg",
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "chinanews-cn-9bcacda698514d89",
-      "title": "Wang Fusheng, antiguo miembro del Comité del Partido y supervisor del Departamento de Asuntos Civiles de la provincia de Anhui, es sometido a investigación y examen",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-27T09:33:30.000Z",
-      "updatedAt": "2026-11-27T09:48:37.750Z",
-      "country": "China",
-      "countryCode": "CN",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.49569444444444,
-      "source": {
-        "name": "China News Service",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738880.shtml"
-      },
-      "topicKey": "antiguo|comite|departamento|fusheng|miembro|partido|supervisor|wang",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "chinanews-cn-9dab95e30d73f91d",
-      "title": "Bao Chuntian, antiguo director del Centro de Investigación de Empresas Cotizadas del Instituto de Finanzas de la Universidad de Zhejiang, está siendo investigado",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-27T09:31:52.000Z",
-      "updatedAt": "2026-11-27T09:48:39.817Z",
-      "country": "China",
-      "countryCode": "CN",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 111.44010166666666,
-      "source": {
-        "name": "China News Service",
-        "url": "https://www.chinanews.com.cn/gn/2026/11-27/10738875.shtml"
-      },
-      "topicKey": "antiguo|centro|chuntian|cotizadas|director|empresas|instituto|investigacion",
-      "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
@@ -389,18 +156,40 @@
       "title": "Saludos nazis, aficionados hospitalizados, reacción de Macron... Lo que sabemos sobre los graves actos de violencia ocurridos durante el partido OM-Levski Sofía",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-27T09:13:57.000Z",
-      "updatedAt": "2026-11-27T09:48:11.730Z",
+      "updatedAt": "2026-11-27T10:09:10.340Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 110.85848333333334,
+      "importance": 110.15925555555556,
       "source": {
         "name": "Franceinfo",
-        "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/saluts-nazis-supporters-hospitalises-reaction-de-macron-ce-que-l-on-sait-des-graves-violences-lors-du-match-om-levski-sofia-3456848.html#xtor=RSS-3-[lestitres]"
+        "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/saluts-nazis-supporters-hospitalises-reaction-de-macron-ce-que-l-on-sait-des-graves-violences-lors-du-match-om-levski-sofia-3456848.html#xtor=RSS-3-[lestitres]",
+        "editorialProfile": "public"
       },
       "topicKey": "aficionados|graves|hospitalizados|macron|nazis|reaccion|sabemos|saludos",
       "image": "https://www.franceinfo.fr/pictures/dNSDGaOYHxHcj87wuJaH1Jsgk24/0x0:1920x1080/432x243/filters:format(jpg)/2026/11/27/6b0949821271c647874512.jpg",
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "xataka-5e6f1979b9d196d6",
+      "title": "No tiene pantalla, pero sí entrenador con IA, 45 días de batería y descuento: así es la pulsera española DuckDik Sense",
+      "summary": "El Black Friday es una buena oportunidad para encontrar dispositivos tecnológicos diferentes a los habituales (tal y como te estamos contando en nuestro directo). Es el caso de la DuckDik Sense, una pulsera inteligente española que ahora se puede comprar rebajada a 79 euros en Amazon. Duckdik Sense Smart Band sin Pantalla 79,00 € El precio podría variar. Obtenemos comisión por estos enlaces Una pulsera de actividad con IA y una excelente autonomía A diferencia de las pulseras de actividad convencionales, la DuckDik Sense prescinde de la pantalla y concentra toda la información en su app para m",
+      "publishedAt": "2026-11-27T10:02:23.000Z",
+      "updatedAt": "2026-11-27T10:09:07.223Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "Tecnología",
+      "category": "Tecnología",
+      "importance": 109.77543166666666,
+      "source": {
+        "name": "Xataka",
+        "url": "https://www.xataka.com/seleccion/no-tiene-pantalla-entrenador-ia-45-dias-bateria-descuento-asi-pulsera-espanola-duckdik-sense",
+        "editorialProfile": "liberal"
+      },
+      "topicKey": "bateria|descuento|dias|entrenador|pantalla|pero|pulsera|tiene",
+      "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
@@ -409,15 +198,16 @@
       "title": "Nunca estuvo tan barato: el Samsung Galaxy Z Fold8 Ultra se desploma en Amazon con un descuentazo histórico y un año extra de garantía",
       "summary": "Hoy es uno de los días más esperados para muchos para hacer compras personales o darse un capricho, el Black Friday (del que en Xataka estamos haciendo un directo con todos los chollos del momento). Si llevas tiempo pensando en dar el salto a un móvil plegable, el más top de Samsung, el Galaxy Z Fold8 Ultra es uno de los chollos más destacados hoy en Amazon. Su precio habitual es de 2.399 euros, pero ahora está disponible por 1.982,64 euros. Samsung Galaxy Z Fold8 Ultra 12+512 GB 1.982,64 € Samsung — 2.039,00 € MediaMarkt (PVP miMediaMarkt) — 2.049,00 € FNAC — 2.249,00 € PcComponentes — 2.249,",
       "publishedAt": "2026-11-27T09:30:26.000Z",
-      "updatedAt": "2026-11-27T09:48:02.760Z",
+      "updatedAt": "2026-11-27T10:09:07.224Z",
       "country": "España",
       "countryCode": "ES",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 109.41291111111111,
+      "importance": 108.7104311111111,
       "source": {
         "name": "Xataka",
-        "url": "https://www.xataka.com/seleccion/nunca-estuvo-barato-samsung-galaxy-z-fold8-ultra-se-desploma-amazon-descuentazo-historico-ano-extra-garantia"
+        "url": "https://www.xataka.com/seleccion/nunca-estuvo-barato-samsung-galaxy-z-fold8-ultra-se-desploma-amazon-descuentazo-historico-ano-extra-garantia",
+        "editorialProfile": "liberal"
       },
       "topicKey": "barato|desploma|estuvo|fold8|galaxy|nunca|samsung|ultra",
       "image": null,
@@ -429,97 +219,18 @@
       "title": "Los Eagles se recuperan para sorprender a los Cowboys tras ir perdiendo por 21 puntos",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-27T08:23:12.000Z",
-      "updatedAt": "2026-11-27T09:47:55.980Z",
+      "updatedAt": "2026-11-27T10:09:03.674Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 109.17556666666667,
+      "importance": 108.47129222222222,
       "source": {
         "name": "NPR",
-        "url": "https://www.npr.org/2026/11/27/nx-s1-6055519/eagles-stun-cowboys"
+        "url": "https://www.npr.org/2026/11/27/nx-s1-6055519/eagles-stun-cowboys",
+        "editorialProfile": "public"
       },
       "topicKey": "cowboys|eagles|perdiendo|puntos|recuperan|sorprender",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "franceinfo-125503ad31bef5db",
-      "title": "El PIB de Francia cae un 0,2 % en el tercer trimestre, tras una revisión a la baja del INSEE",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-27T07:59:19.000Z",
-      "updatedAt": "2026-11-27T09:48:15.185Z",
-      "country": "Francia",
-      "countryCode": "FR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 108.3687861111111,
-      "source": {
-        "name": "Franceinfo",
-        "url": "https://www.franceinfo.fr/economie/croissance/le-pib-recule-de-0-2-en-france-au-troisieme-trimestre-apres-une-revision-a-la-baisse-de-l-insee_8302671.html#xtor=RSS-3-[lestitres]"
-      },
-      "topicKey": "baja|francia|insee|revision|tercer|trimestre",
-      "image": "https://www.franceinfo.fr/pictures/NsB-w9Moy0Y-IlQnfBTVA4Koq0Y/0x454:4346x2899/432x243/filters:format(jpg)/2026/11/27/6b0937f22639b314960821.jpg",
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "franceinfo-14b829a1536a85df",
-      "title": "Presupuesto de Europa: ¿es cierto que cuando Francia aporta 100 euros a Europa, recibe 80 euros a cambio?",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-27T07:37:05.000Z",
-      "updatedAt": "2026-11-27T09:48:16.469Z",
-      "country": "Francia",
-      "countryCode": "FR",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 107.62696166666666,
-      "source": {
-        "name": "Franceinfo",
-        "url": "https://www.franceinfo.fr/replay-radio/le-vrai-du-faux/vrai-ou-faux-budget-de-l-europe-est-il-vrai-que-la-france-perd-de-l-argent-en-contribuant-a-l-ue_8280254.html#xtor=RSS-3-[lestitres]"
-      },
-      "topicKey": "aporta|cierto|cuando|europa|europa|euros|francia|presupuesto",
-      "image": "https://www.franceinfo.fr/pictures/fbaFk4WPnBKDMf6GyHWIZk9V3IQ/0x18:1024x594/432x243/filters:format(jpg)/2026/11/10/6af32992b1d70600880816.jpg",
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "xataka-ed250e048b17af1c",
-      "title": "Empieza el Black Friday con doble descuento para el Google Pixel 11 Pro XL: es su mejor precio de 2026",
-      "summary": "Ya estamos en Black Friday y, aunque llevamos casi un mes ofertas potentes, hoy vamos a ver, probablemente, los mejores descuentos del año en algunos dispositivos. De hecho, empezamos esta mañana con uno de los mejores móviles de 2026, al que es su nuevo precio mínimo histórico: se trata del Google Pixel 11 Pro XL, disponible en MediaMarkt por 949,05 euros usando el código 'PIXELEXTRA5'. Google Pixel 11 Pro XL – Smartphone Android libre - Obsidiana, 256GB | Con Gemini Intelligence, batería de más de 30 horas y pantalla Super Actua de 6,8” 949,05 € Amazon — 999,00 € PcComponentes — 1.081,00 € E",
-      "publishedAt": "2026-11-27T08:06:20.000Z",
-      "updatedAt": "2026-11-27T09:48:02.760Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 106.60957777777777,
-      "source": {
-        "name": "Xataka",
-        "url": "https://www.xataka.com/seleccion/empieza-black-friday-doble-descuento-para-google-pixel-11-pro-xl-su-mejor-precio-2026"
-      },
-      "topicKey": "black|descuento|doble|empieza|friday|google|mejor|pixel",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "xataka-e3049295329c9f15",
-      "title": "El revuelo con T3 Code y programar con IA, explicado: un software open source que usa telemetría para identificar al usuario",
-      "summary": "Sacar una aplicación específica para algo que necesitas ya no es un sueño, forma parte de un vibecoding que se ha convertido en habitual. La programación se incluye en herramientas comerciales, como Claude, ChatGPT o Gemini, aunque tenemos a nuestro alcance otras herramientas especializadas que hasta se distribuyen bajo código abierto. No obstante, eso no significa que estemos exentos de peligro. Abierto no es sinónimo de limpio. El software open source que se distribuye en plataformas como GitHub incluye el código que da forma a los distintos programas. El desarrollador explica qué hace su ap",
-      "publishedAt": "2026-11-27T08:00:21.000Z",
-      "updatedAt": "2026-11-27T09:48:02.760Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 106.41013333333333,
-      "source": {
-        "name": "Xataka",
-        "url": "https://www.xataka.com/robotica-e-ia/revuelo-t3-code-programar-ia-explicado-software-open-source-que-usa-telemetria-para-identificar-al-usuario"
-      },
-      "topicKey": "code|explicado|open|programar|revuelo|software|source|telemetria",
       "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -529,15 +240,16 @@
       "title": "4 datos económicos que explican cómo llega España a las elecciones generales del 29N",
       "summary": "Analizamos, de cara a las elecciones generales del 29 de noviembre, por qué el crecimiento del PIB y el récord de empleo en España conviven con salarios que han perdido poder adquisitivo y una de las tasas de pobreza infantil más altas de Europa.",
       "publishedAt": "2026-11-27T04:53:27.000Z",
-      "updatedAt": "2026-11-27T09:47:51.738Z",
+      "updatedAt": "2026-11-27T10:08:59.632Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 106.18625666666667,
+      "importance": 105.4818711111111,
       "source": {
         "name": "BBC Mundo",
-        "url": "https://www.bbc.com/mundo/articles/c3rrgd44kqk2o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/mundo/articles/c3rrgd44kqk2o?at_medium=RSS&at_campaign=rss",
+        "editorialProfile": "public"
       },
       "topicKey": "datos|economicos|elecciones|espana|explican|generales|llega",
       "image": null,
@@ -545,42 +257,23 @@
       "isEditorialSummary": false
     },
     {
-      "id": "npr-us-251c853bebc81eff",
-      "title": "Ha fallecido Strobe Talbott, antiguo periodista de la revista «Time» y subsecretario de Estado",
+      "id": "lemonde-fr-a27db61adb26ab86",
+      "title": "Por qué los alcaldes desempeñan un papel clave en las elecciones presidenciales de Francia",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-27T06:12:45.000Z",
-      "updatedAt": "2026-11-27T09:47:55.980Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 104.82723333333334,
-      "source": {
-        "name": "NPR",
-        "url": "https://www.npr.org/2026/11/27/g-s1-155990/strobe-talbott-obit"
-      },
-      "topicKey": "antiguo|fallecido|periodista|revista|strobe|subsecretario|talbott|time",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "france24-6be48af6637c6e6b",
-      "title": "¿Ruptura en la relación Canadá-monarquía? Diputados de Quebec se niegan a jurar lealtad a Carlos III",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-27T03:47:28.000Z",
-      "updatedAt": "2026-11-27T09:47:57.560Z",
+      "publishedAt": "2026-11-27T04:00:10.000Z",
+      "updatedAt": "2026-11-27T10:09:11.209Z",
       "country": "Francia",
       "countryCode": "FR",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 103.98357777777778,
+      "importance": 99.69932833333334,
       "source": {
-        "name": "France 24",
-        "url": "https://www.france24.com/es/video/20261127-quiebre-en-la-relaci%C3%B3n-canad%C3%A1-monarqu%C3%ADa-diputados-de-quebec-se-niegan-a-jurar-lealtad-a-carlos-iii"
+        "name": "Le Monde",
+        "url": "https://www.lemonde.fr/en/politics/article/2026/11/27/why-mayors-play-a-key-role-in-france-s-presidential-election_6789730_5.html",
+        "editorialProfile": "progressive"
       },
-      "topicKey": "canada|diputados|jurar|monarquia|niegan|quebec|relacion|ruptura",
-      "image": "https://s.france24.com/media/display/b739cf0e-ea12-11f1-af50-f9cf020caef6/w:1024/p:16x9/ES-20261126-203903-204307-CS.jpg",
+      "topicKey": "alcaldes|clave|desempenan|elecciones|francia|papel|presidenciales",
+      "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
@@ -589,17 +282,60 @@
       "title": "Escalado contextual: una nueva frontera del escalado de la IA",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-27T05:00:00.000Z",
-      "updatedAt": "2026-11-27T09:48:00.906Z",
+      "updatedAt": "2026-11-27T10:09:06.539Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 100.39949666666666,
+      "importance": 99.69636722222222,
       "source": {
         "name": "arXiv AI",
-        "url": "https://arxiv.org/abs/2611.33160"
+        "url": "https://arxiv.org/abs/2611.33160",
+        "editorialProfile": "public"
       },
       "topicKey": "contextual|escalado|escalado|frontera|nueva",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "pagina12-ar-af8906a5fe2c7d86",
+      "title": "El oro del Central está en Londres",
+      "summary": "La AGN precisó el destino de los lingotes y ratificó que la entidad monetaria perdió 1.023 millones de dólares. El Deutsche Bank, donde trabajaron Caputo y Bausili, ganó 157,6 millones. El Central ya no tiene barras propias sino un derecho sobre “oro no asignado”, y negó operaciones que figuran en su propia contabilidad.",
+      "publishedAt": "2026-11-27T03:01:00.000Z",
+      "updatedAt": "2026-11-27T10:09:20.391Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 97.722005,
+      "source": {
+        "name": "Página/12",
+        "url": "https://www.pagina12.com.ar/2026/11/26/el-oro-del-central-esta-en-londres/",
+        "editorialProfile": "progressive"
+      },
+      "topicKey": "central|londres",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "pagina12-ar-a31be1e8980631fd",
+      "title": "El Senado dio media sanción para suspender las PASO en 2027",
+      "summary": "Un proyecto distinto al inicial seguirá su debate en Diputados, en sesiones extraordinarias. El Gobierno se afloja la soga del cuello tras una turbulenta semana económica.",
+      "publishedAt": "2026-11-27T03:01:00.000Z",
+      "updatedAt": "2026-11-27T10:09:20.391Z",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 97.722005,
+      "source": {
+        "name": "Página/12",
+        "url": "https://www.pagina12.com.ar/2026/11/27/el-senado-dio-media-sancion-para-suspender-las-paso-en-2027/",
+        "editorialProfile": "progressive"
+      },
+      "topicKey": "2027|media|paso|sancion|senado|suspender",
       "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -609,15 +345,16 @@
       "title": "Una ciudad teme perder su muelle tras el derrumbe de una sección en el mar",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-27T00:46:52.000Z",
-      "updatedAt": "2026-11-27T09:48:08.692Z",
+      "updatedAt": "2026-11-27T10:09:10.058Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 97.95739333333333,
+      "importance": 97.25663444444444,
       "source": {
         "name": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/26/us/pacifica-pier-collapse-el-nino-king-tides.html"
+        "url": "https://www.nytimes.com/2026/11/26/us/pacifica-pier-collapse-el-nino-king-tides.html",
+        "editorialProfile": "liberal"
       },
       "topicKey": "ciudad|derrumbe|muelle|perder|seccion|teme",
       "image": null,
@@ -629,37 +366,18 @@
       "title": "Tras la detonación de Iowa, una familia se reunió para celebrar un Día de Acción de Gracias poco habitual",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-27T00:33:25.000Z",
-      "updatedAt": "2026-11-27T09:48:08.692Z",
+      "updatedAt": "2026-11-27T10:09:10.058Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 97.50906055555555,
+      "importance": 96.8083011111111,
       "source": {
         "name": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/26/us/iowa-detonation-family-thanksgiving.html"
+        "url": "https://www.nytimes.com/2026/11/26/us/iowa-detonation-family-thanksgiving.html",
+        "editorialProfile": "liberal"
       },
       "topicKey": "accion|celebrar|detonacion|familia|gracias|iowa|poco|reunio",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "nyt-us-cfbf2b1dc6261d2d",
-      "title": "Una reclusa embarazada se escapa del vehículo de transporte de una prisión de Nuevo México",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-27T00:23:58.000Z",
-      "updatedAt": "2026-11-27T09:48:08.692Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 97.19406000000001,
-      "source": {
-        "name": "The New York Times",
-        "url": "https://www.nytimes.com/2026/11/26/us/pregnant-inmate-escapes-new-mexico.html"
-      },
-      "topicKey": "embarazada|escapa|mexico|nuevo|prision|reclusa|transporte|vehiculo",
       "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -669,15 +387,16 @@
       "title": "Voto útil con todas las encuestas: Las opciones de izquierda y derecha en cada provincia",
       "summary": "El modelo de EL PAÍS dice que hay 40 escaños en el aire. Consulta a qué partido le sirve más tu voto",
       "publishedAt": "2026-11-27T04:30:01.000Z",
-      "updatedAt": "2026-11-27T09:47:51.544Z",
+      "updatedAt": "2026-11-27T10:08:59.408Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 96.40525333333333,
+      "importance": 95.70088444444444,
       "source": {
         "name": "EL PAÍS",
-        "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/se-ha-movido-el-voto-util-las-opciones-de-izquierda-y-derecha-en-cada-provincia-con-las-ultimas-encuestas.html"
+        "url": "https://elpais.com/espana/elecciones-generales/2026-11-21/se-ha-movido-el-voto-util-las-opciones-de-izquierda-y-derecha-en-cada-provincia-con-las-ultimas-encuestas.html",
+        "editorialProfile": "progressive"
       },
       "topicKey": "cada|derecha|encuestas|izquierda|opciones|todas|util|voto",
       "image": null,
@@ -689,15 +408,16 @@
       "title": "Un debate sin ganadores ni vencidos",
       "summary": "Sánchez, Feijóo, Abascal y Colau salieron del debate tan vivos (o muertos) como entraron.",
       "publishedAt": "2026-11-27T04:00:00.000Z",
-      "updatedAt": "2026-11-27T09:48:25.122Z",
+      "updatedAt": "2026-11-27T10:09:12.863Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 95.38604333333333,
+      "importance": 94.69285388888889,
       "source": {
         "name": "20minutos",
-        "url": "https://www.20minutos.es/nacional/campana-vista-para-sentencia-7066480-3-html-jesus-morales_7066480_3.html"
+        "url": "https://www.20minutos.es/nacional/campana-vista-para-sentencia-7066480-3-html-jesus-morales_7066480_3.html",
+        "editorialProfile": "liberal"
       },
       "topicKey": "debate|ganadores|vencidos",
       "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/27/6b08ccb2064b52-33366343.jpeg",
@@ -709,15 +429,16 @@
       "title": "Un debate en blanco en vísperas del Black Friday: eran cuatro, ahora son dos",
       "summary": "Los cuatro candidatos cumplieron con el guion establecido en un debate sin alusiones entre el bloque de la derecha y pellizcos de monja de una combativa Colau a Sánchez.",
       "publishedAt": "2026-11-27T04:00:00.000Z",
-      "updatedAt": "2026-11-27T09:48:25.122Z",
+      "updatedAt": "2026-11-27T10:09:12.863Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 95.38604333333333,
+      "importance": 94.69285388888889,
       "source": {
         "name": "20minutos",
-        "url": "https://www.20minutos.es/actualidad/un-debate-blanco-visperas-black-friday_7066479_0.html"
+        "url": "https://www.20minutos.es/actualidad/un-debate-blanco-visperas-black-friday_7066479_0.html",
+        "editorialProfile": "liberal"
       },
       "topicKey": "ahora|black|blanco|cuatro|debate|eran|friday|visperas",
       "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/27/6b08ccb2064b52-33366343.jpeg",
@@ -729,15 +450,16 @@
       "title": "Los desesperados mensajes de mujeres en el corredor de la muerte en Irán por participar en protestas contra el gobierno",
       "summary": "Según organizaciones de derechos humanos y la propia ONU, las mujeres disidentes están siendo condenadas a muerte en unos números sin precedentes en las últimas décadas.",
       "publishedAt": "2026-11-26T22:58:00.000Z",
-      "updatedAt": "2026-11-27T09:47:51.739Z",
+      "updatedAt": "2026-11-27T10:08:59.632Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 94.33792277777778,
+      "importance": 93.63353777777778,
       "source": {
         "name": "BBC Mundo",
-        "url": "https://www.bbc.com/mundo/articles/cj62p7wv9qnxo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.com/mundo/articles/cj62p7wv9qnxo?at_medium=RSS&at_campaign=rss",
+        "editorialProfile": "public"
       },
       "topicKey": "corredor|desesperados|iran|mensajes|muerte|mujeres|participar|protestas",
       "image": null,
@@ -745,22 +467,44 @@
       "isEditorialSummary": false
     },
     {
-      "id": "20min-es-12d22d001eee6587",
-      "title": "Sánchez y Feijóo mantienen su pulso en un debate áspero con un Abascal duro y una Colau incisiva",
-      "summary": "Feijóo y Abascal refuerzan sus discursos sin cruzar ataques, mientras Sánchez y Colau, pese a la distancia que han mantenido durante la campaña, coinciden en dirigir sus reproches contra la derecha.",
-      "publishedAt": "2026-11-27T00:06:50.000Z",
-      "updatedAt": "2026-11-27T09:48:25.122Z",
-      "country": "España",
-      "countryCode": "ES",
-      "section": "España",
-      "category": "España",
-      "importance": 87.61382111111111,
+      "id": "pbs-us-8cae3a77a8317b12",
+      "title": "El mal tiempo de Acción de Gracias causa retrasos y daños a muchos estadounidenses",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-26T23:55:26.000Z",
+      "updatedAt": "2026-11-27T10:09:09.615Z",
+      "country": "Estados Unidos",
+      "countryCode": "US",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 91.54243611111112,
       "source": {
-        "name": "20minutos",
-        "url": "https://www.20minutos.es/nacional/sanchez-feijoo-mantienen-su-pulso-con-un-abascal-duro-una-colau-incisiva_7066464_0.html"
+        "name": "PBS NewsHour",
+        "url": "https://www.pbs.org/newshour/show/stormy-thanksgiving-weather-causes-delays-and-damages-for-many-americans",
+        "editorialProfile": "public"
       },
-      "topicKey": "abascal|aspero|debate|duro|feijoo|mantienen|pulso|sanchez",
-      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/11/26/6b08b512753429-68310415.png",
+      "topicKey": "accion|causa|danos|estadounidenses|gracias|muchos|retrasos|tiempo",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "lemonde-fr-03d1eea9b65dbb65",
+      "title": "El «cuenco de pezones» de María Antonieta subastado por la cifra récord de 2,9 millones de euros",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-26T22:04:01.000Z",
+      "updatedAt": "2026-11-27T10:09:11.210Z",
+      "country": "Francia",
+      "countryCode": "FR",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 87.82766111111111,
+      "source": {
+        "name": "Le Monde",
+        "url": "https://www.lemonde.fr/en/france/article/2026/11/26/marie-antoinette-s-nipple-bowl-auctioned-for-record-3-1-million_6789565_7.html",
+        "editorialProfile": "progressive"
+      },
+      "topicKey": "antonieta|cifra|cuenco|maria|millones|pezones|record|subastado",
+      "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
@@ -769,15 +513,16 @@
       "title": "Solo hubo una coreografía norcoreana",
       "summary": "Sánchez ayudó a Colau y Colau ayudó a Sánchez, pero Abascal no ayudó a Feijóo Leer",
       "publishedAt": "2026-11-27T00:01:58.000Z",
-      "updatedAt": "2026-11-27T09:48:02.797Z",
+      "updatedAt": "2026-11-27T10:09:07.288Z",
       "country": "España",
       "countryCode": "ES",
       "section": "España",
       "category": "España",
-      "importance": 87.46400166666666,
+      "importance": 86.76150666666666,
       "source": {
         "name": "EL MUNDO",
-        "url": "https://www.elmundo.es/espana/2026/11/27/6b088283e85ece3c108b4594.html"
+        "url": "https://www.elmundo.es/espana/2026/11/27/6b088283e85ece3c108b4594.html",
+        "editorialProfile": "conservative"
       },
       "topicKey": "coreografia|hubo|norcoreana|solo",
       "image": null,
@@ -785,41 +530,43 @@
       "isEditorialSummary": false
     },
     {
-      "id": "bbc-mundo-ea9576c9071d2f2c",
-      "title": "Un petrolero con 7.000 toneladas de combustible se hunde cerca de las costas de la isla de Ibiza",
-      "summary": "El servicio español de salvamento marítimo aún está evaluando los posibles daños medioambientales",
-      "publishedAt": "2026-11-26T16:37:09.000Z",
-      "updatedAt": "2026-11-27T09:47:51.739Z",
-      "country": "Reino Unido",
-      "countryCode": "GB",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 81.64292277777778,
+      "id": "elmundo-es-f28463d069d27fb6",
+      "title": "Sánchez se aferra a Colau para tratar de batir a Feijóo con Abascal en su guion",
+      "summary": "El último debate, el duelo a cuatro, se saldó con un enfrentamiento entre bloques en el que Sánchez recuperó dinamismo pero no logró imponerse a Feijóo pese a tratar de someterle a una pinza con ayuda de la líder de Frente Amplio Leer",
+      "publishedAt": "2026-11-26T23:37:01.000Z",
+      "updatedAt": "2026-11-27T10:09:07.288Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "España",
+      "category": "España",
+      "importance": 85.92984,
       "source": {
-        "name": "BBC Mundo",
-        "url": "https://www.bbc.com/mundo/articles/cm5y1l439dz6o?at_medium=RSS&at_campaign=rss"
+        "name": "EL MUNDO",
+        "url": "https://www.elmundo.es/elecciones/elecciones-generales/2026/11/27/6b0881cae85eced65b8b45a2.html",
+        "editorialProfile": "conservative"
       },
-      "topicKey": "cerca|combustible|costas|hunde|ibiza|isla|petrolero|toneladas",
+      "topicKey": "abascal|aferra|batir|colau|feijoo|guion|sanchez|tratar",
       "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
     },
     {
-      "id": "bbc-mundo-1879fa0a340dbc8d",
-      "title": "El papa Francisco y el diablo: cómo el cristianismo moldeó la figura de satán para combatir a otras religiones",
-      "summary": "Desde los cuernos de Pan hasta el tridente de Poseidón: el cristianismo tomó símbolos de otras religiones para construir la imagen del diablo. Sin embargo, esa representación dista mucho de la figura que describió el fallecido papa Francisco en su diario.",
-      "publishedAt": "2026-11-26T12:49:04.000Z",
-      "updatedAt": "2026-11-27T09:47:51.739Z",
-      "country": "Reino Unido",
-      "countryCode": "GB",
-      "section": "Internacional",
-      "category": "Internacional",
-      "importance": 74.040145,
+      "id": "elpais-c10bd037de9cee53",
+      "title": "“Y usted calladita”: la polémica frase de Feijóo a Colau durante el debate",
+      "summary": "La candidata de Frente Amplio reprocha al líder del PP que mantenga aforado a Mazón y este cuestiona que ella estuviera “calladita” cuando Sánchez “salió huyendo de Paiporta”. Feijóo amaga con retirar la frase, pero luego se reafirma",
+      "publishedAt": "2026-11-26T22:32:21.000Z",
+      "updatedAt": "2026-11-27T10:08:59.408Z",
+      "country": "España",
+      "countryCode": "ES",
+      "section": "España",
+      "category": "España",
+      "importance": 83.77866222222222,
       "source": {
-        "name": "BBC Mundo",
-        "url": "https://www.bbc.com/mundo/articles/c6zjrm77lrgwo?at_medium=RSS&at_campaign=rss"
+        "name": "EL PAÍS",
+        "url": "https://elpais.com/espana/elecciones-generales/2026-11-26/colau-cuestiona-a-feijoo-que-mantenga-a-mazon-aforado-y-el-lider-del-pp-le-contesta-que-estuvo-calladita.html",
+        "editorialProfile": "progressive"
       },
-      "topicKey": "combatir|cristianismo|diablo|figura|francisco|moldeo|papa|satan",
+      "topicKey": "calladita|colau|debate|durante|feijoo|frase|polemica|usted",
       "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -829,15 +576,16 @@
       "title": "«Ya no soy una funcionaria de los Emiratos Árabes Unidos»: Lana Nusseibeh, candidata a un puesto en la ONU, intenta desvincularse de su historial en Sudán",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-26T12:37:42.000Z",
-      "updatedAt": "2026-11-27T09:48:00.015Z",
+      "updatedAt": "2026-11-27T10:09:06.169Z",
       "country": "Reino Unido",
       "countryCode": "GB",
       "section": "Internacional",
       "category": "Internacional",
-      "importance": 73.65665833333333,
+      "importance": 72.95323944444445,
       "source": {
         "name": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/nov/26/lana-nusseibeh-uae-sudan-un-secretary-general"
+        "url": "https://www.theguardian.com/world/2026/nov/26/lana-nusseibeh-uae-sudan-un-secretary-general",
+        "editorialProfile": "progressive"
       },
       "topicKey": "arabes|candidata|emiratos|funcionaria|lana|nusseibeh|puesto|unidos",
       "image": null,
@@ -849,17 +597,39 @@
       "title": "42 fiscales generales estatales intentan impedir que Character.AI venda los chats de los usuarios",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-26T09:54:40.000Z",
-      "updatedAt": "2026-11-27T09:48:40.757Z",
+      "updatedAt": "2026-11-27T10:09:18.022Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Tecnología",
       "category": "Tecnología",
-      "importance": 62.199579444444446,
+      "importance": 61.51221,
       "source": {
         "name": "The Verge AI",
-        "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+        "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+        "editorialProfile": "liberal"
       },
       "topicKey": "character|chats|estatales|fiscales|generales|impedir|intentan|venda",
+      "image": null,
+      "isVerifiedSource": true,
+      "isEditorialSummary": false
+    },
+    {
+      "id": "guardian-uk-4ea9865f2a2635b4",
+      "title": "Al menos 31 muertos tras el incendio provocado por el accidente de un camión cisterna en una autopista de El Cairo",
+      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
+      "publishedAt": "2026-11-26T00:39:10.000Z",
+      "updatedAt": "2026-11-27T10:09:06.169Z",
+      "country": "Reino Unido",
+      "countryCode": "GB",
+      "section": "Internacional",
+      "category": "Internacional",
+      "importance": 49.00212833333333,
+      "source": {
+        "name": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
+        "editorialProfile": "progressive"
+      },
+      "topicKey": "accidente|autopista|camion|cisterna|incendio|menos|muertos|provocado",
       "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -869,7 +639,7 @@
       "title": "La IA está poniendo a prueba los sistemas de registros públicos de Estados Unidos",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-25T10:00:00.000Z",
-      "updatedAt": "2026-11-27T09:48:40.725Z",
+      "updatedAt": "2026-11-27T10:09:17.989Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Tecnología",
@@ -877,89 +647,10 @@
       "importance": 40,
       "source": {
         "name": "MIT Technology Review AI",
-        "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
+        "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+        "editorialProfile": "liberal"
       },
       "topicKey": "estados|poniendo|prueba|publicos|registros|sistemas|unidos",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "mit-ai-02839082ff9ffa67",
-      "title": "Un filósofo legendario no se cree el argumento de Anthropic sobre la conciencia",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-23T17:36:08.000Z",
-      "updatedAt": "2026-11-27T09:48:40.725Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 40,
-      "source": {
-        "name": "MIT Technology Review AI",
-        "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/"
-      },
-      "topicKey": "anthropic|argumento|conciencia|cree|filosofo|legendario",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "mit-ai-01449c61c8b86a22",
-      "title": "El gráfico más incomprendido de la IA acaba de recibir una importante actualización",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-20T18:15:15.000Z",
-      "updatedAt": "2026-11-27T09:48:40.725Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 40,
-      "source": {
-        "name": "MIT Technology Review AI",
-        "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
-      },
-      "topicKey": "acaba|actualizacion|grafico|importante|incomprendido|recibir",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "verge-ai-ceecf9e348f1c1f1",
-      "title": "La patente de Google para crear «feeds» de vídeo personalizados con IA ofrece una visión desalentadora del futuro del entretenimiento",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-25T21:51:26.000Z",
-      "updatedAt": "2026-11-27T09:48:40.757Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 40,
-      "source": {
-        "name": "The Verge AI",
-        "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent"
-      },
-      "topicKey": "crear|feeds|google|ofrece|patente|personalizados|video|vision",
-      "image": null,
-      "isVerifiedSource": true,
-      "isEditorialSummary": false
-    },
-    {
-      "id": "verge-ai-6b1c4ab3d056003c",
-      "title": "Nothing ofrece una visión completa de sus auriculares con IA y su estuche de carga",
-      "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
-      "publishedAt": "2026-11-25T16:00:59.000Z",
-      "updatedAt": "2026-11-27T09:48:40.757Z",
-      "country": "Estados Unidos",
-      "countryCode": "US",
-      "section": "Tecnología",
-      "category": "Tecnología",
-      "importance": 40,
-      "source": {
-        "name": "The Verge AI",
-        "url": "https://www.theverge.com/gadgets/1042162/nothing-ear-note-ai-earbuds-reveal"
-      },
-      "topicKey": "auriculares|carga|completa|estuche|nothing|ofrece|vision",
       "image": null,
       "isVerifiedSource": true,
       "isEditorialSummary": false
@@ -969,7 +660,7 @@
       "title": "Una Búsqueda de Google más personalizada y exclusiva para ti",
       "summary": "Titular traducido al español. Pulsa para leer la información completa en la fuente original.",
       "publishedAt": "2026-11-23T17:00:00.000Z",
-      "updatedAt": "2026-11-27T09:48:41.701Z",
+      "updatedAt": "2026-11-27T10:09:19.874Z",
       "country": "Estados Unidos",
       "countryCode": "US",
       "section": "Tecnología",
@@ -977,7 +668,8 @@
       "importance": 40,
       "source": {
         "name": "Google AI Blog",
-        "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/"
+        "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+        "editorialProfile": "state"
       },
       "topicKey": "busqueda|exclusiva|google|personalizada",
       "image": null,
