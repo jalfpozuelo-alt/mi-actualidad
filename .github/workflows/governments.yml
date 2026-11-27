@@ -6,25 +6,44 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [scripts/collect-political-data.mjs, scripts/update-governments.mjs, config/**, public/data/eu-parliament.json, .github/workflows/governments.yml]
-permissions: {contents: write}
+    paths: [scripts/collect-political-data.mjs, config/**, public/data/eu-parliament.json, .github/workflows/governments.yml]
+permissions: {contents: write, actions: write}
 concurrency: {group: governments-update, cancel-in-progress: false}
 jobs:
   governments:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with: {node-version: 22}
-      - name: Recopilando gobiernos y Parlamento Europeo
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with: {node-version: 22, cache: npm}
+      - run: npm ci
+      - name: Actualizando gobiernos y Parlamento Europeo
         run: node scripts/collect-political-data.mjs
-      - name: Validar datos
-        run: node -e "const x=require('./public/data/eu-governments.json'); if(!Array.isArray(x.governments)||x.governments.length!==27) process.exit(1)"
-      - name: Publicar cambios
+      - name: Validar datos actualizados
+        run: node -e "const g=require('./public/data/eu-governments.json'); const p=require('./public/data/eu-parliament.json'); if(!Array.isArray(g.governments)||g.governments.length!==27||!Array.isArray(p.groups)||!p.groups.length) process.exit(1)"
+      - id: publish
+        name: Publicar datos políticos
         run: |
           git config user.name "mi-actualidad-bot"
           git config user.email "actions@users.noreply.github.com"
           git add public/data/eu-governments.json public/data/eu-parliament.json public/data/political-update-status.json
-          git diff --cached --quiet || git commit -m "content: update EU government dataset"
-          git push
-
+          if git diff --cached --quiet; then
+            echo "published=false" >> "$GITHUB_OUTPUT"
+          else
+            git commit -m "content: update EU political datasets"
+            for attempt in 1 2 3; do
+              if git pull --rebase origin main && git push; then
+                echo "published=true" >> "$GITHUB_OUTPUT"
+                exit 0
+              fi
+              git rebase --abort || true
+              sleep $((attempt * 3))
+            done
+            echo "No se pudo publicar tras tres intentos" >&2
+            exit 1
+          fi
+      - name: Publicar gráficos en GitHub Pages
+        if: steps.publish.outputs.published == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run deploy.yml --ref main

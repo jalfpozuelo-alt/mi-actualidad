@@ -1,5 +1,5 @@
 {
-  "verifiedAt": "2026-11-27T09:59:41.898Z",
+  "verifiedAt": "2026-11-27T13:28:53.801Z",
   "academicVersion": "Manifesto Project 2026a; The PopuList 4.0; CHES trend 1999-2024",
   "methodology": "El gráfico clasifica el partido o estructura que dirige el Ejecutivo; el representante de Consilium se conserva como campo separado. Manifesto Project es la fuente principal, The PopuList contrasta far-right/far-left y CHES sirve de apoyo. La categoría naranja es propia de la aplicación.",
   "sources": [
@@ -12,18 +12,18 @@
     {
       "country": "Alemania",
       "leader": "Friedrich Merz",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "Federal Chancellor",
       "party": "CDU",
       "category": "conservative",
       "status": "validated",
       "justification": "Manifesto Project parfam documenta la familia Democristianos; la aplicación la traduce a la categoría visual acordada.",
-      "sourceUrl": "https://www.bundesregierung.de/breg-de/bundesregierung/bundeskabinett/friedrich-merz-2342660",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": false,
@@ -37,18 +37,18 @@
     {
       "country": "Austria",
       "leader": "Christian Stocker",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "Federal Chancellor",
       "party": "ÖVP",
       "category": "conservative",
       "status": "validated",
       "justification": "Manifesto Project parfam documenta la familia Democristianos; la aplicación la traduce a la categoría visual acordada.",
-      "sourceUrl": "https://www.bundeskanzleramt.gv.at/en/federal-chancellery/federal-chancellor-christian-stocker.html",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": false,
@@ -62,18 +62,18 @@
     {
       "country": "Bélgica",
       "leader": "Bart De Wever",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "Prime Minister",
       "party": "N-VA",
       "category": "radicalRight",
       "status": "validated",
       "justification": "Manifesto parfam 70; The PopuList identifica el partido como far right.",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": true,
@@ -87,18 +87,18 @@
     {
       "country": "Bulgaria",
       "leader": "Rumen Radev",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "Prime Minister",
       "party": "Independiente",
       "category": "socialist",
       "status": "validated",
       "justification": "Gobierno dirigido por Progressive Bulgaria; la fuente oficial lo identifica como el partido del Ejecutivo y su orientación es centroizquierda.",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": false,
@@ -115,18 +115,18 @@
     {
       "country": "Chequia",
       "leader": "Andrej Babiš",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "Prime Minister",
       "party": "ANO 2011",
       "category": "conservative",
       "status": "validated",
       "justification": "Manifesto Project parfam documenta la familia Conservadores; la aplicación la traduce a la categoría visual acordada.",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": false,
@@ -140,18 +140,18 @@
     {
       "country": "Chipre",
       "leader": "Nikos Christodoulides",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "President of the Republic",
       "party": "DIPA",
       "category": "liberal",
       "status": "validated",
       "justification": "Ejecutivo presidencial apoyado por partidos de centro; se clasifica como centro/liberal, no como derecha radical.",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": false,
@@ -168,18 +168,18 @@
     {
       "country": "Croacia",
       "leader": "Andrej Plenković",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "Prime Minister",
       "party": "HDZ",
       "category": "conservative",
       "status": "validated",
       "justification": "Manifesto Project parfam documenta la familia Democristianos; la aplicación la traduce a la categoría visual acordada.",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": false,
@@ -193,18 +193,18 @@
     {
       "country": "Dinamarca",
       "leader": "Mette Frederiksen",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "Prime Minister",
       "party": "Socialdemokratiet",
       "category": "socialist",
       "status": "validated",
       "justification": "Manifesto Project parfam documenta la familia Socialdemócratas; la aplicación la traduce a la categoría visual acordada.",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": false,
@@ -218,18 +218,18 @@
     {
       "country": "Eslovaquia",
       "leader": "Robert Fico",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "Prime Minister",
       "party": "Smer-SD",
       "category": "socialist",
       "status": "validated",
       "justification": "Manifesto Project parfam documenta la familia Socialdemócratas; la aplicación la traduce a la categoría visual acordada.",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": false,
@@ -243,18 +243,18 @@
     {
       "country": "Eslovenia",
       "leader": "Janez Janša",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "Prime Minister",
       "party": "SDS",
       "category": "conservative",
       "status": "validated",
       "justification": "Manifesto Project parfam documenta la familia Conservadores; la aplicación la traduce a la categoría visual acordada.",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": false,
@@ -268,18 +268,18 @@
     {
       "country": "España",
       "leader": "Pedro Sánchez",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "Prime Minister",
       "party": "PSOE",
       "category": "socialist",
       "status": "validated",
       "justification": "Manifesto Project parfam documenta la familia Socialdemócratas; la aplicación la traduce a la categoría visual acordada.",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": false,
@@ -293,18 +293,18 @@
     {
       "country": "Estonia",
       "leader": "Kristen Michal",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "Prime Minister",
       "party": "Reformierakond",
       "category": "liberal",
       "status": "validated",
       "justification": "Manifesto Project parfam documenta la familia Liberales; la aplicación la traduce a la categoría visual acordada.",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": false,
@@ -318,18 +318,18 @@
     {
       "country": "Finlandia",
       "leader": "Petteri Orpo",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "Prime Minister",
       "party": "Kokoomus",
       "category": "conservative",
       "status": "validated",
       "justification": "Manifesto Project parfam documenta la familia Conservadores; la aplicación la traduce a la categoría visual acordada.",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": false,
@@ -343,18 +343,18 @@
     {
       "country": "Francia",
       "leader": "Emmanuel Macron",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "President of the Republic",
       "party": "Renaissance",
       "category": "liberal",
       "status": "validated",
       "justification": "Manifesto Project parfam documenta la familia Liberales; la aplicación la traduce a la categoría visual acordada.",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": false,
@@ -368,18 +368,18 @@
     {
       "country": "Grecia",
       "leader": "Kyriakos Mitsotakis",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "Prime Minister",
       "party": "Nueva Democracia",
       "category": "conservative",
       "status": "validated",
       "justification": "Manifesto Project parfam documenta la familia Conservadores; la aplicación la traduce a la categoría visual acordada.",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": false,
@@ -393,18 +393,18 @@
     {
       "country": "Hungría",
       "leader": "Péter Magyar",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "Prime Minister",
       "party": "TISZA",
       "category": "conservative",
       "status": "validated",
       "justification": "TISZA es el partido del Ejecutivo y se documenta como centro-derecha europeísta.",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": false,
@@ -421,18 +421,18 @@
     {
       "country": "Irlanda",
       "leader": "Micheál Martin",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "Taoiseach (Prime Minister)",
       "party": "Fianna Fáil",
       "category": "conservative",
       "status": "validated",
       "justification": "Manifesto Project parfam documenta la familia Democristianos; la aplicación la traduce a la categoría visual acordada.",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": false,
@@ -446,18 +446,18 @@
     {
       "country": "Italia",
       "leader": "Giorgia Meloni",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "Prime Minister",
       "party": "Fratelli d'Italia",
       "category": "radicalRight",
       "status": "validated",
       "justification": "Manifesto parfam 70; The PopuList identifica el partido como far right.",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": true,
@@ -471,18 +471,18 @@
     {
       "country": "Letonia",
       "leader": "Andris Kulbergs",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "Prime Minister",
       "party": "Apvienotais saraksts",
       "category": "nationalist",
       "status": "validated",
       "justification": "United List es una alianza de orientación nacional/regionalista; no hay evidencia suficiente para clasificarla como derecha radical.",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": false,
@@ -499,18 +499,18 @@
     {
       "country": "Lituania",
       "leader": "Gitanas Nausėda",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "President of the Republic",
       "party": "Independiente",
       "category": "socialist",
       "status": "validated",
       "justification": "El Ejecutivo está dirigido por el Partido Socialdemócrata de Lituania.",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": false,
@@ -527,18 +527,18 @@
     {
       "country": "Luxemburgo",
       "leader": "Luc Frieden",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "Prime Minister",
       "party": "CSV",
       "category": "conservative",
       "status": "validated",
       "justification": "Manifesto Project parfam documenta la familia Democristianos; la aplicación la traduce a la categoría visual acordada.",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": false,
@@ -552,18 +552,18 @@
     {
       "country": "Malta",
       "leader": "Robert Abela",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "Prime Minister",
       "party": "Labour Party",
       "category": "socialist",
       "status": "validated",
       "justification": "Manifesto Project parfam documenta la familia Socialdemócratas; la aplicación la traduce a la categoría visual acordada.",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": false,
@@ -577,18 +577,18 @@
     {
       "country": "Países Bajos",
       "leader": "Rob Jetten",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "Prime Minister",
       "party": "D66",
       "category": "liberal",
       "status": "validated",
       "justification": "Manifesto Project parfam documenta la familia Liberales; la aplicación la traduce a la categoría visual acordada.",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": false,
@@ -602,18 +602,18 @@
     {
       "country": "Polonia",
       "leader": "Donald Tusk",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "Prime Minister",
       "party": "Platforma Obywatelska",
       "category": "liberal",
       "status": "validated",
       "justification": "Manifesto Project parfam documenta la familia Liberales; la aplicación la traduce a la categoría visual acordada.",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": false,
@@ -627,18 +627,18 @@
     {
       "country": "Portugal",
       "leader": "Luís Montenegro",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "Prime Minister",
       "party": "PSD",
       "category": "conservative",
       "status": "validated",
       "justification": "Manifesto Project parfam documenta la familia Democristianos; la aplicación la traduce a la categoría visual acordada.",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": false,
@@ -652,18 +652,18 @@
     {
       "country": "Rumanía",
       "leader": "Nicușor Dan",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "President",
       "party": "Independiente",
       "category": "liberal",
       "status": "validated",
       "justification": "La dirección ejecutiva es independiente; se usa una categoría de centro solo para representar el Ejecutivo, no para atribuírsela al representante.",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": false,
@@ -680,18 +680,18 @@
     {
       "country": "Suecia",
       "leader": "Ulf Kristersson",
-      "role": "Representante nacional en el Consejo Europeo",
+      "role": "Prime Minister",
       "party": "Moderaterna",
       "category": "conservative",
       "status": "validated",
       "justification": "Manifesto Project parfam documenta la familia Conservadores; la aplicación la traduce a la categoría visual acordada.",
-      "sourceUrl": "https://www.consilium.europa.eu/en/european-council/members/",
+      "sourceUrl": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf",
       "academicSources": [
         "https://manifesto-project.wzb.eu/datasets/MPDS2026a",
         "https://popu-list.org/",
         "https://www.chesdata.eu/ches-europe/"
       ],
-      "checkedAt": "2026-11-17",
+      "checkedAt": "2026-11-27T13:28:53.801Z",
       "academicVersion": "Manifesto 2026a; PopuList 4.0; CHES 2025.1",
       "popuList": {
         "farRight": false,
@@ -705,9 +705,11 @@
   ],
   "updateStatus": {
     "stage": "completed",
-    "label": "Fuente oficial consultada; datos conservados hasta validar cambios",
+    "label": "Los 27 gobiernos coinciden con el directorio oficial",
     "progress": 100,
     "pending": 0,
-    "checkedAt": "2026-11-27T09:59:41.898Z"
+    "checkedAt": "2026-11-27T13:28:53.801Z",
+    "changed": 0,
+    "source": "https://op.europa.eu/webpub/wiw/pdf/EUWhoiswho_EURCOU_EN.pdf"
   }
 }

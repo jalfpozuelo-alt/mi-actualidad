@@ -4,12 +4,12 @@
   "totalSeats": 720,
   "assignedSeats": 720,
   "vacantSeats": 0,
-  "checkedAt": "2026-11-27T09:59:41.898Z",
+  "checkedAt": "2026-11-27T13:28:53.801Z",
   "sourceUrl": "https://data.europarl.europa.eu/api/v2/meps/show-current?format=application%2Fld%2Bjson",
   "groups": [
     {
       "key": "conservative",
-      "label": "ECR",
+      "label": "conservative",
       "seats": 269,
       "countries": {
         "PL": 43,
@@ -43,7 +43,7 @@
     },
     {
       "key": "green",
-      "label": "Verts/ALE",
+      "label": "green",
       "seats": 53,
       "countries": {
         "FR": 5,
@@ -67,7 +67,7 @@
     },
     {
       "key": "liberal",
-      "label": "Renew",
+      "label": "liberal",
       "seats": 78,
       "countries": {
         "IT": 2,
@@ -95,7 +95,7 @@
     },
     {
       "key": "unaffiliated",
-      "label": "NI",
+      "label": "unaffiliated",
       "seats": 27,
       "countries": {
         "LU": 1,
@@ -112,7 +112,7 @@
     },
     {
       "key": "social",
-      "label": "S&D",
+      "label": "social",
       "seats": 135,
       "countries": {
         "AT": 5,
@@ -144,7 +144,7 @@
     },
     {
       "key": "radical",
-      "label": "PfE",
+      "label": "radical",
       "seats": 113,
       "countries": {
         "IT": 8,
@@ -169,7 +169,7 @@
     },
     {
       "key": "left",
-      "label": "The Left",
+      "label": "left",
       "seats": 45,
       "countries": {
         "BE": 2,
@@ -192,6 +192,6 @@
     "stage": "completed",
     "label": "Composición recalculada desde datos oficiales",
     "progress": 100,
-    "checkedAt": "2026-11-27T09:59:41.898Z"
+    "checkedAt": "2026-11-27T13:28:53.801Z"
   }
 }

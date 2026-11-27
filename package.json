@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@vitejs/plugin-react": "latest",
+    "pdf-parse": "^2.4.5",
     "react": "latest",
     "react-dom": "latest",
     "rss-parser": "^3.13.0",
@@ -20,4 +21,3 @@
     "vite": "latest"
   }
 }
-
