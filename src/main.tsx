@@ -23,7 +23,7 @@ function App(){
  useEffect(()=>{window.scrollTo({top:0,behavior:'smooth'});},[tab]);
  useEffect(()=>{fetch('./data/news-feed.json?version='+Date.now(),{cache:'no-store'}).then(r=>r.ok?r.json():null).then(x=>{if(x?.stories?.length){setStories(x.stories);setLoading(false);setNotice('Titulares reales cargados desde fuentes abiertas. Pulsa cualquier titular para leer el original.')}else {setLoading(false);setNotice('No hay titulares disponibles en este momento.')}}).catch(()=>{setLoading(false);setNotice('No se pudieron cargar titulares en este momento.')})},[]);
  useEffect(()=>{if('serviceWorker' in navigator){navigator.serviceWorker.getRegistrations().then(rs=>Promise.all(rs.map(r=>r.unregister()))).then(()=>navigator.serviceWorker.register('./sw.js')).catch(()=>{})}},[]);
- const saveFilters=()=>{try{localStorage.setItem('mi-actualidad-preferences',JSON.stringify({dark,countries:selected,profiles:selectedProfiles,topics:selectedTopics}));setNotice('Filtros guardados. Pulsa «Actualizar noticias» para lanzar la consulta en GitHub.')}catch{setNotice('No se pudieron guardar los filtros.')}};
+ const saveFilters=()=>{try{localStorage.setItem('mi-actualidad-preferences',JSON.stringify({dark,countries:selected,profiles:selectedProfiles,topics:selectedTopics}));setNotice('Filtros guardados. Pulsa «Actualizar noticias» para lanzar la consulta en GitHub.');setPrefsOpen(false)}catch{setNotice('No se pudieron guardar los filtros.')}};
  const refresh=async()=>{
   setUpdating(true);setPipeline('Solicitando actualización…');setNotice('Iniciando generación de noticias…');
   try{
