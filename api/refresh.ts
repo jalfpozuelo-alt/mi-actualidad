@@ -8,7 +8,7 @@ async function github(path,options={}){return fetch(API+path,{...options,headers
 export function OPTIONS(req){return new Response(null,{headers:headers(req)})}
 export async function POST(req){
  if(!authorized(req))return json(req,{ok:false,message:"Contraseña incorrecta"},401);
- const r=await github(`/repos/${REPO}/actions/workflows/generate.yml/dispatches`,{method:"POST",body:JSON.stringify({ref:"main"})});
+ let inputs={}; try { const body=await req.json(); inputs={countries:JSON.stringify(body.countries||[]),topics:JSON.stringify(body.topics||[]),profiles:JSON.stringify(body.profiles||[])}; } catch {}\n const r=await github(`/repos/${REPO}/actions/workflows/generate.yml/dispatches`,{method:"POST",body:JSON.stringify({ref:"main",inputs})});
  if(r.ok)return json(req,{ok:true,stage:"queued",label:"Actualización iniciada",requestedAt:new Date().toISOString()});
  const detail=await r.text().catch(()=> "");
  return json(req,{ok:false,message:"GitHub rechazó el lanzamiento de la actualización",status:r.status,detail:detail.slice(0,180)},502);
