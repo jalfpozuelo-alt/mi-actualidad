@@ -22,6 +22,12 @@ npm run dev
 
 En el repositorio, activar Pages mediante GitHub Actions. El workflow `deploy.yml` compila con Vite y publica `dist`; `vite.config.ts` usa `base: './'` para funcionar bajo el subdirectorio del repositorio.
 
+## Alcance de las consultas de noticias
+
+- **Ejecución automática:** el workflow diario no recibe filtros de la web y realiza una edición global con las fuentes configuradas para España, Estados Unidos, Francia, Reino Unido, Alemania, Argentina, China, Rusia, India, Japón, Brasil, México, Turquía, Sudáfrica, Nigeria y Ucrania.
+- **Actualización manual:** al lanzarla desde la web, los países, temas y perfiles editoriales seleccionados se envían al workflow y limitan la recopilación a esa selección.
+- **Sin filtros manuales:** la consulta es global y no filtra retrospectivamente las noticias que ya están cargadas en pantalla.
+
 ## Edición y seguridad
 
 `generate.yml` tiene ejecución diaria a las 07:00 UTC, equivalente a las 08:00 en Madrid durante el horario de invierno, pero GitHub puede retrasar los cron. Para respetar el cambio horario deberá parametrizarse o ejecutarse con margen y publicar la hora real de edición. La generación real solo debe añadirse con secretos en GitHub Actions, permisos mínimos, límites de coste y validación de JSON. Nunca se pondrán tokens en el navegador.
